@@ -1,1 +1,132 @@
-{"?xml":{"@version":"1.0"},"ArrayOfReuniao":{"@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","Reuniao":[{"id":"24","nome":"V Fórum Parlamentar Ibero-Americano","tipo":"RNI","local":"Lisboa","legislatura":"XI","sessao":"1","dataInicio":"2009-11-23","dataFim":"2009-11-23","promotor":null,"participantes":{"Participante":[{"tipo":"DEP","nome":"CELESTE AMARO","gp":"PSD","leg":"XI","id":"4087"},{"tipo":"DEP","nome":"JAIME GAMA","gp":"PS","leg":"XI","id":"173"},{"tipo":"DEP","nome":"JOÃO OLIVEIRA","gp":"PCP","leg":"XI","id":"2234"},{"tipo":"DEP","nome":"JOÃO SEQUEIRA","gp":"PS","leg":"XI","id":"1703"},{"tipo":"DEP","nome":"JOÃO SERRANO","gp":"PS","leg":"XI","id":"2266"},{"tipo":"DEP","nome":"JOSÉ CESÁRIO","gp":"PSD","leg":"XI","id":"77"},{"tipo":"DEP","nome":"MARCOS SÁ","gp":"PS","leg":"XI","id":"2268"}]}},{"id":"26","nome":"II Assembleia Parlamentar da CPLP","tipo":"RNI","local":"Lisboa","legislatura":"XI","sessao":"1","dataInicio":"2010-03-08","dataFim":"2010-03-10","promotor":null,"participantes":{"Participante":[{"tipo":"DEP","nome":"ADRIANO RAFAEL MOREIRA","gp":"PSD","leg":"XI","id":"2027"},{"tipo":"DEP","nome":"ARMÉNIO SANTOS","gp":"PSD","leg":"XI","id":"26"},{"tipo":"DEP","nome":"JAIME GAMA","gp":"PS","leg":"XI","id":"173"},{"tipo":"DEP","nome":"MARIA DO ROSÁRIO CARNEIRO","gp":"PS","leg":"XI","id":"1023"},{"tipo":"DEP","nome":"MARIA MANUELA AUGUSTO","gp":"PS","leg":"XI","id":"1172"},{"tipo":"DEP","nome":"MIGUEL COELHO","gp":"PS","leg":"XI","id":"1164"}]}}]}}
+{
+  "?xml": {
+    "@version": "1.0"
+  },
+  "ArrayOfReuniao": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Reuniao": [
+      {
+        "id": "24",
+        "nome": "V Fórum Parlamentar Ibero-Americano",
+        "tipo": "RNI",
+        "local": "Lisboa",
+        "legislatura": "XI",
+        "sessao": "1",
+        "dataInicio": "2009-11-23",
+        "dataFim": "2009-11-23",
+        "promotor": null,
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "DEP",
+              "nome": "CELESTE AMARO",
+              "gp": "PSD",
+              "leg": "XI",
+              "id": "4087"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JAIME GAMA",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "173"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JOÃO OLIVEIRA",
+              "gp": "PCP",
+              "leg": "XI",
+              "id": "2234"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JOÃO SEQUEIRA",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "1703"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JOÃO SERRANO",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "2266"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JOSÉ CESÁRIO",
+              "gp": "PSD",
+              "leg": "XI",
+              "id": "77"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "MARCOS SÁ",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "2268"
+            }
+          ]
+        }
+      },
+      {
+        "id": "26",
+        "nome": "II Assembleia Parlamentar da CPLP",
+        "tipo": "RNI",
+        "local": "Lisboa",
+        "legislatura": "XI",
+        "sessao": "1",
+        "dataInicio": "2010-03-08",
+        "dataFim": "2010-03-10",
+        "promotor": null,
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "DEP",
+              "nome": "ADRIANO RAFAEL MOREIRA",
+              "gp": "PSD",
+              "leg": "XI",
+              "id": "2027"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "ARMÉNIO SANTOS",
+              "gp": "PSD",
+              "leg": "XI",
+              "id": "26"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "JAIME GAMA",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "173"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "MARIA DO ROSÁRIO CARNEIRO",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "1023"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "MARIA MANUELA AUGUSTO",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "1172"
+            },
+            {
+              "tipo": "DEP",
+              "nome": "MIGUEL COELHO",
+              "gp": "PS",
+              "leg": "XI",
+              "id": "1164"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
