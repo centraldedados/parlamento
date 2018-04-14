@@ -19,6 +19,10 @@ Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018,
 - [scripts](scripts/), para utilitários de processamento
 - [Makefile](Makefile), para correr scripts
 
+## Outros repositórios
+
+- [Iniciativas Parlamentares em Markdown](https://github.com/centraldedados/parlamento-iniciativas-md)
+
 ## Repositórios antigos
 
 
