@@ -7,14 +7,14 @@ Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018,
 ## Projectos relacionados
 
 * [Hemiciclo](https://hemiciclo.pt)
-* [Demo.cratica](htp://demo.cratica.org)
+* [Demo.cratica](http://demo.cratica.org)
 * [O Ponto do Parlamento](https://opontodoparlamento.org/)
 * Demukratika - intervenções em SMS
-* [Deputado Histogramado (encontra-se offline)](http://expressao.xyz/deputado/index.htm?palavra=dados)
+* [Deputado Histogramado](http://expressao.xyz/deputado/index.htm?palavra=dados) (encontra-se offline)
 
 ## Organização do repositório
 
-- [data](data/), contém ficheiros JSON com a informação disponibilidazada
+- [data](data/), contém ficheiros JSON com a informação disponibilizada
 - [data-spec](data_spec/), com descrição da estrutura dos vários ficheiros JSON 
 - [scripts](scripts/), para utilitários de processamento
 - [Makefile](Makefile), para correr scripts
