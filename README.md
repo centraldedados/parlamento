@@ -9,6 +9,7 @@ Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018,
 * [Hemiciclo](https://hemiciclo.pt)
 * [Demo.cratica](http://demo.cratica.org)
 * [O Ponto do Parlamento](https://opontodoparlamento.org/)
+* [Faltas no Parlamento](https://labs.tretas.org/attendance/index/)
 * Demukratika - intervenções em SMS
 * [Deputado Histogramado](http://expressao.xyz/deputado/index.htm?palavra=dados) (encontra-se offline)
 
