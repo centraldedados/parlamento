@@ -1,9 +1,9 @@
+#!/usr/bin/env python3
+''' Script para limpar ou obter a 'estrutura' de um ficheiro JSON '''
+import os
 import json
+import click
 from datetime import datetime as dt
-
-'''
-Script para limpar ou obter a 'estrutura' de um ficheiro JSON
-'''
 
 CONFIGOBJ_ACTIV_DEPUTADOS = {
     'prefixos_a_truncar': [
@@ -17,10 +17,10 @@ CONFIGOBJ_ACTIV_DEPUTADOS = {
         'List'
     ],
     'atributos_a_ignorar': [
-        "ini", "req", "sgt", "scgt", "intev", "actP", "gpa", "rel", "eventos",
-        "deslocacoes", "cms", "dadosLegisDeputado", "audiencias", "audicoes", "depGP", "depCargo",
-        "parlamentoJovens", "videos", "depSituacao", "dlP", "dlE", "relatoresIniciativas",
-        "relatoresPeticoes", "relatoresContasPublicas", "relatoresIniEuropeias"
+        # "ini", "req", "sgt", "scgt", "intev", "actP", "gpa", "rel", "eventos",
+        # "deslocacoes", "cms", "dadosLegisDeputado", "audiencias", "audicoes", "depGP", "depCargo",
+        # "parlamentoJovens", "videos", "depSituacao", "dlP", "dlE", "relatoresIniciativas",
+        # "relatoresPeticoes", "relatoresContasPublicas", "relatoresIniEuropeias"
     ]
 }
 
@@ -35,7 +35,6 @@ def listar(p_path, out_list, limitcount=-1, maxlevel=-1):
     * limitcount - limite de número máximo de linhas a ler do ficheiro de entrada
     * maxlevel - limite máximo à profundidade da árvore a ler
     '''
-
     stack = []
     level = 0
     tree = json.load(open(p_path))
@@ -44,42 +43,37 @@ def listar(p_path, out_list, limitcount=-1, maxlevel=-1):
     stack.append([level, '--raiz--', tree])
 
     while len(stack) > 0:
-
         currlevel, currid, currnode = stack.pop()
 
         if currnode is None:
             continue
 
         newlevel = currlevel + 1
-
         if maxlevel >= 0 and newlevel > maxlevel:
             dostack = False
         else:
             dostack = True
 
         if isinstance(currnode, list):
-
             out_list.append("{}{}:".format(' ' * (newlevel - 2), currid))
             if dostack:
                 # currnode.reverse()
                 for ei, el in reversed(list(enumerate(currnode))):
                     stack.append([newlevel, str(ei), el])
-
         elif isinstance(currnode, dict):
-
             if currid != '--raiz--' \
                     and not currid.startswith('@') \
                     and not currid.startswith('?'):
                 out_list.append("{}{}:".format(' ' * (newlevel - 2), currid))
-
             if dostack:
                 kl = list(currnode.keys())
                 kl.reverse()
                 for key in kl:
                     stack.append([newlevel, key, currnode[key]])
-
+        elif isinstance(currnode, str):
+            # aqui é que filtramos o valor do string
+            pass
         else:
-
             if not str(currid).strip().startswith('@'):
                 out_list.append("{}{}: {}".format(' ' * (newlevel - 2), currid, str(currnode)[:40]))
 
@@ -129,7 +123,6 @@ def lerstruct(p_path, out_dict, configobj, listaumelemento=True, maxlevel=-1):
     stack = []
     level = 0
     tree = json.load(open(p_path))
-
     stack.append([level, '--raiz--', tree, out_dict])
 
     while len(stack) > 0:
@@ -237,7 +230,24 @@ def full(p_in_path, p_out_path, p_configobj):
         json.dump(out, outfile, indent=2, ensure_ascii=False)
 
 
+@click.command()
+@click.argument('filename')
+@click.option('--in-place', '-i', is_flag=True, default=False, help="Gravar por cima do ficheiro original")
+@click.option('--partial', '-p', is_flag=True, default=False, help="Correr parcialmente para verificar resultados")
+@click.option('--outfile', '-o', help="Ficheiro para gravar o resultado")
+def run(filename, outfile, in_place, partial):
+    if not outfile and not in_place:
+        base, ext = os.path.splitext(filename)
+        outfile = base + '-filtrado' + ext
+    elif in_place:
+        outfile = filename
+
+    if partial:
+        # listaparcial(filename, outfile, limitcount=100, maxlevel=5)
+        unique(filename, outfile, CONFIGOBJ_ACTIV_DEPUTADOS)
+    else:
+        full(filename, outfile, CONFIGOBJ_ACTIV_DEPUTADOS)
+
+
 if __name__ == "__main__":
-    unique('AtividadeDeputadoXIII.json', 'AtividadeDeputado013_Struct_{}.json', CONFIGOBJ_ACTIV_DEPUTADOS)
-    # full('AtividadeDeputadoXIII.json', 'AtividadeDeputado013_{}.json', CONFIGOBJ_ACTIV_DEPUTADOS)
-    # listaparcial('AtividadeDeputadoXIII.json', 'AtividadeDeputado013_amostra.txt', limitcount=100, maxlevel=5)
+    run()
