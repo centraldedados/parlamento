@@ -1425,23 +1425,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "V",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1987-12-12",
-                    "pag": {
-                      "string": "683-683"
-                    },
-                    "idPag": "573555",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "30",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1457,6 +1440,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/030/1987-12-12/718?pgs=718&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "V",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1987-12-12",
+                    "pag": {
+                      "string": "683-683"
+                    },
+                    "idPag": "573555",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3438,7 +3438,7 @@
           "numero": "207",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PRD; PSD; CDS; PCP"
+            "string": "PCP; CDS; PS; PRD; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49774e3139574c6e426b5a673d3d&fich=207_V.pdf&Inline=true"
         },
@@ -3500,7 +3500,7 @@
           "numero": "206",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PSD; CDS; PRD"
+            "string": "CDS; PS; PRD; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49774e6c39574c6e426b5a673d3d&fich=206_V.pdf&Inline=true"
         },
@@ -3663,7 +3663,7 @@
           "numero": "204",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PRD; PSD; PCP; CDS"
+            "string": "CDS; PCP; PSD; PS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49774e4639574c6e426b5a673d3d&fich=204_V.pdf&Inline=true"
         },
@@ -3944,11 +3944,11 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Herculano Pombo (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Manuel Valente Fernandes (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "HERCULANO POMBO (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "MANUEL VALENTE FERNANDES (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I><BR>Ausência: Carlos Macedo (INDEP), Helena Roseta (INDEP), Herculano Pombo (INDEP), João Corregedor da Fonseca (INDEP), Manuel Valente Fernandes (INDEP)",
@@ -5268,10 +5268,10 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Herculano Pombo (INDEP)",
-                  "Manuel Valente Fernandes (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "HERCULANO POMBO (INDEP)",
+                  "MANUEL VALENTE FERNANDES (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I><BR>Ausência: Carlos Macedo (INDEP), Helena Roseta (INDEP), Herculano Pombo (INDEP), Manuel Valente Fernandes (INDEP)",
@@ -6031,7 +6031,7 @@
           "numero": "165",
           "tipoAutor": "Comissões",
           "autoresGP": {
-            "string": "PS; PRD; INDEP; PSD; PCP"
+            "string": "PCP; PSD; INDEP; PS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45324e5639574c6e426b5a673d3d&fich=165_V.pdf&Inline=true"
         },
@@ -6201,9 +6201,9 @@
                 "string": [
                   "CDS",
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I><BR>Ausência: <I>CDS</I>, <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP)",
@@ -6294,7 +6294,7 @@
           "numero": "161",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PEV; PS; PRD; INDEP; CDS; PSD; PCP"
+            "string": "PCP; CDS; PEV; PRD; INDEP; PS; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45324d5639574c6e426b5a673d3d&fich=161_V.pdf&Inline=true"
         },
@@ -7629,9 +7629,9 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP)",
@@ -7699,7 +7699,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -7787,7 +7787,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -7855,7 +7855,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -7923,7 +7923,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -8011,7 +8011,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -8100,7 +8100,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -8169,7 +8169,7 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)"
+                  "CARLOS MACEDO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP)",
@@ -8365,10 +8365,10 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)",
-                  "Jorge Liz (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)",
+                  "JORGE LIZ (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), Raul Castro (INDEP), Jorge Liz (INDEP)",
@@ -8628,7 +8628,7 @@
           "numero": "115",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PEV; PS; PSD; CDS; PCP; PRD"
+            "string": "CDS; PEV; PS; PRD; PSD; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45784e5639574c6e426b5a673d3d&fich=115_V.pdf&Inline=true"
         },
@@ -8700,10 +8700,10 @@
               "ausencias": {
                 "string": [
                   "CDS",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Jorge Liz (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "JORGE LIZ (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: <I>CDS</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Jorge Liz (INDEP)",
@@ -8765,7 +8765,7 @@
           "numero": "112",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PSD; PCP; PRD"
+            "string": "PCP; PRD; PS; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45784d6c39574c6e426b5a673d3d&fich=112_V.pdf&Inline=true"
         },
@@ -9034,10 +9034,10 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)",
-                  "Jorge Liz (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)",
+                  "JORGE LIZ (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP), Helena Roseta (INDEP), Raul Castro (INDEP), Jorge Liz (INDEP)",
@@ -9322,11 +9322,11 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Raul Castro (INDEP)",
-                  "Jorge Liz (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "RAUL CASTRO (INDEP)",
+                  "JORGE LIZ (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Raul Castro (INDEP), Jorge Liz (INDEP)",
@@ -9394,8 +9394,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Raul Castro (INDEP)",
@@ -9463,8 +9463,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Raul Castro (INDEP)",
@@ -9585,8 +9585,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Jorge Liz (INDEP)<BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Raul Castro (INDEP)",
@@ -9654,11 +9654,11 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Raul Castro (INDEP)",
-                  "Jorge Liz (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "RAUL CASTRO (INDEP)",
+                  "JORGE LIZ (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Raul Castro (INDEP), Jorge Liz (INDEP)",
@@ -10003,10 +10003,10 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Raul Castro (INDEP)",
@@ -10857,9 +10857,9 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP), João Corregedor da Fonseca (INDEP), Raul Castro (INDEP)",
@@ -10945,7 +10945,7 @@
               "reuniao": "97",
               "unanime": "unanime",
               "ausencias": {
-                "string": "Carlos Macedo (INDEP)"
+                "string": "CARLOS MACEDO (INDEP)"
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP)",
               "publicacao": {
@@ -11030,7 +11030,7 @@
               "reuniao": "97",
               "unanime": "unanime",
               "ausencias": {
-                "string": "Carlos Macedo (INDEP)"
+                "string": "CARLOS MACEDO (INDEP)"
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP)",
               "publicacao": {
@@ -11491,9 +11491,9 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP), Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -11561,9 +11561,9 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -11631,9 +11631,9 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Carlos Macedo (INDEP), Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -11762,10 +11762,10 @@
               "unanime": "unanime",
               "ausencias": {
                 "string": [
-                  "Carlos Macedo (INDEP)",
-                  "Helena Roseta (INDEP)",
-                  "João Corregedor da Fonseca (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "CARLOS MACEDO (INDEP)",
+                  "HELENA ROSETA (INDEP)",
+                  "JOÃO CORREGEDOR DA FONSECA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, <I>ID</I><BR>Ausência: Carlos Macedo (INDEP), Helena Roseta (INDEP), João Corregedor da Fonseca (INDEP), Raul Castro (INDEP)",
@@ -12056,24 +12056,44 @@
             }
           },
           "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "73",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "V",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "1989-05-03",
-              "pag": {
-                "string": "3492-3495"
+            "pt_gov_ar_objectos_PublicacoesOut": [
+              {
+                "pubNr": "73",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "V",
+                "pubSL": "2",
+                "supl": ".",
+                "pubdt": "1989-05-03",
+                "pag": {
+                  "string": "3492-3495"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/073/1989-05-03/3492?pgs=3492-3495&org=PLC",
+                "debateDtReu": "1989-05-02",
+                "idDeb": "23357"
               },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/073/1989-05-03/3492?pgs=3492-3495&org=PLC",
-              "debateDtReu": "1989-05-02",
-              "idDeb": "23357"
-            }
+              {
+                "pubNr": "70",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "V",
+                "pubSL": "2",
+                "supl": ".",
+                "pubdt": "1989-04-27",
+                "pag": {
+                  "string": "3320-3328"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/070/1989-04-27/3320?pgs=3320-3328&org=PLC",
+                "debateDtReu": "1989-04-26",
+                "idDeb": "32943"
+              }
+            ]
           },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": [
@@ -12147,6 +12167,29 @@
               "idDeb": null
             }
           },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "66",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-04-20",
+              "pag": {
+                "string": [
+                  "2285-2286",
+                  "2289-2289"
+                ]
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/066/1989-04-20/2285?pgs=2285-2286,2289&org=PLC",
+              "debateDtReu": "1989-04-19",
+              "idDeb": "32926"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "48605",
@@ -12154,7 +12197,7 @@
               "reuniao": "66",
               "unanime": "unanime",
               "ausencias": {
-                "string": "Carlos Macedo (INDEP)"
+                "string": "CARLOS MACEDO (INDEP)"
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, João Corregedor da Fonseca (INDEP), Raul Castro (INDEP)<BR>Ausência: Carlos Macedo (INDEP)",
               "publicacao": {
@@ -12326,8 +12369,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -12415,8 +12458,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -12504,8 +12547,8 @@
               "ausencias": {
                 "string": [
                   "PEV",
-                  "Helena Roseta (INDEP)",
-                  "Raul Castro (INDEP)"
+                  "HELENA ROSETA (INDEP)",
+                  "RAUL CASTRO (INDEP)"
                 ]
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>ID</I><BR>Ausência: <I>PEV</I>, Helena Roseta (INDEP), Raul Castro (INDEP)",
@@ -12965,7 +13008,7 @@
               "reuniao": "43",
               "unanime": "unanime",
               "ausencias": {
-                "string": "Helena Roseta (INDEP)"
+                "string": "HELENA ROSETA (INDEP)"
               },
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>PRD</I>, <I>CDS</I>, <I>PEV</I>, João Corregedor da Fonseca (INDEP), Raul Castro (INDEP)<BR>Ausência: Helena Roseta (INDEP)",
               "publicacao": {
@@ -13834,7 +13877,7 @@
           "numero": "36",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; ID; PRD; PS; PSD"
+            "string": "PS; PRD; PSD; CDS; PCP; ID"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4d32583159756347526d&fich=36_V.pdf&Inline=true"
         },
@@ -13916,7 +13959,7 @@
           "numero": "35",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; PEV; PRD; ID; PSD; PS"
+            "string": "PEV; PS; ID; PSD; CDS; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4d31583159756347526d&fich=35_V.pdf&Inline=true"
         },
@@ -14118,7 +14161,7 @@
           "numero": "32",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PEV; PRD; PSD; PCP"
+            "string": "PEV; PSD; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4d79583159756347526d&fich=32_V.pdf&Inline=true"
         },
@@ -14199,7 +14242,7 @@
           "numero": "31",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PEV; ID; PRD; PS"
+            "string": "PEV; PS; PCP; ID; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4d78583159756347526d&fich=31_V.pdf&Inline=true"
         },
@@ -14284,7 +14327,7 @@
           "numero": "30",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PEV; CDS; PRD; PS; ID; PSD"
+            "string": "PEV; PS; ID; PSD; PCP; CDS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4d77583159756347526d&fich=30_V.pdf&Inline=true"
         },
@@ -15124,7 +15167,7 @@
           "numero": "19",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; INDEP; PCP; PRD"
+            "string": "PCP; INDEP; PRD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4535583159756347526d&fich=19_V.pdf&Inline=true"
         },

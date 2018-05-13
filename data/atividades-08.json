@@ -2381,23 +2381,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "68",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2000-05-19",
-                    "pag": {
-                      "string": "2706-2706"
-                    },
-                    "idPag": "285102",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "69",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2412,6 +2395,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2712?pgs=2712&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "68",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2000-05-19",
+                    "pag": {
+                      "string": "2706-2706"
+                    },
+                    "idPag": "285102",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -17862,15 +17862,6 @@
               "data": "2001-01-24"
             },
             {
-              "IDAudicao": "71484",
-              "numeroAudicao": "11-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e das GOP`s para 2001",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
-              "data": "2000-11-14"
-            },
-            {
               "IDAudicao": "71629",
               "numeroAudicao": "11-NECPC-VIII",
               "legislatura": "VIII",
@@ -17880,13 +17871,13 @@
               "data": "2000-11-14"
             },
             {
-              "IDAudicao": "71493",
-              "numeroAudicao": "10-NECPC-VIII",
+              "IDAudicao": "71484",
+              "numeroAudicao": "11-NECPC-VIII",
               "legislatura": "VIII",
               "sessaoLegislativa": "2",
-              "assunto": "Informar sobre a politica de cooperação portuguesa",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2000-11-25"
+              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e das GOP`s para 2001",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
+              "data": "2000-11-14"
             },
             {
               "IDAudicao": "71628",
@@ -17896,6 +17887,15 @@
               "assunto": "Informar a Comissão sobre os objectivos da Politica da Cooperação portuguesa",
               "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
               "data": "2000-10-25"
+            },
+            {
+              "IDAudicao": "71493",
+              "numeroAudicao": "10-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Informar sobre a politica de cooperação portuguesa",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2000-11-25"
             },
             {
               "IDAudicao": "71477",
@@ -17961,15 +17961,6 @@
               "data": "2000-02-26"
             },
             {
-              "IDAudicao": "71910",
-              "numeroAudicao": "3-SCP-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "COMUNICAÇÃO SOCIAL E AS COMUNIDADES PORTUGUESAS",
-              "entidades": "Secretário de Estado da Comunicação Social",
-              "data": "2001-06-26"
-            },
-            {
               "IDAudicao": "71384",
               "numeroAudicao": "3-NECPC-VIII",
               "legislatura": "VIII",
@@ -17979,12 +17970,12 @@
               "data": "2000-02-22"
             },
             {
-              "IDAudicao": "71909",
-              "numeroAudicao": "2-SCP-VIII",
+              "IDAudicao": "71910",
+              "numeroAudicao": "3-SCP-VIII",
               "legislatura": "VIII",
               "sessaoLegislativa": "2",
-              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A COMUNICAÇAO SOCIAL E AS COMUNIDADES PORTGUESAS",
-              "entidades": "Presidente do Conselho de Administração da RDP-I, Sr. José Manuel Nunes",
+              "assunto": "COMUNICAÇÃO SOCIAL E AS COMUNIDADES PORTUGUESAS",
+              "entidades": "Secretário de Estado da Comunicação Social",
               "data": "2001-06-26"
             },
             {
@@ -17997,13 +17988,13 @@
               "data": "2000-02-10"
             },
             {
-              "IDAudicao": "71359",
-              "numeroAudicao": "1-NECPC-VIII",
+              "IDAudicao": "71909",
+              "numeroAudicao": "2-SCP-VIII",
               "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAR O PROGRAMA DA PRESIDENCIA PORTUGUESA DA UNIÃO EUROPEIAE DA UEO",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Assuntos Europeus",
-              "data": "1999-12-13"
+              "sessaoLegislativa": "2",
+              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A COMUNICAÇAO SOCIAL E AS COMUNIDADES PORTGUESAS",
+              "entidades": "Presidente do Conselho de Administração da RDP-I, Sr. José Manuel Nunes",
+              "data": "2001-06-26"
             },
             {
               "IDAudicao": "71907",
@@ -18013,6 +18004,15 @@
               "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A RTP INTERNACIONAL",
               "entidades": "Presidente do Conselho de Administração da RTP, Dr. João Carlos Silva",
               "data": "2001-05-22"
+            },
+            {
+              "IDAudicao": "71359",
+              "numeroAudicao": "1-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAR O PROGRAMA DA PRESIDENCIA PORTUGUESA DA UNIÃO EUROPEIAE DA UEO",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Assuntos Europeus",
+              "data": "1999-12-13"
             }
           ]
         },

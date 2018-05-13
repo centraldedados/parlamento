@@ -392,6 +392,71 @@
           }
         },
         {
+          "tipo": "MOC",
+          "descTipo": "Moção",
+          "assunto": "Moção de confiança ao IX Governo Constitucional",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-06-24",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "9",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-06-25",
+              "pag": {
+                "string": "288-288"
+              },
+              "idPag": "811858",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/009/1983-06-25/288?pgs=288&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-06-24",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "9",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-06-25",
+              "pag": {
+                "string": [
+                  "288-288",
+                  "289-291"
+                ]
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/009/1983-06-25/288,289?pgs=288,289-291&org=PLC",
+              "debateDtReu": "1983-06-24",
+              "idDeb": "32884"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "79079",
+              "resultado": "Aprovado",
+              "reuniao": "9",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>ASDI</I><BR>Contra: <I>PCP</I>",
+              "data": "1983-06-24"
+            }
+          },
+          "numero": "1",
+          "tipoAutor": "Governo",
+          "autoresGP": {
+            "string": null
+          }
+        },
+        {
           "tipo": "OEX",
           "descTipo": "Eleições e composições de órgãos",
           "assunto": "Designação do Provedor de Justiça",
@@ -1200,24 +1265,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "4",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "III",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "obs": "Anúncio",
-                    "pubdt": "1983-06-16",
-                    "pag": {
-                      "string": "59-59"
-                    },
-                    "idPag": "545739",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "3",
                     "pubTipo": "DAR II série",
                     "pubTp": "K",
@@ -1233,6 +1280,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/03/01/003/1983-06-15/178?pgs=178-179&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "4",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "III",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "obs": "Anúncio",
+                    "pubdt": "1983-06-16",
+                    "pag": {
+                      "string": "59-59"
+                    },
+                    "idPag": "545739",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -1297,24 +1362,80 @@
           },
           "dataAgendamentoDebate": "1983-06-20",
           "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "6",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "III",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1983-06-21",
-              "pag": {
-                "string": "98-125"
+            "pt_gov_ar_objectos_PublicacoesOut": [
+              {
+                "pubNr": "6",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-06-21",
+                "pag": {
+                  "string": "98-125"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/006/1983-06-21/98?pgs=98-125&org=PLC",
+                "debateDtReu": "1983-06-20",
+                "idDeb": "32867"
               },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/006/1983-06-21/98?pgs=98-125&org=PLC",
-              "debateDtReu": "1983-06-20",
-              "idDeb": "32867"
-            }
+              {
+                "pubNr": "7",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-06-23",
+                "pag": {
+                  "string": "130-167"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/007/1983-06-23/130?pgs=130-167&org=PLC",
+                "debateDtReu": "1983-06-22",
+                "idDeb": "32872"
+              },
+              {
+                "pubNr": "8",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-06-24",
+                "pag": {
+                  "string": "172-223"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/008/1983-06-24/172?pgs=172-223&org=PLC",
+                "debateDtReu": "1983-06-23",
+                "idDeb": "32873"
+              },
+              {
+                "pubNr": "9",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-06-25",
+                "pag": {
+                  "string": "229-288"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/009/1983-06-25/229?pgs=229-288&org=PLC",
+                "debateDtReu": "1983-06-24",
+                "idDeb": "32882"
+              }
+            ]
           },
           "numero": "178035",
           "tipoAutor": "Governo",
@@ -1379,6 +1500,26 @@
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/012/1983-07-01/370?pgs=370&org=PLC",
               "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "12",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-07-01",
+              "pag": {
+                "string": "370-370"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/012/1983-07-01/370?pgs=370&org=PLC",
+              "debateDtReu": "1983-06-30",
+              "idDeb": "32902"
             }
           },
           "numero": "3",
