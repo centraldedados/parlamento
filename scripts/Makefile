@@ -4,12 +4,10 @@ scrape:
 	make fetch
 
 scrape-all:
-	# por omissão só descarregamos as da última legislatura, para todas é make scrape-all
+	# fazer a lista de URLs a ir buscar a partir da lista que fizemos no urls-datasets.csv
 	csvcut ../data/urls-datasets.csv -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
 	make fetch
 fetch:
-	# fazer a lista de URLs a ir buscar a partir da lista que fizemos no urls-datasets.csv
-	cat ../data/urls-datasets.csv | csvgrep -c legislatura -m 13 | csvcut -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
 	# usar o wget para ir buscar cada um
 	while read -r slug url; do wget $$url --output-document=$$slug-pre.json; done < jsonurls.txt
 	# pós-processar o JSON com o jq
@@ -20,3 +18,6 @@ fetch:
 	# gravar por cima dos antigos
 	for f in *.json; do mv -f $$f ../data; done
 	
+install:
+	virtualenv .env --python=/usr/bin/python3 --no-site-packages --distribute
+	. `pwd`/.env/bin/activate; pip install -r requirements.txt
