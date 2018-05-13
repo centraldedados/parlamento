@@ -1,11 +1,11 @@
 scrape:
 	# por omissão só descarregamos as da última legislatura, para todas é make scrape-all
-	csvgrep ../data/urls-datasets.csv -c legislatura -m 13 | csvcut -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
+	. `pwd`/.env/bin/activate; csvgrep ../data/urls-datasets.csv -c legislatura -m 13 | csvcut -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
 	make fetch
 
 scrape-all:
 	# fazer a lista de URLs a ir buscar a partir da lista que fizemos no urls-datasets.csv
-	csvcut ../data/urls-datasets.csv -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
+	. `pwd`/.env/bin/activate; csvcut ../data/urls-datasets.csv -c slug,url-json | tail -n +2 | sed 's/,/ /' > jsonurls.txt
 	make fetch
 fetch:
 	# usar o wget para ir buscar cada um
