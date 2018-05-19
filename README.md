@@ -4,7 +4,7 @@
 
 Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018, passando a ter uma secção de [dados abertos](http://www.parlamento.pt/Cidadania/Paginas/DadosAbertos.aspx).
 
-## Projectos relacionados
+## Projectos relacionados com o tema
 
 * [Hemiciclo](https://hemiciclo.pt)
 * [Demo.cratica](http://demo.cratica.org)
@@ -12,6 +12,8 @@ Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018,
 * [Faltas no Parlamento](https://labs.tretas.org/attendance/index/)
 * Demukratika - intervenções em SMS
 * [Deputado Histogramado](http://expressao.xyz/deputado/index.htm?palavra=dados) (encontra-se offline)
+* [Relational Data on Members of Portuguese Governments (1976-2014)](http://www.mdpi.com/2306-5729/1/1/1)
+* [An ecosystem of corporate politicians - Portugal 1975-2013](https://github.com/pmcruz/eco)
 
 ## Organização do repositório
 
