@@ -12215,8 +12215,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "ASDI",
+                "gpDes": "Acção Social Democrata Independente"
               },
               {
                 "depNomeParlamentar": "Guilherme De Oliveira Martins",
@@ -15403,53 +15403,53 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "22660",
+                "habId": "25981",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "22661",
+                "habId": "25982",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "22662",
+                "habId": "25983",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "22663",
+                "habId": "25984",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "22664",
+                "habId": "25985",
                 "habDes": "Economia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "22665",
+                "habId": "25986",
                 "habDes": "Finanças",
                 "habTipoId": "14",
-                "habEstado": "F"
+                "habEstado": "C"
               }
             ]
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26436",
+                "funId": "29710",
                 "funDes": "Deputado XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26437",
+                "funId": "29711",
                 "funDes": "Deputada à Assembleia da República entre 1999 e 2004 \nDeputada ao Parlamento Europeu entre 2004 e 2009\nSecretária Geral da JS entre 2000 e 2004\n",
                 "funOrdem": "2",
                 "funAntiga": "S"
@@ -15459,28 +15459,54 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "6271",
+                "pubId": "7212",
                 "pubDes": "Relatório sobre “Os aspetos de desenvolvimento regional do impacto do turismo nas regiões costeiras\"",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "6272",
+                "pubId": "7213",
                 "pubDes": "Parecer sobre a proposta de regulamento do Parlamento Europeu e do Conselho que instituiu o Fundo de Ajustamento à Globalização na Comissão do Desenvolvimento Regional",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "6273",
+                "pubId": "7214",
                 "pubDes": "Parecer sobre a proposta de decisão do Parlamento Europeu e do Conselho que estabelece um programa Erasmus Mundus (2009-2013) na Comissão do Emprego e dos Assuntos Sociais",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "6274",
+                "pubId": "7215",
                 "pubDes": "Tese sobre “O impacto dos determinantes sociopolíticos nos mercados financeiros”",
                 "pubOrdem": "4"
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "210",
@@ -16871,6 +16897,13 @@
                   "orgSigla": "GT-ACDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -17486,8 +17519,8 @@
                 "ceDes": "SETÚBAL",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               }
             ]
           },
@@ -17964,113 +17997,111 @@
             ]
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
-              {
-                "habId": "22800",
-                "habDes": "Direito",
-                "habTipoId": "13",
-                "habEstado": "C"
-              },
-              {
-                "habId": "22801",
-                "habDes": "Mestrado",
-                "habTipoId": "14",
-                "habEstado": "F"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "25980",
+              "habDes": "Direito",
+              "habTipoId": "13",
+              "habEstado": "C"
+            }
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26536",
+                "funId": "29696",
                 "funDes": "Deputado à XIII Legislatura, Vice-Presidente da Assembleia da Republica",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26537",
+                "funId": "29697",
                 "funDes": "Membro da Comissão Política Nacional do Partido Socialista",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "26538",
+                "funId": "29698",
                 "funDes": "Deputado na III, IV, V, VI, VII, VIII, IX e XII Legislaturas",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "26539",
+                "funId": "29699",
                 "funDes": "ex-Presidente da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "26540",
+                "funId": "29700",
                 "funDes": "Presidente da Comissão Eventual da Revisão Constitucional (IV Revisão Constitucional)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "26541",
+                "funId": "29701",
                 "funDes": "Presidente da Comissão de Ética(VII Legislatura)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "26542",
+                "funId": "29702",
                 "funDes": "Membro do Comité Europeu das Regiões",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "26543",
+                "funId": "29703",
                 "funDes": "Presidente da Fundação Antero de Quental",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "26544",
+                "funId": "29704",
                 "funDes": "Membro da Delegação Portuguesa no Conselho da Europa",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "26545",
+                "funId": "29705",
                 "funDes": "Presidente do GP/PS (1995-1997)",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "26546",
+                "funId": "29706",
                 "funDes": "Secretário de Estado da Presidência do Conselho de Ministros (2005-2009)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "26547",
+                "funId": "29707",
                 "funDes": "Ministro dos Assuntos Parlamentares (XVIII Governo Constitucional)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "26548",
-                "funDes": "Professor Convidado na Universidade Lusíada",
+                "funId": "29708",
+                "funDes": "Professor Convidado na Universidade Lusíada (até 2005)",
                 "funOrdem": "13",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "29709",
+                "funDes": "Presidente da Assembleia Municipal de Abrantes (1993-2009)",
+                "funOrdem": "14",
                 "funAntiga": "S"
               }
             ]
           },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "3532",
+              "codId": "4332",
               "codDes": "Comendador da República Italiana",
               "codOrdem": "1"
             }
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "6351",
+              "pubId": "7211",
               "pubDes": "Constituição da República - Prefácio e Anotações à IV Revisão Constitucional",
               "pubOrdem": "1"
             }
@@ -20957,8 +20988,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               },
               {
                 "depNomeParlamentar": "José Magalhães",
@@ -20966,8 +20997,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -25621,31 +25652,31 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "18325",
+                "habId": "26040",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "18326",
+                "habId": "26041",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "18327",
+                "habId": "26042",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "18328",
+                "habId": "26043",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "18329",
+                "habId": "26044",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
@@ -25655,25 +25686,25 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "22340",
+                "funId": "29756",
                 "funDes": "Deputado na XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "22341",
+                "funId": "29757",
                 "funDes": "Secretário de Estado Adjunto do Ministro da Segurança Social, Familia e Criança, no XVI Governo Constitucional;",
                 "funOrdem": "2",
                 "funAntiga": "S"
               },
               {
-                "funId": "22342",
+                "funId": "29758",
                 "funDes": "Deputado na IX Legislatura",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "22343",
+                "funId": "29759",
                 "funDes": "Secretario de Estado da Solidariedade e da Segurança Social do XIX Governo Constitucional",
                 "funOrdem": "4",
                 "funAntiga": "S"
@@ -29445,6 +29476,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -33831,6 +33876,13 @@
                   "orgSigla": "GT-TP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -36313,6 +36365,13 @@
                   "orgId": "6424",
                   "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
                   "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6484",
+                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
+                  "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -39662,8 +39721,8 @@
           "cadId": "1600",
           "cadNomeCompleto": "JAMILA BÁRBARA MADEIRA E MADEIRA",
           "cadActividadeProfissional": "ECONOMISTA",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
+          "cadEstadoCivilCod": "5",
+          "cadEstadoCivilDes": "União de Facto"
         },
         {
           "cadId": "210",

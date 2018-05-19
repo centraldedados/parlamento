@@ -18,7 +18,7 @@ Website do [parlamento.pt](http://parlamento.pt) foi reformulado em Março/2018,
 ## Organização do repositório
 
 - [data](data/), contém ficheiros JSON com a informação disponibilizada
-- [data-spec](data_spec/), com descrição da estrutura dos vários ficheiros JSON 
+- [data-spec](data-spec/), com descrição da estrutura dos vários ficheiros JSON 
 - [scripts](scripts/), para utilitários de processamento
 - [Makefile](Makefile), para correr scripts
 

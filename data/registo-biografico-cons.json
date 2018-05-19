@@ -8708,8 +8708,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "Lopes Cardoso",
@@ -11510,6 +11510,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },

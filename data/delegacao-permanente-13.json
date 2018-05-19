@@ -193,7 +193,15 @@
               "local": "Brasília",
               "dataInicio": "10-04-2018",
               "dataFim": "11-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PORFÍRIO SILVA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "469"
+                }
+              }
             },
             {
               "nome": "Seminário - Cooperação da CPLP no quadro da União Europeia",
@@ -270,14 +278,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -303,6 +303,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
               "tipo": "RNI",
               "local": null,
@@ -317,6 +325,14 @@
                   "id": "646"
                 }
               }
+            },
+            {
+              "nome": "VII AP-CPLP",
+              "tipo": "REN",
+              "local": "Lisboa",
+              "dataInicio": "04-12-2017",
+              "dataFim": "05-12-2017",
+              "participantes": null
             },
             {
               "nome": "VII Assembleia Parlamentar da CPLP",
@@ -923,12 +939,79 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da Subcomissão para a Governação Democrática da Comissão para a Dimensão Civil da Segurança",
+              "tipo": "REN",
+              "local": "Oslo, Bodo e Evenes",
+              "dataInicio": "07-05-2018",
+              "dataFim": "09-05-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "BRUNO VITORINO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1713"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "97º Seminário Rose-Roth",
+              "tipo": "REN",
+              "local": "Batumi",
+              "dataInicio": "23-04-2018",
+              "dataFim": "25-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
               "tipo": "REN",
               "local": "Sarajevo e Belgrado",
               "dataInicio": "16-04-2018",
               "dataFim": "19-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  }
+                ]
+              }
             },
             {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
@@ -936,7 +1019,31 @@
               "local": "Arábia Saudita",
               "dataInicio": "16-04-2018",
               "dataFim": "18-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS COSTA NEVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3963"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Comissão Permanente",
@@ -1272,6 +1379,14 @@
               }
             },
             {
+              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
+              "tipo": "REN",
+              "local": "Berlim e Bremen",
+              "dataInicio": "13-11-2017",
+              "dataFim": "17-11-2017",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Comissão para a Dimensão Civil da Segurança da APNATO",
               "tipo": "REN",
               "local": "Kwait",
@@ -1295,14 +1410,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
-              "tipo": "REN",
-              "local": "Berlim e Bremen",
-              "dataInicio": "13-11-2017",
-              "dataFim": "17-11-2017",
-              "participantes": null
             },
             {
               "nome": "96º Seminário Rose-Roth",
@@ -2475,7 +2582,24 @@
               "local": "Copenhaga",
               "dataInicio": "15-04-2018",
               "dataFim": "16-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ISABEL SANTOS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2103"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "NILZA DE SENA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4326"
+                  }
+                ]
+              }
             },
             {
               "nome": "Missão de Observação das Eleições Presidenciais no Azerbaijão",
@@ -3546,6 +3670,31 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "5ª Cimeira de Presidentes e 14ª Sessão Plenária",
+              "tipo": "REN",
+              "local": "Cairo",
+              "dataInicio": "28-04-2018",
+              "dataFim": "29-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "FERNANDO NEGRÃO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1905"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MARGARIDA MANO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "5617"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Reunião do Bureau e Bureau Alargado",
               "tipo": "REN",
               "local": "Cairo",
@@ -4338,7 +4487,52 @@
               "local": "Estrasburgo",
               "dataInicio": "23-04-2018",
               "dataFim": "27-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ADÃO SILVA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS ALBERTO GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1458"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "EDITE ESTRELA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "162"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS LEITE RAMOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4364"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PAULO PISCO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1741"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "TELMO CORREIA",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1655"
+                  }
+                ]
+              }
             },
             {
               "nome": "34ª Sessão do Congresso dos Poderes Locais e Regionais do Conselho da Europa",
@@ -6583,7 +6777,15 @@
               "local": "Nova Iorque e Washington DC",
               "dataInicio": "13-04-2018",
               "dataFim": "18-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Conferência \"Diversity in Unity and Fundamental Freedoms for Chhristians and Muslims in the Middle East: A Conference for Parliamentary Dialogue\" e 27 ª Conferência da \"Arab Inter-Parliamentary Union\"",
@@ -6591,7 +6793,15 @@
               "local": "Beirute e Cairo",
               "dataInicio": "02-04-2018",
               "dataFim": "06-04-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Missão de Observação Eleitoral, Eleições Presidenciais Egípcias",

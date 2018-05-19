@@ -53,6 +53,73 @@
                     "dataFim": "2017-07-14",
                     "local": "Luanda",
                     "participantes": null
+                  },
+                  {
+                    "id": "113",
+                    "tipoAtividade": "FRM",
+                    "tipo": "Visita",
+                    "nome": "Visita do Secretário-Geral da Assembleia Nacional de Angola à Assembleia da República sobre a Atividade de Formação na Assembleia da República",
+                    "dataInicio": "2018-04-09",
+                    "dataFim": "2018-04-09",
+                    "local": "Assembleia da República",
+                    "participantes": {
+                      "Participante": [
+                        {
+                          "nome": "Albino de Azevedo Soares",
+                          "cargo": "Secretário-Geral",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        },
+                        {
+                          "nome": "Amílcar Mário Quinta",
+                          "cargo": "Diretor de Relações Públicas, Protocolo e Relações Públicas",
+                          "servico": "Assembleia Nacional",
+                          "id": null
+                        },
+                        {
+                          "nome": "Ana Leal",
+                          "cargo": "Adjunta do Secretário-Geral da Assembleia da República",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        },
+                        {
+                          "nome": "Dalila Maulide",
+                          "cargo": "Chefe de Divisão de Relações Internacionais",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        },
+                        {
+                          "nome": "Dilizia Domingos",
+                          "cargo": "Chefe da DRI",
+                          "servico": "Assembleia Naional de Angola",
+                          "id": null
+                        },
+                        {
+                          "nome": "José Manuel Araújo",
+                          "cargo": "Adjunto do Secretário-Geral da Assembleia da República",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        },
+                        {
+                          "nome": "Maria João Costa",
+                          "cargo": "Diretora dos Serviços Administrativos e Financeiros",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        },
+                        {
+                          "nome": "Pedro Agostinho de Neri",
+                          "cargo": "Secretário-Geral",
+                          "servico": "Assembleia Nacional",
+                          "id": null
+                        },
+                        {
+                          "nome": "Rita Pinto Ferreira",
+                          "cargo": "Diretora do Gabinete de Relações Internacionais e Protocolo",
+                          "servico": "Assembleia da República",
+                          "id": null
+                        }
+                      ]
+                    }
                   }
                 ]
               },

@@ -5063,8 +5063,8 @@
                 "ceDes": "PORTO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "António Vitorino",
@@ -7819,8 +7819,8 @@
                 "ceDes": "FARO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "César De Oliveira",
@@ -11433,8 +11433,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "ASDI",
+                "gpDes": "Acção Social Democrata Independente"
               },
               {
                 "depNomeParlamentar": "Guilherme De Oliveira Martins",
@@ -17016,8 +17016,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "Lopes Cardoso",
@@ -17097,8 +17097,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -17106,8 +17106,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -17124,8 +17124,8 @@
                 "ceDes": "PORTO",
                 "parSigla": "Desc",
                 "parDes": "Desconhecido",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -21676,6 +21676,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },

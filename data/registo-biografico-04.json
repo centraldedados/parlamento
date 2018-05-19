@@ -4840,8 +4840,8 @@
                 "ceDes": "PORTO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "António Vitorino",
@@ -15056,8 +15056,8 @@
                 "ceDes": "SETÚBAL",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               }
             ]
           },
@@ -15396,113 +15396,111 @@
             ]
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
-              {
-                "habId": "22800",
-                "habDes": "Direito",
-                "habTipoId": "13",
-                "habEstado": "C"
-              },
-              {
-                "habId": "22801",
-                "habDes": "Mestrado",
-                "habTipoId": "14",
-                "habEstado": "F"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "25980",
+              "habDes": "Direito",
+              "habTipoId": "13",
+              "habEstado": "C"
+            }
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26536",
+                "funId": "29696",
                 "funDes": "Deputado à XIII Legislatura, Vice-Presidente da Assembleia da Republica",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26537",
+                "funId": "29697",
                 "funDes": "Membro da Comissão Política Nacional do Partido Socialista",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "26538",
+                "funId": "29698",
                 "funDes": "Deputado na III, IV, V, VI, VII, VIII, IX e XII Legislaturas",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "26539",
+                "funId": "29699",
                 "funDes": "ex-Presidente da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "26540",
+                "funId": "29700",
                 "funDes": "Presidente da Comissão Eventual da Revisão Constitucional (IV Revisão Constitucional)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "26541",
+                "funId": "29701",
                 "funDes": "Presidente da Comissão de Ética(VII Legislatura)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "26542",
+                "funId": "29702",
                 "funDes": "Membro do Comité Europeu das Regiões",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "26543",
+                "funId": "29703",
                 "funDes": "Presidente da Fundação Antero de Quental",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "26544",
+                "funId": "29704",
                 "funDes": "Membro da Delegação Portuguesa no Conselho da Europa",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "26545",
+                "funId": "29705",
                 "funDes": "Presidente do GP/PS (1995-1997)",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "26546",
+                "funId": "29706",
                 "funDes": "Secretário de Estado da Presidência do Conselho de Ministros (2005-2009)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "26547",
+                "funId": "29707",
                 "funDes": "Ministro dos Assuntos Parlamentares (XVIII Governo Constitucional)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "26548",
-                "funDes": "Professor Convidado na Universidade Lusíada",
+                "funId": "29708",
+                "funDes": "Professor Convidado na Universidade Lusíada (até 2005)",
                 "funOrdem": "13",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "29709",
+                "funDes": "Presidente da Assembleia Municipal de Abrantes (1993-2009)",
+                "funOrdem": "14",
                 "funAntiga": "S"
               }
             ]
           },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "3532",
+              "codId": "4332",
               "codDes": "Comendador da República Italiana",
               "codOrdem": "1"
             }
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "6351",
+              "pubId": "7211",
               "pubDes": "Constituição da República - Prefácio e Anotações à IV Revisão Constitucional",
               "pubOrdem": "1"
             }
@@ -17240,8 +17238,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               },
               {
                 "depNomeParlamentar": "José Magalhães",
@@ -17249,8 +17247,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -18288,8 +18286,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "UEDS",
+                "gpDes": "União Da Esquerda Para A Democracia Socialista"
               },
               {
                 "depNomeParlamentar": "Lopes Cardoso",
@@ -18369,8 +18367,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -18378,8 +18376,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -18396,8 +18394,8 @@
                 "ceDes": "PORTO",
                 "parSigla": "Desc",
                 "parDes": "Desconhecido",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Lucas Pires",
@@ -23860,6 +23858,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },

@@ -815,6 +815,15 @@
                   "timDes": "Efetivo"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6624",
+                "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                "orgSigla": "GT-FCPMTPP",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -2112,56 +2121,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4705",
-                  "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
-                  "orgSigla": "GT-ATCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4824",
-                  "orgDes": "Grupo de Trabalho - Concessão de Audiências",
-                  "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6224",
-                  "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
-                  "orgSigla": "GT-RPCFA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6050",
@@ -2725,6 +2685,69 @@
           }
         },
         {
+          "cadId": "5906",
+          "cadNomeCompleto": "ÂNGELA MANUELA DE SOUSA MOREIRA",
+          "cadDtNascimento": "1958-05-05",
+          "cadSexo": "F",
+          "cadProfissao": "Enfermeira",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Ângela Moreira",
+              "legDes": "XIII",
+              "ceDes": "PORTO",
+              "parSigla": "CDU",
+              "parDes": "Coligação Democrática Unitária",
+              "gpSigla": "PCP",
+              "gpDes": "Partido Comunista Português"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "26002",
+              "habDes": "Enfermagem",
+              "habTipoId": "13",
+              "habEstado": "C"
+            }
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
+              "funId": "29718",
+              "funDes": "Eleita na Assembleia de Freguesia da Madalena",
+              "funOrdem": "1",
+              "funAntiga": "N"
+            }
+          },
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4534",
+                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+                  "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4705",
+                "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
+                "orgSigla": "GT-ATCE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
+        },
+        {
           "cadId": "6127",
           "cadNomeCompleto": "ANTÓNIO MANUEL LEITÃO BORGES",
           "cadDtNascimento": "1955-07-20",
@@ -3107,6 +3130,13 @@
                   "orgId": "6284",
                   "orgDes": "Grupo de Trabalho - Regime do Trabalho Noturno e por Turnos",
                   "orgSigla": "GT-RTNT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCPMTPP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -4480,14 +4510,14 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21600",
-                "habDes": "Licenciatura",
+                "habId": "26060",
+                "habDes": "Engenharia zootécnica",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21601",
-                "habDes": "Engenharia Zootécnica\nTecnologia Leiteira",
+                "habId": "26061",
+                "habDes": "Tecnologia Leiteira",
                 "habTipoId": "14",
                 "habEstado": "C"
               }
@@ -6090,13 +6120,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5244",
-                  "orgDes": "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas",
-                  "orgSigla": "GT-ADO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5464",
                   "orgDes": "Grupo de Trabalho - Atos de Profissionais da Àrea da Saúde (PPL n.º 34/XIII/2.ª)",
                   "orgSigla": "GT-APAS",
@@ -6132,13 +6155,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -6147,7 +6163,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -8423,7 +8439,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -8519,6 +8535,13 @@
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -10334,7 +10357,7 @@
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -10453,6 +10476,67 @@
                   "orgId": "5784",
                   "orgDes": "Grupo de Trabalho - Pacote Descentralização",
                   "orgSigla": "GT-PD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "cadId": "6167",
+          "cadNomeCompleto": "JOSÉ ERNESTO FIGUEIRA FERRAZ",
+          "cadDtNascimento": "1974-06-13",
+          "cadSexo": "M",
+          "cadProfissao": "PROFESSOR",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Ernesto Ferraz",
+              "legDes": "XIII",
+              "ceDes": "MADEIRA",
+              "parSigla": "BE",
+              "parDes": "Bloco De Esquerda",
+              "gpSigla": "BE",
+              "gpDes": "Bloco De Esquerda"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26022",
+                "habDes": "GEOGRAFIA E PLANEAMENTO REGIONAL",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26023",
+                "habDes": "PÓS GRADUAÇÃO EM ENSINO DE GEOGRAFIA",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
+              "funId": "29737",
+              "funDes": "DEPUTADO À ASSEMBLEIA DA REPÚBLICA",
+              "funOrdem": "1",
+              "funAntiga": "N"
+            }
+          },
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -10891,6 +10975,13 @@
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6364",
+                  "orgDes": "Grupo de Trabalho - Energia",
+                  "orgSigla": "GT-E",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -10901,7 +10992,7 @@
           "cadNomeCompleto": "FELICIANO JOSÉ BARREIRAS DUARTE",
           "cadDtNascimento": "1966-04-19",
           "cadSexo": "M",
-          "cadProfissao": "Consultor Jurídico; Professor Universitário",
+          "cadProfissao": "Consultor Jurídico",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -10955,19 +11046,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "19220",
+                "habId": "26143",
                 "habDes": "Direito ",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "19221",
+                "habId": "26144",
                 "habDes": "Mestre em Direito na vertente de Ciências Jurídicas e Políticas.",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "19222",
+                "habId": "26145",
                 "habDes": "Direito ",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -10977,43 +11068,43 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "22696",
+                "funId": "29823",
                 "funDes": "2013\nDeputado na Assembleia da República\n\n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "22697",
+                "funId": "29824",
                 "funDes": "2013\nMembro da Comissão Parlamentar dos Negócios Estrangeiros e Comunidades Portuguesas\n\n",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "22698",
+                "funId": "29825",
                 "funDes": "2014\nMembro do Conselho Consultivo do Instituto para a Promoção e Desenvolvimento da América Latina (IPDAL)\n\n",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "22699",
+                "funId": "29826",
                 "funDes": "2014\nPresidente do Conselho Fiscal da Fundação Batalha de Aljubarrota\n",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "22700",
+                "funId": "29827",
                 "funDes": " 2011 a Abril 2013\nSecretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares, com as tutelas delegadas da Comunicação Social, Imigração e Modernização Administrativa e Ano Europeu do Cidadão em Portugal\n\n 2012\nCoordenador e relator da Comissão Interministerial para o Jogo Online e jogo em Portugal \n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "22701",
+                "funId": "29828",
                 "funDes": "Até 2011\nFoi Membro do Conselho de Gestão e Planeamento da Fundação Batalha de Aljubarrota\n\nAté 2011\nFoi Conselheiro Económico do município de Anfhn na província de Guizhou, China. \n\nAté 2010\nFoi Sócio da Barreiras Duarte e Correia – Consultores Associados\n\nAté 2009\nFoi Presidente do Conselho Consultivo da Escola de Altos Estudos de Turismo de Óbidos (ETUR)\n\nAté 2008\nFoi Presidente da Direção do Instituto Científico das Migrações.\n\n",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "22702",
+                "funId": "29829",
                 "funDes": "Até 2011\nFoi Conselheiro Económico do município de Anfhn na província de Guizhou, China. \n\nAté 2010\nFoi Sócio da Barreiras Duarte e Correia – Consultores Associados\n\nAté 2009\nFoi Presidente do Conselho Consultivo da Escola de Altos Estudos de Turismo de Óbidos (ETUR)\n\nAté 2008\nFoi Presidente da Direção do Instituto Científico das Migrações.\n\n",
                 "funOrdem": "7",
                 "funAntiga": "S"
@@ -11023,37 +11114,37 @@
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": [
               {
-                "codId": "2772",
+                "codId": "4359",
                 "codDes": "Distinguido para o prémio Revelação Política Nacional em 1997, pela Revista Valor;",
                 "codOrdem": "1"
               },
               {
-                "codId": "2773",
+                "codId": "4360",
                 "codDes": "Militante Honorário da JSD;",
                 "codOrdem": "2"
               },
               {
-                "codId": "2774",
+                "codId": "4361",
                 "codDes": "Distinguido com o Prémio Afonso Lopes Vieira na Categoria de Personalidade do Ano, pelo Jornal da Região de Leiria;",
                 "codOrdem": "3"
               },
               {
-                "codId": "2775",
+                "codId": "4362",
                 "codDes": "Distinguido com a Medalha de Mérito da ARESP (Associação da Restauração e Similares de Portugal) (2004);",
                 "codOrdem": "4"
               },
               {
-                "codId": "2776",
+                "codId": "4363",
                 "codDes": "Cidadão Honorário do Concelho de Óbidos, tendo sido distinguido com a Medalha de Mérito do Concelho no ano de 2004;",
                 "codOrdem": "5"
               },
               {
-                "codId": "2777",
+                "codId": "4364",
                 "codDes": "Cidadão Honorário do Concelho do Bombarral, tendo sido distinguido com a Medalha de Honra do Concelho no ano de 2005;",
                 "codOrdem": "6"
               },
               {
-                "codId": "2778",
+                "codId": "4365",
                 "codDes": "Distinguido no ano 2008 com o Prémio de Mérito Personalidade do Ano atribuído pela Liga dos Chineses, pela Associação Industrial e Comercial dos Chineses em Vila do Conde e pela Fundação Jorge Álvares",
                 "codOrdem": "7"
               }
@@ -11062,122 +11153,122 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "5211",
+                "pubId": "7255",
                 "pubDes": "\"Apostar no Bombarral\" - 1993",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "5212",
+                "pubId": "7256",
                 "pubDes": "\"Bombarral Legislação Local\" - 1997",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "5213",
+                "pubId": "7257",
                 "pubDes": "\"Um olhar sobre o \"Bombarral\" (1997)",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "5214",
+                "pubId": "7258",
                 "pubDes": "\"Guerra contra as Portagens\" - 1997",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "5215",
+                "pubId": "7259",
                 "pubDes": "\"Leiria Gigante Económico Anão Político\" - 2002 (Propostas para uma Estratégia de Desenvolvimento)",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "5216",
+                "pubId": "7260",
                 "pubDes": "Regime Jurídico e Fiscal das Fundações - 2008 (com apêndice legislativo)",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "5217",
+                "pubId": "7261",
                 "pubDes": "Tem em preparação para publicação vários livros",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "5218",
+                "pubId": "7262",
                 "pubDes": "\"Uma verdadeira política de Imigração\", 2005",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "5219",
+                "pubId": "7263",
                 "pubDes": "\"Informação de Proximidade - Jornais e Rádios\", 2005",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "5220",
+                "pubId": "7264",
                 "pubDes": "“Asilo, Imigração, Nacionalidade e Minorias Étnicas (legislação, jurisprudência, pareceres e recomendações” -  Vols. I-II - Âncora Editora, Julho 2009",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "5221",
+                "pubId": "7265",
                 "pubDes": "“Regime Jurídico Comparado do Direito de Cidadania (análise e estudo das leis da nacionalidade de 40 países” - Âncora Editora, Julho 2009",
                 "pubOrdem": "11"
               },
               {
-                "pubId": "5222",
+                "pubId": "7266",
                 "pubDes": "“As leis das Autarquias Locais (coletânea de legislação)” - Âncora Editora, Julho 2009",
                 "pubOrdem": "12"
               },
               {
-                "pubId": "5223",
+                "pubId": "7267",
                 "pubDes": "“Regime Jurídico e Fiscal das Fundações – 2008 (com apêndice legislativo)” - Âncora   Editora, Fevereiro 2009\n\n",
                 "pubOrdem": "13"
               },
               {
-                "pubId": "5224",
+                "pubId": "7268",
                 "pubDes": "“A Hierarquia dos Atos Normativos e o Processo Legislativo em Portugal” – Âncora Editora, Novembro 2010",
                 "pubOrdem": "14"
               },
               {
-                "pubId": "5225",
+                "pubId": "7269",
                 "pubDes": "“Co-autor do livro Mundos Que Nos Separam – A Problemática Jurídica dos Requerentes de Asilo e Imigração Ilegal Na União Europeia” - Editora Paulista, 2010",
                 "pubOrdem": "15"
               },
               {
-                "pubId": "5226",
+                "pubId": "7270",
                 "pubDes": "“Pinhal Interior e Terras de Sicó”- Âncora Editora, Fevereiro 2010",
                 "pubOrdem": "16"
               },
               {
-                "pubId": "5227",
+                "pubId": "7271",
                 "pubDes": "“Ser-se Leiriense” - Âncora Editora, Fevereiro 2010",
                 "pubOrdem": "17"
               },
               {
-                "pubId": "5228",
+                "pubId": "7272",
                 "pubDes": "“O Oeste e o Futuro” – Âncora Editora, Fevereiro 2010\n\n\n",
                 "pubOrdem": "18"
               },
               {
-                "pubId": "5229",
+                "pubId": "7273",
                 "pubDes": "“Co-autor do livro Haja Saúde / O Futuro da Medicina em Portugal” com a coordenação de Tiago Rapaz - FNAC, 2010",
                 "pubOrdem": "19"
               },
               {
-                "pubId": "5230",
+                "pubId": "7274",
                 "pubDes": "“Legislação das Eleições Legislativas e da Posse, Composição e Organização Interna dos Governos em Portugal – junto diplomas estruturantes” – Âncora  Editora, Setembro de 2011\n\n\n",
                 "pubOrdem": "20"
               },
               {
-                "pubId": "5231",
+                "pubId": "7275",
                 "pubDes": "As Leis da Imigração dos Estados- Membros da CPLP -  Âncora Editora, Junho 2014",
                 "pubOrdem": "21"
               },
               {
-                "pubId": "5232",
+                "pubId": "7276",
                 "pubDes": "As Constituições Jurídico-Políticas dos Estados-Membros da CPLP - Âncora Editora, Junho 2014\n\n\n",
                 "pubOrdem": "22"
               },
               {
-                "pubId": "5233",
+                "pubId": "7277",
                 "pubDes": "As Leis da Nacionalidade dos Estados-Membros da CPLP - Âncora Editora, Junho 2014\n\n\n",
                 "pubOrdem": "23"
               },
               {
-                "pubId": "5234",
+                "pubId": "7278",
                 "pubDes": "Os Acordos Internacionais e Internos da CPLP - Âncora Editora, Junho 2014\n\"As Leis Estruturantes das Autarquias Locais - As Atribuições e Competências do Governo Municipal e do Governo de Freguesia\"\nÂncora Editora 2015\n\"As Leis Complementares das Autarquias Locais – E Listagem Atualizada dos Contactos dos Municípios” Âncora Editora 2015\n\n",
                 "pubOrdem": "24"
               }
@@ -11923,6 +12014,20 @@
                   "orgSigla": "GT-ILDC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12553,13 +12658,6 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12637,14 +12735,20 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "22220",
-                "habDes": "Transportes Mestrado",
+                "habId": "26120",
+                "habDes": "Economia / ISEG",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26121",
+                "habDes": "Transportes / IST",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "22221",
-                "habDes": "Pós Graduação em Planeamento e Políticas Económicas",
+                "habId": "26122",
+                "habDes": "Pós Graduação em Planeamento e Políticas Económicas / ISEG",
                 "habTipoId": "16"
               }
             ]
@@ -12652,14 +12756,14 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25936",
-                "funDes": "Deputado à Assembleia Municipal de Leiria",
+                "funId": "29796",
+                "funDes": "Deputado à Assembleia da República desde Outubro de 2015",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25937",
-                "funDes": "Deputado à Assembleia Municipal de Lisboa 2001-2005\nDeputado à Assembleia da República entre 2009-2011\nChefe de Departamento na Carris a partir de 2001",
+                "funId": "29797",
+                "funDes": "Deputado à Assembleia Municipal de Lisboa 2001-2005\nDeputado à Assembleia da República entre 2009-2011\nChefe de Departamento na Carris a partir de 2001\nDeputado à Assembleia Municipal de Leiria entre 2013-2017",
                 "funOrdem": "2",
                 "funAntiga": "S"
               }
@@ -12714,6 +12818,13 @@
                   "orgId": "6364",
                   "orgDes": "Grupo de Trabalho - Energia",
                   "orgSigla": "GT-E",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCPMTPP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -13205,6 +13316,13 @@
                   "orgSigla": "GT-PAC",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -14716,13 +14834,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -14910,13 +15021,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -14925,7 +15029,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -15060,6 +15164,13 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
+                  "orgId": "4764",
+                  "orgDes": "Grupo de Trabalho - Audiências",
+                  "orgSigla": "GT-A",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "5004",
                   "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
                   "orgSigla": "GT-EIE",
@@ -15067,9 +15178,9 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4764",
-                  "orgDes": "Grupo de Trabalho - Audiências",
-                  "orgSigla": "GT-A",
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15281,13 +15392,6 @@
                   "orgId": "6244",
                   "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
                   "orgSigla": "GT-DG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15512,6 +15616,13 @@
                   "orgId": "4528",
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15783,13 +15894,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6484",
-                "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                "orgSigla": "GT-ARJBP",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6484",
+                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
+                  "orgSigla": "GT-ARJBP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -16167,13 +16292,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "25820",
+                "habId": "26100",
                 "habDes": "Enfermagem",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "25821",
+                "habId": "26101",
                 "habDes": "Pós-Licenciatura de Especialização em Enfermagem de Reabilitação\nPós- Graduação Em Tratamento de Feridas e Viabilidade Tecidular",
                 "habTipoId": "16"
               }
@@ -16213,13 +16338,6 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4904",
-                  "orgDes": "Grupo de Trabalho - Turismo",
-                  "orgSigla": "GT-T",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5364",
                   "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
                   "orgSigla": "GT-ATFPI",
@@ -16227,9 +16345,49 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "4904",
+                  "orgDes": "Grupo de Trabalho - Turismo",
+                  "orgSigla": "GT-T",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5184",
+                  "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes",
+                  "orgSigla": "GT-APD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5244",
+                  "orgDes": "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas",
+                  "orgSigla": "GT-ADO",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "4984",
                   "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
                   "orgSigla": "GT-PJLPPA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5804",
+                  "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
+                  "orgSigla": "GT-SP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -16778,7 +16936,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -17742,6 +17900,13 @@
                   "orgSigla": "GT-ACDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -18134,6 +18299,13 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -18291,6 +18463,18 @@
                   "orgSigla": "GT-CA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCPMTPP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -18451,13 +18635,6 @@
                   "orgId": "4905",
                   "orgDes": "Grupo de Trabalho - Indústria",
                   "orgSigla": "GT-I",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6364",
-                  "orgDes": "Grupo de Trabalho - Energia",
-                  "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -19290,6 +19467,13 @@
                   "orgId": "6564",
                   "orgDes": "Grupo de Trabalho - Audiências da Comissão de Defesa Nacional",
                   "orgSigla": "GT-ACDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -20603,7 +20787,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -21718,6 +21902,13 @@
                   "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -22113,13 +22304,6 @@
                   "timDes": "Suplente"
                 },
                 {
-                  "orgId": "4533",
-                  "orgDes": "Comissão de Trabalho e Segurança Social",
-                  "orgSigla": "CTSS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "5024",
                   "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
                   "orgSigla": "CERTEFP",
@@ -22136,7 +22320,7 @@
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -24013,6 +24197,13 @@
                   "orgSigla": "GT-ACDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -24093,13 +24284,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5804",
-                "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
-                "orgSigla": "GT-SP",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5804",
+                  "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
+                  "orgSigla": "GT-SP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -24752,31 +24952,31 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "18325",
+                "habId": "26040",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "18326",
+                "habId": "26041",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "18327",
+                "habId": "26042",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "18328",
+                "habId": "26043",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "18329",
+                "habId": "26044",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
@@ -24786,25 +24986,25 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "22340",
+                "funId": "29756",
                 "funDes": "Deputado na XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "22341",
+                "funId": "29757",
                 "funDes": "Secretário de Estado Adjunto do Ministro da Segurança Social, Familia e Criança, no XVI Governo Constitucional;",
                 "funOrdem": "2",
                 "funAntiga": "S"
               },
               {
-                "funId": "22342",
+                "funId": "29758",
                 "funDes": "Deputado na IX Legislatura",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "22343",
+                "funId": "29759",
                 "funDes": "Secretario de Estado da Solidariedade e da Segurança Social do XIX Governo Constitucional",
                 "funOrdem": "4",
                 "funAntiga": "S"
@@ -25578,18 +25778,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -26093,6 +26281,20 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCPMTPP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -27711,7 +27913,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "22761",
+              "habId": "26062",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "C"
@@ -27719,8 +27921,8 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "26503",
-              "funDes": "Vice-Presidente do Grupo Parlamentar do PSD",
+              "funId": "29776",
+              "funDes": "Eleito Vogal do Conselho de Fiscalização da Base de Dados de Perfis de ADN",
               "funOrdem": "1",
               "funAntiga": "N"
             }
@@ -27908,7 +28110,17 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 },
                 {
                   "orgId": "4528",
@@ -28323,6 +28535,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -28443,13 +28669,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -28463,7 +28682,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -29976,24 +30195,14 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
-                      {
-                        "tiaDes": "CGP"
-                      },
-                      {
-                        "tiaDes": "Vice-Presidente"
-                      }
-                    ]
-                  }
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -30135,86 +30344,7 @@
               "funAntiga": "N"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4724",
-                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
-                  "orgSigla": "GT-PACRP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4784",
-                  "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
-                  "orgSigla": "GT-CBCCC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4904",
-                  "orgDes": "Grupo de Trabalho - Turismo",
-                  "orgSigla": "GT-T",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5824",
-                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                  "orgSigla": "GT-SB",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5924",
-                  "orgDes": "Grupo de Trabalho - Lei de Enquadramento Orçamental",
-                  "orgSigla": "GT-LEO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6524",
-                  "orgDes": "Grupo de Trabalho - Formulários Digitais AT",
-                  "orgSigla": "GT-FDAT",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "5836",
@@ -33685,13 +33815,6 @@
                   "orgSigla": "GT-SP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33932,6 +34055,13 @@
                   "orgSigla": "GT-TP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -34161,6 +34291,13 @@
                   "orgId": "6284",
                   "orgDes": "Grupo de Trabalho - Regime do Trabalho Noturno e por Turnos",
                   "orgSigla": "GT-RTNT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCPMTPP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -34691,7 +34828,26 @@
               "codOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4533",
+                  "orgDes": "Comissão de Trabalho e Segurança Social",
+                  "orgSigla": "CTSS",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "5833",
@@ -34867,19 +35023,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "23500",
+                "habId": "26080",
                 "habDes": "Sociologia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "23501",
+                "habId": "26081",
                 "habDes": "Sociologia",
                 "habTipoId": "15",
                 "habEstado": "F"
               },
               {
-                "habId": "23502",
+                "habId": "26082",
                 "habDes": "Pós-Graduada em Análise de Dados para as Ciências Sociais pelo ISCTE-IUL\nPós-Graduada em Família e Sociedade pelo ISCTE-IUL\nEspecializada em ‘Children in Adverse Life Situations -  Social Work with Children at Risk and their Families” (Gotemburgo, Suécia)\n",
                 "habTipoId": "16"
               }
@@ -36268,13 +36424,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6024",
-                "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
-                "orgSigla": "GT-PIG",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6024",
+                  "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
+                  "orgSigla": "GT-PIG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6625",
+                  "orgDes": "Grupo de Trabalho - Ordens Profissionais",
+                  "orgSigla": "GT-OP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -36836,6 +37001,13 @@
                   "orgId": "6424",
                   "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
                   "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6484",
+                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
+                  "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -39517,6 +39689,13 @@
           }
         },
         {
+          "cadId": "5906",
+          "cadNomeCompleto": "ÂNGELA MANUELA DE SOUSA MOREIRA",
+          "cadActividadeProfissional": "Enfermeira",
+          "cadEstadoCivilCod": "2",
+          "cadEstadoCivilDes": "Divorciado(a)"
+        },
+        {
           "cadId": "6127",
           "cadNomeCompleto": "ANTÓNIO MANUEL LEITÃO BORGES",
           "cadActividadeProfissional": "engenheiro civil",
@@ -40940,9 +41119,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4708",
+              "rgiId": "8670",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-03-03",
+              "rgiDataVersao": "2018-05-09",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputada XIII Legislatura",
@@ -40953,34 +41132,50 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "4733",
+                    "rgaId": "8538",
                     "rgaActividade": "Diretora do Centro de Emprego de Matosinhos ",
                     "rgaDataInicio": "2015-05-25",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "4734",
+                    "rgaId": "8539",
                     "rgaActividade": "Deputada XI Legislatura ",
                     "rgaDataInicio": "2009-10-15",
                     "rgaDataFim": "2011",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8540",
+                    "rgaActividade": "Profissional Liberal",
+                    "rgaDataInicio": "2018-05-03",
                     "rgaRemunerada": "S"
                   }
                 ]
               },
               "rgiCargosSociais": {
-                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "4458",
-                  "rgcCargo": "Secretária da Assembleia Geral",
-                  "rgcEntidade": "Centro Social Bonitos de Amorim",
-                  "rgcAreaActividade": "Instituição Particular de Solidariedade Social",
-                  "rgcLocalSede": "Rua Arq. Fernandes Amorim nº 30    4495-107 \nPóvoa de Varzim",
-                  "rgcDataInicio": "2012-12-05"
-                }
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
+                  {
+                    "rgcId": "6902",
+                    "rgcCargo": "Secretária da Assembleia Geral",
+                    "rgcEntidade": "Centro Social Bonitos de Amorim",
+                    "rgcAreaActividade": "Instituição Particular de Solidariedade Social",
+                    "rgcLocalSede": "Rua Arq. Fernandes Amorim nº 30    4495-107 \nPóvoa de Varzim",
+                    "rgcDataInicio": "2012-12-05"
+                  },
+                  {
+                    "rgcId": "6903",
+                    "rgcCargo": "Dirigente Nacional ",
+                    "rgcEntidade": "SINTAP ",
+                    "rgcAreaActividade": "Sindicato",
+                    "rgcLocalSede": "Rua Damasceno Monteiro nº 114    1170-113 Lisboa",
+                    "rgcDataInicio": "2018-03-25"
+                  }
+                ]
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "2595",
+                  "rgsId": "4335",
                   "rgsEntidade": "Não se aplica.",
                   "rgsAreaActividade": "Não se aplica.",
                   "rgsLocalSede": "Não se aplica.",
@@ -41139,27 +41334,35 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3885",
+              "rgiId": "8569",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-04-20",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
-              "rgiCargoDes": "Deputado",
+              "rgiCargoDes": "Deputado\n",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiApoiosBeneficios": "Senhas de Presença da Assembleia Municipal de Águeda",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
-                "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "3821",
-                  "rgaActividade": "Advogada",
-                  "rgaDataInicio": "2004-11-24",
-                  "rgaRemunerada": "S"
-                }
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8437",
+                    "rgaActividade": "Advogada",
+                    "rgaDataInicio": "2004",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8438",
+                    "rgaActividade": "Membro da Assembleia Municipal de Águeda",
+                    "rgaDataInicio": "2017-10-24",
+                    "rgaRemunerada": "N"
+                  }
+                ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "3709",
+                  "rgcId": "6858",
                   "rgcCargo": "Presidente da Mesa da Assembleia Geral",
                   "rgcEntidade": "Agrupamento Musical Tuna de Óis da Ribeira",
                   "rgcAreaActividade": "Associação Cultural",
@@ -41169,7 +41372,7 @@
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "2063",
+                  "rgsId": "4255",
                   "rgsEntidade": "Nada a declarar",
                   "rgsAreaActividade": "Nada a declarar",
                   "rgsLocalSede": "Nada a declarar",
@@ -41326,9 +41529,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3859",
+              "rgiId": "8508",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-04-13",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
@@ -41339,24 +41542,36 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3741",
+                    "rgaId": "8373",
                     "rgaActividade": "Presidente governo regional dos açores\n",
                     "rgaDataInicio": "1996-10",
                     "rgaDataFim": "2012-11",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3742",
+                    "rgaId": "8374",
                     "rgaActividade": "consultor na empresa Globestar",
                     "rgaDataInicio": "2014-01",
                     "rgaDataFim": "2015-06",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3743",
+                    "rgaId": "8375",
                     "rgaActividade": "comentário político programa Tres Pontos",
                     "rgaDataInicio": "2015-01",
                     "rgaDataFim": "2015-06",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8376",
+                    "rgaActividade": "comentário TSF",
+                    "rgaDataInicio": "2017-10-24",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8377",
+                    "rgaActividade": "comentário SIC/N",
+                    "rgaDataInicio": "2018-04-10",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -42951,6 +43166,36 @@
           }
         },
         {
+          "cadId": "6167",
+          "cadNomeCompleto": "JOSÉ ERNESTO FIGUEIRA FERRAZ",
+          "cadActividadeProfissional": "PROFESSOR",
+          "cadEstadoCivilCod": "4",
+          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "8628",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-04-26",
+              "rgiRegimeBensId": "0",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.\n",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": {
+                  "rgaId": "8493",
+                  "rgaActividade": "Secretário do Grupo Parlamentar do BE na ALRAM",
+                  "rgaDataInicio": "2015-06-01",
+                  "rgaDataFim": "2018-04-15",
+                  "rgaRemunerada": "S"
+                }
+              },
+              "rgiCadId": "6167"
+            }
+          }
+        },
+        {
           "cadId": "6139",
           "cadNomeCompleto": "EUGÉNIA MARIA DE OLIVEIRA DUARTE",
           "cadActividadeProfissional": "Advogada",
@@ -43299,7 +43544,7 @@
         {
           "cadId": "1619",
           "cadNomeCompleto": "FELICIANO JOSÉ BARREIRAS DUARTE",
-          "cadActividadeProfissional": "Consultor Jurídico; Professor Universitário",
+          "cadActividadeProfissional": "Consultor Jurídico",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
@@ -44773,53 +45018,53 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7728",
+              "rgiId": "8530",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-01-04",
+              "rgiDataVersao": "2018-04-19",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiApoiosBeneficios": "Senhas de Presença na Assembleia Municipal de Tomar; Senhas de Presença na Assembleia Intermunicipal do Médio Tejo;  ",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7573",
+                    "rgaId": "8401",
                     "rgaActividade": "Adjunto da Presidente da Câmara Municipal de Tomar",
                     "rgaDataInicio": "2014-01-01",
                     "rgaDataFim": "2015-11-26",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7574",
+                    "rgaId": "8402",
                     "rgaActividade": "Assessor do Grupo Parlamentar do PS ",
                     "rgaDataInicio": "2012-09-01",
                     "rgaDataFim": "2013-12-31",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7575",
+                    "rgaId": "8403",
                     "rgaActividade": "Membro da Assembleia Municipal de Tomar",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7576",
+                    "rgaId": "8404",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunipal do Médio Tejo",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7577",
+                    "rgaId": "8405",
                     "rgaActividade": "Membro da Assembleia Municipal de Tomar",
                     "rgaDataInicio": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7578",
+                    "rgaId": "8406",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunipal do Médio Tejo",
                     "rgaDataInicio": "2017-12-13",
                     "rgaRemunerada": "N"
@@ -44829,7 +45074,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6198",
+                    "rgcId": "6820",
                     "rgcCargo": "Vice-Presidente da Direção",
                     "rgcEntidade": "Sporting Clube Tomar",
                     "rgcAreaActividade": "Clube Desportivo",
@@ -44837,7 +45082,7 @@
                     "rgcDataInicio": "2015-07-07"
                   },
                   {
-                    "rgcId": "6199",
+                    "rgcId": "6821",
                     "rgcCargo": "Secretário da Mesa da Assembleia Geral",
                     "rgcEntidade": "Casa do Concelho de Tomar",
                     "rgcAreaActividade": "Casa Regional",
@@ -44919,9 +45164,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "5688",
+              "rgiId": "8608",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-04-22",
+              "rgiDataVersao": "2018-04-26",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado da Assembleia da República na XIII Legislatura",
               "rgiCargoData": "2015",
@@ -44931,20 +45176,21 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "5653",
+                    "rgaId": "8473",
                     "rgaActividade": "Vereador da Câmara municipal de Braga, em regime de permanência- a tempo inteiro\n",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5654",
+                    "rgaId": "8474",
                     "rgaActividade": "Vereador da Câmara municipal de Braga ",
                     "rgaDataInicio": "2013",
+                    "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "5655",
+                    "rgaId": "8475",
                     "rgaActividade": "Sócio-gerente da empresa CRIAT, Unipessoal Lda. ",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2015",
@@ -44955,21 +45201,21 @@
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "2855",
+                    "rgsId": "4295",
                     "rgsEntidade": "Sushi`n, comércio de restauração e bebidas lda. ",
                     "rgsAreaActividade": "Restauração e bebidas ",
                     "rgsLocalSede": "Ruas das Alminhas Nogueiró nº3 - Braga ",
                     "rgsPartiSocial": "50%"
                   },
                   {
-                    "rgsId": "2856",
+                    "rgsId": "4296",
                     "rgsEntidade": "CRIAT, Unipessoal lda",
                     "rgsAreaActividade": "Arquitetura, Engenharia e Construção  ",
                     "rgsLocalSede": "Rua dr. Francisco Duarte 289, 5º esquerdo - Braga ",
                     "rgsPartiSocial": "100%"
                   },
                   {
-                    "rgsId": "2857",
+                    "rgsId": "4297",
                     "rgsEntidade": "CRIAT, imobiliária ",
                     "rgsAreaActividade": "Investimentos Imobiliários ",
                     "rgsLocalSede": "Praça do Comércio - Amares ",
@@ -45480,57 +45726,43 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "5668",
+              "rgiId": "8529",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-04-21",
+              "rgiDataVersao": "2018-04-19",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiApoiosBeneficios": "Recebimento de senhas de presença devido ao exercício do cargo de Membro da Assembleia Municipal da Almada",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "5633",
-                    "rgaActividade": "Membro suplente da Assembleia de Freguesia de Almada",
-                    "rgaDataInicio": "2009",
-                    "rgaDataFim": "2013",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "5634",
+                    "rgaId": "8397",
                     "rgaActividade": "Vereador em Regime de Substituição da Câmara Municipal de Almada",
                     "rgaDataInicio": "2013",
+                    "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "5635",
-                    "rgaActividade": "Estagiário Curricular na Empresa EDP Distribuição",
+                    "rgaId": "8398",
+                    "rgaActividade": "Técnico Superior de Gestão de Processos na Empresa EDP Distribuição",
                     "rgaDataInicio": "2014-09",
-                    "rgaDataFim": "2015-03",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "5636",
-                    "rgaActividade": "Estagiário na Empresa EDP Distribuição",
-                    "rgaDataInicio": "2015-06-15",
-                    "rgaDataFim": "2015-11-26",
+                    "rgaDataFim": "2015-11",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5637",
+                    "rgaId": "8399",
                     "rgaActividade": "Serviço de consultoria na AM-Sociedade de Advogados RL;",
                     "rgaDataInicio": "2015",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5638",
-                    "rgaActividade": "Serviço de telemarketing na empresa Sqedio Design Industrial SA.",
-                    "rgaDataInicio": "2013",
-                    "rgaDataFim": "2013",
-                    "rgaRemunerada": "S"
+                    "rgaId": "8400",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2017-10-28",
+                    "rgaRemunerada": "N"
                   }
                 ]
               },
@@ -46330,9 +46562,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7348",
+              "rgiId": "8588",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-10-16",
+              "rgiDataVersao": "2018-04-20",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado",
@@ -46343,28 +46575,28 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7233",
+                    "rgaId": "8453",
                     "rgaActividade": "Secretário de Estado da Administração Interna",
                     "rgaDataInicio": "2013-12",
                     "rgaDataFim": "2015-11",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7234",
+                    "rgaId": "8454",
                     "rgaActividade": "Deputado Municipal em São João da Madeira",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7235",
+                    "rgaId": "8455",
                     "rgaActividade": "Consultor na Prolegal, Moser & Lobo d'Ávila, Sociedade de Advogados R. L.",
                     "rgaDataInicio": "2011-05",
                     "rgaDataFim": "2013-12",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7236",
+                    "rgaId": "8456",
                     "rgaActividade": "Deputado na XII Legislatura",
                     "rgaDataInicio": "2011",
                     "rgaDataFim": "2013",
@@ -46375,7 +46607,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6018",
+                    "rgcId": "6878",
                     "rgcCargo": "Vogal do Conselho Directivo",
                     "rgcEntidade": "IDL - Instituto Amaro da Costa",
                     "rgcAreaActividade": "Instituto",
@@ -46383,26 +46615,34 @@
                     "rgcDataInicio": "2009"
                   },
                   {
-                    "rgcId": "6019",
+                    "rgcId": "6879",
                     "rgcCargo": "Presidente do Conselho Fiscal",
                     "rgcEntidade": "Associação Desportiva Sanjoanense",
                     "rgcAreaActividade": "Associação Desportiva",
                     "rgcLocalSede": "S. João da Madeira",
                     "rgcDataInicio": "2017-06-20"
+                  },
+                  {
+                    "rgcId": "6880",
+                    "rgcCargo": "Membro do Conselho Geral e de Supervisão",
+                    "rgcEntidade": "Águas de S. João, EM, SA",
+                    "rgcAreaActividade": "Empresa Municipal de Capitais Maioritariamente Públicos",
+                    "rgcLocalSede": "S. João da Madeira",
+                    "rgcDataInicio": "2018-03-26"
                   }
                 ]
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "3855",
+                    "rgsId": "4275",
                     "rgsEntidade": "Millennium BCP",
                     "rgsAreaActividade": "Banca",
                     "rgsLocalSede": "Lisboa",
-                    "rgsPartiSocial": "8714 Acções"
+                    "rgsPartiSocial": "1856 Acções"
                   },
                   {
-                    "rgsId": "3856",
+                    "rgsId": "4276",
                     "rgsEntidade": "\"os Belenenses\", Futebol SAD",
                     "rgsAreaActividade": "Sociedade Anónima Desportiva",
                     "rgsLocalSede": "Lisboa",
@@ -46707,39 +46947,40 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3910",
+              "rgiId": "8548",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-04-19",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Senhas de presença da Assembleia Municipal da Maia (nos termos do Estatuto dos Eleitos Locais).",
+              "rgiApoiosBeneficios": "Nada a declarar.",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Membro efectivo da Ordem dos Engenheiros.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3884",
+                    "rgaId": "8413",
                     "rgaActividade": "Membro da Assembleia Municipal da Maia",
                     "rgaDataInicio": "2006-09",
+                    "rgaDataFim": "2017-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3885",
+                    "rgaId": "8414",
                     "rgaActividade": "Adjunto de Director de Obra na Sociedade de Empreitadas Cardoso do Monte, S.A.",
                     "rgaDataInicio": "2011-01",
                     "rgaDataFim": "2012-04",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3886",
+                    "rgaId": "8415",
                     "rgaActividade": "Funcionário Político do Partido Socialista (Acção Política - categoria de adjunto com comissão de serviço)",
                     "rgaDataInicio": "2012-12",
                     "rgaDataFim": "2015-01",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3887",
+                    "rgaId": "8416",
                     "rgaActividade": "Assessor do Grupo Parlamentar do Partido Socialista",
                     "rgaDataInicio": "2015-01",
                     "rgaDataFim": "2015-10",
@@ -46749,12 +46990,13 @@
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "3739",
+                  "rgcId": "6838",
                   "rgcCargo": "Secretário-geral",
                   "rgcEntidade": "Juventude Socialista",
                   "rgcAreaActividade": "Organização político-partidária de juventude",
                   "rgcLocalSede": "Rua Rodrigo da Fonseca, N.º 24, 1.º Dto., 1250-193, Lisboa",
-                  "rgcDataInicio": "2012-11"
+                  "rgcDataInicio": "2012-11",
+                  "rgcDataFim": "2016-12"
                 }
               },
               "rgiCadId": "4405"
@@ -49046,40 +49288,40 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7668",
+              "rgiId": "8528",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-12-22",
+              "rgiDataVersao": "2018-04-19",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Presidente da Assembleia Geral da Radio Popular - SA, Presidente da Assembleia Geral do Grupo Ferpinta, SA e Sócio-Advogado da SPM, Sousa Pinheiro & Montenegro, Sociedade de Advogados, RL.",
+              "rgiApoiosBeneficios": "Presidente da Assembleia Geral da Radio Popular - SA, Presidente da Assembleia Geral do Grupo Ferpinta, SA, Comentador Político na TSF e na TVI, e Sócio-Advogado da SPM, Sousa Pinheiro & Montenegro, Sociedade de Advogados, RL.",
               "rgiServicosPrestados": "Nada a declarar.",
-              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiOutrasSituacoes": "O declarante presta serviços remunerados de comentário político na Estação de Rádio TSF, desde Novembro de 2017, e na Estação de Televisão TVI, desde Fevereiro de 2018 ",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7513",
+                    "rgaId": "8393",
                     "rgaActividade": "Advogado ",
                     "rgaDataInicio": "2000",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7514",
+                    "rgaId": "8394",
                     "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos",
                     "rgaDataInicio": "2010",
                     "rgaDataFim": "2017-03-14",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7515",
+                    "rgaId": "8395",
                     "rgaActividade": "Deputado AR IX, X, XI e XIII Legislaturas",
                     "rgaDataInicio": "2002",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7516",
+                    "rgaId": "8396",
                     "rgaActividade": "Presidente da Assembleia Municipal de Espinho",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
@@ -49090,7 +49332,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6158",
+                    "rgcId": "6818",
                     "rgcCargo": "Presidente da Assembleia Geral",
                     "rgcEntidade": "Radio Popular - Eletrodomésticos, SA",
                     "rgcAreaActividade": "Comércio de Eletrodomésticos",
@@ -49098,7 +49340,7 @@
                     "rgcDataInicio": "2015-05-30"
                   },
                   {
-                    "rgcId": "6159",
+                    "rgcId": "6819",
                     "rgcCargo": "Presidente da Assembleia Geral",
                     "rgcEntidade": "Grupo Ferpinta, SA",
                     "rgcAreaActividade": "Fabrico e comercialização de Tubos",
@@ -49109,7 +49351,7 @@
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "3975",
+                  "rgsId": "4235",
                   "rgsEntidade": "SP&M, Sociedade de Advogados, RL",
                   "rgsAreaActividade": "Advocacia",
                   "rgsLocalSede": "Porto",
@@ -50507,9 +50749,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4728",
+              "rgiId": "8669",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-03-07",
+              "rgiDataVersao": "2018-05-09",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
@@ -50520,14 +50762,20 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "4753",
+                    "rgaId": "8535",
+                    "rgaActividade": "Deputada Municipal no Concelho de Almada",
+                    "rgaDataInicio": "2017-10-28",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8536",
                     "rgaActividade": "Ministra de Estado e das Finanças",
                     "rgaDataInicio": "2013-07-02",
                     "rgaDataFim": "2015-11-26",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "4754",
+                    "rgaId": "8537",
                     "rgaActividade": "Secretária de Estado do Tesouro",
                     "rgaDataInicio": "2012-10",
                     "rgaDataFim": "2013-07",
@@ -50537,7 +50785,7 @@
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "4478",
+                  "rgcId": "6901",
                   "rgcCargo": "Administradora Não Executiva",
                   "rgcEntidade": "Arrow Global, plc",
                   "rgcAreaActividade": "Aconselhamento sobre matérias de natureza macroeconómica e regulatória no mercado europeu, em particular relacionadas na área do Euro e restante Europa Continental. Membro do Comité de Auditoria e Risco.",
@@ -51166,9 +51414,9 @@
           "cadEstadoCivilDes": "União de Facto",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3833",
+              "rgiId": "8648",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-05-04",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
@@ -51178,17 +51426,23 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3670",
+                    "rgaId": "8513",
                     "rgaActividade": "Advogado/Jurista",
                     "rgaDataInicio": "2009-10-10",
                     "rgaDataFim": "2013-11-04",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3671",
+                    "rgaId": "8514",
                     "rgaActividade": "Deputado na XII Legislatura",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-23",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8515",
+                    "rgaActividade": "Vogal do Conselho de Fiscalização da Base de Dados de Perfis de ADN",
+                    "rgaDataInicio": "2017-11-02",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -54086,7 +54340,53 @@
           "cadNomeCompleto": "RUI MIGUEL ROCHA DA CRUZ",
           "cadActividadeProfissional": "ADVOGADO",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "8568",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-04-20",
+              "rgiRegimeBensId": "1",
+              "rgiRegimeBensDes": "Comunhão de adquiridos",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8433",
+                    "rgaActividade": "Diretor de Segurança Social do Centro Distrital de Aveiro",
+                    "rgaDataInicio": "2014-01-16",
+                    "rgaDataFim": "2016-03-21",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8434",
+                    "rgaActividade": "Advocacia em Vagos",
+                    "rgaDataInicio": "2018-01-19",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8435",
+                    "rgaActividade": "Presidente da Assembleia Municipal de Vagos",
+                    "rgaDataInicio": "2013-10-19",
+                    "rgaDataFim": "2017-10-19",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8436",
+                    "rgaActividade": "Membro da Assembleia Intermunicipal da Comunidade Intermunicipal da Região de Aveiro",
+                    "rgaDataInicio": "2013-10-19",
+                    "rgaDataFim": "2017-10-19",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiCadId": "5492"
+            }
+          }
         },
         {
           "cadId": "5833",

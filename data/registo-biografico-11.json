@@ -10911,6 +10911,13 @@
                   "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCP(MTPP)",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12698,13 +12705,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6344",
                   "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
                   "orgSigla": "GT-UCFM",
@@ -12713,7 +12713,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -13255,53 +13255,53 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "22660",
+                "habId": "25981",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "22661",
+                "habId": "25982",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "22662",
+                "habId": "25983",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "22663",
+                "habId": "25984",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "22664",
+                "habId": "25985",
                 "habDes": "Economia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "22665",
+                "habId": "25986",
                 "habDes": "Finanças",
                 "habTipoId": "14",
-                "habEstado": "F"
+                "habEstado": "C"
               }
             ]
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26436",
+                "funId": "29710",
                 "funDes": "Deputado XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26437",
+                "funId": "29711",
                 "funDes": "Deputada à Assembleia da República entre 1999 e 2004 \nDeputada ao Parlamento Europeu entre 2004 e 2009\nSecretária Geral da JS entre 2000 e 2004\n",
                 "funOrdem": "2",
                 "funAntiga": "S"
@@ -13311,28 +13311,54 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "6271",
+                "pubId": "7212",
                 "pubDes": "Relatório sobre “Os aspetos de desenvolvimento regional do impacto do turismo nas regiões costeiras\"",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "6272",
+                "pubId": "7213",
                 "pubDes": "Parecer sobre a proposta de regulamento do Parlamento Europeu e do Conselho que instituiu o Fundo de Ajustamento à Globalização na Comissão do Desenvolvimento Regional",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "6273",
+                "pubId": "7214",
                 "pubDes": "Parecer sobre a proposta de decisão do Parlamento Europeu e do Conselho que estabelece um programa Erasmus Mundus (2009-2013) na Comissão do Emprego e dos Assuntos Sociais",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "6274",
+                "pubId": "7215",
                 "pubDes": "Tese sobre “O impacto dos determinantes sociopolíticos nos mercados financeiros”",
                 "pubOrdem": "4"
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "210",
@@ -14922,6 +14948,13 @@
                   "orgSigla": "GT-ACDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -16141,6 +16174,13 @@
                   "orgId": "6564",
                   "orgDes": "Grupo de Trabalho - Audiências da Comissão de Defesa Nacional",
                   "orgSigla": "GT-ACDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -17721,7 +17761,7 @@
                 },
                 {
                   "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos",
+                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -18997,8 +19037,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               },
               {
                 "depNomeParlamentar": "José Magalhães",
@@ -19006,8 +19046,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpSigla": "PCP",
+                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -19795,6 +19835,13 @@
                   "orgId": "6484",
                   "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
                   "orgSigla": "GT-ARJBP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -21684,6 +21731,13 @@
                   "orgSigla": "GT-ACDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6584",
+                  "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                  "orgSigla": "GT-DFAAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -23314,13 +23368,6 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
                 }
               ]
             },
@@ -23339,18 +23386,6 @@
                   "orgSigla": "GT-TVTD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6264",
-                  "orgDes": "Grupo de Trabalho - Direitos das Pessoas Doentes em fim de Vida (PJL 565/XIII/CDS-PP)",
-                  "orgSigla": "GT-DPDFV",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 },
                 {
                   "orgId": "6344",
@@ -23862,6 +23897,20 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCP(MTPP)",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -26885,7 +26934,17 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 },
                 {
                   "orgId": "4528",
@@ -27334,6 +27393,20 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6584",
+                "orgDes": "Grupo de Trabalho - Deficientes das Forças Armadas e Antigos Combatentes",
+                "orgSigla": "GT-DFAAC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -29301,24 +29374,14 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
-                      {
-                        "tiaDes": "CGP"
-                      },
-                      {
-                        "tiaDes": "Vice-Presidente"
-                      }
-                    ]
-                  }
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -31985,6 +32048,13 @@
                   "orgSigla": "GT-RTNT",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6624",
+                  "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
+                  "orgSigla": "GT-FCP(MTPP)",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33780,6 +33850,13 @@
                   "orgId": "6424",
                   "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
                   "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6484",
+                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
+                  "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -38670,8 +38747,8 @@
           "cadId": "1600",
           "cadNomeCompleto": "JAMILA BÁRBARA MADEIRA E MADEIRA",
           "cadActividadeProfissional": "ECONOMISTA",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadEstadoCivilCod": "5",
+          "cadEstadoCivilDes": "União de Facto",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWeb": {
               "rgiId": "605",
