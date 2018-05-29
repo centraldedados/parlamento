@@ -1487,13 +1487,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "23820",
+                "habId": "26160",
                 "habDes": "Psicologia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "23821",
+                "habId": "26161",
                 "habDes": "Psicologia Clinica e Psicoterapia ",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -1502,7 +1502,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "27556",
+              "funId": "29836",
               "funDes": "Deputada da Assembleia Municipal da Figueira da Foz",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -1519,13 +1519,22 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4533",
-                  "orgDes": "Comissão de Trabalho e Segurança Social",
-                  "orgSigla": "CTSS",
+                  "orgId": "4532",
+                  "orgDes": "Comissão de Saúde",
+                  "orgSigla": "CS",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5004",
+                "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
+                "orgSigla": "GT-EIE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -1591,17 +1600,33 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6504",
-                "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                "orgSigla": "GT-ILESC",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4904",
+                  "orgDes": "Grupo de Trabalho - Turismo",
+                  "orgSigla": "GT-T",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6504",
+                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
+                  "orgSigla": "GT-ILESC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -2249,6 +2274,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3091,6 +3123,13 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -3676,6 +3715,13 @@
                   "orgId": "5024",
                   "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
                   "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -4465,6 +4511,13 @@
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -5649,6 +5702,23 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 }
               ]
             },
@@ -6369,6 +6439,13 @@
                   "orgSigla": "CTSS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -7271,6 +7348,18 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Vice-Presidente"
+                    }
+                  }
                 }
               ]
             },
@@ -7426,6 +7515,13 @@
                   "orgId": "6524",
                   "orgDes": "Grupo de Trabalho - Formulários Digitais AT",
                   "orgSigla": "GT-FDAT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -7746,6 +7842,13 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -9004,17 +9107,15 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5004",
-                "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
-                "orgSigla": "GT-EIE",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
             }
           }
         },
@@ -10282,6 +10383,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             }
@@ -10537,6 +10645,24 @@
                   "orgId": "6384",
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4904",
+                  "orgDes": "Grupo de Trabalho - Turismo",
+                  "orgSigla": "GT-T",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4905",
+                  "orgDes": "Grupo de Trabalho - Indústria",
+                  "orgSigla": "GT-I",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -10950,6 +11076,13 @@
                   "orgSigla": "CS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -11396,6 +11529,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -11421,6 +11561,13 @@
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -11903,6 +12050,13 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12801,13 +12955,6 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4905",
-                  "orgDes": "Grupo de Trabalho - Indústria",
-                  "orgSigla": "GT-I",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5684",
                   "orgDes": "Grupo de Trabalho - Transportes Públicos",
                   "orgSigla": "GT-TP",
@@ -12988,6 +13135,18 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -13298,6 +13457,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -13489,6 +13655,13 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -13964,6 +14137,13 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -14637,6 +14817,18 @@
                   "orgSigla": "GT-AEPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -16338,9 +16530,9 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "5364",
-                  "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
-                  "orgSigla": "GT-ATFPI",
+                  "orgId": "4724",
+                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
+                  "orgSigla": "GT-PACRP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -16348,6 +16540,13 @@
                   "orgId": "4904",
                   "orgDes": "Grupo de Trabalho - Turismo",
                   "orgSigla": "GT-T",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5364",
+                  "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
+                  "orgSigla": "GT-ATFPI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -16593,6 +16792,13 @@
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -16922,6 +17128,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -17138,13 +17351,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5824",
-                "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                "orgSigla": "GT-SB",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5824",
+                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
+                  "orgSigla": "GT-SB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -18619,6 +18841,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -18842,6 +19071,18 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -19879,6 +20120,18 @@
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
@@ -21127,6 +21380,18 @@
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -22297,9 +22562,9 @@
                   }
                 },
                 {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
+                  "orgId": "4533",
+                  "orgDes": "Comissão de Trabalho e Segurança Social",
+                  "orgSigla": "CTSS",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 },
@@ -22594,19 +22859,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "24700",
+                "habId": "26180",
                 "habDes": "Educação",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "24701",
+                "habId": "26181",
                 "habDes": "Educação - Especialização em Mediação Educacional e Supervisão na Formação",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "24702",
+                "habId": "26182",
                 "habDes": "Ciências da Educação - Especialização em Psicologia da Educação",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -22616,38 +22881,38 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28496",
-                "funDes": "Presidente da Comissão Política de Secção de Cabeceiras de Basto",
+                "funId": "29856",
+                "funDes": "Vogal da Comissão Política Distrital de Braga",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28497",
-                "funDes": "Vogal da Comissão Política Distrital de Braga",
+                "funId": "29857",
+                "funDes": "Membro do Centro de Investigação em Estudos da Criança (CIEC) da Universidade do Minho ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28498",
-                "funDes": "Membro do Centro de Investigação em Estudos da Criança (CIEC) da Universidade do Minho ",
+                "funId": "29858",
+                "funDes": "Vereadora (sem pelouros) na Câmara Municipal de Cabeceiras de Basto",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "28499",
-                "funDes": "Vereadora na Câmara Municipal de Cabeceiras de Basto",
+                "funId": "29859",
+                "funDes": "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto",
                 "funOrdem": "4",
-                "funAntiga": "N"
+                "funAntiga": "S"
               },
               {
-                "funId": "28500",
-                "funDes": "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto",
+                "funId": "29860",
+                "funDes": "Membro da Assembleia Municipal de Cabeceiras de Basto",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "28501",
-                "funDes": "Membro da Assembleia Municipal de Cabeceiras de Basto",
+                "funId": "29861",
+                "funDes": "Presidente da Comissão Política de Secção de Cabeceiras de Basto",
                 "funOrdem": "6",
                 "funAntiga": "S"
               }
@@ -23717,6 +23982,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -24068,6 +24340,18 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -26253,6 +26537,18 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Presidente"
+                    }
+                  }
                 }
               ]
             },
@@ -26775,11 +27071,25 @@
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4804",
+                  "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
+                  "orgSigla": "GT-HRUPC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "6224",
                   "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
@@ -27248,6 +27558,13 @@
                   "orgId": "5925",
                   "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
                   "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -28128,11 +28445,25 @@
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5004",
+                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
+                  "orgSigla": "GT-EIE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "4784",
                   "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
@@ -28165,6 +28496,13 @@
                   "orgId": "6424",
                   "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
                   "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -28623,6 +28961,13 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -29370,6 +29715,15 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4724",
+                "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
+                "orgSigla": "GT-PACRP",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -30209,13 +30563,6 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "5004",
-                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
-                  "orgSigla": "GT-EIE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "4804",
                   "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
                   "orgSigla": "GT-HRUPC",
@@ -30774,6 +31121,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -30935,6 +31289,13 @@
                   "orgId": "6524",
                   "orgDes": "Grupo de Trabalho - Formulários Digitais AT",
                   "orgSigla": "GT-FDAT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6644",
+                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
+                  "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -33697,19 +34058,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "22860",
+                "habId": "26200",
                 "habDes": "Medicina",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "22861",
+                "habId": "26201",
                 "habDes": "Saúde Pública e Gestão de Saúde",
                 "habTipoId": "15",
                 "habEstado": "F"
               },
               {
-                "habId": "22862",
+                "habId": "26202",
                 "habDes": "Formação pós-graduada realizada nas seguintes instituições: Johns Hopkins University (MD, EUA), Harvard Medical School (MA, EUA), IESE Business School (Madrid, Espanha)/Harvard Kennedy School of Govenment (MA, EUA), Albert Einstein College of Medicine (NY,EUA), AESE Business School (Lisboa, Portugal), European Society of Infectious Diseases and Clinical Microbiology, Universitat Autonoma de Barcelona (Barcelona, Espanha), Universidade Nova de Lisboa e Univerdade de Lisboa",
                 "habTipoId": "16"
               }
@@ -33718,46 +34079,52 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26596",
+                "funId": "29876",
                 "funDes": "Coordenador Científico de Saúde Pública (Centro de Investigação), Instituto de Ciências da Saúde, Universidade Católica Portuguesa",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26597",
-                "funDes": "Vereador na Câmara Municipal de Cascais (sem tempos)",
+                "funId": "29877",
+                "funDes": "Assistente Convidado, NOVA Medical School, Universidade Nova de Lisboa",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "26598",
-                "funDes": "Membro do Conselho de Fiscalização da Base de Dados de Perfis de ADN (eleito pela Assembleia da República)",
+                "funId": "29878",
+                "funDes": "Membro da Assembleia Municipal de Cascais",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "26599",
+                "funId": "29879",
                 "funDes": "Membro da Assembleia de Freguesia de São Domingos de Rana",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "26600",
-                "funDes": "Membro da Assembleia Municipal de Cascais",
+                "funId": "29880",
+                "funDes": "Vice-Presidente e Vereador da Câmara Municipal de Cascais (sem tempos)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "26601",
+                "funId": "29881",
                 "funDes": "Membro da Assembleia Metropolitana de Lisboa",
                 "funOrdem": "6",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "29882",
+                "funDes": "Membro do Conselho de Fiscalização da Base de Dados de Perfis de ADN (eleito pela Assembleia da República)",
+                "funOrdem": "7",
                 "funAntiga": "S"
               }
             ]
           },
           "cadTitulos": {
             "pt_ar_wsgode_objectos_DadosTitulos": {
-              "titId": "3011",
+              "titId": "3371",
               "titDes": "Licenciado em Medicina.\nPós-graduado em Doenças Infecciosas e Medicina Tropical.\nDoutorando em Saúde Pública.",
               "titOrdem": "1"
             }
@@ -33765,12 +34132,12 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "6371",
+                "pubId": "7291",
                 "pubDes": "Consenso Estratégico sobre a Gestão Integrada da Hepatite C em Portugal, Universidade Católica Editora, 2014",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "6372",
+                "pubId": "7292",
                 "pubDes": "Cidadania para a Saúde, Universidade Católica Portuguesa, 2015",
                 "pubOrdem": "2"
               }
@@ -35283,13 +35650,6 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4531",
                   "orgDes": "Comissão de Educação e Ciência",
                   "orgSigla": "CEC",
@@ -35426,6 +35786,13 @@
                   "orgId": "6384",
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -43549,33 +43916,33 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "5448",
+              "rgiId": "8708",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-04-06",
+              "rgiDataVersao": "2018-05-24",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
               "rgiApoiosBeneficios": "Nada a declarar.",
-              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiServicosPrestados": "Sócio-Gerente da BestPapaya - Internacional Lda\nConsultor da Sociedade de Advogados JLG & Associados RLSP \nSénior Adviser da Sociedade Neves de Almeida - Associados RH\nConsultor das empresas:\nEurorrendas Lda\nNicejob - Trabalho Temporário, Lda\nItil4g - Intelligence & Talent, Unipessoal Lda",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "5413",
+                    "rgaId": "8573",
                     "rgaActividade": "Deputado na XII legislatura (2011-2015)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5414",
+                    "rgaId": "8574",
                     "rgaActividade": "Secretário de Estado XIX Governo Constitucional",
                     "rgaDataInicio": "2011-06-28",
                     "rgaDataFim": "2013-04-12",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5415",
+                    "rgaId": "8575",
                     "rgaActividade": "Consultor ",
                     "rgaDataInicio": "2016-03-23",
                     "rgaRemunerada": "S"
@@ -43585,7 +43952,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "4718",
+                    "rgcId": "6958",
                     "rgcCargo": "Membro do Conselho Consultivo ",
                     "rgcEntidade": "Instituto para a Promoção e Desenvolvimento da America \nLatina",
                     "rgcAreaActividade": "Associação sem fins lucrativos ",
@@ -43594,13 +43961,47 @@
                     "rgcDataFim": "2015-12-31"
                   },
                   {
-                    "rgcId": "4719",
+                    "rgcId": "6959",
                     "rgcCargo": "Presidente do Conselho Fiscal ",
                     "rgcEntidade": "Fundação Batalha de Aljubarrota ",
                     "rgcAreaActividade": "Associação sem fins lucrativos ",
                     "rgcLocalSede": "Batalha ",
                     "rgcDataInicio": "2014-07-30",
                     "rgcDataFim": "2017-07-30"
+                  },
+                  {
+                    "rgcId": "6960",
+                    "rgcCargo": "Membro Conselho Consultivo ",
+                    "rgcEntidade": "Associação da ARI Portugal ",
+                    "rgcAreaActividade": "Associação sem fins lucrativos ",
+                    "rgcLocalSede": "Porto ",
+                    "rgcDataInicio": "2018-04-18"
+                  },
+                  {
+                    "rgcId": "6961",
+                    "rgcCargo": "Membro Conselho Consultivo ",
+                    "rgcEntidade": "Liga dos Chineses de Portugal ",
+                    "rgcAreaActividade": "Associação sem fins lucrativos ",
+                    "rgcLocalSede": "Porto ",
+                    "rgcDataInicio": "2018-04-18"
+                  }
+                ]
+              },
+              "rgiSociedades": {
+                "pt_ar_wsgode_objectos_DadosRgiSociedades": [
+                  {
+                    "rgsId": "4375",
+                    "rgsEntidade": "Primal - Healthy Food Solutions, Lda ",
+                    "rgsAreaActividade": "Alojamento, Restauração e Similares",
+                    "rgsLocalSede": "Lisboa",
+                    "rgsPartiSocial": "17% do Capital Social \n8% Do capital Social Cônjuge"
+                  },
+                  {
+                    "rgsId": "4376",
+                    "rgsEntidade": "BestPapaya - Internacional Lda",
+                    "rgsAreaActividade": "Consultoria",
+                    "rgsLocalSede": "Lisboa",
+                    "rgsPartiSocial": "50% do Capital Social \n50% Do capital Social Cônjuge"
                   }
                 ]
               },
@@ -48965,9 +49366,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7168",
+              "rgiId": "8688",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-09-15",
+              "rgiDataVersao": "2018-05-24",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado Assembleia da República",
@@ -48978,55 +49379,55 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7053",
+                    "rgaId": "8553",
                     "rgaActividade": "Secretário de Estado dos Negócios Estrangeiros e da Cooperação no XIX Governo Constitucional",
                     "rgaDataInicio": "2013-07-26",
                     "rgaDataFim": "2015-10-29",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7054",
+                    "rgaId": "8554",
                     "rgaActividade": "Deputado na XII Legislatura",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2013-07-26",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7055",
+                    "rgaId": "8555",
                     "rgaActividade": "Presidente da Comissão de Obras Públicas",
                     "rgaDataInicio": "2011-07-06",
                     "rgaDataFim": "2013-07-26",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7056",
+                    "rgaId": "8556",
                     "rgaActividade": "Membro da Assembleia Parlamentar da OSCE",
                     "rgaDataInicio": "2009-11-01",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7057",
+                    "rgaId": "8557",
                     "rgaActividade": "Articulista para o Correio da Manhã",
                     "rgaDataInicio": "2016-09-01",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7058",
+                    "rgaId": "8558",
                     "rgaActividade": "Comentador da CMTV",
                     "rgaDataInicio": "2016-09-01",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7059",
+                    "rgaId": "8559",
                     "rgaActividade": "Consultor técnico para a área da internacionalização da CJR Renewables SGPS, SA",
                     "rgaDataInicio": "2017-03-06",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7060",
+                    "rgaId": "8560",
                     "rgaActividade": "Consultor de comunicação e internacionalização da MAIO CLINIC-Especialidades Médicas, S.A.",
                     "rgaDataInicio": "2017-05-01",
-                    "rgaDataFim": "2019-04-30",
+                    "rgaDataFim": "2018-04-30",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -49034,7 +49435,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "5798",
+                    "rgcId": "6918",
                     "rgcCargo": "Presidente da Mesa da Assembleia Geral",
                     "rgcEntidade": "CJR Renewables SGPS, SA",
                     "rgcAreaActividade": "Energias renováveis",
@@ -49042,7 +49443,7 @@
                     "rgcDataInicio": "2017-03-01"
                   },
                   {
-                    "rgcId": "5799",
+                    "rgcId": "6919",
                     "rgcCargo": "Membro do Conselho Leonino",
                     "rgcEntidade": "Sporting Clube de Portugal",
                     "rgcAreaActividade": "Desporto",

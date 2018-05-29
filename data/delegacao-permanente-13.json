@@ -939,6 +939,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Sessão da Primavera",
+              "tipo": "REN",
+              "local": "Varsóvia",
+              "dataInicio": "25-05-2018",
+              "dataFim": "28-05-2018",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Subcomissão para a Governação Democrática da Comissão para a Dimensão Civil da Segurança",
               "tipo": "REN",
               "local": "Oslo, Bodo e Evenes",
@@ -1135,14 +1143,6 @@
               }
             },
             {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
-            },
-            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1194,6 +1194,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
@@ -1379,14 +1387,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
-              "tipo": "REN",
-              "local": "Berlim e Bremen",
-              "dataInicio": "13-11-2017",
-              "dataFim": "17-11-2017",
-              "participantes": null
-            },
-            {
               "nome": "Visita da Comissão para a Dimensão Civil da Segurança da APNATO",
               "tipo": "REN",
               "local": "Kwait",
@@ -1410,6 +1410,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
+              "tipo": "REN",
+              "local": "Berlim e Bremen",
+              "dataInicio": "13-11-2017",
+              "dataFim": "17-11-2017",
+              "participantes": null
             },
             {
               "nome": "96º Seminário Rose-Roth",
@@ -2576,6 +2584,22 @@
         },
         "reunioes": {
           "Reuniao": [
+            {
+              "nome": "2ª Reunião Preparatória do FórumEconómico e Ambiental",
+              "tipo": "REN",
+              "local": "Veneza",
+              "dataInicio": "24-05-2018",
+              "dataFim": "25-05-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "NILZA DE SENA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4326"
+                }
+              }
+            },
             {
               "nome": "Reunião do Bureau",
               "tipo": "REN",
@@ -4482,6 +4506,87 @@
               }
             },
             {
+              "nome": "Reunião da Comissão Permanente e da Comissão ad hoc do Bureau",
+              "tipo": "REN",
+              "local": "Zagreb",
+              "dataInicio": "01-06-2018",
+              "dataFim": "01-06-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Conferência sobre \"Cooperação transfronteiriça na Europa: Descentralização, quadros legais e práticos\"",
+              "tipo": "REN",
+              "local": "Dubrovnik",
+              "dataInicio": "25-05-2018",
+              "dataFim": "25-05-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Conferência sobre \"Cooperação transfronteiriça na Europa: descentralização, quadros legais a práticos\"",
+              "tipo": "REN",
+              "local": "Dubrovnik",
+              "dataInicio": "23-05-2018",
+              "dataFim": "23-05-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Assuntos Políticos e Democracia",
+              "tipo": "REN",
+              "local": "Atenas",
+              "dataInicio": "22-05-2018",
+              "dataFim": "22-05-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
+                }
+              }
+            },
+            {
+              "nome": "Fórum Anual das Diásporas e Reunião da Subcomissão sobre as Diásporas da Comissão de Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "18-05-2018",
+              "dataFim": "18-05-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS ALBERTO GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1458"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PAULO PISCO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1741"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "2ª. Parte da Sessão Plenária de 2018",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -5069,14 +5174,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
-            },
-            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -5091,6 +5188,14 @@
                   "id": "3"
                 }
               }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -5702,22 +5807,6 @@
               }
             },
             {
-              "nome": "Reunião da Subcomissão de Relações Externas da Comissão de Assuntos Políticos e Democracia",
-              "tipo": "REN",
-              "local": "Nova Iorque",
-              "dataInicio": "07-12-2016",
-              "dataFim": "09-12-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -5730,6 +5819,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Subcomissão de Relações Externas da Comissão de Assuntos Políticos e Democracia",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "07-12-2016",
+              "dataFim": "09-12-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -5987,22 +6092,6 @@
               }
             },
             {
-              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
-              "tipo": "RNI",
-              "local": "Assembleia da República-Sala D. Maria",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -6015,6 +6104,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
+              "tipo": "RNI",
+              "local": "Assembleia da República-Sala D. Maria",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -6772,6 +6877,22 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Fórum Internacional para o Desenvolvimento do Parlamentarismo",
+              "tipo": "REN",
+              "local": "Moscovo",
+              "dataInicio": "04-06-2018",
+              "dataFim": "05-06-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Sessão da Primavera da AP-NATO",
+              "tipo": "REN",
+              "local": "Varsóvia",
+              "dataInicio": "26-05-2018",
+              "dataFim": "28-05-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião na sede das Nações Unidas com Altas Entidades, incluindo o Secretário-Geral da Organização, António Guterres e participação na Global Parliamentary Conference 2017 do Fundo Monetário Internacional e do Banco Mundial",
               "tipo": "REN",
               "local": "Nova Iorque e Washington DC",
@@ -6899,22 +7020,6 @@
               }
             },
             {
-              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
-              "tipo": "REN",
-              "local": "Argel",
-              "dataInicio": "20-01-2018",
-              "dataFim": "21-01-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "GABRIELA CANAVILHAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1851"
-                }
-              }
-            },
-            {
               "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
               "tipo": "REN",
               "local": "Argel e Estrasburgo",
@@ -6927,6 +7032,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
+              "tipo": "REN",
+              "local": "Argel",
+              "dataInicio": "20-01-2018",
+              "dataFim": "21-01-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "GABRIELA CANAVILHAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1851"
                 }
               }
             },
@@ -7043,22 +7164,6 @@
               }
             },
             {
-              "nome": "26ª Conferência Parlamentar do Mar Báltico e Reunião de trabalho no Parlamento da Sérvia",
-              "tipo": "REN",
-              "local": "Hamburgo e Belgrado",
-              "dataInicio": "03-09-2017",
-              "dataFim": "08-09-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO ROQUE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1992"
-                }
-              }
-            },
-            {
               "nome": "26ª Conferência Parlamentar do Mar Báltico",
               "tipo": "REN",
               "local": "Hamburgo",
@@ -7071,6 +7176,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1679"
+                }
+              }
+            },
+            {
+              "nome": "26ª Conferência Parlamentar do Mar Báltico e Reunião de trabalho no Parlamento da Sérvia",
+              "tipo": "REN",
+              "local": "Hamburgo e Belgrado",
+              "dataInicio": "03-09-2017",
+              "dataFim": "08-09-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
                 }
               }
             },
@@ -7760,6 +7881,22 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião \"The role of Parliamentarians in achieving universal health coverage and global health security as two sides of the same coin\"",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "25-05-2018",
+              "dataFim": "25-05-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Seminário \"Cooperação parlamentar para o desenvolvimento sustentável: combate à pobreza e promoção da saúde\"",
+              "tipo": "REN",
+              "local": "Belgrado",
+              "dataInicio": "24-05-2018",
+              "dataFim": "25-05-2018",
+              "participantes": null
+            },
+            {
               "nome": "138ª Assembleia Geral da UIP; Comissões Permanentes e Gupo Geopolítico dos Doze Mais",
               "tipo": "REN",
               "local": "Genebra",
@@ -7975,22 +8112,6 @@
               "participantes": null
             },
             {
-              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "14-10-2017",
-              "dataFim": "18-10-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RICARDO BAPTISTA LEITE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4441"
-                }
-              }
-            },
-            {
               "nome": "137ª  Assembleia da União Interparlamentar, Grupo dos 12+  e reuniões conexas",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -8048,6 +8169,22 @@
                     "id": "1897"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "14-10-2017",
+              "dataFim": "18-10-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RICARDO BAPTISTA LEITE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4441"
+                }
               }
             },
             {
