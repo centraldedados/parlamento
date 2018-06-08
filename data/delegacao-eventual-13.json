@@ -5681,9 +5681,9 @@
         "participantes": null
       },
       {
-        "id": "1732",
-        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
-        "local": "Bruxelas",
+        "id": "1733",
+        "nome": "Reunião dos Correspondentes do IPEX",
+        "local": "Bratislava",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-15",
@@ -5691,9 +5691,9 @@
         "participantes": null
       },
       {
-        "id": "1733",
-        "nome": "Reunião dos Correspondentes do IPEX",
-        "local": "Bratislava",
+        "id": "1732",
+        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-15",
@@ -5729,51 +5729,6 @@
         "dataInicio": "2017-11-20",
         "dataFim": "2017-11-21",
         "participantes": null
-      },
-      {
-        "id": "1742",
-        "nome": "Reunião Interp organizada pela Com. dos Direitos das Mulheres e Igualdade de Género (FEMM) do PE, subordinada ao tema - Convenção de istambul: combater a violência contra a mulher ao nível nacional e da UE",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "ÂNGELA GUERRA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "4031"
-            },
-            {
-              "tipo": "D",
-              "nome": "ELZA PAIS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "4209"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1743",
-        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
       },
       {
         "id": "1740",
@@ -5818,6 +5773,51 @@
               "id": "1700"
             }
           ]
+        }
+      },
+      {
+        "id": "1742",
+        "nome": "Reunião Interp organizada pela Com. dos Direitos das Mulheres e Igualdade de Género (FEMM) do PE, subordinada ao tema - Convenção de istambul: combater a violência contra a mulher ao nível nacional e da UE",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "ÂNGELA GUERRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4031"
+            },
+            {
+              "tipo": "D",
+              "nome": "ELZA PAIS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "4209"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1743",
+        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
         }
       },
       {
@@ -6466,61 +6466,6 @@
         }
       },
       {
-        "id": "1771",
-        "nome": "Conferência sobre o Semestre Europeu - Conferência interparlamentar sobre Estabilidade, Coordenação Económica e Governação na União Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-19",
-        "dataFim": "2018-02-20",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARIA LUÍS ALBUQUERQUE",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "4380"
-            },
-            {
-              "tipo": "D",
-              "nome": "MARGARIDA MANO",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "5617"
-            },
-            {
-              "tipo": "D",
-              "nome": "JOANA BARATA LOPES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "4436"
-            },
-            {
-              "tipo": "D",
-              "nome": "JOÃO PAULO CORREIA",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "2129"
-            },
-            {
-              "tipo": "D",
-              "nome": "SOFIA ARAÚJO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "6049"
-            },
-            {
-              "tipo": "D",
-              "nome": "MARGARIDA MARQUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "3339"
-            }
-          ]
-        }
-      },
-      {
         "id": "1779",
         "nome": "Visita de Estado de Sua Excelência o Presidente da República à República Democrática de s. Tomé e Príncipe",
         "local": "São Tomé",
@@ -6576,6 +6521,61 @@
         }
       },
       {
+        "id": "1771",
+        "nome": "Conferência sobre o Semestre Europeu - Conferência interparlamentar sobre Estabilidade, Coordenação Económica e Governação na União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-19",
+        "dataFim": "2018-02-20",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARIA LUÍS ALBUQUERQUE",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4380"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MANO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5617"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOANA BARATA LOPES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4436"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO PAULO CORREIA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2129"
+            },
+            {
+              "tipo": "D",
+              "nome": "SOFIA ARAÚJO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6049"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            }
+          ]
+        }
+      },
+      {
         "id": "1770",
         "nome": "Knesset Conference for Directors General and Secretaries General",
         "local": "Jerusalém",
@@ -6604,24 +6604,6 @@
         }
       },
       {
-        "id": "1781",
-        "nome": "Reunião interparalamentar organizada pela Comissão LIBE do Parlamento Europeu",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-27",
-        "dataFim": "2018-02-27",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "CONSTANÇA URBANO DE SOUSA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "5932"
-          }
-        }
-      },
-      {
         "id": "1782",
         "nome": "Reunião interparlamentar sobre \"Os pactos das Nações Unidas para os Refugiados e Migrantes: o papel dos Parlamentos\"",
         "local": "Bruxelas",
@@ -6636,6 +6618,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "5749"
+          }
+        }
+      },
+      {
+        "id": "1781",
+        "nome": "Reunião interparalamentar organizada pela Comissão LIBE do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-27",
+        "dataFim": "2018-02-27",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "CONSTANÇA URBANO DE SOUSA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "5932"
           }
         }
       },
@@ -6708,14 +6708,22 @@
         }
       },
       {
-        "id": "1780",
-        "nome": "Ação de formação sobre métodos de organização de apoio aos trabalhos parlamentares",
-        "local": "Paris",
+        "id": "1789",
+        "nome": "European Affairs Network of the EPP Group",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2018-03-05",
-        "dataFim": "2018-03-09",
-        "participantes": null
+        "dataFim": "2018-03-05",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO MOTA SOARES",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "1102"
+          }
+        }
       },
       {
         "id": "1785",
@@ -6736,22 +6744,14 @@
         }
       },
       {
-        "id": "1789",
-        "nome": "European Affairs Network of the EPP Group",
-        "local": "Bruxelas",
+        "id": "1780",
+        "nome": "Ação de formação sobre métodos de organização de apoio aos trabalhos parlamentares",
+        "local": "Paris",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2018-03-05",
-        "dataFim": "2018-03-05",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO MOTA SOARES",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "1102"
-          }
-        }
+        "dataFim": "2018-03-09",
+        "participantes": null
       },
       {
         "id": "1784",
@@ -6779,16 +6779,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1787",
-        "nome": "Reunião \"Network of Public Finance Economists\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-03-12",
-        "dataFim": "2018-03-12",
-        "participantes": null
       },
       {
         "id": "1790",
@@ -6830,6 +6820,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1787",
+        "nome": "Reunião \"Network of Public Finance Economists\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-03-12",
+        "dataFim": "2018-03-12",
+        "participantes": null
       },
       {
         "id": "1794",
@@ -7229,6 +7229,24 @@
         }
       },
       {
+        "id": "1807",
+        "nome": "Celebrações do aniversário da revolução do 25 de abril, a convite da Comissão \" Ad-Hoc\" das comemorações do 25 de abril em Macau",
+        "local": "Macau",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-04-21",
+        "dataFim": "2018-04-30",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO SOARES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1814"
+          }
+        }
+      },
+      {
         "id": "1803",
         "nome": "Seminário - Permanent Structured Cooperation and the future of European Defense: an exchange of views between European Parliamentary Research Services.\n",
         "local": "Bruxelas",
@@ -7441,6 +7459,64 @@
         "participantes": null
       },
       {
+        "id": "1819",
+        "nome": "107ª Sessão da Conferência Internacional do Trabalho - OIT",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-05-28",
+        "dataFim": "2018-06-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "SANDRA PEREIRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5749"
+            },
+            {
+              "tipo": "D",
+              "nome": "SOFIA ARAÚJO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6049"
+            },
+            {
+              "tipo": "D",
+              "nome": "LUÍS MONTEIRO",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5949"
+            },
+            {
+              "tipo": "D",
+              "nome": "FILIPE ANACORETA CORREIA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "5751"
+            },
+            {
+              "tipo": "D",
+              "nome": "RITA RATO",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "4104"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1817",
+        "nome": "Seminário do CERDP \"How is the beginning of an electoral term organised\"",
+        "local": null,
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-05-31",
+        "dataFim": "2018-06-01",
+        "participantes": null
+      },
+      {
         "id": "1815",
         "nome": "Participação no \"II Group Med Meeting\"",
         "local": "Granada",
@@ -7459,32 +7535,218 @@
         }
       },
       {
-        "id": "1817",
-        "nome": "Seminário do CERDP \"How is the beginning of an electoral term organised\"",
-        "local": null,
+        "id": "1824",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2018-05-31",
-        "dataFim": "2018-06-01",
+        "dataInicio": "2018-06-01",
+        "dataFim": "2018-06-30",
         "participantes": null
       },
       {
-        "id": "1807",
-        "nome": "Celebrações do aniversário da revolução do 25 de abril, a convite da Comissão \" Ad-Hoc\" das comemorações do 25 de abril em Macau",
-        "local": "Macau",
+        "id": "1821",
+        "nome": "European Roundtable 2018 - \"Nacionalism and the European Unin\"",
+        "local": "Barcelona",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2019-04-21",
-        "dataFim": "2019-04-30",
+        "dataInicio": "2018-06-01",
+        "dataFim": "2018-06-03",
         "participantes": {
           "Participante": {
             "tipo": "D",
-            "nome": "JOÃO SOARES",
-            "gp": "PS",
+            "nome": "PEDRO MOTA SOARES",
+            "gp": "CDS-PP",
             "leg": "XIII",
-            "id": "1814"
+            "id": "1102"
           }
         }
+      },
+      {
+        "id": "1820",
+        "nome": "Participação na conferência \"Preparing Supervisory Reporting for the Digital Age\" e no Fórum Económico .",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-04",
+        "dataFim": "2018-06-05",
+        "participantes": null
+      },
+      {
+        "id": "1823",
+        "nome": "Participação no \"International Forum of Parliament Visitors Centres\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-06",
+        "dataFim": "2018-06-08",
+        "participantes": null
+      },
+      {
+        "id": "1818",
+        "nome": "Cimeira da WPL \"Women Political Leaders Global Forum Foundation\" e Workshop \"Gender-Sensitive Parliaments Online Tool\"",
+        "local": "Vilnius",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-06",
+        "dataFim": "2018-06-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "SANDRA CUNHA",
+            "gp": "BE",
+            "leg": "XIII",
+            "id": "4196"
+          }
+        }
+      },
+      {
+        "id": "1828",
+        "nome": "Participação como orador no \"2nd HCV Policy Summit on the Elimination of Hepatitis C in Europe\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-06",
+        "dataFim": "2018-06-06",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
+      },
+      {
+        "id": "1827",
+        "nome": "Celebrações do Dia de Portugal",
+        "local": "Palm Coast, Florida",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-07",
+        "dataFim": "2018-06-12",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "DUARTE PACHECO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "42"
+          }
+        }
+      },
+      {
+        "id": "1822",
+        "nome": "Fórum PAPS 2018 \"PAPS 20 Years: Sailing into the Future\"",
+        "local": "Boston",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-09",
+        "dataFim": "2018-06-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ALEXANDRE QUINTANILHA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "5930"
+          }
+        }
+      },
+      {
+        "id": "1825",
+        "nome": "Participação na Conferência 2018 du CCRE \"Égalité, diversité et inclusion\"",
+        "local": "Bilbao",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-11",
+        "dataFim": "2018-06-13",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDITE ESTRELA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "162"
+          }
+        }
+      },
+      {
+        "id": "1829",
+        "nome": "Conferência sobre \"Populismo, Refugiados e Imigração\"",
+        "local": null,
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-14",
+        "dataFim": "2018-06-15",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
+          }
+        }
+      },
+      {
+        "id": "1826",
+        "nome": "Participação na LIX COSAC",
+        "local": "Sofia",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-17",
+        "dataFim": "2018-06-19",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "REGINA BASTOS",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "2106"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA LUÍS ALBUQUERQUE",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4380"
+            },
+            {
+              "tipo": "D",
+              "nome": "CONSTANÇA URBANO DE SOUSA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5932"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO PINHO DE ALMEIDA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1657"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1830",
+        "nome": "Participação no Seminário do ECPRD \"Parliamentary Research in a digital age\"",
+        "local": "Londres",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-21",
+        "dataFim": "2018-06-23",
+        "participantes": null
       }
     ]
   }

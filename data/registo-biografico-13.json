@@ -2346,16 +2346,16 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4724",
-                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
-                  "orgSigla": "GT-PACRP",
+                  "orgId": "5084",
+                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
+                  "orgSigla": "GT-SL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5084",
-                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
-                  "orgSigla": "GT-SL",
+                  "orgId": "4724",
+                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
+                  "orgSigla": "GT-PACRP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -2451,9 +2451,9 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -2574,18 +2574,32 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6404",
-                "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
-                "orgSigla": "GT-ILDC",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6404",
+                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
+                  "orgSigla": "GT-ILDC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
                 }
-              }
+              ]
             }
           }
         },
@@ -3378,6 +3392,15 @@
                   "timDes": "Efetivo"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4804",
+                "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
+                "orgSigla": "GT-HRUPC",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -3775,6 +3798,20 @@
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -5321,6 +5358,13 @@
                   "timDes": "Suplente"
                 },
                 {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
@@ -5511,13 +5555,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6224",
-                "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
-                "orgSigla": "GT-RPCFA",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6224",
+                  "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
+                  "orgSigla": "GT-RPCFA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -6225,13 +6278,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6444",
                   "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
@@ -6550,6 +6596,15 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6705",
+                "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                "orgSigla": "GT-RGPD",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -8424,6 +8479,13 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -8530,13 +8592,6 @@
                   "orgId": "5164",
                   "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites",
                   "orgSigla": "GT-APSH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -10225,13 +10280,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
@@ -10491,6 +10539,13 @@
                   "orgSigla": "GT-TBL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -10570,13 +10625,6 @@
                   "orgId": "4564",
                   "orgDes": "Grupo de Trabalho Parlamento dos Jovens",
                   "orgSigla": "GT-PJ",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4804",
-                  "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
-                  "orgSigla": "GT-HRUPC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -11570,6 +11618,18 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -12050,13 +12110,6 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12275,13 +12328,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "24520",
+                "habId": "26240",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "24521",
+                "habId": "26241",
                 "habDes": "Pós-graduação em Direito da Comunicação (Instituto Jurídico da Comunicação - Faculdade de Direito da Universidade de Coimbra)",
                 "habTipoId": "16"
               }
@@ -12290,33 +12343,27 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28296",
+                "funId": "29916",
                 "funDes": "Membro do Conselho de Fiscalização do Sistema de Informações da República",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28297",
+                "funId": "29917",
                 "funDes": "Vice-presidente do Grupo Parlamentar do Partido Socialista",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28298",
-                "funDes": "Membro do Secretariado Nacional do Partido Socialista",
-                "funOrdem": "3",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "28299",
+                "funId": "29918",
                 "funDes": "Membro do Conselho de Acompanhamento dos Julgados de Paz (Outubro de 2009 - Fevereiro de 2016)",
-                "funOrdem": "4",
+                "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "28300",
+                "funId": "29919",
                 "funDes": "Membro da Comissão para a Fiscalização do Segredo de Estado (Novembro de 2011 - Setembro de 2014)",
-                "funOrdem": "5",
+                "funOrdem": "4",
                 "funAntiga": "S"
               }
             ]
@@ -13743,6 +13790,13 @@
                   "orgSigla": "GT-TAL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -15026,9 +15080,9 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15209,13 +15263,6 @@
                   "orgId": "6244",
                   "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
                   "orgSigla": "GT-DG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -16216,6 +16263,20 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6684",
+                "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                "orgSigla": "GT-TLDP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -18410,6 +18471,13 @@
                   "orgId": "6204",
                   "orgDes": "Grupo de Trabalho - Temática das Bactérias de Legionella",
                   "orgSigla": "GT-TBL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -21785,6 +21853,20 @@
                   "orgSigla": "GT-IP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -23278,7 +23360,7 @@
           "cadNomeCompleto": "LUÍS ÁLVARO BARBOSA DE CAMPOS FERREIRA",
           "cadDtNascimento": "1961-11-26",
           "cadSexo": "M",
-          "cadProfissao": "Gestor e jurista",
+          "cadProfissao": "Gestor",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -23331,13 +23413,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "23740",
+                "habId": "26220",
                 "habDes": "Licenciatura em Direito (Universidade Católica Portuguesa); Estudos Superiores em Comunicação Social",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "23741",
+                "habId": "26221",
                 "habDes": "Estudos Superiores em Comunicação Social (C. F. J.)",
                 "habTipoId": "16"
               }
@@ -23346,25 +23428,25 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "27456",
+                "funId": "29896",
                 "funDes": "- Deputado na XIII Legislatura;\n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "27457",
+                "funId": "29897",
                 "funDes": "- Membro da Assembleia Parlamentar da Organização para a Segurança e Cooperação na Europa.",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "27458",
+                "funId": "29898",
                 "funDes": "- SE dos Negócios Estrangeiros e Cooperação XIX e XX Governos;\n- Deputado na IX, X,  XI e XII Legislaturas;\n- Presidente da CEOP\n- Vice-Presidente do GP/PSD;\n- Presidente da SPDFCS;\n- Presidente do Conselho de Direcção do Canal Parlamento;\n- Director do Jornal \"Povo Livre\";\n- Secretário-Geral Adjunto do PSD;\n- Coordenador do GP/PSD da Comissão Parlamentar de Defesa Nacional;\n- Presidente do Conselho de Direcção do Canal Parlamento;\n- Membro (supl.) do Conselho Superior de Informações;\n",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "27459",
+                "funId": "29899",
                 "funDes": "- Membro da Assembleia Parlamentar do Conselho da Europa; \n- Vereador da CM de Valença do Minho - sem pelouro.\n- Membro da Assembleia Parlamentar da OSCE",
                 "funOrdem": "4",
                 "funAntiga": "S"
@@ -26060,13 +26142,6 @@
                   "orgSigla": "GT-TVTD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -26671,13 +26746,22 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4705",
-                "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
-                "orgSigla": "GT-ATCE",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4804",
+                  "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
+                  "orgSigla": "GT-HRUPC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4705",
+                  "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
+                  "orgSigla": "GT-ATCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -27103,6 +27187,13 @@
                   "orgSigla": "GT-PAC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -27381,13 +27472,6 @@
                   "timDes": "Suplente"
                 },
                 {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4530",
                   "orgDes": "Comissão de Agricultura e Mar",
                   "orgSigla": "CAM",
@@ -27656,13 +27740,6 @@
                   "orgId": "5464",
                   "orgDes": "Grupo de Trabalho - Atos de Profissionais da Àrea da Saúde (PPL n.º 34/XIII/2.ª)",
                   "orgSigla": "GT-APAS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -28505,6 +28582,13 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -29012,18 +29096,6 @@
                   "orgSigla": "GT-SP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6344",
-                  "orgDes": "Grupo de Trabalho - Utilização da canábis para fins medicinais (PJL n.º 726/XIII/3.ª BE e PJL n.º 727/XIII/3.ª PAN)",
-                  "orgSigla": "GT-UCFM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 },
                 {
                   "orgId": "6444",
@@ -30489,6 +30561,13 @@
                   "orgId": "6184",
                   "orgDes": "Grupo de Trabalho - Revisão da Convenção de Albufeira",
                   "orgSigla": "GT-RCA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -32005,6 +32084,13 @@
                   "orgId": "6424",
                   "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
                   "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -38229,6 +38315,20 @@
                   "orgId": "6164",
                   "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
                   "orgSigla": "GT-ALN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6704",
+                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
+                  "orgSigla": "GT-RMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -45565,58 +45665,64 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8608",
+              "rgiId": "8748",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-04-26",
+              "rgiDataVersao": "2018-06-07",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado da Assembleia da República na XIII Legislatura",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Senhas de presença resultantes da função de Vereador da Câmara Municipal de Braga. ",
+              "rgiApoiosBeneficios": "Senhas de presença resultantes da função de Gerente da CRIAT, Unipessoal Lda.",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8473",
+                    "rgaId": "8613",
                     "rgaActividade": "Vereador da Câmara municipal de Braga, em regime de permanência- a tempo inteiro\n",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8474",
+                    "rgaId": "8614",
                     "rgaActividade": "Vereador da Câmara municipal de Braga ",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8475",
+                    "rgaId": "8615",
                     "rgaActividade": "Sócio-gerente da empresa CRIAT, Unipessoal Lda. ",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8616",
+                    "rgaActividade": "Gerente da CRIAT, Unipessoal Lda.",
+                    "rgaDataInicio": "2018-04-01",
+                    "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "4295",
+                    "rgsId": "4415",
                     "rgsEntidade": "Sushi`n, comércio de restauração e bebidas lda. ",
                     "rgsAreaActividade": "Restauração e bebidas ",
                     "rgsLocalSede": "Ruas das Alminhas Nogueiró nº3 - Braga ",
                     "rgsPartiSocial": "50%"
                   },
                   {
-                    "rgsId": "4296",
+                    "rgsId": "4416",
                     "rgsEntidade": "CRIAT, Unipessoal lda",
                     "rgsAreaActividade": "Arquitetura, Engenharia e Construção  ",
                     "rgsLocalSede": "Rua dr. Francisco Duarte 289, 5º esquerdo - Braga ",
                     "rgsPartiSocial": "100%"
                   },
                   {
-                    "rgsId": "4297",
+                    "rgsId": "4417",
                     "rgsEntidade": "CRIAT, imobiliária ",
                     "rgsAreaActividade": "Investimentos Imobiliários ",
                     "rgsLocalSede": "Praça do Comércio - Amares ",
@@ -46560,7 +46666,89 @@
           "cadNomeCompleto": "JOÃO PEDRO GUIMARÃES GONÇALVES PEREIRA",
           "cadActividadeProfissional": "Consultor",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "8728",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-05-29",
+              "rgiRegimeBensId": "1",
+              "rgiRegimeBensDes": "Comunhão de adquiridos",
+              "rgiCargoDes": "Deputado XIII Legislatura",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": " Câmara Municipal de Lisboa (Senhas de Presença)",
+              "rgiServicosPrestados": "Consultor na Sociedade \"Intermoney Valores, S.V., S.A. - Sucursal em Portugal",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8593",
+                    "rgaActividade": "Vereador na Câmara Municipal de Lisboa ",
+                    "rgaDataInicio": "2013-10-24",
+                    "rgaDataFim": "2017-10-26",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8594",
+                    "rgaActividade": "Conselheiro Leonino - Sporting Clube de Portugal",
+                    "rgaDataInicio": "2013-03-24",
+                    "rgaDataFim": "2018-05-17",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8595",
+                    "rgaActividade": "Responsável de Comunicação e Imagem, na SIMTEJO,SA",
+                    "rgaDataInicio": "2005-01-01",
+                    "rgaDataFim": "2011-06-20",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8596",
+                    "rgaActividade": "Coordenador Gabinete de Vereação do CDS-PP na Câmara Municipal de Lisboa",
+                    "rgaDataInicio": "2009-11-01",
+                    "rgaDataFim": "2011-06-20",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8597",
+                    "rgaActividade": "Consultor na Sociedade \"Intermoney Valores, S.V., S.A. - Sucursal em Portugal",
+                    "rgaDataInicio": "2013-12-01",
+                    "rgaDataFim": "2017-03-01",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8598",
+                    "rgaActividade": "Gerente da ATTRIBUTEQUATION,Lda",
+                    "rgaDataInicio": "2014-04-09",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8599",
+                    "rgaActividade": "Aguas do Tejo Atlântico - Direcção de Comunicação e  Desenvolvimento",
+                    "rgaDataInicio": "2017-06-01",
+                    "rgaDataFim": "2018-03-24",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8600",
+                    "rgaActividade": "Vereador na Câmara Municipal de Lisboa ",
+                    "rgaDataInicio": "2017-10-26",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiSociedades": {
+                "pt_ar_wsgode_objectos_DadosRgiSociedades": {
+                  "rgsId": "4395",
+                  "rgsEntidade": "ATTRIBUTEQUATION, Lda",
+                  "rgsAreaActividade": "Consultadoria",
+                  "rgsLocalSede": "Lisboa",
+                  "rgsPartiSocial": "50% do Capital Social"
+                }
+              },
+              "rgiCadId": "2867"
+            }
+          }
         },
         {
           "cadId": "64",
@@ -49361,7 +49549,7 @@
         {
           "cadId": "1998",
           "cadNomeCompleto": "LUÍS ÁLVARO BARBOSA DE CAMPOS FERREIRA",
-          "cadActividadeProfissional": "Gestor e jurista",
+          "cadActividadeProfissional": "Gestor",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {

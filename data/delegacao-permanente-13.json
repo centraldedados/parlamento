@@ -939,6 +939,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião conjunta APNATO - Parlamento Europeu",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "04-06-2018",
+              "dataFim": "05-06-2018",
+              "participantes": null
+            },
+            {
               "nome": "Sessão da Primavera",
               "tipo": "REN",
               "local": "Varsóvia",
@@ -1143,6 +1151,14 @@
               }
             },
             {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
+            },
+            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1194,14 +1210,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
@@ -2222,6 +2230,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Subcomissão para a Cooperação Transatlântica em Matéria de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Tallin e Hensínquia",
+              "dataInicio": "11-06-2016",
+              "dataFim": "15-06-2016",
+              "participantes": null
             },
             {
               "nome": "Sessão de Primavera (sessão plenária)",
@@ -4504,6 +4520,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Comissão das Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "04-06-2018",
+              "dataFim": "04-06-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião da Comissão Permanente e da Comissão ad hoc do Bureau",
