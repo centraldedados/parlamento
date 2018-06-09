@@ -2159,24 +2159,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "3",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Anúncio",
-                    "pubdt": "2004-09-18",
-                    "pag": {
-                      "string": "116-116"
-                    },
-                    "idPag": "292542",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/003/2004-09-18/116?pgs=116&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "2",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2192,6 +2174,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/002/2004-09-17/110?pgs=110&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "3",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Anúncio",
+                    "pubdt": "2004-09-18",
+                    "pag": {
+                      "string": "116-116"
+                    },
+                    "idPag": "292542",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/003/2004-09-18/116?pgs=116&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3298,7 +3298,7 @@
               "4760"
             ]
           },
-          "orgaoExterior": "Comissão Nacional de Protecção de Dados",
+          "orgaoExterior": "Comissão Nacional de Proteção de Dados (CNPD)",
           "numero": "160662",
           "autoresGP": {
             "string": null
@@ -3488,7 +3488,7 @@
               "4759"
             ]
           },
-          "orgaoExterior": "Conselho Nacional de Ética para as Ciências da Vida",
+          "orgaoExterior": "Conselho Nacional de Ética para as Ciências da Vida (CNECV)",
           "numero": "160660",
           "autoresGP": {
             "string": null
@@ -4110,6 +4110,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "110",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2003-04-11",
+                    "pag": {
+                      "string": "4618-4619"
+                    },
+                    "idPag": "277176",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/110/2003-04-11/4618?pgs=4618-4619&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "111",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -4125,23 +4142,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/111/2003-04-12/4694?pgs=4694-4695&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "110",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2003-04-11",
-                    "pag": {
-                      "string": "4618-4619"
-                    },
-                    "idPag": "277176",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/110/2003-04-11/4618?pgs=4618-4619&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -25842,37 +25842,6 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
-              "IDAudicao": "72216",
-              "numeroAudicao": "3-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-06-26"
-            },
-            {
-              "IDAudicao": "72215",
-              "numeroAudicao": "2-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Comunicações",
-              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
-              "data": "2002-06-18"
-            },
-            {
-              "IDAudicao": "72214",
-              "numeroAudicao": "1-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-05-28"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
               "IDAudicao": "72204",
               "numeroAudicao": "3-ACDLG-IX",
               "legislatura": "IX",
@@ -25898,6 +25867,37 @@
               "assunto": "SERVIÇO PÚBLICO DE TELEVISÃO",
               "entidades": "Ministro da Presidência, Dr. Nuno Albuquerque Morais Sarmento",
               "data": "2002-05-14"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "72216",
+              "numeroAudicao": "3-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-06-26"
+            },
+            {
+              "IDAudicao": "72215",
+              "numeroAudicao": "2-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Comunicações",
+              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
+              "data": "2002-06-18"
+            },
+            {
+              "IDAudicao": "72214",
+              "numeroAudicao": "1-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-05-28"
             }
           ]
         },
@@ -27494,18 +27494,6 @@
     "Audiencias": {
       "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
-            "IDAudiencia": "72227",
-            "numeroAudiencia": "1-OPTC-IX",
-            "legislatura": "IX",
-            "sessaoLegislativa": "1",
-            "assunto": "Aeroporto na OTA e traçado do TGV",
-            "entidades": "Movimento Pró-Aeroporto Na Ota",
-            "data": "2002-07-02",
-            "concedida": "Concedida"
-          }
-        },
-        {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
               "IDAudiencia": "72201",
@@ -27580,28 +27568,16 @@
           ]
         },
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "74217",
-              "numeroAudiencia": "2-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
-              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
-              "data": "2004-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73431",
-              "numeroAudiencia": "1-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
-              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
-              "data": "2003-06-25",
-              "concedida": "Concedida"
-            }
-          ]
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
+            "IDAudiencia": "72227",
+            "numeroAudiencia": "1-OPTC-IX",
+            "legislatura": "IX",
+            "sessaoLegislativa": "1",
+            "assunto": "Aeroporto na OTA e traçado do TGV",
+            "entidades": "Movimento Pró-Aeroporto Na Ota",
+            "data": "2002-07-02",
+            "concedida": "Concedida"
+          }
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
@@ -27873,6 +27849,30 @@
               "assunto": "Estatuto de integração social das Medicinas Alternativas e as perspectivas criadas face ao Projecto-Lei nº. 34/VIII",
               "entidades": "AMENA - Associação de Medicina Natural e Bioterapêuticas",
               "data": "2002-07-17",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "74217",
+              "numeroAudiencia": "2-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
+              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
+              "data": "2004-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73431",
+              "numeroAudiencia": "1-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
+              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
+              "data": "2003-06-25",
               "concedida": "Concedida"
             }
           ]
