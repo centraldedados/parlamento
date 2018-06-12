@@ -5608,6 +5608,24 @@
         }
       },
       {
+        "id": "1729",
+        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
+        "local": "Atenas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-09",
+        "dataFim": "2017-11-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
+          }
+        }
+      },
+      {
         "id": "1730",
         "nome": "Participação no III Grupo de Trabalho de Alto Nível dos PALOP e de Timor-Leste para Análise e Discussão da Fiscalização Legislativa ao longo do Ciclo Orçamental",
         "local": "Maputo",
@@ -5635,22 +5653,14 @@
         }
       },
       {
-        "id": "1729",
-        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
-        "local": "Atenas",
+        "id": "1736",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 4.2.6",
+        "local": "Pristina",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2017-11-09",
-        "dataFim": "2017-11-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDUARDO FERRO RODRIGUES",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "163"
-          }
-        }
+        "dataInicio": "2017-11-12",
+        "dataFim": "2017-11-15",
+        "participantes": null
       },
       {
         "id": "1745",
@@ -5671,13 +5681,13 @@
         }
       },
       {
-        "id": "1736",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 4.2.6",
-        "local": "Pristina",
+        "id": "1732",
+        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2017-11-12",
-        "dataFim": "2017-11-15",
+        "dataInicio": "2017-11-15",
+        "dataFim": "2017-11-16",
         "participantes": null
       },
       {
@@ -5691,18 +5701,8 @@
         "participantes": null
       },
       {
-        "id": "1732",
-        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-15",
-        "dataFim": "2017-11-16",
-        "participantes": null
-      },
-      {
-        "id": "1734",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.1.2",
+        "id": "1735",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.2.2",
         "local": "Pristina",
         "legislatura": "XIII",
         "sessao": "3",
@@ -5711,8 +5711,8 @@
         "participantes": null
       },
       {
-        "id": "1735",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.2.2",
+        "id": "1734",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.1.2",
         "local": "Pristina",
         "legislatura": "XIII",
         "sessao": "3",
@@ -5747,6 +5747,34 @@
             "id": "5952"
           }
         }
+      },
+      {
+        "id": "1743",
+        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
+        "id": "1739",
+        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-22",
+        "participantes": null
       },
       {
         "id": "1741",
@@ -5801,34 +5829,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1743",
-        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
-      },
-      {
-        "id": "1739",
-        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-22",
-        "participantes": null
       },
       {
         "id": "1737",
@@ -5899,24 +5899,6 @@
         }
       },
       {
-        "id": "1751",
-        "nome": "Fórum Parlamentar sobre Inteligência e Segurança",
-        "local": "Washington - E.U.A.",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-12-05",
-        "dataFim": "2017-12-08",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "SÉRGIO SOUSA PINTO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "1264"
-          }
-        }
-      },
-      {
         "id": "1753",
         "nome": "Congresso Internacional da International Diabetes Federation",
         "local": "AbuDhabi",
@@ -5931,6 +5913,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4441"
+          }
+        }
+      },
+      {
+        "id": "1751",
+        "nome": "Fórum Parlamentar sobre Inteligência e Segurança",
+        "local": "Washington - E.U.A.",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-12-05",
+        "dataFim": "2017-12-08",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "SÉRGIO SOUSA PINTO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1264"
           }
         }
       },
@@ -6292,6 +6292,24 @@
         "participantes": null
       },
       {
+        "id": "1776",
+        "nome": "Visita Oficial de Sua Excelência o Presidente da AR a  Marrocos, a convite do seu homólogo",
+        "local": "Casablanca",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-15",
+        "dataFim": "2018-02-17",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PATRÍCIA FONSECA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "6037"
+          }
+        }
+      },
+      {
         "id": "1769",
         "nome": "Conferência interparlamentar sobre a Política Externa e de Segurança Comum e sobre Política Comum de Segurança e Defesa (PESC-PCSD)",
         "local": "Sófia",
@@ -6344,42 +6362,6 @@
               "id": "209"
             }
           ]
-        }
-      },
-      {
-        "id": "1776",
-        "nome": "Visita Oficial de Sua Excelência o Presidente da AR a  Marrocos, a convite do seu homólogo",
-        "local": "Casablanca",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-15",
-        "dataFim": "2018-02-17",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PATRÍCIA FONSECA",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "6037"
-          }
-        }
-      },
-      {
-        "id": "1767",
-        "nome": "\"Interreligious Leadership Conference 2018\" \"Addressing the Critical of our Time: The Responsability of Parliamentarians and Religious Leaders\"",
-        "local": "Seul",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-18",
-        "dataFim": "2018-02-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "ÂNGELA GUERRA",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4031"
-          }
         }
       },
       {
@@ -6466,58 +6448,21 @@
         }
       },
       {
-        "id": "1779",
-        "nome": "Visita de Estado de Sua Excelência o Presidente da República à República Democrática de s. Tomé e Príncipe",
-        "local": "São Tomé",
+        "id": "1767",
+        "nome": "\"Interreligious Leadership Conference 2018\" \"Addressing the Critical of our Time: The Responsability of Parliamentarians and Religious Leaders\"",
+        "local": "Seul",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2018-02-19",
+        "dataInicio": "2018-02-18",
         "dataFim": "2018-02-22",
         "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "DUARTE MARQUES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "4170"
-            },
-            {
-              "tipo": "D",
-              "nome": "LARA MARTINHO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "6157"
-            },
-            {
-              "tipo": "D",
-              "nome": "JOÃO VASCONCELOS",
-              "gp": "BE",
-              "leg": "XIII",
-              "id": "4022"
-            },
-            {
-              "tipo": "D",
-              "nome": "JOÃO PINHO DE ALMEIDA",
-              "gp": "CDS-PP",
-              "leg": "XIII",
-              "id": "1657"
-            },
-            {
-              "tipo": "D",
-              "nome": "CARLA CRUZ",
-              "gp": "PCP",
-              "leg": "XIII",
-              "id": "4297"
-            },
-            {
-              "tipo": "D",
-              "nome": "JOSÉ LUÍS FERREIRA",
-              "gp": "PEV",
-              "leg": "XIII",
-              "id": "780"
-            }
-          ]
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÂNGELA GUERRA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4031"
+          }
         }
       },
       {
@@ -6576,6 +6521,61 @@
         }
       },
       {
+        "id": "1779",
+        "nome": "Visita de Estado de Sua Excelência o Presidente da República à República Democrática de s. Tomé e Príncipe",
+        "local": "São Tomé",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-19",
+        "dataFim": "2018-02-22",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE MARQUES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4170"
+            },
+            {
+              "tipo": "D",
+              "nome": "LARA MARTINHO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6157"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO VASCONCELOS",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "4022"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO PINHO DE ALMEIDA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1657"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA CRUZ",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "4297"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOSÉ LUÍS FERREIRA",
+              "gp": "PEV",
+              "leg": "XIII",
+              "id": "780"
+            }
+          ]
+        }
+      },
+      {
         "id": "1770",
         "nome": "Knesset Conference for Directors General and Secretaries General",
         "local": "Jerusalém",
@@ -6604,24 +6604,6 @@
         }
       },
       {
-        "id": "1782",
-        "nome": "Reunião interparlamentar sobre \"Os pactos das Nações Unidas para os Refugiados e Migrantes: o papel dos Parlamentos\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-27",
-        "dataFim": "2019-02-27",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "SANDRA PEREIRA",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "5749"
-          }
-        }
-      },
-      {
         "id": "1781",
         "nome": "Reunião interparalamentar organizada pela Comissão LIBE do Parlamento Europeu",
         "local": "Bruxelas",
@@ -6636,6 +6618,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "5932"
+          }
+        }
+      },
+      {
+        "id": "1782",
+        "nome": "Reunião interparlamentar sobre \"Os pactos das Nações Unidas para os Refugiados e Migrantes: o papel dos Parlamentos\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-27",
+        "dataFim": "2019-02-27",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "SANDRA PEREIRA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "5749"
           }
         }
       },
@@ -6970,6 +6970,16 @@
         "participantes": null
       },
       {
+        "id": "1795",
+        "nome": "138ª Sessão da União Interparlamentar e Reunião da Associação dos Secretários-Gerais dos Parlamentos (ASGP)",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-03-26",
+        "dataFim": "2018-03-28",
+        "participantes": null
+      },
+      {
         "id": "1796",
         "nome": "Participação na reunião \"Task force sobre subsidiariedade, proporcionalidade e fazer menos com maior eficiência\"",
         "local": "Bruxelas",
@@ -6995,16 +7005,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1795",
-        "nome": "138ª Sessão da União Interparlamentar e Reunião da Associação dos Secretários-Gerais dos Parlamentos (ASGP)",
-        "local": "Genebra",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-03-26",
-        "dataFim": "2018-03-28",
-        "participantes": null
       },
       {
         "id": "1798",
@@ -7247,16 +7247,6 @@
         }
       },
       {
-        "id": "1803",
-        "nome": "Seminário - Permanent Structured Cooperation and the future of European Defense: an exchange of views between European Parliamentary Research Services.\n",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-04-23",
-        "dataFim": "2018-04-23",
-        "participantes": null
-      },
-      {
         "id": "1805",
         "nome": "Conferência de Presidentes de Parlamentos da União Europeia",
         "local": "Tallinn",
@@ -7273,6 +7263,16 @@
             "id": "179"
           }
         }
+      },
+      {
+        "id": "1803",
+        "nome": "Seminário - Permanent Structured Cooperation and the future of European Defense: an exchange of views between European Parliamentary Research Services.\n",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-04-23",
+        "dataFim": "2018-04-23",
+        "participantes": null
       },
       {
         "id": "1806",
@@ -7449,16 +7449,6 @@
         "participantes": null
       },
       {
-        "id": "1814",
-        "nome": "Seminário \"Fortalecimento de capacidades na avaliação de impacto - abordagens teóricas e contrafactuais\"",
-        "local": "Barcelona",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-05-28",
-        "dataFim": "2018-05-29",
-        "participantes": null
-      },
-      {
         "id": "1819",
         "nome": "107ª Sessão da Conferência Internacional do Trabalho - OIT",
         "local": "Genebra",
@@ -7507,13 +7497,13 @@
         }
       },
       {
-        "id": "1817",
-        "nome": "Seminário do CERDP \"How is the beginning of an electoral term organised\"",
-        "local": null,
+        "id": "1814",
+        "nome": "Seminário \"Fortalecimento de capacidades na avaliação de impacto - abordagens teóricas e contrafactuais\"",
+        "local": "Barcelona",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2018-05-31",
-        "dataFim": "2018-06-01",
+        "dataInicio": "2018-05-28",
+        "dataFim": "2018-05-29",
         "participantes": null
       },
       {
@@ -7535,13 +7525,13 @@
         }
       },
       {
-        "id": "1824",
-        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
-        "local": "Bruxelas",
+        "id": "1817",
+        "nome": "Seminário do CERDP \"How is the beginning of an electoral term organised\"",
+        "local": null,
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2018-06-01",
-        "dataFim": "2018-06-30",
+        "dataInicio": "2018-05-31",
+        "dataFim": "2018-06-01",
         "participantes": null
       },
       {
@@ -7563,6 +7553,16 @@
         }
       },
       {
+        "id": "1824",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-01",
+        "dataFim": "2018-06-30",
+        "participantes": null
+      },
+      {
         "id": "1820",
         "nome": "Participação na conferência \"Preparing Supervisory Reporting for the Digital Age\" e no Fórum Económico .",
         "local": "Bruxelas",
@@ -7571,6 +7571,24 @@
         "dataInicio": "2018-06-04",
         "dataFim": "2018-06-05",
         "participantes": null
+      },
+      {
+        "id": "1828",
+        "nome": "Participação como orador no \"2nd HCV Policy Summit on the Elimination of Hepatitis C in Europe\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-06",
+        "dataFim": "2018-06-06",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
       },
       {
         "id": "1823",
@@ -7597,24 +7615,6 @@
             "gp": "BE",
             "leg": "XIII",
             "id": "4196"
-          }
-        }
-      },
-      {
-        "id": "1828",
-        "nome": "Participação como orador no \"2nd HCV Policy Summit on the Elimination of Hepatitis C in Europe\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-06-06",
-        "dataFim": "2018-06-06",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "RICARDO BAPTISTA LEITE",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4441"
           }
         }
       },
@@ -7655,6 +7655,61 @@
         }
       },
       {
+        "id": "1831",
+        "nome": "Deslocação de Sua Excelência O Presidente da República a Boston, para participar nas Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas",
+        "local": "Boston",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-10",
+        "dataFim": "2018-06-11",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "RUBINA BERARDO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "6177"
+            },
+            {
+              "tipo": "D",
+              "nome": "LARA MARTINHO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6157"
+            },
+            {
+              "tipo": "D",
+              "nome": "LUÍS MONTEIRO",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5949"
+            },
+            {
+              "tipo": "D",
+              "nome": "TELMO CORREIA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1655"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO FILIPE",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "209"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOSÉ LUÍS FERREIRA",
+              "gp": "PEV",
+              "leg": "XIII",
+              "id": "780"
+            }
+          ]
+        }
+      },
+      {
         "id": "1825",
         "nome": "Participação na Conferência 2018 du CCRE \"Égalité, diversité et inclusion\"",
         "local": "Bilbao",
@@ -7687,6 +7742,42 @@
             "gp": "CDS-PP",
             "leg": "XIII",
             "id": "2867"
+          }
+        }
+      },
+      {
+        "id": "1832",
+        "nome": "Deslocação Oficial de SEXA o PAR à Federação da Rússia, em representação do Estado Português, assistir ao jogo Portugal-Espanha",
+        "local": "Sochi",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-14",
+        "dataFim": "2018-06-17",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
+          }
+        }
+      },
+      {
+        "id": "1838",
+        "nome": "Deslocação em Missão Oficial à República Eslovaca.",
+        "local": "Bratislava",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-17",
+        "dataFim": "2018-06-19",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "SÉRGIO SOUSA PINTO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1264"
           }
         }
       },
@@ -7736,6 +7827,74 @@
               "id": "1657"
             }
           ]
+        }
+      },
+      {
+        "id": "1836",
+        "nome": "Participação na Reunião IPU \"Centre fo Innovation in Parliament\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1834",
+        "nome": "Participação na Reuinão UIP \"Centre for Innovation in Paliament\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1835",
+        "nome": "Participação na Reunião IPU \"Centre fo Innovation in Parliament\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1833",
+        "nome": "Deslocação à Reunião IPU - Centre for Innovation in Parliament",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1837",
+        "nome": "Participação na Reuinão IPU \"Centre for Innovation in Parliament\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1839",
+        "nome": "Participação na Reunião Interparlamentar da Comissão TRAN do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-20",
+        "dataFim": "2018-06-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RUBINA BERARDO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "6177"
+          }
         }
       },
       {

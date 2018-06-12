@@ -939,6 +939,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita conjunta da Subcomissão para as Relações Económicas Transtalânticas da Comissão de Economia e Segurança, e da Subcomissão para as Parcerias da NATO da Comissão Política da Assembleia Parlamentar da NATO",
+              "tipo": "REN",
+              "local": "Tóquio, Kyoto e Osaka",
+              "dataInicio": "18-06-2018",
+              "dataFim": "22-06-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião conjunta APNATO - Parlamento Europeu",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1299,22 +1307,6 @@
               }
             },
             {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
-              }
-            },
-            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1337,6 +1329,22 @@
                     "id": "193"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
               }
             },
             {
