@@ -2214,88 +2214,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286408",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/030/1999-05-22?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "87",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1999-05-20",
-              "pag": {
-                "string": "3121-3123"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/087/1999-05-20/3121?pgs=3121-3123&org=PLC",
-              "debateDtReu": "1999-05-19",
-              "idDeb": "5902"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31634",
-              "resultado": "Aprovado",
-              "reuniao": "87",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "87",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "4",
-                  "supl": ".",
-                  "pubdt": "1999-05-20",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286409",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/087/1999-05-20?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1999-05-19"
-            }
-          },
-          "numero": "153",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54557a58315a4a535335775a47593d&fich=153_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Pesar pela morte do sindicalista Manuel Lopes.",
-          "legislatura": "VII",
-          "sessao": "4",
-          "dataEntrada": "1999-05-19",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "30",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1999-05-22",
-              "pag": {
-                "string": null
-              },
               "idPag": "286406",
               "idInt": null,
               "idAct": null,
@@ -2343,6 +2261,88 @@
                     "string": null
                   },
                   "idPag": "286407",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/087/1999-05-20?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1999-05-19"
+            }
+          },
+          "numero": "153",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54557a58315a4a535335775a47593d&fich=153_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Pesar pela morte do sindicalista Manuel Lopes.",
+          "legislatura": "VII",
+          "sessao": "4",
+          "dataEntrada": "1999-05-19",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "30",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1999-05-22",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286408",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/030/1999-05-22?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "87",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1999-05-20",
+              "pag": {
+                "string": "3121-3123"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/087/1999-05-20/3121?pgs=3121-3123&org=PLC",
+              "debateDtReu": "1999-05-19",
+              "idDeb": "5902"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31634",
+              "resultado": "Aprovado",
+              "reuniao": "87",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "87",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "1999-05-20",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286409",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/087/1999-05-20?pgs=&org=PLC",
@@ -2951,88 +2951,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286388",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/017/1999-02-13?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "47",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1999-02-12",
-              "pag": {
-                "string": "1756-1756"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12/1756?pgs=1756&org=PLC",
-              "debateDtReu": "1999-02-11",
-              "idDeb": "17034"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31625",
-              "resultado": "Aprovado",
-              "reuniao": "47",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "47",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "4",
-                  "supl": ".",
-                  "pubdt": "1999-02-12",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286390",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1999-02-11"
-            }
-          },
-          "numero": "146",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54513258315a4a535335775a47593d&fich=146_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Pesar pelo falecimento da pintora Maluda.",
-          "legislatura": "VII",
-          "sessao": "4",
-          "dataEntrada": "1999-02-11",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "17",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1999-02-13",
-              "pag": {
-                "string": null
-              },
               "idPag": "286389",
               "idInt": null,
               "idAct": null,
@@ -3080,6 +2998,88 @@
                     "string": null
                   },
                   "idPag": "286391",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1999-02-11"
+            }
+          },
+          "numero": "146",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54513258315a4a535335775a47593d&fich=146_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Pesar pelo falecimento da pintora Maluda.",
+          "legislatura": "VII",
+          "sessao": "4",
+          "dataEntrada": "1999-02-11",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "17",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1999-02-13",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286388",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/017/1999-02-13?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "47",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1999-02-12",
+              "pag": {
+                "string": "1756-1756"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12/1756?pgs=1756&org=PLC",
+              "debateDtReu": "1999-02-11",
+              "idDeb": "17034"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31625",
+              "resultado": "Aprovado",
+              "reuniao": "47",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "47",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "1999-02-12",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286390",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/047/1999-02-12?pgs=&org=PLC",
@@ -4037,89 +4037,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286327",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/004/1998-10-10?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "69",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1999-04-09",
-              "pag": {
-                "string": "326-326"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/069/1999-04-09/326?pgs=326&org=PLC",
-              "debateDtReu": "1999-04-08",
-              "idDeb": "5600"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31612",
-              "resultado": "Aprovado",
-              "descricao": "Aprovado por unanimidade e aclamação.",
-              "reuniao": "11",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "11",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "4",
-                  "supl": ".",
-                  "pubdt": "1998-10-09",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286328",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1998-10-08"
-            }
-          },
-          "numero": "132",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d544d7958315a4a535335775a47593d&fich=132_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Congratulação pela atribuição do Prémio Nobel da Literatura ao escritor José Saramago.",
-          "legislatura": "VII",
-          "sessao": "4",
-          "dataEntrada": "1998-10-08",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "4",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1998-10-10",
-              "pag": {
-                "string": null
-              },
               "idPag": "286326",
               "idInt": null,
               "idAct": null,
@@ -4168,6 +4085,89 @@
                     "string": null
                   },
                   "idPag": "286329",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1998-10-08"
+            }
+          },
+          "numero": "132",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d544d7958315a4a535335775a47593d&fich=132_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Congratulação pela atribuição do Prémio Nobel da Literatura ao escritor José Saramago.",
+          "legislatura": "VII",
+          "sessao": "4",
+          "dataEntrada": "1998-10-08",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "4",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1998-10-10",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286327",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/004/1998-10-10?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "69",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1999-04-09",
+              "pag": {
+                "string": "326-326"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/069/1999-04-09/326?pgs=326&org=PLC",
+              "debateDtReu": "1999-04-08",
+              "idDeb": "5600"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31612",
+              "resultado": "Aprovado",
+              "descricao": "Aprovado por unanimidade e aclamação.",
+              "reuniao": "11",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "11",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "1998-10-09",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286328",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09?pgs=&org=PLC",
@@ -4285,87 +4285,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286303",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/001/1998-09-19?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "2",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1998-09-18",
-              "pag": {
-                "string": "41-52"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/002/1998-09-18/41?pgs=41-52&org=PLC",
-              "debateDtReu": "1998-09-17",
-              "idDeb": "5565"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31609",
-              "resultado": "Aprovado",
-              "reuniao": "2",
-              "detalhe": "A Favor: <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I><BR>Contra: <I>PS</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "2",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "4",
-                  "supl": ".",
-                  "pubdt": "1998-09-18",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286304",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/002/1998-09-18?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1998-09-17"
-            }
-          },
-          "numero": "130",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d544d7758315a4a535335775a47593d&fich=130_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Protesto pela falta de resposta do Governo aos problemas da lavoura nacional.",
-          "legislatura": "VII",
-          "sessao": "4",
-          "dataEntrada": "1998-09-17",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "1",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1998-09-19",
-              "pag": {
-                "string": null
-              },
               "idPag": "286366",
               "idInt": null,
               "idAct": null,
@@ -4412,6 +4331,87 @@
                     "string": null
                   },
                   "idPag": "286367",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/002/1998-09-18?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1998-09-17"
+            }
+          },
+          "numero": "130",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d544d7758315a4a535335775a47593d&fich=130_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Protesto pela falta de resposta do Governo aos problemas da lavoura nacional.",
+          "legislatura": "VII",
+          "sessao": "4",
+          "dataEntrada": "1998-09-17",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "1",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1998-09-19",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286303",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/04/001/1998-09-19?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "2",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1998-09-18",
+              "pag": {
+                "string": "41-52"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/002/1998-09-18/41?pgs=41-52&org=PLC",
+              "debateDtReu": "1998-09-17",
+              "idDeb": "5565"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31609",
+              "resultado": "Aprovado",
+              "reuniao": "2",
+              "detalhe": "A Favor: <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I><BR>Contra: <I>PS</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "2",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "1998-09-18",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286304",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/04/002/1998-09-18?pgs=&org=PLC",
@@ -6445,88 +6445,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286249",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/015/1998-03-28?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "53",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "3",
-              "supl": ".",
-              "pubdt": "1998-03-27",
-              "pag": {
-                "string": "1792-1792"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1792?pgs=1792&org=PLC",
-              "debateDtReu": "1998-03-26",
-              "idDeb": "17031"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31581",
-              "resultado": "Aprovado",
-              "reuniao": "53",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "53",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "3",
-                  "supl": ".",
-                  "pubdt": "1998-03-27",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286250",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1998-03-26"
-            }
-          },
-          "numero": "105",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54413158315a4a535335775a47593d&fich=105_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Pesar pelo falecimento de Sua Eminencia reverendissima o Cardeal Patriarca de Lisboa, D. António Ribeiro.",
-          "legislatura": "VII",
-          "sessao": "3",
-          "dataEntrada": "1998-03-26",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "15",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "3",
-              "supl": ".",
-              "pubdt": "1998-03-28",
-              "pag": {
-                "string": null
-              },
               "idPag": "286248",
               "idInt": null,
               "idAct": null,
@@ -6574,6 +6492,88 @@
                     "string": null
                   },
                   "idPag": "286251",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1998-03-26"
+            }
+          },
+          "numero": "105",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54413158315a4a535335775a47593d&fich=105_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Pesar pelo falecimento de Sua Eminencia reverendissima o Cardeal Patriarca de Lisboa, D. António Ribeiro.",
+          "legislatura": "VII",
+          "sessao": "3",
+          "dataEntrada": "1998-03-26",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "15",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "1998-03-28",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286249",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/015/1998-03-28?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "53",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "1998-03-27",
+              "pag": {
+                "string": "1792-1792"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1792?pgs=1792&org=PLC",
+              "debateDtReu": "1998-03-26",
+              "idDeb": "17031"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31581",
+              "resultado": "Aprovado",
+              "reuniao": "53",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "53",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "3",
+                  "supl": ".",
+                  "pubdt": "1998-03-27",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286250",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27?pgs=&org=PLC",
@@ -6773,88 +6773,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286231",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/010/1998-01-30?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "33",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "3",
-              "supl": ".",
-              "pubdt": "1998-01-29",
-              "pag": {
-                "string": "1102-1103"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/033/1998-01-29/1102?pgs=1102-1103&org=PLC",
-              "debateDtReu": "1998-01-28",
-              "idDeb": "5322"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31577",
-              "resultado": "Aprovado",
-              "reuniao": "33",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "33",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "3",
-                  "supl": ".",
-                  "pubdt": "1998-01-29",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286232",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/033/1998-01-29?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1998-01-28"
-            }
-          },
-          "numero": "102",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54417958315a4a535335775a47593d&fich=102_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Pesar pelo falecimento da Drª Luisa Amélia Guterres.",
-          "legislatura": "VII",
-          "sessao": "3",
-          "dataEntrada": "1998-01-28",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "10",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "3",
-              "supl": ".",
-              "pubdt": "1998-01-30",
-              "pag": {
-                "string": null
-              },
               "idPag": "286233",
               "idInt": null,
               "idAct": null,
@@ -6902,6 +6820,88 @@
                     "string": null
                   },
                   "idPag": "286234",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/033/1998-01-29?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1998-01-28"
+            }
+          },
+          "numero": "102",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d54417958315a4a535335775a47593d&fich=102_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Pesar pelo falecimento da Drª Luisa Amélia Guterres.",
+          "legislatura": "VII",
+          "sessao": "3",
+          "dataEntrada": "1998-01-28",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "10",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "1998-01-30",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286231",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/010/1998-01-30?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "33",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "1998-01-29",
+              "pag": {
+                "string": "1102-1103"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/033/1998-01-29/1102?pgs=1102-1103&org=PLC",
+              "debateDtReu": "1998-01-28",
+              "idDeb": "5322"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31577",
+              "resultado": "Aprovado",
+              "reuniao": "33",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "33",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "3",
+                  "supl": ".",
+                  "pubdt": "1998-01-29",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286232",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/03/033/1998-01-29?pgs=&org=PLC",
@@ -9962,7 +9962,7 @@
           "numero": "65",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PS"
+            "string": "PS; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e6a5666566b6c4a4c6e426b5a673d3d&fich=65_VII.pdf&Inline=true"
         },
@@ -10969,88 +10969,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286048",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/006S3/1996-12-20?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "21",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "1996-12-20",
-              "pag": {
-                "string": "818-820"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/818?pgs=818-820&org=PLC",
-              "debateDtReu": "1996-12-19",
-              "idDeb": "4838"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31526",
-              "resultado": "Aprovado",
-              "reuniao": "21",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "21",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "2",
-                  "supl": ".",
-                  "pubdt": "1996-12-20",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286049",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1996-12-19"
-            }
-          },
-          "numero": "52",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e544a66566b6c4a4c6e426b5a673d3d&fich=52_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Congratulação pelo reconhecimento do centro histórico do Porto como património mundial pela UNESCO.",
-          "legislatura": "VII",
-          "sessao": "2",
-          "dataEntrada": "1996-12-19",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "6",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "2",
-              "supl": "3º Supl.",
-              "pubdt": "1996-12-20",
-              "pag": {
-                "string": null
-              },
               "idPag": "286047",
               "idInt": null,
               "idAct": null,
@@ -11098,6 +11016,88 @@
                     "string": null
                   },
                   "idPag": "286050",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1996-12-19"
+            }
+          },
+          "numero": "52",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e544a66566b6c4a4c6e426b5a673d3d&fich=52_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Congratulação pelo reconhecimento do centro histórico do Porto como património mundial pela UNESCO.",
+          "legislatura": "VII",
+          "sessao": "2",
+          "dataEntrada": "1996-12-19",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "6",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "2",
+              "supl": "3º Supl.",
+              "pubdt": "1996-12-20",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286048",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/006S3/1996-12-20?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "21",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1996-12-20",
+              "pag": {
+                "string": "818-820"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/818?pgs=818-820&org=PLC",
+              "debateDtReu": "1996-12-19",
+              "idDeb": "4838"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31526",
+              "resultado": "Aprovado",
+              "reuniao": "21",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "21",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "2",
+                  "supl": ".",
+                  "pubdt": "1996-12-20",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286049",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20?pgs=&org=PLC",
@@ -11723,88 +11723,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286025",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/001/1996-10-19?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "19",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "1996-12-14",
-              "pag": {
-                "string": "19-20"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/019/1996-12-14/19?pgs=19-20&org=PLC",
-              "debateDtReu": "1996-12-13",
-              "idDeb": "4768"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31516",
-              "resultado": "Aprovado",
-              "reuniao": "2",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "2",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "2",
-                  "supl": ".",
-                  "pubdt": "1996-10-18",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286027",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/002/1996-10-18?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1996-10-17"
-            }
-          },
-          "numero": "44",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e445266566b6c4a4c6e426b5a673d3d&fich=44_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Saudação pela forma como decorreram as eleições para a Assembleia Legislativa nas Regiões Autónomas dos Açores e da Madeira.",
-          "legislatura": "VII",
-          "sessao": "2",
-          "dataEntrada": "1996-10-16",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "1",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "1996-10-19",
-              "pag": {
-                "string": null
-              },
               "idPag": "286026",
               "idInt": null,
               "idAct": null,
@@ -11852,6 +11770,88 @@
                     "string": null
                   },
                   "idPag": "286028",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/002/1996-10-18?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1996-10-17"
+            }
+          },
+          "numero": "44",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e445266566b6c4a4c6e426b5a673d3d&fich=44_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Saudação pela forma como decorreram as eleições para a Assembleia Legislativa nas Regiões Autónomas dos Açores e da Madeira.",
+          "legislatura": "VII",
+          "sessao": "2",
+          "dataEntrada": "1996-10-16",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "1",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1996-10-19",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286025",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/001/1996-10-19?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "19",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1996-12-14",
+              "pag": {
+                "string": "19-20"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/019/1996-12-14/19?pgs=19-20&org=PLC",
+              "debateDtReu": "1996-12-13",
+              "idDeb": "4768"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31516",
+              "resultado": "Aprovado",
+              "reuniao": "2",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "2",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "2",
+                  "supl": ".",
+                  "pubdt": "1996-10-18",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286027",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/02/002/1996-10-18?pgs=&org=PLC",
@@ -11970,89 +11970,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "286013",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/037/1996-10-12?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "109",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-10-12",
-              "pag": {
-                "string": "3716-3717"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/109/1996-10-12/3716?pgs=3716-3717&org=PLC",
-              "debateDtReu": "1996-10-11",
-              "idDeb": "4759"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31514",
-              "resultado": "Aprovado",
-              "descricao": "Aprovado por unanimedade e aclamação.",
-              "reuniao": "104",
-              "unanime": "unanime",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "109",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "1",
-                  "supl": ".",
-                  "pubdt": "1996-10-12",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "286018",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/109/1996-10-12?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1996-10-11"
-            }
-          },
-          "numero": "43",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "PAR"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e444e66566b6c4a4c6e426b5a673d3d&fich=43_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Congratulação pela atribuição do Prémio Nobel da Paz ao Bispo de Dili, D. Ximenes Belo, e ao representante no exterior da resistência timorense, Ramos Horta.",
-          "legislatura": "VII",
-          "sessao": "1",
-          "dataEntrada": "1996-10-11",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "37",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-10-12",
-              "pag": {
-                "string": null
-              },
               "idPag": "286015",
               "idInt": null,
               "idAct": null,
@@ -12101,6 +12018,89 @@
                     "string": null
                   },
                   "idPag": "286016",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/109/1996-10-12?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1996-10-11"
+            }
+          },
+          "numero": "43",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e444e66566b6c4a4c6e426b5a673d3d&fich=43_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Congratulação pela atribuição do Prémio Nobel da Paz ao Bispo de Dili, D. Ximenes Belo, e ao representante no exterior da resistência timorense, Ramos Horta.",
+          "legislatura": "VII",
+          "sessao": "1",
+          "dataEntrada": "1996-10-11",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "37",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-10-12",
+              "pag": {
+                "string": null
+              },
+              "idPag": "286013",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/037/1996-10-12?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "109",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-10-12",
+              "pag": {
+                "string": "3716-3717"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/109/1996-10-12/3716?pgs=3716-3717&org=PLC",
+              "debateDtReu": "1996-10-11",
+              "idDeb": "4759"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31514",
+              "resultado": "Aprovado",
+              "descricao": "Aprovado por unanimedade e aclamação.",
+              "reuniao": "104",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "109",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1996-10-12",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "286018",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/109/1996-10-12?pgs=&org=PLC",
@@ -14231,87 +14231,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "285942",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/012/1996-01-27?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "31",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-01-26",
-              "pag": {
-                "string": "871-872"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26/871?pgs=871-872&org=PLC",
-              "debateDtReu": "1996-01-25",
-              "idDeb": "4487"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31487",
-              "resultado": "Aprovado",
-              "reuniao": "31",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I><BR>Abstenção: <I>PCP</I>, <I>PEV</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "31",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "1",
-                  "supl": ".",
-                  "pubdt": "1996-01-26",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "285943",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1996-01-25"
-            }
-          },
-          "numero": "17",
-          "tipoAutor": "Mesa da Assembleia",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d546466566b6c4a4c6e426b5a673d3d&fich=17_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Pesar pelo falecimento de militares da Força de Paz na Bósnia.",
-          "legislatura": "VII",
-          "sessao": "1",
-          "dataEntrada": "1996-01-25",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "12",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-01-27",
-              "pag": {
-                "string": null
-              },
               "idPag": "285940",
               "idInt": null,
               "idAct": null,
@@ -14358,6 +14277,87 @@
                     "string": null
                   },
                   "idPag": "285941",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1996-01-25"
+            }
+          },
+          "numero": "17",
+          "tipoAutor": "Mesa da Assembleia",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d546466566b6c4a4c6e426b5a673d3d&fich=17_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Pesar pelo falecimento de militares da Força de Paz na Bósnia.",
+          "legislatura": "VII",
+          "sessao": "1",
+          "dataEntrada": "1996-01-25",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "12",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-01-27",
+              "pag": {
+                "string": null
+              },
+              "idPag": "285942",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/012/1996-01-27?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "31",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-01-26",
+              "pag": {
+                "string": "871-872"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26/871?pgs=871-872&org=PLC",
+              "debateDtReu": "1996-01-25",
+              "idDeb": "4487"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31487",
+              "resultado": "Aprovado",
+              "reuniao": "31",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>CDS-PP</I><BR>Abstenção: <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "31",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1996-01-26",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "285943",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",
@@ -14474,87 +14474,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "285933",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/012/1996-01-27?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "31",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-01-26",
-              "pag": {
-                "string": "890-891"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26/890?pgs=890-891&org=PLC",
-              "debateDtReu": "1996-01-25",
-              "idDeb": "4484"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "31483",
-              "resultado": "Aprovado",
-              "reuniao": "31",
-              "detalhe": "A Favor: <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PSD</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "31",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VII",
-                  "pubSL": "1",
-                  "supl": ".",
-                  "pubdt": "1996-01-26",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "285934",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "1996-01-25"
-            }
-          },
-          "numero": "15",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d545666566b6c4a4c6e426b5a673d3d&fich=15_VII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Congratulação pela celebração do Acordo de Concertação Social de Curto Prazo para o ano de 1996.",
-          "legislatura": "VII",
-          "sessao": "1",
-          "dataEntrada": "1996-01-25",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "12",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VII",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1996-01-27",
-              "pag": {
-                "string": null
-              },
               "idPag": "285935",
               "idInt": null,
               "idAct": null,
@@ -14601,6 +14520,87 @@
                     "string": null
                   },
                   "idPag": "285936",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1996-01-25"
+            }
+          },
+          "numero": "15",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764d545666566b6c4a4c6e426b5a673d3d&fich=15_VII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Congratulação pela celebração do Acordo de Concertação Social de Curto Prazo para o ano de 1996.",
+          "legislatura": "VII",
+          "sessao": "1",
+          "dataEntrada": "1996-01-25",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "12",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-01-27",
+              "pag": {
+                "string": null
+              },
+              "idPag": "285933",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/012/1996-01-27?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "31",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VII",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1996-01-26",
+              "pag": {
+                "string": "890-891"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26/890?pgs=890-891&org=PLC",
+              "debateDtReu": "1996-01-25",
+              "idDeb": "4484"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "31483",
+              "resultado": "Aprovado",
+              "reuniao": "31",
+              "detalhe": "A Favor: <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PSD</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "31",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VII",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1996-01-26",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "285934",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/07/01/031/1996-01-26?pgs=&org=PLC",

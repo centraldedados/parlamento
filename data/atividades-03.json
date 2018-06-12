@@ -1265,24 +1265,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "3",
-                    "pubTipo": "DAR II série",
-                    "pubTp": "K",
-                    "pubLeg": "III",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "obs": "Comunicação dos Grupos Parlmentares do PS, PSD, PCP e CDS dos candidatos propostos para o Conselho de Estado",
-                    "pubdt": "1983-06-15",
-                    "pag": {
-                      "string": "178-179"
-                    },
-                    "idPag": "755710",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/03/01/003/1983-06-15/178?pgs=178-179&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "4",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1298,6 +1280,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "3",
+                    "pubTipo": "DAR II série",
+                    "pubTp": "K",
+                    "pubLeg": "III",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "obs": "Comunicação dos Grupos Parlmentares do PS, PSD, PCP e CDS dos candidatos propostos para o Conselho de Estado",
+                    "pubdt": "1983-06-15",
+                    "pag": {
+                      "string": "178-179"
+                    },
+                    "idPag": "755710",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/03/01/003/1983-06-15/178?pgs=178-179&org=PLC",
                     "idDeb": null
                   }
                 ]

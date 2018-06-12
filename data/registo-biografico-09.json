@@ -3613,6 +3613,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -5931,6 +5938,23 @@
                     "pt_ar_wsgode_objectos_DadosCargosOrgao": {
                       "tiaDes": "CGP"
                     }
+                  }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
                   }
                 }
               ]
@@ -9844,7 +9868,7 @@
           "cadNomeCompleto": "FELICIANO JOSÉ BARREIRAS DUARTE",
           "cadDtNascimento": "1966-04-19",
           "cadSexo": "M",
-          "cadProfissao": "Consultor Jurídico; Professor Universitário",
+          "cadProfissao": "Consultor Jurídico",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -9898,19 +9922,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "19220",
+                "habId": "26143",
                 "habDes": "Direito ",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "19221",
+                "habId": "26144",
                 "habDes": "Mestre em Direito na vertente de Ciências Jurídicas e Políticas.",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "19222",
+                "habId": "26145",
                 "habDes": "Direito ",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -9920,43 +9944,43 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "22696",
+                "funId": "29823",
                 "funDes": "2013\nDeputado na Assembleia da República\n\n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "22697",
+                "funId": "29824",
                 "funDes": "2013\nMembro da Comissão Parlamentar dos Negócios Estrangeiros e Comunidades Portuguesas\n\n",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "22698",
+                "funId": "29825",
                 "funDes": "2014\nMembro do Conselho Consultivo do Instituto para a Promoção e Desenvolvimento da América Latina (IPDAL)\n\n",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "22699",
+                "funId": "29826",
                 "funDes": "2014\nPresidente do Conselho Fiscal da Fundação Batalha de Aljubarrota\n",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "22700",
+                "funId": "29827",
                 "funDes": " 2011 a Abril 2013\nSecretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares, com as tutelas delegadas da Comunicação Social, Imigração e Modernização Administrativa e Ano Europeu do Cidadão em Portugal\n\n 2012\nCoordenador e relator da Comissão Interministerial para o Jogo Online e jogo em Portugal \n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "22701",
+                "funId": "29828",
                 "funDes": "Até 2011\nFoi Membro do Conselho de Gestão e Planeamento da Fundação Batalha de Aljubarrota\n\nAté 2011\nFoi Conselheiro Económico do município de Anfhn na província de Guizhou, China. \n\nAté 2010\nFoi Sócio da Barreiras Duarte e Correia – Consultores Associados\n\nAté 2009\nFoi Presidente do Conselho Consultivo da Escola de Altos Estudos de Turismo de Óbidos (ETUR)\n\nAté 2008\nFoi Presidente da Direção do Instituto Científico das Migrações.\n\n",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "22702",
+                "funId": "29829",
                 "funDes": "Até 2011\nFoi Conselheiro Económico do município de Anfhn na província de Guizhou, China. \n\nAté 2010\nFoi Sócio da Barreiras Duarte e Correia – Consultores Associados\n\nAté 2009\nFoi Presidente do Conselho Consultivo da Escola de Altos Estudos de Turismo de Óbidos (ETUR)\n\nAté 2008\nFoi Presidente da Direção do Instituto Científico das Migrações.\n\n",
                 "funOrdem": "7",
                 "funAntiga": "S"
@@ -9966,37 +9990,37 @@
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": [
               {
-                "codId": "2772",
+                "codId": "4359",
                 "codDes": "Distinguido para o prémio Revelação Política Nacional em 1997, pela Revista Valor;",
                 "codOrdem": "1"
               },
               {
-                "codId": "2773",
+                "codId": "4360",
                 "codDes": "Militante Honorário da JSD;",
                 "codOrdem": "2"
               },
               {
-                "codId": "2774",
+                "codId": "4361",
                 "codDes": "Distinguido com o Prémio Afonso Lopes Vieira na Categoria de Personalidade do Ano, pelo Jornal da Região de Leiria;",
                 "codOrdem": "3"
               },
               {
-                "codId": "2775",
+                "codId": "4362",
                 "codDes": "Distinguido com a Medalha de Mérito da ARESP (Associação da Restauração e Similares de Portugal) (2004);",
                 "codOrdem": "4"
               },
               {
-                "codId": "2776",
+                "codId": "4363",
                 "codDes": "Cidadão Honorário do Concelho de Óbidos, tendo sido distinguido com a Medalha de Mérito do Concelho no ano de 2004;",
                 "codOrdem": "5"
               },
               {
-                "codId": "2777",
+                "codId": "4364",
                 "codDes": "Cidadão Honorário do Concelho do Bombarral, tendo sido distinguido com a Medalha de Honra do Concelho no ano de 2005;",
                 "codOrdem": "6"
               },
               {
-                "codId": "2778",
+                "codId": "4365",
                 "codDes": "Distinguido no ano 2008 com o Prémio de Mérito Personalidade do Ano atribuído pela Liga dos Chineses, pela Associação Industrial e Comercial dos Chineses em Vila do Conde e pela Fundação Jorge Álvares",
                 "codOrdem": "7"
               }
@@ -10005,122 +10029,122 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "5211",
+                "pubId": "7255",
                 "pubDes": "\"Apostar no Bombarral\" - 1993",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "5212",
+                "pubId": "7256",
                 "pubDes": "\"Bombarral Legislação Local\" - 1997",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "5213",
+                "pubId": "7257",
                 "pubDes": "\"Um olhar sobre o \"Bombarral\" (1997)",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "5214",
+                "pubId": "7258",
                 "pubDes": "\"Guerra contra as Portagens\" - 1997",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "5215",
+                "pubId": "7259",
                 "pubDes": "\"Leiria Gigante Económico Anão Político\" - 2002 (Propostas para uma Estratégia de Desenvolvimento)",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "5216",
+                "pubId": "7260",
                 "pubDes": "Regime Jurídico e Fiscal das Fundações - 2008 (com apêndice legislativo)",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "5217",
+                "pubId": "7261",
                 "pubDes": "Tem em preparação para publicação vários livros",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "5218",
+                "pubId": "7262",
                 "pubDes": "\"Uma verdadeira política de Imigração\", 2005",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "5219",
+                "pubId": "7263",
                 "pubDes": "\"Informação de Proximidade - Jornais e Rádios\", 2005",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "5220",
+                "pubId": "7264",
                 "pubDes": "“Asilo, Imigração, Nacionalidade e Minorias Étnicas (legislação, jurisprudência, pareceres e recomendações” -  Vols. I-II - Âncora Editora, Julho 2009",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "5221",
+                "pubId": "7265",
                 "pubDes": "“Regime Jurídico Comparado do Direito de Cidadania (análise e estudo das leis da nacionalidade de 40 países” - Âncora Editora, Julho 2009",
                 "pubOrdem": "11"
               },
               {
-                "pubId": "5222",
+                "pubId": "7266",
                 "pubDes": "“As leis das Autarquias Locais (coletânea de legislação)” - Âncora Editora, Julho 2009",
                 "pubOrdem": "12"
               },
               {
-                "pubId": "5223",
+                "pubId": "7267",
                 "pubDes": "“Regime Jurídico e Fiscal das Fundações – 2008 (com apêndice legislativo)” - Âncora   Editora, Fevereiro 2009\n\n",
                 "pubOrdem": "13"
               },
               {
-                "pubId": "5224",
+                "pubId": "7268",
                 "pubDes": "“A Hierarquia dos Atos Normativos e o Processo Legislativo em Portugal” – Âncora Editora, Novembro 2010",
                 "pubOrdem": "14"
               },
               {
-                "pubId": "5225",
+                "pubId": "7269",
                 "pubDes": "“Co-autor do livro Mundos Que Nos Separam – A Problemática Jurídica dos Requerentes de Asilo e Imigração Ilegal Na União Europeia” - Editora Paulista, 2010",
                 "pubOrdem": "15"
               },
               {
-                "pubId": "5226",
+                "pubId": "7270",
                 "pubDes": "“Pinhal Interior e Terras de Sicó”- Âncora Editora, Fevereiro 2010",
                 "pubOrdem": "16"
               },
               {
-                "pubId": "5227",
+                "pubId": "7271",
                 "pubDes": "“Ser-se Leiriense” - Âncora Editora, Fevereiro 2010",
                 "pubOrdem": "17"
               },
               {
-                "pubId": "5228",
+                "pubId": "7272",
                 "pubDes": "“O Oeste e o Futuro” – Âncora Editora, Fevereiro 2010\n\n\n",
                 "pubOrdem": "18"
               },
               {
-                "pubId": "5229",
+                "pubId": "7273",
                 "pubDes": "“Co-autor do livro Haja Saúde / O Futuro da Medicina em Portugal” com a coordenação de Tiago Rapaz - FNAC, 2010",
                 "pubOrdem": "19"
               },
               {
-                "pubId": "5230",
+                "pubId": "7274",
                 "pubDes": "“Legislação das Eleições Legislativas e da Posse, Composição e Organização Interna dos Governos em Portugal – junto diplomas estruturantes” – Âncora  Editora, Setembro de 2011\n\n\n",
                 "pubOrdem": "20"
               },
               {
-                "pubId": "5231",
+                "pubId": "7275",
                 "pubDes": "As Leis da Imigração dos Estados- Membros da CPLP -  Âncora Editora, Junho 2014",
                 "pubOrdem": "21"
               },
               {
-                "pubId": "5232",
+                "pubId": "7276",
                 "pubDes": "As Constituições Jurídico-Políticas dos Estados-Membros da CPLP - Âncora Editora, Junho 2014\n\n\n",
                 "pubOrdem": "22"
               },
               {
-                "pubId": "5233",
+                "pubId": "7277",
                 "pubDes": "As Leis da Nacionalidade dos Estados-Membros da CPLP - Âncora Editora, Junho 2014\n\n\n",
                 "pubOrdem": "23"
               },
               {
-                "pubId": "5234",
+                "pubId": "7278",
                 "pubDes": "Os Acordos Internacionais e Internos da CPLP - Âncora Editora, Junho 2014\n\"As Leis Estruturantes das Autarquias Locais - As Atribuições e Competências do Governo Municipal e do Governo de Freguesia\"\nÂncora Editora 2015\n\"As Leis Complementares das Autarquias Locais – E Listagem Atualizada dos Contactos dos Municípios” Âncora Editora 2015\n\n",
                 "pubOrdem": "24"
               }
@@ -13030,6 +13054,18 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -13408,6 +13444,13 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -13487,6 +13530,13 @@
                   "orgId": "6304",
                   "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
                   "orgSigla": "GT-TAL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -39370,7 +39420,7 @@
         {
           "cadId": "1619",
           "cadNomeCompleto": "FELICIANO JOSÉ BARREIRAS DUARTE",
-          "cadActividadeProfissional": "Consultor Jurídico; Professor Universitário",
+          "cadActividadeProfissional": "Consultor Jurídico",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)"
         },

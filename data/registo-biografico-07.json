@@ -2888,6 +2888,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -12181,6 +12188,13 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -12260,6 +12274,13 @@
                   "orgId": "6304",
                   "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
                   "orgSigla": "GT-TAL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
+                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -14569,7 +14590,7 @@
                 {
                   "orgId": "6624",
                   "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
-                  "orgSigla": "GT-FCP(MTPP)",
+                  "orgSigla": "GT-FCPMTPP",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
@@ -17855,9 +17876,9 @@
                   }
                 },
                 {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
+                  "orgId": "4533",
+                  "orgDes": "Comissão de Trabalho e Segurança Social",
+                  "orgSigla": "CTSS",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 },
