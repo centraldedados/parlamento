@@ -132,78 +132,6 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
-              "string": "536-536"
-            },
-            "idPag": null,
-            "idInt": "206583",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Ao Deputado Carlos Coelho (PSD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
-        "idDebate": "31151",
-        "deputados": {
-          "idCadastro": "211",
-          "nome": "JOÃO AMARAL",
-          "GP": "PCP"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "dataReuniaoPlenaria": "1986-01-17",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "24",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1986-01-18",
-            "pag": {
-              "string": "536-536"
-            },
-            "idPag": null,
-            "idInt": "206584",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Ao Deputado Carlos Coelho (PSD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
-        "idDebate": "31151",
-        "deputados": {
-          "idCadastro": "226",
-          "nome": "NOGUEIRA DE BRITO",
-          "GP": "CDS"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "dataReuniaoPlenaria": "1986-01-17",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "24",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1986-01-18",
-            "pag": {
               "string": "535-535"
             },
             "idPag": null,
@@ -276,6 +204,45 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
+              "string": [
+                "535-536",
+                "538-538"
+              ]
+            },
+            "idPag": null,
+            "idInt": "206582",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/535?pgs=535-536,538&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado Carlos Coelho (PSD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
+        "idDebate": "31151",
+        "deputados": {
+          "idCadastro": "164",
+          "nome": "EDUARDO PEREIRA",
+          "GP": "PS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1986-01-17",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "24",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1986-01-18",
+            "pag": {
               "string": "534-535"
             },
             "idPag": null,
@@ -312,15 +279,12 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
-              "string": [
-                "535-536",
-                "538-538"
-              ]
+              "string": "536-536"
             },
             "idPag": null,
-            "idInt": "206582",
+            "idInt": "206584",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/535?pgs=535-536,538&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
             "idDeb": null
           }
         },
@@ -331,9 +295,45 @@
         "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
         "idDebate": "31151",
         "deputados": {
-          "idCadastro": "164",
-          "nome": "EDUARDO PEREIRA",
-          "GP": "PS"
+          "idCadastro": "226",
+          "nome": "NOGUEIRA DE BRITO",
+          "GP": "CDS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1986-01-17",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "24",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1986-01-18",
+            "pag": {
+              "string": "536-536"
+            },
+            "idPag": null,
+            "idInt": "206583",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado Carlos Coelho (PSD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
+        "idDebate": "31151",
+        "deputados": {
+          "idCadastro": "211",
+          "nome": "JOÃO AMARAL",
+          "GP": "PCP"
         }
       },
       {
