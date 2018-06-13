@@ -188,6 +188,45 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião Ordinária da Delegação da AR à AP-CPLP",
+              "tipo": "RNI",
+              "local": "Sala 3 das Comissões",
+              "dataInicio": "05-06-2018",
+              "dataFim": "05-06-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLA CRUZ",
+                    "gp": "PCP",
+                    "leg": "XIII",
+                    "id": "4297"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "ELZA PAIS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4209"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MARCO ANTÓNIO COSTA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "646"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PORFÍRIO SILVA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "469"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Reunião da 1ª Comissão da AP-CPLP",
               "tipo": "REN",
               "local": "Brasília",
@@ -278,6 +317,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -301,14 +348,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
