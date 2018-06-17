@@ -72,6 +72,18 @@
         {
           "tipo": "ITG",
           "descTipo": "Interpelação ao Governo",
+          "legislatura": "XIII",
+          "sessao": "3",
+          "dataEntrada": "2018-02-15",
+          "numero": "17",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          }
+        },
+        {
+          "tipo": "ITG",
+          "descTipo": "Interpelação ao Governo",
           "assunto": "Sobre política geral centrada nas necessidades de investimento nos serviços públicos, nomeadamente nos setores da Saúde, Eduação, Transportes e Comunicações.",
           "legislatura": "XIII",
           "sessao": "3",
@@ -96,6 +108,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": "3-44"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16/3?pgs=3-44&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33127"
+            }
+          },
           "numero": "17",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5325,7 +5357,8 @@
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
             "string": "PCP"
-          }
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396959544d354f545a6a4e7930324e44646b4c5451354f444d744f4459794d6930324d7a49304e7a63304e4449774d3251755a47396a65413d3d&fich=ba3996c7-647d-4983-8622-63247744203d.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -5338,7 +5371,8 @@
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
             "string": "PS"
-          }
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938314e474a6b4d5451315969316b5a5467304c5451334d6a6774596d4977597931684d6a64694e574e684e7a59304d5755755a47396a65413d3d&fich=54bd145b-de84-4728-bb0c-a27b5ca7641e.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -5351,7 +5385,8 @@
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
             "string": "PCP"
-          }
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938794f546779597a55314e6930314e4459304c54526a4f5749744f5452695953316c4d5451344f4755794d446c6c596a59755a47396a65413d3d&fich=2982c556-5464-4c9b-94ba-e1488e209eb6.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -7457,6 +7492,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-03-23",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "64",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-03-24",
+              "pag": {
+                "string": "40-40"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/40?pgs=40&org=PLC",
+              "debateDtReu": "2018-03-23",
+              "idDeb": "33140"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78788",
@@ -7520,6 +7575,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-03-23",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "64",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-03-24",
+              "pag": {
+                "string": "39-40"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/39?pgs=39-40&org=PLC",
+              "debateDtReu": "2018-03-23",
+              "idDeb": "33139"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78787",
@@ -7583,6 +7658,29 @@
             }
           },
           "dataAgendamentoDebate": "2018-03-23",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "64",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-03-24",
+              "pag": {
+                "string": [
+                  "38-39",
+                  "53-53"
+                ]
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/38?pgs=38-39,53&org=PLC",
+              "debateDtReu": "2018-03-23",
+              "idDeb": "33137"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78786",
@@ -7647,6 +7745,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-03-23",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "64",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-03-24",
+              "pag": {
+                "string": "37-38"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/37?pgs=37-38&org=PLC",
+              "debateDtReu": "2018-03-23",
+              "idDeb": "33136"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78785",
@@ -8339,6 +8457,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-22",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "51",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-23",
+              "pag": {
+                "string": "3-65"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/051/2018-02-23/3?pgs=3-65&org=PLC",
+              "debateDtReu": "2018-02-22",
+              "idDeb": "33163"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78433",
@@ -8401,6 +8539,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-22",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "51",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-23",
+              "pag": {
+                "string": "3-65"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/051/2018-02-23/3?pgs=3-65&org=PLC",
+              "debateDtReu": "2018-02-22",
+              "idDeb": "33162"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78432",
@@ -8464,6 +8622,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": "3-44"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16/3?pgs=3-44&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33142"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78475",
@@ -8527,6 +8705,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": "3-44"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16/3?pgs=3-44&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33138"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78368",
@@ -8590,6 +8788,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": "3-44"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16/3?pgs=3-44&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33146"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78370",
@@ -8653,6 +8871,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": null
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16?pgs=&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33144"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78369",
@@ -8716,6 +8954,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-02-15",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "49",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-02-16",
+              "pag": {
+                "string": "3-44"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/049/2018-02-16/3?pgs=3-44&org=PLC",
+              "debateDtReu": "2018-02-15",
+              "idDeb": "33145"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "78367",
@@ -55728,6 +55986,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "109046",
+              "numeroAudicao": "100-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Audição Regimental ao abrigo do nº 2 do artigo 104º do Regimento da Assembleia da República",
+              "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS",
+              "data": "2018-06-12"
+            },
+            {
               "IDAudicao": "108972",
               "numeroAudicao": "99-CAE-XIII",
               "legislatura": "XIII",
@@ -57809,6 +58076,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "109057",
+              "numeroAudicao": "19-CEPT2030-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Audição de Jean Arthuis, Presidente da Comissão dos Orçamentos do Parlamento Europeu, no âmbito dos trabalhos de acompanhamento do processo de definição da \"Estratégia Portugal 2030\"",
+              "entidades": "Jean Arthuis, Presidente da Comissão dos Orçamentos do Parlamento Europeu,",
+              "data": "2018-06-15"
+            },
+            {
               "IDAudicao": "108788",
               "numeroAudicao": "18-CEPT2030-XIII",
               "legislatura": "XIII",
@@ -57975,12 +58251,21 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "109030",
+              "numeroAudicao": "144-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Criação de comissão de inquérito com vista a averiguar da violação de direitos fundamentais no âmbito do Serviço Nacional de Saúde",
+              "entidades": null,
+              "data": "2018-06-14"
+            },
+            {
               "IDAudicao": "108932",
               "numeroAudicao": "143-CS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "assunto": "Carta para a participação pública em saúde",
-              "entidades": "Audição dos Peticionários da Petição n.º 494/XIII (3.ª)",
+              "entidades": "Audição dos Peticionários da Petição n.º 494/XIII (3.ª);Audição dos Peticionários da Petição n.º 481/XIII/3.ª",
               "data": "2018-06-06"
             },
             {
@@ -65079,6 +65364,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "109050",
+              "numeroAudiencia": "37-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Visita de cortesia que antecede a reunião com a Ministra dos Assuntos Europeus Europeus da Irlanda,Helen McEntee",
+              "entidades": "Embaixadora da República da Irlanda em Portugal, Orla Tunney",
+              "data": "2018-06-15",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "108726",
               "numeroAudiencia": "36-CAE-XIII",
               "legislatura": "XIII",
@@ -68588,6 +68883,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "109009",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-27",
+              "dataFim": "2018-04-27",
+              "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
+              "localEvento": "Parque de Feiras e Exposições de Beja",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109028",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-27",
+              "dataFim": "2018-04-27",
+              "designacao": "FIAPE - Feira Internacional de Agropecuária de Estremoz/2018",
+              "localEvento": "Parque de Feiras de Estremoz",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "108992",
               "legislatura": "XIII",
@@ -73316,6 +73631,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "109032",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-06-15",
+              "dataFim": "2018-06-15",
+              "designacao": "Matemática no Acesso ao Ensino Superior",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "108948",
               "legislatura": "XIII",

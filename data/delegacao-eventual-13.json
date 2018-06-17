@@ -1449,7 +1449,7 @@
             },
             {
               "tipo": "D",
-              "nome": "ÁLVARO CASTELO BRANCO",
+              "nome": "ÁLVARO CASTELLO-BRANCO",
               "gp": "CDS-PP",
               "leg": "XIII",
               "id": "1290"
@@ -2694,7 +2694,7 @@
             },
             {
               "tipo": "D",
-              "nome": "ÁLVARO CASTELO BRANCO",
+              "nome": "ÁLVARO CASTELLO-BRANCO",
               "gp": "CDS-PP",
               "leg": "XIII",
               "id": "1290"
@@ -6806,7 +6806,7 @@
             },
             {
               "tipo": "D",
-              "nome": "ÁLVARO CASTELO BRANCO",
+              "nome": "ÁLVARO CASTELLO-BRANCO",
               "gp": "CDS-PP",
               "leg": "XIII",
               "id": "1290"
@@ -7881,20 +7881,36 @@
       },
       {
         "id": "1839",
-        "nome": "Participação na Reunião Interparlamentar da Comissão TRAN do Parlamento Europeu",
+        "nome": "Participação na Reunião Interparlamentar da Comissão TRAN - \"EU Investing in its Transport Networks Beyond 2020\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2018-06-20",
         "dataFim": "2018-06-20",
         "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "RUBINA BERARDO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "6177"
-          }
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO COSTA SILVA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5645"
+            },
+            {
+              "tipo": "D",
+              "nome": "HEITOR DE SOUSA",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "4059"
+            },
+            {
+              "tipo": "D",
+              "nome": "BRUNO DIAS",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "1715"
+            }
+          ]
         }
       },
       {

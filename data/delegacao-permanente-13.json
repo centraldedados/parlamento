@@ -2648,6 +2648,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação das Eleições Legislativas na Turquia",
+              "tipo": "REN",
+              "local": "Ancara e Izmir",
+              "dataInicio": "21-06-2018",
+              "dataFim": "25-06-2018",
+              "participantes": null
+            },
+            {
               "nome": "2ª Reunião Preparatória do FórumEconómico e Ambiental",
               "tipo": "REN",
               "local": "Veneza",
@@ -6948,12 +6956,28 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Seminário ONU/PAM sobre direitos Humanos para Deputados da APM",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "21-06-2018",
+              "dataFim": "22-06-2018",
+              "participantes": null
+            },
+            {
               "nome": "Fórum Internacional para o Desenvolvimento do Parlamentarismo",
               "tipo": "REN",
               "local": "Moscovo",
               "dataInicio": "04-06-2018",
               "dataFim": "05-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Sessão da Primavera da AP-NATO",
@@ -6961,7 +6985,24 @@
               "local": "Varsóvia",
               "dataInicio": "26-05-2018",
               "dataFim": "28-05-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MARIA DAS MERCÊS BORGES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4193"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PEDRO ROQUE",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1992"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião na sede das Nações Unidas com Altas Entidades, incluindo o Secretário-Geral da Organização, António Guterres e participação na Global Parliamentary Conference 2017 do Fundo Monetário Internacional e do Banco Mundial",
@@ -7235,22 +7276,6 @@
               }
             },
             {
-              "nome": "26ª Conferência Parlamentar do Mar Báltico",
-              "tipo": "REN",
-              "local": "Hamburgo",
-              "dataInicio": "03-09-2017",
-              "dataFim": "05-09-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RENATO SAMPAIO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1679"
-                }
-              }
-            },
-            {
               "nome": "26ª Conferência Parlamentar do Mar Báltico e Reunião de trabalho no Parlamento da Sérvia",
               "tipo": "REN",
               "local": "Hamburgo e Belgrado",
@@ -7263,6 +7288,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "26ª Conferência Parlamentar do Mar Báltico",
+              "tipo": "REN",
+              "local": "Hamburgo",
+              "dataInicio": "03-09-2017",
+              "dataFim": "05-09-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RENATO SAMPAIO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1679"
                 }
               }
             },

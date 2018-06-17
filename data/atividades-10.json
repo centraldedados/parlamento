@@ -3642,24 +3642,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "239",
-                "pubTipo": "DR I série",
-                "pubTp": "M",
-                "pubLeg": "X",
-                "pubSL": "3",
-                "supl": ".",
-                "obs": "V. Declaração da AR n.º 18/2007 (Membros efectivos e suplentes)",
-                "pubdt": "2007-12-12",
-                "pag": {
-                  "string": null
-                },
-                "idPag": "421534",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/03/239/2007-12-12?pgs=&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "8",
                 "pubTipo": "DAR II série E",
                 "pubTp": "H",
@@ -3675,6 +3657,24 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2e/10/03/008/2007-11-30/2?pgs=2&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "239",
+                "pubTipo": "DR I série",
+                "pubTp": "M",
+                "pubLeg": "X",
+                "pubSL": "3",
+                "supl": ".",
+                "obs": "V. Declaração da AR n.º 18/2007 (Membros efectivos e suplentes)",
+                "pubdt": "2007-12-12",
+                "pag": {
+                  "string": null
+                },
+                "idPag": "421534",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/03/239/2007-12-12?pgs=&org=PLC",
                 "idDeb": null
               }
             ]
@@ -4965,24 +4965,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "188",
-                "pubTipo": "DR I série",
-                "pubTp": "M",
-                "pubLeg": "X",
-                "pubSL": "2",
-                "supl": ".",
-                "obs": "Declaração da AR nº 19/2006",
-                "pubdt": "2006-09-28",
-                "pag": {
-                  "string": null
-                },
-                "idPag": "393020",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/02/188/2006-09-28?pgs=&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "1",
                 "pubTipo": "DAR II série C",
                 "pubTp": "C",
@@ -4998,6 +4980,24 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2c/10/02/001/2006-09-23/2?pgs=2&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "188",
+                "pubTipo": "DR I série",
+                "pubTp": "M",
+                "pubLeg": "X",
+                "pubSL": "2",
+                "supl": ".",
+                "obs": "Declaração da AR nº 19/2006",
+                "pubdt": "2006-09-28",
+                "pag": {
+                  "string": null
+                },
+                "idPag": "393020",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/02/188/2006-09-28?pgs=&org=PLC",
                 "idDeb": null
               }
             ]
@@ -7180,6 +7180,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "17",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "X",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2005-05-06",
+                    "pag": {
+                      "string": "649-649"
+                    },
+                    "idPag": "298900",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/649?pgs=649&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "18",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -7195,23 +7212,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/018/2005-05-07/699?pgs=699&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "17",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "X",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2005-05-06",
-                    "pag": {
-                      "string": "649-649"
-                    },
-                    "idPag": "298900",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06/649?pgs=649&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -9683,7 +9683,7 @@
           "numero": "228",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS; PSD"
+            "string": "PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139594c7a49794f4639594c6e426b5a673d3d&fich=228_X.pdf&Inline=true"
         },
