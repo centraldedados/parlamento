@@ -983,7 +983,24 @@
               "local": "Tóquio, Kyoto e Osaka",
               "dataInicio": "18-06-2018",
               "dataFim": "22-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS COSTA NEVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3963"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião conjunta APNATO - Parlamento Europeu",
@@ -991,7 +1008,24 @@
               "local": "Bruxelas",
               "dataInicio": "04-06-2018",
               "dataFim": "05-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS COSTA NEVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3963"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  }
+                ]
+              }
             },
             {
               "nome": "Sessão da Primavera",
@@ -999,7 +1033,45 @@
               "local": "Varsóvia",
               "dataInicio": "25-05-2018",
               "dataFim": "28-05-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "BRUNO VITORINO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1713"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS COSTA NEVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3963"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ DE MATOS CORREIA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1643"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  }
+                ]
+              }
             },
             {
               "nome": "Visita da Subcomissão para a Governação Democrática da Comissão para a Dimensão Civil da Segurança",
@@ -2653,7 +2725,24 @@
               "local": "Ancara e Izmir",
               "dataInicio": "21-06-2018",
               "dataFim": "25-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ MIGUEL MEDEIROS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "682"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS CAMPOS FERREIRA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1998"
+                  }
+                ]
+              }
             },
             {
               "nome": "2ª Reunião Preparatória do FórumEconómico e Ambiental",
@@ -4577,6 +4666,14 @@
               }
             },
             {
+              "nome": "3ª. Parte da Sessão Plenária de 2018",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "25-06-2018",
+              "dataFim": "29-06-2018",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação das Eleições Legislativas e Presidenciais na Turquia",
               "tipo": "REN",
               "local": "Ankara e Izmir",
@@ -4590,7 +4687,15 @@
               "local": "Paris",
               "dataInicio": "04-06-2018",
               "dataFim": "04-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão Permanente e da Comissão ad hoc do Bureau",
@@ -4598,7 +4703,15 @@
               "local": "Zagreb",
               "dataInicio": "01-06-2018",
               "dataFim": "01-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
+                }
+              }
             },
             {
               "nome": "Conferência sobre \"Cooperação transfronteiriça na Europa: Descentralização, quadros legais e práticos\"",
@@ -5261,6 +5374,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -5275,14 +5396,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -6977,7 +7090,24 @@
               "local": "Genebra",
               "dataInicio": "21-06-2018",
               "dataFim": "22-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "GABRIELA CANAVILHAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1851"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PEDRO ROQUE",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1992"
+                  }
+                ]
+              }
             },
             {
               "nome": "Fórum Internacional para o Desenvolvimento do Parlamentarismo",
