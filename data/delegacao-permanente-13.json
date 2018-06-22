@@ -188,6 +188,22 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião com a Associação das Universidades de Língua Portuguesa",
+              "tipo": "RNI",
+              "local": "Sala 2",
+              "dataInicio": "11-06-2018",
+              "dataFim": "11-06-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ELZA PAIS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "4209"
+                }
+              }
+            },
+            {
               "nome": "Reunião Ordinária da Delegação da AR à AP-CPLP",
               "tipo": "RNI",
               "local": "Sala 3 das Comissões",
@@ -2726,22 +2742,13 @@
               "dataInicio": "21-06-2018",
               "dataFim": "25-06-2018",
               "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOSÉ MIGUEL MEDEIROS",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "682"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LUÍS CAMPOS FERREIRA",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "1998"
-                  }
-                ]
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "JOSÉ MIGUEL MEDEIROS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "682"
+                }
               }
             },
             {
@@ -8139,6 +8146,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Observação de Eleições no México",
+              "tipo": "REN",
+              "local": "México",
+              "dataInicio": "28-06-2018",
+              "dataFim": "01-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião \"The role of Parliamentarians in achieving universal health coverage and global health security as two sides of the same coin\"",
               "tipo": "REN",
               "local": "Genebra",
@@ -8370,6 +8385,22 @@
               "participantes": null
             },
             {
+              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "14-10-2017",
+              "dataFim": "18-10-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RICARDO BAPTISTA LEITE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4441"
+                }
+              }
+            },
+            {
               "nome": "137ª  Assembleia da União Interparlamentar, Grupo dos 12+  e reuniões conexas",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -8427,22 +8458,6 @@
                     "id": "1897"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "14-10-2017",
-              "dataFim": "18-10-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RICARDO BAPTISTA LEITE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4441"
-                }
               }
             },
             {
