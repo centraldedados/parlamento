@@ -829,14 +829,14 @@
         },
         {
           "cadId": "1290",
-          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELO BRANCO",
+          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELLO-BRANCO",
           "cadDtNascimento": "1961-04-16",
           "cadSexo": "M",
           "cadProfissao": "Advogado",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
-                "depNomeParlamentar": "Álvaro Castelo Branco",
+                "depNomeParlamentar": "Álvaro Castello-Branco",
                 "legDes": "XIII",
                 "ceDes": "PORTO",
                 "parSigla": "PAF",
@@ -2168,31 +2168,31 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "24780",
+                "habId": "26282",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "24781",
+                "habId": "26283",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "24782",
+                "habId": "26284",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "24783",
+                "habId": "26285",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "24784",
+                "habId": "26286",
                 "habDes": "Gestão - ISEG",
                 "habTipoId": "13",
                 "habEstado": "F"
@@ -2202,49 +2202,49 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28596",
+                "funId": "29964",
                 "funDes": "Presidente da Assembleia Municipal do Barreiro",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28597",
+                "funId": "29965",
                 "funDes": "Eleito na Assembleia Municipal do Barreiro (Desde 2009)",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28598",
+                "funId": "29966",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Palestina",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "28599",
+                "funId": "29967",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Irão",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "28600",
+                "funId": "29968",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Japão",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "28601",
+                "funId": "29969",
                 "funDes": "Membro da Comissão Permanente de Educação, Cultura e Associativismo da A.M.B. (2009-2017)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "28602",
+                "funId": "29970",
                 "funDes": "Membro do Conselho Consultivo da Reserva Natural da Mata da Machada (2013-2017)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "28603",
+                "funId": "29971",
                 "funDes": "Membro da Comissão de Toponímia da A.M.B (2013-2017)",
                 "funOrdem": "8",
                 "funAntiga": "S"
@@ -23227,13 +23227,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "23680",
+                "habId": "26280",
                 "habDes": "Humanidades.",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "23681",
+                "habId": "26281",
                 "habDes": "Ciências da Educação- Especialização Pedagogia.",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -23243,52 +23243,58 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "27396",
-                "funDes": "Presidente do Departamento Federativo das Mulheres Socialistas de Viseu.",
+                "funId": "29956",
+                "funDes": "Vereadora na Câmara Municipal de Viseu- 2017-2021",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "27397",
-                "funDes": "Deputada na Assembleia Municipal de Viseu.",
+                "funId": "29957",
+                "funDes": "Presidente da Concelhia do PS Viseu",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "27398",
-                "funDes": "Membro da Comissão Política Nacional.",
+                "funId": "29958",
+                "funDes": "Membro da Nacional.",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "27399",
+                "funId": "29959",
                 "funDes": "Presidente da Assembleia Geral da Associação Cultural, Recreativa e Desportiva de Marzovelos- Viseu.",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "27400",
-                "funDes": "Presidente da concelhia do PS - Viseu- dois mandatos.",
+                "funId": "29960",
+                "funDes": "Cabeça de lista  à Câmara Municipal de Viseu ( 2017-2021)\nPresidente do Departamento Federativo das Mulheres Socialistas de Viseu.(2014-2018)\n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "27401",
-                "funDes": "Cabeça de lista à Assembleia de Freguesia de Coração de Jesus(atualmente freguesia de Viseu), em 2009.",
+                "funId": "29961",
+                "funDes": "Cabeça de lista à Assembleia de Freguesia de Coração de Jesus(atualmente freguesia de Viseu), em 2009.\nPresidente da concelhia do PS - Viseu- dois mandatos.",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "27402",
+                "funId": "29962",
                 "funDes": "Profissionalmente: orientadora de estágio de grupos do Centro Regional das Beiras -  Universidade Católica Portuguesa; delegada de grupo disciplinar; diretora de turma; membro da Assembleia Geral; representante dos encarregados de educação no conselho geral de escola.",
                 "funOrdem": "7",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "29963",
+                "funDes": "Deputada na Assembleia Municipal de Viseu ( 2013-2017)\nMembro da Comissão Política Nacional.",
+                "funOrdem": "8",
                 "funAntiga": "S"
               }
             ]
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "6631",
+              "pubId": "7311",
               "pubDes": "Conto infantil \"A História da Matilde\"",
               "pubOrdem": "1"
             }
@@ -31766,13 +31772,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "24281",
+                "habId": "26302",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "24282",
+                "habId": "26303",
                 "habDes": "Ciências Jurídico-Políticas",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -31782,117 +31788,123 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28122",
+                "funId": "30004",
                 "funDes": "Presidente da Junta de Freguesia do Lumiar (e membro por inerência da Assembleia Municipal de Lisboa)",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28123",
+                "funId": "30005",
                 "funDes": "Membro da Comissão de Acesso aos Documentos Administrativos ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28124",
+                "funId": "30006",
                 "funDes": "Presidente da Mesa da Assembleia-Geral da Legística - Associação para a Qualidade da Legislação ",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "28125",
+                "funId": "30007",
                 "funDes": "Membro da Direção da English Speaking Union - Portugal ",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "28126",
-                "funDes": "Membro da Comissão Política da Federação da Área Urbana de Lisboa do PS",
+                "funId": "30008",
+                "funDes": "Membro da Comissão Política Nacional do Partido Socialista",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "28127",
-                "funDes": "Membro do Secretariado da Concelhia do PS de Lisboa ",
+                "funId": "30009",
+                "funDes": "Membro da Comissão Política da Federação da Área Urbana de Lisboa do PS",
                 "funOrdem": "6",
                 "funAntiga": "N"
               },
               {
-                "funId": "28128",
-                "funDes": "Diretor da revista \"Portugal Socialista\"",
+                "funId": "30010",
+                "funDes": "Membro do Secretariado da Concelhia do PS de Lisboa ",
                 "funOrdem": "7",
                 "funAntiga": "N"
               },
               {
-                "funId": "28129",
+                "funId": "30011",
                 "funDes": "Membro do Conselho Geral do SPGL (Sindicato dos Professores da Grande Lisboa)",
                 "funOrdem": "8",
                 "funAntiga": "N"
               },
               {
-                "funId": "28130",
+                "funId": "30012",
                 "funDes": "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa)",
                 "funOrdem": "9",
                 "funAntiga": "N"
               },
               {
-                "funId": "28131",
+                "funId": "30013",
                 "funDes": "Membro da Assembleia de Freguesia de Alvalade, Lisboa (2011-2013)",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "28132",
+                "funId": "30014",
                 "funDes": "Secretário-Geral da Juventude Socialista (2010-2012)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "28133",
+                "funId": "30015",
                 "funDes": "Director-Adjunto do Centro Jurídico da Presidência do Conselho de Ministros (2008-2009)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "28134",
+                "funId": "30016",
                 "funDes": "Membro do grupo técnico-científico do Conselho Consultivo da Comissão para a Cidadania e Igualdade de Género (2008-2011)",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "28135",
+                "funId": "30017",
                 "funDes": "Suplente do representante da República Portuguesa no Conselho de Administração do Instituto Europeu para a Igualdade de Género (2007-2011)",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "28136",
+                "funId": "30018",
                 "funDes": "Membro do Fórum de Educação para a Cidadania (2006-2008)",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "28137",
+                "funId": "30019",
                 "funDes": "Membro do Bureau da ECOSY - Young European Socialists (2006-2009)  \nVice-Presidente da ECOSY - Young European Socialists (2009-2011)",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "28138",
+                "funId": "30020",
                 "funDes": "Membro do Secretariado Nacional da Juventude Socialista (2006-2010)",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "28139",
+                "funId": "30021",
                 "funDes": "Membro do Conselho Pedagógico, Conselho Directivo e Assembleia de Representantes da Faculdade de Direito da Universidade de Lisboa, entre 1999 e 2003 e membro da Assembleia da Universidade de Lisboa (1999-2001)",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "28140",
+                "funId": "30022",
                 "funDes": "Membro do Conselho Geral e do Conselho Pedagógico do Centro de Estudos Judiciário (2012-2016)",
                 "funOrdem": "19",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30023",
+                "funDes": "Diretor da revista \"Portugal Socialista\" ",
+                "funOrdem": "20",
                 "funAntiga": "S"
               }
             ]
@@ -31900,94 +31912,99 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "6791",
+                "pubId": "7331",
                 "pubDes": "A 26ª Hora  - A inclusão da disciplina de Religião e Moral na Organização Curricular do Ensino Básico: breve comentário - Revista da Faculdade de Direito de Lisboa, vol. XLIII nº 2 (2002)",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "6792",
+                "pubId": "7332",
                 "pubDes": "O meu deputado : personalização e proporcionalidade na eleição da Assembleia da República, in Revista da Faculdade de Direito de Lisboa. vol XLIV, n.º 1-2 (2003)\n",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "6793",
+                "pubId": "7333",
                 "pubDes": "Debating Societies A globalização de um modelo anglo-saxónico - Revista Polifonia nº 7 (2004)",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "6794",
+                "pubId": "7334",
                 "pubDes": "Um cavalo de Tróia no contencioso contratual: Suspensão do contrato em sede de medidas provisórias - Comentário ao Acórdão do STA de 11.12.2002 in Cadernos de Justiça Administrativa, n.º 49 (Janeiro/Fevereiro de 2005)",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "6795",
+                "pubId": "7335",
                 "pubDes": "O novo regime de impugnação de normas in Velhas e Novas Andanças do Contencioso Administrativo - Estudos sobre a reforma do processo administrativo, Lisboa, 2005",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "6796",
+                "pubId": "7336",
                 "pubDes": "Sinais de identificação e simbologia religiosa na escola pública  - Um olhar sobre a recente evolução jurisprudencial Europeia - Estudos em Memória do Prof. António Marques dos Santos, Coimbra, 2005",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "6797",
+                "pubId": "7337",
                 "pubDes": "A cláusula aberta de direitos fundamentais e os limites materiais de revisão constitucional -  Estudos em Memória do Prof. Sousa Franco, Coimbra, 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "6798",
+                "pubId": "7338",
                 "pubDes": "União Europeia e Jurisprudência Constitucional dos Estados-Membros (co-autoria com Maria Luísa Duarte), Lisboa, 2006",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "6799",
+                "pubId": "7339",
                 "pubDes": "Governos provisórios - Revista da Faculdade de Direito de Lisboa vol. XLVI nº 1 (2006)",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "6800",
+                "pubId": "7340",
                 "pubDes": "O princípio republicano - Revista da Faculdade de Direito de Lisboa vol. XLVIII nº 1 e 2 (2007)",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "6801",
+                "pubId": "7341",
                 "pubDes": "O novo regime jurídico do licenciamento ambiental, in O que há de novo no Direito do Ambiente?, Lisboa 2009",
                 "pubOrdem": "11"
               },
               {
-                "pubId": "6802",
+                "pubId": "7342",
                 "pubDes": "Procurando o limite das quatro linhas - Comentário ao Acórdão do STA de 10.09.2008 - Cadernos de Justiça Administrativa, n.º 83 (Setembro/Outubro de 2010)",
                 "pubOrdem": "12"
               },
               {
-                "pubId": "6803",
+                "pubId": "7343",
                 "pubDes": "O Regimento do Conselho de Ministros: Análise da sua evolução recente, in Estudos em Homenagem ao Professor Jorge Miranda, vol. III, Coimbra, 2012",
                 "pubOrdem": "13"
               },
               {
-                "pubId": "6804",
+                "pubId": "7344",
                 "pubDes": "A Troika e Portugal, dois anos depois in A Troika - Ano II: Uma avaliação de 66 cidadãos, Coimbra, 2013",
                 "pubOrdem": "14"
               },
               {
-                "pubId": "6805",
+                "pubId": "7345",
                 "pubDes": "A crise, a Troika e as alternativas urgentes (em co-autoria com Alexandre Abreu, Hugo Mendes, João Rodrigues, José Guilherme Gusmão, Nuno Serra, Nuno Teles e Ricardo Paes Mamede), Lisboa, 2013",
                 "pubOrdem": "15"
               },
               {
-                "pubId": "6806",
+                "pubId": "7346",
                 "pubDes": "Desenvolvimentos recentes da legislação sobre animais em Portugal: uma breve crónica legislativa, in Animais: Deveres e Direitos, Lisboa, 2015",
                 "pubOrdem": "16"
               },
               {
-                "pubId": "6807",
+                "pubId": "7347",
                 "pubDes": "O Lumiar na evolução administrativa da cidade de Lisboa in Atas das XII Jornadas Histórico-Culturais do Lumiar, Lisboa, 2015",
                 "pubOrdem": "17"
               },
               {
-                "pubId": "6808",
+                "pubId": "7348",
                 "pubDes": "A proteção jurídica aos seniores no Direito Português: da proteção constitucional às linhas mestras do sistema de proteção social, in Gestão de organizações e Empreendedorismo na Economia Social, Lisboa, 2017",
                 "pubOrdem": "18"
+              },
+              {
+                "pubId": "7349",
+                "pubDes": "Breve notas sobre a toponímia da Freguesia do Lumiar, in Atas das XIII Jornadas Histórico-Culturais do Lumiar, Lisboa, 2017",
+                "pubOrdem": "19"
               }
             ]
           },
@@ -36410,13 +36427,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "16700",
+                "habId": "26300",
                 "habDes": "relações internacionais-económicas e políticas\n",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "16701",
+                "habId": "26301",
                 "habDes": "pós-graduação em estudos europeus",
                 "habTipoId": "16"
               }
@@ -36425,50 +36442,50 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "21176",
+                "funId": "29996",
                 "funDes": "Deputada na X Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "21177",
+                "funId": "29997",
                 "funDes": "Membro Assembleia Municipal de Guimarães",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "21178",
-                "funDes": "Vice-Presidente do Grupo Parlamentar Socialista",
+                "funId": "29998",
+                "funDes": "Fundadora e Membro do Secretariado Executivo do Forum Interparlamentar Europeu de População e Desenvolvimento",
                 "funOrdem": "3",
-                "funAntiga": "N"
+                "funAntiga": "S"
               },
               {
-                "funId": "21179",
-                "funDes": "Fundadora e Membro do Secretariado Executivo do Forum Interparlamentar Europeu de População e Desenvolvimento",
+                "funId": "29999",
+                "funDes": "Coordenadora do PS da 13.ª Comissão, Paridade, Igualdade de Oportunidades e Família",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "21180",
-                "funDes": "Coordenadora do PS da 13.ª Comissão, Paridade, Igualdade de Oportunidades e Família",
+                "funId": "30000",
+                "funDes": "Membro Assembleia Municipal de Guimarães\nPresidente do departamento nacional de Mulheres Socialistas",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "21181",
-                "funDes": "Membro Assembleia Municipal de Guimarães\nPresidente do departamento nacional de Mulheres Socialistas",
+                "funId": "30001",
+                "funDes": "Membro das Comissões Parlamentares de Assuntos Europeus, Igualdade de Opurtunidades e Familia, Trabalho e Assuntos Sociais",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "21182",
-                "funDes": "Membro das Comissões Parlamentares de Assuntos Europeus, Igualdade de Opurtunidades e Familia, Trabalho e Assuntos Sociais",
+                "funId": "30002",
+                "funDes": "Deputada na VII, VIII e IX Legislatura",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "21183",
-                "funDes": "Deputada na VII, VIII e IX Legislatura",
+                "funId": "30003",
+                "funDes": "Vice-Presidente do Grupo Parlamentar do Partido Socialista entre X e a XII Legislaturas",
                 "funOrdem": "8",
                 "funAntiga": "S"
               }
@@ -37900,13 +37917,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "25640",
+                "habId": "26289",
                 "habDes": "Sociologia com especialização (seminário de investigação) em Trabalho e Organizações (Universidade do Porto)",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "25641",
+                "habId": "26290",
                 "habDes": "Pós-Graduação em Gestão (Curso Geral de Gestão, PBS, Universidade do Porto)",
                 "habTipoId": "16"
               }
@@ -37915,69 +37932,75 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29385",
+                "funId": "29980",
                 "funDes": "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica ",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29386",
+                "funId": "29981",
                 "funDes": "Presidente da Mesa da Comissão Política Concelhia do PS Porto",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29387",
-                "funDes": "Membro da Comissão Nacional do PS",
+                "funId": "29982",
+                "funDes": "Membro da Comissão Política Nacional do PS",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "29388",
+                "funId": "29983",
                 "funDes": "Coordenador dos deputados do PS para as Áreas do Trabalho e Segurança Social na XIII Legislatura (desde 2015)",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "29389",
+                "funId": "29984",
                 "funDes": "Membro do PS na Assembleia Municipal do Porto (2017-2021)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "29390",
+                "funId": "29985",
                 "funDes": "Presidente do PS Porto (2015-2018)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "29391",
-                "funDes": "Vereador do PS na Câmara Municipal do Porto (2013-2017)",
+                "funId": "29986",
+                "funDes": "Membro da Comissão Nacional do PS (2014-2018)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "29392",
-                "funDes": "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)\n",
+                "funId": "29987",
+                "funDes": "Vereador do PS na Câmara Municipal do Porto (2013-2017)",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "29393",
-                "funDes": "Membro da Assembleia de Freguesia do Bonfim (2009-2013)\n\n ",
+                "funId": "29988",
+                "funDes": "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)\n",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "29394",
-                "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
+                "funId": "29989",
+                "funDes": "Membro da Assembleia de Freguesia do Bonfim (2009-2013)\n\n ",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "29395",
-                "funDes": "Dirigente associativo universitário (2005-2006)",
+                "funId": "29990",
+                "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
                 "funOrdem": "11",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "29991",
+                "funDes": "Dirigente associativo universitário (2005-2006)",
+                "funOrdem": "12",
                 "funAntiga": "S"
               }
             ]
@@ -37985,42 +38008,42 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7111",
+                "pubId": "7312",
                 "pubDes": "«Trabalho Igual, Salário Diferente». Vários autores. Plataforma \"Ganhem Vergonha\". 2017 ",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7112",
+                "pubId": "7313",
                 "pubDes": "«Saídas Profissionais – O que é ser sociólogo hoje? Narrativas breves sobre experiências profissionais em construção (II)», N.º 11 dos IS Working Papers, Instituto de Sociologia da FLUP. Porto: 2014",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7113",
+                "pubId": "7314",
                 "pubDes": "Estudo de caso publicado na revista Ingenium nº 135 (Maio/Junho) em edição dedicada à internacionalização da engenharia portuguesa. Lisboa: 2013",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7114",
+                "pubId": "7315",
                 "pubDes": "Vários artigos publicados na revista da Associação Portuguesa das\nEmpresas do Sector Eléctrico e Electrónico desde 2012",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7115",
+                "pubId": "7316",
                 "pubDes": "«Onde pára o Estado? Políticas públicas em tempo de crise». Vários autores. Edições Nélson de Matos. Lisboa: 2009",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7116",
+                "pubId": "7317",
                 "pubDes": "«A mudança como constante: interrogações e problemáticas entre os processos de globalização e a internacionalização das organizações. Estudo de caso num grupo empresarial do sector electromecânico», (Vol. I e II). Biblioteca do Departamento de Sociologia da Universidade do Porto. Porto, 2008",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7117",
+                "pubId": "7318",
                 "pubDes": "«Pesquisar e filmar: o registo documental e as ciências sociais», revista da\nFaculdade de Letras da UP, 341-366. Porto: 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7118",
+                "pubId": "7319",
                 "pubDes": "Vários artigos em publicações periódicas e revistas especializadas",
                 "pubOrdem": "8"
               }
@@ -39516,7 +39539,7 @@
         },
         {
           "cadId": "1290",
-          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELO BRANCO",
+          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELLO-BRANCO",
           "cadActividadeProfissional": "Advogado",
           "cadEstadoCivilCod": "2",
           "cadEstadoCivilDes": "Divorciado(a)",
@@ -53647,14 +53670,15 @@
           "cadId": "4453",
           "cadNomeCompleto": "PEDRO FILIPE MOTA DELGADO SIMÕES ALVES",
           "cadActividadeProfissional": "Docente universitário ",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "8208",
               "rgiLegDes": "XIII",
               "rgiDataVersao": "2018-02-01",
-              "rgiRegimeBensId": "0",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à Assembleia da República (XIII Legislatura)",
               "rgiCargoData": "2015",
               "rgiApoiosBeneficios": "- Senhas de presença na Assembleia Municipal de Lisboa (nos termos do Estatuto dos Eleitos Locais)\n- Compensação para encargos (ajudas de custo) na Junta de Freguesia do Lumiar (nos termos da Lei n.º 11/96, de 18 de abril e do parecer da Comissão de Ética, Cidadania e Comunicação da AR)\n- Abono e senhas de presença na Comissão de Acesso aos Documentos Administrativos (nos termos do n.º 2 e 3 do artigo 33.º da Lei n.º 26/2016, de 24 de agosto) \n- Abono pela lecionação pontual e não regular em seminários de pós-graduação, nos termos previstos n.º 6 do artigo 16.º do Estatuto Remuneratório dos Titulares de Cargos Políticos ",

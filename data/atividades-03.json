@@ -1265,24 +1265,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "4",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "III",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "obs": "Anúncio",
-                    "pubdt": "1983-06-16",
-                    "pag": {
-                      "string": "59-59"
-                    },
-                    "idPag": "545739",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "3",
                     "pubTipo": "DAR II série",
                     "pubTp": "K",
@@ -1298,6 +1280,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/03/01/003/1983-06-15/178?pgs=178-179&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "4",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "III",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "obs": "Anúncio",
+                    "pubdt": "1983-06-16",
+                    "pag": {
+                      "string": "59-59"
+                    },
+                    "idPag": "545739",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/004/1983-06-16/59?pgs=59&org=PLC",
                     "idDeb": null
                   }
                 ]

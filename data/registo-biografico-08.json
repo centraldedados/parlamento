@@ -1741,14 +1741,14 @@
         },
         {
           "cadId": "1290",
-          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELO BRANCO",
+          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELLO-BRANCO",
           "cadDtNascimento": "1961-04-16",
           "cadSexo": "M",
           "cadProfissao": "Advogado",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
-                "depNomeParlamentar": "Álvaro Castelo Branco",
+                "depNomeParlamentar": "Álvaro Castello-Branco",
                 "legDes": "XIII",
                 "ceDes": "PORTO",
                 "parSigla": "PAF",
@@ -32671,13 +32671,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "16700",
+                "habId": "26300",
                 "habDes": "relações internacionais-económicas e políticas\n",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "16701",
+                "habId": "26301",
                 "habDes": "pós-graduação em estudos europeus",
                 "habTipoId": "16"
               }
@@ -32686,50 +32686,50 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "21176",
+                "funId": "29996",
                 "funDes": "Deputada na X Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "21177",
+                "funId": "29997",
                 "funDes": "Membro Assembleia Municipal de Guimarães",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "21178",
-                "funDes": "Vice-Presidente do Grupo Parlamentar Socialista",
+                "funId": "29998",
+                "funDes": "Fundadora e Membro do Secretariado Executivo do Forum Interparlamentar Europeu de População e Desenvolvimento",
                 "funOrdem": "3",
-                "funAntiga": "N"
+                "funAntiga": "S"
               },
               {
-                "funId": "21179",
-                "funDes": "Fundadora e Membro do Secretariado Executivo do Forum Interparlamentar Europeu de População e Desenvolvimento",
+                "funId": "29999",
+                "funDes": "Coordenadora do PS da 13.ª Comissão, Paridade, Igualdade de Oportunidades e Família",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "21180",
-                "funDes": "Coordenadora do PS da 13.ª Comissão, Paridade, Igualdade de Oportunidades e Família",
+                "funId": "30000",
+                "funDes": "Membro Assembleia Municipal de Guimarães\nPresidente do departamento nacional de Mulheres Socialistas",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "21181",
-                "funDes": "Membro Assembleia Municipal de Guimarães\nPresidente do departamento nacional de Mulheres Socialistas",
+                "funId": "30001",
+                "funDes": "Membro das Comissões Parlamentares de Assuntos Europeus, Igualdade de Opurtunidades e Familia, Trabalho e Assuntos Sociais",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "21182",
-                "funDes": "Membro das Comissões Parlamentares de Assuntos Europeus, Igualdade de Opurtunidades e Familia, Trabalho e Assuntos Sociais",
+                "funId": "30002",
+                "funDes": "Deputada na VII, VIII e IX Legislatura",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "21183",
-                "funDes": "Deputada na VII, VIII e IX Legislatura",
+                "funId": "30003",
+                "funDes": "Vice-Presidente do Grupo Parlamentar do Partido Socialista entre X e a XII Legislaturas",
                 "funOrdem": "8",
                 "funAntiga": "S"
               }
@@ -34181,7 +34181,7 @@
         },
         {
           "cadId": "1290",
-          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELO BRANCO",
+          "cadNomeCompleto": "ÁLVARO ANTÓNIO MAGALHÃES FERRÃO DE CASTELLO-BRANCO",
           "cadActividadeProfissional": "Advogado",
           "cadEstadoCivilCod": "2",
           "cadEstadoCivilDes": "Divorciado(a)"
