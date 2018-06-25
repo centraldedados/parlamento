@@ -24,5 +24,4 @@ install:
 
 deploy:
 	git add ../data/
-	git commit -m "Atualização automática"
-	git push origin master
+	git commit -am "Atualização automática"; git push origin master
