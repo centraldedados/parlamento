@@ -2452,8 +2452,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -2783,13 +2783,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4705",
-                "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
-                "orgSigla": "GT-ATCE",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4705",
+                  "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
+                  "orgSigla": "GT-ATCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -5565,8 +5574,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -13793,8 +13802,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -16267,8 +16276,8 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
                 "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                "orgSigla": "GT-TLDP",
+                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                "orgSigla": "GT-RP",
                 "legDes": "XIII",
                 "timDes": "Efetivo",
                 "cargoDes": {
@@ -18476,8 +18485,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -27196,8 +27205,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -28586,13 +28595,6 @@
                   "orgId": "6644",
                   "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
                   "orgSigla": "GT-SPME",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -30572,8 +30574,8 @@
                 },
                 {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
