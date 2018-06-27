@@ -2736,6 +2736,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Sessão Anual Plenária",
+              "tipo": "REN",
+              "local": "Berlim",
+              "dataInicio": "07-07-2018",
+              "dataFim": "11-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação das Eleições Legislativas na Turquia",
               "tipo": "REN",
               "local": "Ancara e Izmir",
@@ -7084,6 +7092,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "27ª Sessão Anual da APOSCE e Conferência de Alto Nível da OMC e da APM sobre facilitaçãodo Comércio e dos Investimentos nos Balcãs Ocidentais",
+              "tipo": "REN",
+              "local": "Berlim e Belgrado",
+              "dataInicio": "07-07-2018",
+              "dataFim": "13-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "25ª Assembleia-Geral da Assembleia Interparlamentar da Ortodoxia",
               "tipo": "REN",
               "local": "Atenas",
@@ -7285,22 +7301,6 @@
               }
             },
             {
-              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
-              "tipo": "REN",
-              "local": "Argel",
-              "dataInicio": "20-01-2018",
-              "dataFim": "21-01-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "GABRIELA CANAVILHAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1851"
-                }
-              }
-            },
-            {
               "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
               "tipo": "REN",
               "local": "Argel e Estrasburgo",
@@ -7313,6 +7313,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
+              "tipo": "REN",
+              "local": "Argel",
+              "dataInicio": "20-01-2018",
+              "dataFim": "21-01-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "GABRIELA CANAVILHAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1851"
                 }
               }
             },
