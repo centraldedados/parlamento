@@ -5608,24 +5608,6 @@
         }
       },
       {
-        "id": "1729",
-        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
-        "local": "Atenas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-09",
-        "dataFim": "2017-11-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDUARDO FERRO RODRIGUES",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "163"
-          }
-        }
-      },
-      {
         "id": "1730",
         "nome": "Participação no III Grupo de Trabalho de Alto Nível dos PALOP e de Timor-Leste para Análise e Discussão da Fiscalização Legislativa ao longo do Ciclo Orçamental",
         "local": "Maputo",
@@ -5653,14 +5635,22 @@
         }
       },
       {
-        "id": "1736",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 4.2.6",
-        "local": "Pristina",
+        "id": "1729",
+        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
+        "local": "Atenas",
         "legislatura": "XIII",
         "sessao": "3",
-        "dataInicio": "2017-11-12",
-        "dataFim": "2017-11-15",
-        "participantes": null
+        "dataInicio": "2017-11-09",
+        "dataFim": "2017-11-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
+          }
+        }
       },
       {
         "id": "1745",
@@ -5679,6 +5669,16 @@
             "id": "1998"
           }
         }
+      },
+      {
+        "id": "1736",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 4.2.6",
+        "local": "Pristina",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-12",
+        "dataFim": "2017-11-15",
+        "participantes": null
       },
       {
         "id": "1732",
@@ -5701,8 +5701,8 @@
         "participantes": null
       },
       {
-        "id": "1735",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.2.2",
+        "id": "1734",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.1.2",
         "local": "Pristina",
         "legislatura": "XIII",
         "sessao": "3",
@@ -5711,8 +5711,8 @@
         "participantes": null
       },
       {
-        "id": "1734",
-        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.1.2",
+        "id": "1735",
+        "nome": "Twinning Project - apoio à Assembleia do kosovo - convite da Assembleia  Nacional da Hungria - atividade 2.2.2",
         "local": "Pristina",
         "legislatura": "XIII",
         "sessao": "3",
@@ -5728,34 +5728,6 @@
         "sessao": "3",
         "dataInicio": "2017-11-20",
         "dataFim": "2017-11-21",
-        "participantes": null
-      },
-      {
-        "id": "1740",
-        "nome": "Encontros Interparlamentares \"Novo Consenso Europeu sobre Desenvolvimento, numa perspetiva de cooperação e de sustentabilidade\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "MARIA MANUEL ROLA",
-            "gp": "BE",
-            "leg": "XIII",
-            "id": "5952"
-          }
-        }
-      },
-      {
-        "id": "1739",
-        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-22",
         "participantes": null
       },
       {
@@ -5804,6 +5776,24 @@
         }
       },
       {
+        "id": "1740",
+        "nome": "Encontros Interparlamentares \"Novo Consenso Europeu sobre Desenvolvimento, numa perspetiva de cooperação e de sustentabilidade\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MARIA MANUEL ROLA",
+            "gp": "BE",
+            "leg": "XIII",
+            "id": "5952"
+          }
+        }
+      },
+      {
         "id": "1741",
         "nome": "Reunião Interparlamentar organizada pela Comissão AFET do Parlamento Europeu",
         "local": "Bruxelas",
@@ -5829,6 +5819,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1739",
+        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-22",
+        "participantes": null
       },
       {
         "id": "1737",
@@ -5899,24 +5899,6 @@
         }
       },
       {
-        "id": "1753",
-        "nome": "Congresso Internacional da International Diabetes Federation",
-        "local": "AbuDhabi",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-12-05",
-        "dataFim": "2017-12-07",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "RICARDO BAPTISTA LEITE",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4441"
-          }
-        }
-      },
-      {
         "id": "1751",
         "nome": "Fórum Parlamentar sobre Inteligência e Segurança",
         "local": "Washington - E.U.A.",
@@ -5931,6 +5913,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "1264"
+          }
+        }
+      },
+      {
+        "id": "1753",
+        "nome": "Congresso Internacional da International Diabetes Federation",
+        "local": "AbuDhabi",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-12-05",
+        "dataFim": "2017-12-07",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
           }
         }
       },
@@ -6604,24 +6604,6 @@
         }
       },
       {
-        "id": "1781",
-        "nome": "Reunião interparalamentar organizada pela Comissão LIBE do Parlamento Europeu",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-27",
-        "dataFim": "2018-02-27",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "CONSTANÇA URBANO DE SOUSA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "5932"
-          }
-        }
-      },
-      {
         "id": "1782",
         "nome": "Reunião interparlamentar sobre \"Os pactos das Nações Unidas para os Refugiados e Migrantes: o papel dos Parlamentos\"",
         "local": "Bruxelas",
@@ -6636,6 +6618,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "5749"
+          }
+        }
+      },
+      {
+        "id": "1781",
+        "nome": "Reunião interparalamentar organizada pela Comissão LIBE do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-27",
+        "dataFim": "2018-02-27",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "CONSTANÇA URBANO DE SOUSA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "5932"
           }
         }
       },
@@ -7986,6 +7986,16 @@
             "id": "3339"
           }
         }
+      },
+      {
+        "id": "1844",
+        "nome": "Seminário \"Westminster Foundation for Democracy: Seminar on Post-Legislative Scrutiny\"",
+        "local": "Londres",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-07-10",
+        "dataFim": "2018-07-10",
+        "participantes": null
       }
     ]
   }
