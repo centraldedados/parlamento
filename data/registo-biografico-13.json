@@ -6169,6 +6169,13 @@
                   "orgSigla": "GT-I",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -6290,6 +6297,13 @@
                   "orgId": "6444",
                   "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
                   "orgSigla": "GT-RMI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -8017,6 +8031,13 @@
                   "orgId": "6284",
                   "orgDes": "Grupo de Trabalho - Regime do Trabalho Noturno e por Turnos",
                   "orgSigla": "GT-RTNT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -17223,6 +17244,13 @@
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -22447,6 +22475,20 @@
                   "timDes": "Efetivo"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6724",
+                "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                "orgSigla": "GT-TNC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -23059,13 +23101,6 @@
                   }
                 },
                 {
-                  "orgId": "4704",
-                  "orgDes": "Grupo de Trabalho da Educação Especial",
-                  "orgSigla": "GT-EE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5164",
                   "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites",
                   "orgSigla": "GT-APSH",
@@ -23073,9 +23108,23 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "4704",
+                  "orgDes": "Grupo de Trabalho da Educação Especial",
+                  "orgSigla": "GT-EE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "5464",
                   "orgDes": "Grupo de Trabalho - Atos de Profissionais da Àrea da Saúde (PPL n.º 34/XIII/2.ª)",
                   "orgSigla": "GT-APAS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -29111,6 +29160,13 @@
                   "orgSigla": "GT-RMI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -30576,6 +30632,13 @@
                   "orgId": "6684",
                   "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
                   "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6724",
+                  "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
+                  "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

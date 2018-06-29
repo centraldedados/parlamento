@@ -188,6 +188,47 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da Rede de Mulheres AP-CPLP com a Escola Superior de Enfermagem de Coimbra",
+              "tipo": "RNI",
+              "local": "Sala 2",
+              "dataInicio": "27-06-2018",
+              "dataFim": "27-06-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ÂNGELA GUERRA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4031"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "ELZA PAIS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4209"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião com o Parlamento dos Jovens da Assembleia Nacional Popular da Guiné-Bissau",
+              "tipo": "RNI",
+              "local": "Antecâmara da Sala de Jantar da Presidência",
+              "dataInicio": "26-06-2018",
+              "dataFim": "26-06-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MARCO ANTÓNIO COSTA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "646"
+                }
+              }
+            },
+            {
               "nome": "Reunião com a Associação das Universidades de Língua Portuguesa",
               "tipo": "RNI",
               "local": "Sala 2",
@@ -275,14 +316,6 @@
               }
             },
             {
-              "nome": "Reunião da 3a Comissão da AP-CPLP",
-              "tipo": "REN",
-              "local": "São Tomé, São Tomé e Príncipe",
-              "dataInicio": "19-03-2018",
-              "dataFim": "20-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 3 - Língua, Educação, Cultura  da AP-CPLP",
               "tipo": "REN",
               "local": "São Tomé",
@@ -306,6 +339,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Reunião da 3a Comissão da AP-CPLP",
+              "tipo": "REN",
+              "local": "São Tomé, São Tomé e Príncipe",
+              "dataInicio": "19-03-2018",
+              "dataFim": "20-03-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião da 3a Comissão da AP-CPLP",
