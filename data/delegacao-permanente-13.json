@@ -4722,12 +4722,72 @@
               }
             },
             {
+              "nome": "Conférence régionale sur les femmes et politique: comment progresser vers l'égalité",
+              "tipo": "REN",
+              "local": "Rabat",
+              "dataInicio": "05-07-2018",
+              "dataFim": "05-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "3ª. Parte da Sessão Plenária de 2018",
               "tipo": "REN",
               "local": "Estrasburgo",
               "dataInicio": "25-06-2018",
               "dataFim": "29-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ADÃO SILVA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "ANA CATARINA MENDONÇA MENDES",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1212"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS ALBERTO GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1458"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "DUARTE MARQUES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4170"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "EDITE ESTRELA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "162"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS LEITE RAMOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4364"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "TELMO CORREIA",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1655"
+                  }
+                ]
+              }
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas e Presidenciais na Turquia",
@@ -6063,22 +6123,6 @@
               }
             },
             {
-              "nome": "reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "07-12-2016",
-              "dataFim": "07-12-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "DUARTE MARQUES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4170"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão de Relações Externas da Comissão de Assuntos Políticos e Democracia",
               "tipo": "REN",
               "local": "Nova Iorque",
@@ -6091,6 +6135,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "3"
+                }
+              }
+            },
+            {
+              "nome": "reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "07-12-2016",
+              "dataFim": "07-12-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE MARQUES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4170"
                 }
               }
             },
@@ -6348,22 +6408,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "DUARTE MARQUES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4170"
-                }
-              }
-            },
-            {
               "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
               "tipo": "RNI",
               "local": "Assembleia da República-Sala D. Maria",
@@ -6376,6 +6420,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "3"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE MARQUES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4170"
                 }
               }
             },
@@ -6862,22 +6922,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "14-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -6890,6 +6934,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "14-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },

@@ -7637,7 +7637,7 @@
           "numero": "227",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PAR; PSD; BE; PCP"
+            "string": "PCP; BE; PSD; PAR; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338794d6a6466535667756347526d&fich=227_IX.pdf&Inline=true"
         },
@@ -7720,7 +7720,7 @@
           "numero": "226",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; CDS-PP; BE"
+            "string": "BE; PCP; PS; CDS-PP; PSD; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338794d6a5a66535667756347526d&fich=226_IX.pdf&Inline=true"
         },
@@ -8053,7 +8053,7 @@
           "numero": "222",
           "tipoAutor": "PAR",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "PCP; CDS-PP; PSD; BE; PS; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338794d6a4a66535667756347526d&fich=222_IX.pdf&Inline=true"
         },
@@ -10650,7 +10650,7 @@
           "numero": "190",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "CDS-PP; PCP; PSD; BE; PS; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338784f544266535667756347526d&fich=190_IX.pdf&Inline=true"
         },
@@ -25842,37 +25842,6 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
-              "IDAudicao": "72216",
-              "numeroAudicao": "3-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-06-26"
-            },
-            {
-              "IDAudicao": "72215",
-              "numeroAudicao": "2-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Comunicações",
-              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
-              "data": "2002-06-18"
-            },
-            {
-              "IDAudicao": "72214",
-              "numeroAudicao": "1-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-05-28"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
               "IDAudicao": "72204",
               "numeroAudicao": "3-ACDLG-IX",
               "legislatura": "IX",
@@ -25898,6 +25867,37 @@
               "assunto": "SERVIÇO PÚBLICO DE TELEVISÃO",
               "entidades": "Ministro da Presidência, Dr. Nuno Albuquerque Morais Sarmento",
               "data": "2002-05-14"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "72216",
+              "numeroAudicao": "3-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-06-26"
+            },
+            {
+              "IDAudicao": "72215",
+              "numeroAudicao": "2-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Comunicações",
+              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
+              "data": "2002-06-18"
+            },
+            {
+              "IDAudicao": "72214",
+              "numeroAudicao": "1-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-05-28"
             }
           ]
         },
@@ -27494,18 +27494,6 @@
     "Audiencias": {
       "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
-            "IDAudiencia": "72227",
-            "numeroAudiencia": "1-OPTC-IX",
-            "legislatura": "IX",
-            "sessaoLegislativa": "1",
-            "assunto": "Aeroporto na OTA e traçado do TGV",
-            "entidades": "Movimento Pró-Aeroporto Na Ota",
-            "data": "2002-07-02",
-            "concedida": "Concedida"
-          }
-        },
-        {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
               "IDAudiencia": "72201",
@@ -27580,28 +27568,16 @@
           ]
         },
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "74217",
-              "numeroAudiencia": "2-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
-              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
-              "data": "2004-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73431",
-              "numeroAudiencia": "1-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
-              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
-              "data": "2003-06-25",
-              "concedida": "Concedida"
-            }
-          ]
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
+            "IDAudiencia": "72227",
+            "numeroAudiencia": "1-OPTC-IX",
+            "legislatura": "IX",
+            "sessaoLegislativa": "1",
+            "assunto": "Aeroporto na OTA e traçado do TGV",
+            "entidades": "Movimento Pró-Aeroporto Na Ota",
+            "data": "2002-07-02",
+            "concedida": "Concedida"
+          }
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
@@ -27836,16 +27812,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "73130",
-              "numeroAudiencia": "5-ECC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Sobre a alteração do Decreto-Lei nº. 99/2001 de 28 de Março (Escolas Superiores de Enfermagem)",
-              "entidades": "Sindicato Nacional do Ensino Superior - SNESup.",
-              "data": "2002-06-06",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "73129",
               "numeroAudiencia": "5-ECC-IX",
               "legislatura": "IX",
@@ -27853,6 +27819,16 @@
               "assunto": "Sobre o futuro do Instituto Portugues de Arqueologia",
               "entidades": "Trabalhadores do IPA - Instituto Português de Arqueologia",
               "data": "2002-05-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73130",
+              "numeroAudiencia": "5-ECC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Sobre a alteração do Decreto-Lei nº. 99/2001 de 28 de Março (Escolas Superiores de Enfermagem)",
+              "entidades": "Sindicato Nacional do Ensino Superior - SNESup.",
+              "data": "2002-06-06",
               "concedida": "Concedida"
             },
             {
@@ -27873,6 +27849,30 @@
               "assunto": "Estatuto de integração social das Medicinas Alternativas e as perspectivas criadas face ao Projecto-Lei nº. 34/VIII",
               "entidades": "AMENA - Associação de Medicina Natural e Bioterapêuticas",
               "data": "2002-07-17",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "74217",
+              "numeroAudiencia": "2-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
+              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
+              "data": "2004-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73431",
+              "numeroAudiencia": "1-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
+              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
+              "data": "2003-06-25",
               "concedida": "Concedida"
             }
           ]
@@ -28490,16 +28490,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "74497",
-              "numeroAudiencia": "106-AEPE-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
-              "entidades": "Embaixador do Egipto",
-              "data": "2004-01-21",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "74509",
               "numeroAudiencia": "106- AEPE-IX",
               "legislatura": "IX",
@@ -28507,6 +28497,16 @@
               "assunto": "AUDIÊNCIA",
               "entidades": "Embaixador do Irão",
               "data": "2004-02-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "74497",
+              "numeroAudiencia": "106-AEPE-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
+              "entidades": "Embaixador do Egipto",
+              "data": "2004-01-21",
               "concedida": "Concedida"
             },
             {
