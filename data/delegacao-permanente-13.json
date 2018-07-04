@@ -7193,6 +7193,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Conferência de Alto Nível da OMC e da APM sobre facilitação do Comércio e dos Investimentos nos Balcãs Ocidentais",
+              "tipo": "REN",
+              "local": "Belgrado",
+              "dataInicio": "12-07-2018",
+              "dataFim": "13-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "27ª Sessão Anual da APOSCE e Conferência de Alto Nível da OMC e da APM sobre facilitaçãodo Comércio e dos Investimentos nos Balcãs Ocidentais",
               "tipo": "REN",
               "local": "Berlim e Belgrado",
@@ -7402,22 +7410,6 @@
               }
             },
             {
-              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
-              "tipo": "REN",
-              "local": "Argel e Estrasburgo",
-              "dataInicio": "20-01-2018",
-              "dataFim": "26-01-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO ROQUE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1992"
-                }
-              }
-            },
-            {
               "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
               "tipo": "REN",
               "local": "Argel",
@@ -7430,6 +7422,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1851"
+                }
+              }
+            },
+            {
+              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
+              "tipo": "REN",
+              "local": "Argel e Estrasburgo",
+              "dataInicio": "20-01-2018",
+              "dataFim": "26-01-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
                 }
               }
             },
@@ -7698,22 +7706,6 @@
               }
             },
             {
-              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "27-03-2017",
-              "dataFim": "28-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RENATO SAMPAIO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1679"
-                }
-              }
-            },
-            {
               "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
               "tipo": "REN",
               "local": "São Petersburgo e Roma",
@@ -7726,6 +7718,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "27-03-2017",
+              "dataFim": "28-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RENATO SAMPAIO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1679"
                 }
               }
             },
