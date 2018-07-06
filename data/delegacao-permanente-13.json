@@ -1035,6 +1035,22 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-07-2018",
+              "dataFim": "12-07-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Reunião da Pré-Cimeira da NATO",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-07-2018",
+              "dataFim": "10-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "Visita conjunta da Subcomissão para as Relações Económicas Transtalânticas da Comissão de Economia e Segurança, e da Subcomissão para as Parcerias da NATO da Comissão Política da Assembleia Parlamentar da NATO",
               "tipo": "REN",
               "local": "Tóquio, Kyoto e Osaka",
@@ -1475,6 +1491,22 @@
               }
             },
             {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
+            },
+            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1497,22 +1529,6 @@
                     "id": "193"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
               }
             },
             {
@@ -2288,22 +2304,6 @@
               }
             },
             {
-              "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente e da Subcomissão para as Relações Transatlânticas",
-              "tipo": "REN",
-              "local": "Muscat",
-              "dataInicio": "26-09-2016",
-              "dataFim": "28-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "MIRANDA CALHA",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "193"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão para a Dimensão Civil da segurança",
               "tipo": "REN",
               "local": "Cairo",
@@ -2316,6 +2316,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1700"
+                }
+              }
+            },
+            {
+              "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente e da Subcomissão para as Relações Transatlânticas",
+              "tipo": "REN",
+              "local": "Muscat",
+              "dataInicio": "26-09-2016",
+              "dataFim": "28-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIRANDA CALHA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "193"
                 }
               }
             },
