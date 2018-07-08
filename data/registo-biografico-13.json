@@ -944,6 +944,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -16859,13 +16866,6 @@
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
                 }
               ]
             }
@@ -22966,19 +22966,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26180",
+                "habId": "26340",
                 "habDes": "Educação",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26181",
+                "habId": "26341",
                 "habDes": "Educação - Especialização em Mediação Educacional e Supervisão na Formação",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "26182",
+                "habId": "26342",
                 "habDes": "Ciências da Educação - Especialização em Psicologia da Educação",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -22988,39 +22988,45 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29856",
+                "funId": "30056",
                 "funDes": "Vogal da Comissão Política Distrital de Braga",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29857",
+                "funId": "30057",
                 "funDes": "Membro do Centro de Investigação em Estudos da Criança (CIEC) da Universidade do Minho ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29858",
+                "funId": "30058",
                 "funDes": "Vereadora (sem pelouros) na Câmara Municipal de Cabeceiras de Basto",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "29859",
-                "funDes": "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto",
+                "funId": "30059",
+                "funDes": "Vogal no Conselho de Administração do Instituto Francisco Sá Carneiro",
                 "funOrdem": "4",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "29860",
-                "funDes": "Membro da Assembleia Municipal de Cabeceiras de Basto",
+                "funId": "30060",
+                "funDes": "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "29861",
-                "funDes": "Presidente da Comissão Política de Secção de Cabeceiras de Basto",
+                "funId": "30061",
+                "funDes": "Membro da Assembleia Municipal de Cabeceiras de Basto",
                 "funOrdem": "6",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30062",
+                "funDes": "Presidente da Comissão Política de Secção de Cabeceiras de Basto",
+                "funOrdem": "7",
                 "funAntiga": "S"
               }
             ]
@@ -25564,13 +25570,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "24340",
+                "habId": "26320",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "24341",
+                "habId": "26321",
                 "habDes": "Direito e Gestão",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -25580,49 +25586,49 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28176",
-                "funDes": "Secretária-Geral da Comissão Política Nacional da JSD\n",
+                "funId": "30036",
+                "funDes": "Presidente da Comissão Política Nacional da JSD\n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28177",
+                "funId": "30037",
                 "funDes": "Conselheira Nacional do PSD\n",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28178",
+                "funId": "30038",
                 "funDes": "Membro da Assembleia Municipal da Marinha Grande",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "28179",
+                "funId": "30039",
                 "funDes": "Tesoureira da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "28180",
+                "funId": "30040",
                 "funDes": "Tesoureira da Direção da Associação Europeia de Estudantes de Direito da Faculdade de Direito de Lisboa – ELSA FDL\n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "28181",
+                "funId": "30041",
                 "funDes": "Representante dos estudantes no Conselho Académico da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "28182",
+                "funId": "30042",
                 "funDes": "Vogal da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "28183",
+                "funId": "30043",
                 "funDes": "Presidente da Associação de Estudantes da Escola Secundária Acácio Calazans Duarte",
                 "funOrdem": "8",
                 "funAntiga": "S"
@@ -25631,7 +25637,7 @@
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "6811",
+              "pubId": "7351",
               "pubDes": "Colaboração no livro “O Estatuto dos Grandes Contribuintes de Angola”, publicado em 2014 pela Almedina",
               "pubOrdem": "1"
             }

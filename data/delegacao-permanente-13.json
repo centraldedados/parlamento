@@ -8287,12 +8287,28 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Fórum Político de Alto-Nível sobre Desenvolvimento Sustentável e reuniões conexas",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "09-07-2018",
+              "dataFim": "19-07-2018",
+              "participantes": null
+            },
+            {
               "nome": "Observação de Eleições no México",
               "tipo": "REN",
               "local": "México",
               "dataInicio": "28-06-2018",
               "dataFim": "01-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE PACHECO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "42"
+                }
+              }
             },
             {
               "nome": "Reunião \"The role of Parliamentarians in achieving universal health coverage and global health security as two sides of the same coin\"",
@@ -8820,30 +8836,6 @@
               }
             },
             {
-              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
-              "tipo": "REN",
-              "local": "Genebra",
-              "dataInicio": "23-10-2016",
-              "dataFim": "27-10-2016",
-              "participantes": null
-            },
-            {
-              "nome": "Reunião dos Doze Mais, do GRULAC + 3 e Reunião das delegações da CPLP presentes na UIP",
-              "tipo": "REN",
-              "local": "Genebra",
-              "dataInicio": "23-10-2016",
-              "dataFim": "27-10-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "DUARTE PACHECO",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "42"
-                }
-              }
-            },
-            {
               "nome": "135ª Assembleia da União Interparlamentar",
               "tipo": "REN",
               "local": "Genebra",
@@ -8908,6 +8900,30 @@
                     "id": "1897"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "23-10-2016",
+              "dataFim": "27-10-2016",
+              "participantes": null
+            },
+            {
+              "nome": "Reunião dos Doze Mais, do GRULAC + 3 e Reunião das delegações da CPLP presentes na UIP",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "23-10-2016",
+              "dataFim": "27-10-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE PACHECO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "42"
+                }
               }
             },
             {
