@@ -2019,8 +2019,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-02-07"
+              },
+              {
                 "sioDes": "Impedido",
-                "sioDtInicio": "2018-02-06"
+                "sioDtInicio": "2018-02-06",
+                "sioDtFim": "2018-02-07"
               },
               {
                 "sioDes": "Suplente",

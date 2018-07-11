@@ -1206,15 +1206,6 @@
                   "timDes": "Efetivo"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6504",
-                "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                "orgSigla": "GT-ILESC",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
             }
           }
         },
@@ -1451,13 +1442,6 @@
                   "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6504",
-                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                  "orgSigla": "GT-ILESC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -1618,22 +1602,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4904",
-                  "orgDes": "Grupo de Trabalho - Turismo",
-                  "orgSigla": "GT-T",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6504",
-                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                  "orgSigla": "GT-ILESC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4904",
+                "orgDes": "Grupo de Trabalho - Turismo",
+                "orgSigla": "GT-T",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -1968,13 +1943,6 @@
                   "orgId": "6324",
                   "orgDes": "Grupo de Trabalho - Júri Prémio António Barbosa de Melo de Estudos Parlamentares 2018",
                   "orgSigla": "GT-JPABMEP2018",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6504",
-                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                  "orgSigla": "GT-ILESC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -24200,13 +24168,6 @@
                   "orgSigla": "GT-RJAJ",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6504",
-                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                  "orgSigla": "GT-ILESC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33806,18 +33767,6 @@
                   "orgSigla": "GT-MCL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6504",
-                  "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                  "orgSigla": "GT-ILESC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 }
               ]
             }
