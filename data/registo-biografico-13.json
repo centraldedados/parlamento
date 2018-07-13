@@ -14358,33 +14358,7 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2132",
@@ -30452,33 +30426,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6037",
@@ -49490,9 +49438,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8248",
+              "rgiId": "8768",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-07",
+              "rgiDataVersao": "2018-07-12",
               "rgiRegimeBensId": "2",
               "rgiRegimeBensDes": "Comunhão geral",
               "rgiCargoDes": "Deputado",
@@ -49503,50 +49451,56 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8113",
+                    "rgaId": "8633",
                     "rgaActividade": "Bolseira de Doutoramento da FCT com a referência SFRH/BD/91871/2012 ",
                     "rgaDataInicio": "2013-03-01",
                     "rgaDataFim": "2015-10-23",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8114",
+                    "rgaId": "8634",
                     "rgaActividade": "Membro da Assembleia Municipal de Cabeceiras de Basto",
                     "rgaDataInicio": "2013-10-21",
                     "rgaDataFim": "2017-10-15",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8115",
+                    "rgaId": "8635",
                     "rgaActividade": "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8116",
+                    "rgaId": "8636",
                     "rgaActividade": "Colaboradora CTT - Correios de Portugal, loja de Fafe",
                     "rgaDataInicio": "2011-11-30",
                     "rgaDataFim": "2012-11-29",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8117",
+                    "rgaId": "8637",
                     "rgaActividade": "Membro do Centro de Investigação em Estudos da Criança (CIEC), da Universidade do Minho",
                     "rgaDataInicio": "2012-12",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8118",
+                    "rgaId": "8638",
                     "rgaActividade": "Vereadora na Câmara Municipal de Cabeceiras de Basto",
                     "rgaDataInicio": "2017-10-15",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8639",
+                    "rgaActividade": "Vogal no Conselho de Administração do Instituto Francisco Sá Carneiro",
+                    "rgaDataInicio": "2018-06-28",
                     "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "6578",
+                  "rgcId": "7038",
                   "rgcCargo": "Associada",
                   "rgcEntidade": "Páginas Diferentes - Associação",
                   "rgcAreaActividade": "Outras atividades associativas",
@@ -49557,14 +49511,14 @@
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "4215",
+                    "rgsId": "4435",
                     "rgsEntidade": "Let's Code, Lda. (Cessou atividade a 31 de janeiro de 2018)",
                     "rgsAreaActividade": "Atividades Pedagógicas na área das tecnologias de informação, comunicação e eletrónica e seus fundamentos.",
                     "rgsLocalSede": "Rua de São João Bosco, Rés-do-Chão, n.º323, Ramalde - Porto 4100-531 Porto",
                     "rgsPartiSocial": "1.250€, correspondente a 25% do capital social"
                   },
                   {
-                    "rgsId": "4216",
+                    "rgsId": "4436",
                     "rgsEntidade": "Toque de Humildade - Serviços Médicos Lda.",
                     "rgsAreaActividade": "Atividades de saúde humana, n.e., atividades de prática médica de clínica geral em ambulatório, atividades de prática médica de clínica especializada em ambulatório. Arrendamento de bens imobiliários. Formação profissional e outras prestações de serviços. ",
                     "rgsLocalSede": "Lugar da Torre, Freguesia Pedraça 4860-298 Cabeceiras de Basto",
@@ -53772,9 +53726,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8208",
+              "rgiId": "8769",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-01",
+              "rgiDataVersao": "2018-07-12",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à Assembleia da República (XIII Legislatura)",
@@ -53785,115 +53739,122 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8053",
+                    "rgaId": "8640",
                     "rgaActividade": "Deputado à Assembleia da República (XII Legislatura)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-23",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8054",
+                    "rgaId": "8641",
                     "rgaActividade": "Assistente universitário (Faculdade de Direito da Universidade de Lisboa)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8055",
+                    "rgaId": "8642",
+                    "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XIII Legislatura)",
+                    "rgaDataInicio": "2017-03-14",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8643",
+                    "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XII Legislatura)",
+                    "rgaDataInicio": "2012-06-14",
+                    "rgaDataFim": "2017-03-14",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8644",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8056",
+                    "rgaId": "8645",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-22",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8057",
-                    "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República",
-                    "rgaDataInicio": "2012-06-14",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "8058",
+                    "rgaId": "8646",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-26",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8059",
+                    "rgaId": "8647",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-24",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8060",
+                    "rgaId": "8648",
                     "rgaActividade": "Membro da Assembleia de Freguesia de Alvalade (mandato 2009-2013)",
                     "rgaDataInicio": "2011-12",
                     "rgaDataFim": "2013-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8061",
+                    "rgaId": "8649",
                     "rgaActividade": "Membro do Conselho Geral do Centro de Estudos Judiciários, eleito pela AR",
                     "rgaDataInicio": "2012-07-18",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8062",
+                    "rgaId": "8650",
                     "rgaActividade": "Membro do Conselho Pedagógico do Centro de Estudos Judiciários, designado pelo respetivo Conselho Geral ",
                     "rgaDataInicio": "2012-12-19",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8063",
+                    "rgaId": "8651",
                     "rgaActividade": "Participações regulares nos Programas Em Foco e Hora Económico, do canal Económico TV",
                     "rgaDataInicio": "2010",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8064",
+                    "rgaId": "8652",
                     "rgaActividade": "Membro dos Conselhos Gerais dos Agrupamentos de Escolas Vergílio Ferreira, Lindley Cintra e Alto do Lumiar, designado pelo Município de Lisboa ",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2018",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8065",
+                    "rgaId": "8653",
                     "rgaActividade": "Participações regulares em programas de debate na SIC Notícias",
                     "rgaDataInicio": "2016",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8066",
+                    "rgaId": "8654",
                     "rgaActividade": "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa) ",
                     "rgaDataInicio": "2016-11-02",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8067",
+                    "rgaId": "8655",
                     "rgaActividade": "Membro suplente do Conselho de Escola da Faculdade de Direito da Universidade de Lisboa (substituição pontual de membros efetivos)",
                     "rgaDataInicio": "2016-11-21",
                     "rgaDataFim": "2017-11-29",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8068",
+                    "rgaId": "8656",
                     "rgaActividade": "Coluna semanal de opinião no jornal Sol",
                     "rgaDataInicio": "2017",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8069",
-                    "rgaActividade": "Lecionação de aulas e seminários pontuais de curta duração em cursos de pós-graduação e cursos de verão do Instituto de Ciências Jurídico-Políticas da Faculdade de Direito da Universidade de Lisboa",
+                    "rgaId": "8657",
+                    "rgaActividade": "Lecionação de aulas e seminários pontuais de curta duração em cursos de pós-graduação e cursos de verão organizados pelo Instituto de Ciências Jurídico-Políticas da Faculdade de Direito da Universidade de Lisboa, pelo Instituto de Direito Privado da Faculdade de Direito da Universidade de Lisboa e pelo Instituto de Direito Económico, Financeiro e Fiscal da Faculdade de Direito da Universidade de Lisboa",
                     "rgaDataInicio": "2017",
                     "rgaRemunerada": "N"
                   }
@@ -53902,7 +53863,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6538",
+                    "rgcId": "7039",
                     "rgcCargo": "Membro da Direcção",
                     "rgcEntidade": "English Speaking Union - Portugal",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -53910,7 +53871,7 @@
                     "rgcDataInicio": "2000"
                   },
                   {
-                    "rgcId": "6539",
+                    "rgcId": "7040",
                     "rgcCargo": "Presidente da mesa da Assembleia-Geral ",
                     "rgcEntidade": "Legística - Associação para a Qualidade da Legislação",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -53918,7 +53879,7 @@
                     "rgcDataInicio": "2013-05"
                   },
                   {
-                    "rgcId": "6540",
+                    "rgcId": "7041",
                     "rgcCargo": "Membro do Conselho Geral (órgão consultivo)",
                     "rgcEntidade": "Sindicato de Professores da Grande Lisboa",
                     "rgcAreaActividade": "Sindicato",
