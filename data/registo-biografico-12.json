@@ -1579,15 +1579,6 @@
                   "timDes": "Efetivo"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6504",
-                "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                "orgSigla": "GT-ILESC",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
             }
           }
         },
@@ -7598,6 +7589,13 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -9321,18 +9319,27 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5925",
-                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                "orgSigla": "GT-AEPE",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5925",
+                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                  "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -16602,6 +16609,18 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -30862,6 +30881,13 @@
                   "orgSigla": "GT-TAL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -31821,6 +31847,13 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -32292,12 +32325,7 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "5024",
@@ -33231,43 +33259,43 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "25580",
+                "habId": "26360",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "25581",
+                "habId": "26361",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "25582",
+                "habId": "26362",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "25583",
+                "habId": "26363",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "25584",
+                "habId": "26364",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "25585",
+                "habId": "26365",
                 "habDes": "Ciência Política",
                 "habTipoId": "14",
                 "habEstado": "F"
               },
               {
-                "habId": "25586",
+                "habId": "26366",
                 "habDes": "Pós-Graduação em Direito Administrativo pela Universidade de Coimbra (2008)\nPós-Graduação em Direito Municipal Comparado Lusófono pela Universidade de Lisboa (2012)\nPós-Graduação em Contratos Públicos pela Universidade de Lisboa (2014)\nPós-Graduação em Gestão Autárquica pela Universidade de Coimbra e CEFA (2014/15)\nFrequência do Curso de Especialização em Direito do Desporto pela Universidade de Coimbra (2015",
                 "habTipoId": "16"
               }
@@ -33276,154 +33304,184 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29296",
-                "funDes": "É membro do Conselho Geral da ANAFRE - Associação Nacional de Freguesias (2018-2021)",
+                "funId": "30076",
+                "funDes": "É Presidente da Junta de Freguesia de Pombal (2017-2021)",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29297",
-                "funDes": "É Presidente da Junta de Freguesia de Pombal (2017-2021)",
+                "funId": "30077",
+                "funDes": "É membro do Conselho Geral da ANAFRE - Associação Nacional de Freguesias (2018-2021)",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29298",
-                "funDes": "É membro da Assembleia Municipal de Pombal (2017-2021)",
+                "funId": "30078",
+                "funDes": "É coordenador do GP/PSD na Comissão de Edcuação e Ciência (2018-2019)",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "29299",
-                "funDes": "É Secretário da Direcção do Grupo Parlamentar do PSD (2015-2017) (2017-2018)",
+                "funId": "30079",
+                "funDes": "É coordenador da Delegação Distrital de Leiria da ANAFRE (2018-2021)",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "29300",
-                "funDes": "É Secretário da Comissão Política Distrital de Leiria do PSD (2015-2017) (2017-2019)",
+                "funId": "30080",
+                "funDes": "É membro da Assembleia Municipal de Pombal (2017-2021)",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "29301",
-                "funDes": "É Vice-Coordenador do Gabinete de Estudos dos Autarcas social Democratas",
+                "funId": "30081",
+                "funDes": "É Secretário da Comissão Política Distrital de Leiria do PSD (2015-2017) (2017-2019)",
                 "funOrdem": "6",
                 "funAntiga": "N"
               },
               {
-                "funId": "29302",
-                "funDes": "É membro da Comissão Instaladora da Delegação de Pombal da Cruz Vermelha Portuguesa",
+                "funId": "30082",
+                "funDes": "É Vice-Coordenador do Gabinete de Estudos dos Autarcas social Democratas",
                 "funOrdem": "7",
                 "funAntiga": "N"
               },
               {
-                "funId": "29303",
-                "funDes": "É dirigente associativo no Clube de Ténis de Pombal e no Sporting Clube de Pombal",
+                "funId": "30083",
+                "funDes": "É membro da Comissão Instaladora da Delegação de Pombal da Cruz Vermelha Portuguesa",
                 "funOrdem": "8",
                 "funAntiga": "N"
               },
               {
-                "funId": "29304",
-                "funDes": "Foi Dirigente do Corpo Nacional de Escutas (Agr. 674-Pombal)",
+                "funId": "30084",
+                "funDes": "É dirigente associativo no Clube de Ténis de Pombal e no Sporting Clube de Pombal",
                 "funOrdem": "9",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "29305",
-                "funDes": "Foi Vereador da Câmara Municipal de Pombal (2009-2013)",
+                "funId": "30085",
+                "funDes": "É Vice-Presidente do Lions Clube de Pombal - Marquês de Pombal",
                 "funOrdem": "10",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "29306",
-                "funDes": "Foi Membro da Assembleia Municipal de Pombal  (2005-2009) (2013-2017)",
+                "funId": "30086",
+                "funDes": "É membro do Conselho Nacional do PSD (2018-2020)",
                 "funOrdem": "11",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "29307",
-                "funDes": "Foi Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral  (2007-2009)",
+                "funId": "30087",
+                "funDes": "É Vice-Presidente da Comissão Politica da Secção de Pombal do PSD",
                 "funOrdem": "12",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "29308",
-                "funDes": "Foi Membro da Assembleia da Área Metropolitana de Leiria (2005-2007)",
+                "funId": "30088",
+                "funDes": "Foi Dirigente do Corpo Nacional de Escutas (Agr. 674-Pombal)",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "29309",
-                "funDes": "Foi Membro da Comissão Política Nacional dos Autarcas Social Democratas (2010-2013)",
+                "funId": "30089",
+                "funDes": "Foi Vereador da Câmara Municipal de Pombal (2009-2013)",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "29310",
-                "funDes": "Foi Presidente da Mesa da Assembleia Geral do Sporting Clube de Pombal (2008-2011)",
+                "funId": "30090",
+                "funDes": "Foi Membro da Assembleia Municipal de Pombal  (2005-2009) (2013-2017)",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "29311",
-                "funDes": "Foi Membro da Assembleia de Freguesia de Pombal (2001-2005)",
+                "funId": "30091",
+                "funDes": "Foi Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral  (2007-2009)",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "29312",
-                "funDes": "Foi Membro da Comissão de Protecção de Crianças e Jovens de Pombal (2005-2009) (2013-2017)",
+                "funId": "30092",
+                "funDes": "Foi Membro da Assembleia da Área Metropolitana de Leiria (2005-2007)",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "29313",
-                "funDes": "Foi dirigente da JSD",
+                "funId": "30093",
+                "funDes": "Foi Membro da Comissão Política Nacional dos Autarcas Social Democratas (2010-2013)",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "29314",
-                "funDes": "Foi Membro do Núcleo de Estudantes de Direito da Associação Académica de Coimbra",
+                "funId": "30094",
+                "funDes": "Foi Presidente da Mesa da Assembleia Geral do Sporting Clube de Pombal (2008-2011)",
                 "funOrdem": "19",
                 "funAntiga": "S"
               },
               {
-                "funId": "29315",
-                "funDes": "Foi Presidente da Associação de Estudantes da Escola Secundária de Pombal (1998-1999)",
+                "funId": "30095",
+                "funDes": "Foi Membro da Assembleia de Freguesia de Pombal (2001-2005)",
                 "funOrdem": "20",
                 "funAntiga": "S"
               },
               {
-                "funId": "29316",
-                "funDes": "Foi membro da Assembleia da Comunidade Intermunicipal da Região de Leiria (2013-2017)",
+                "funId": "30096",
+                "funDes": "Foi Membro da Comissão de Protecção de Crianças e Jovens de Pombal (2005-2009) (2013-2017)",
                 "funOrdem": "21",
                 "funAntiga": "S"
               },
               {
-                "funId": "29317",
-                "funDes": "Foi Presidente da Assembleia de Freguesia de Pombal (2013-2017)",
+                "funId": "30097",
+                "funDes": "Foi dirigente da JSD",
                 "funOrdem": "22",
                 "funAntiga": "S"
               },
               {
-                "funId": "29318",
-                "funDes": "Foi membro do Conselho Nacional do PSD (2013-2015)",
+                "funId": "30098",
+                "funDes": "Foi Membro do Núcleo de Estudantes de Direito da Associação Académica de Coimbra",
                 "funOrdem": "23",
                 "funAntiga": "S"
               },
               {
-                "funId": "29319",
-                "funDes": "Foi Presidente da Comissão Política da Secção de Pombal do PSD (2012-2014) (2014-2016) (2016-2018)",
+                "funId": "30099",
+                "funDes": "Foi Presidente da Associação de Estudantes da Escola Secundária de Pombal (1998-1999)",
                 "funOrdem": "24",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30100",
+                "funDes": "Foi membro da Assembleia da Comunidade Intermunicipal da Região de Leiria (2013-2017)",
+                "funOrdem": "25",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30101",
+                "funDes": "Foi Presidente da Assembleia de Freguesia de Pombal (2013-2017)",
+                "funOrdem": "26",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30102",
+                "funDes": "Foi membro do Conselho Nacional do PSD (2013-2015)",
+                "funOrdem": "27",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30103",
+                "funDes": "Foi Presidente da Comissão Política da Secção de Pombal do PSD (2012-2014) (2014-2016) (2016-2018)",
+                "funOrdem": "28",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30104",
+                "funDes": "Foi Secretário da Direcção do Grupo Parlamentar do PSD (2015-2017) (2017-2018)",
+                "funOrdem": "29",
                 "funAntiga": "S"
               }
             ]
           },
           "cadTitulos": {
             "pt_ar_wsgode_objectos_DadosTitulos": {
-              "titId": "3351",
+              "titId": "3391",
               "titDes": "Co-coordenação do Livro \"Leiria e a Democracia\"",
               "titOrdem": "1"
             }

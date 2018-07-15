@@ -1551,15 +1551,6 @@
                   "timDes": "Efetivo"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6504",
-                "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre o Ensino Superior e Ciência",
-                "orgSigla": "GT-ILESC",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
             }
           }
         },
@@ -6691,6 +6682,13 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -8078,18 +8076,27 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5925",
-                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                "orgSigla": "GT-AEPE",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5925",
+                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                  "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -12081,33 +12088,7 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1537",
@@ -14069,6 +14050,18 @@
                   "orgSigla": "GT-SPME",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -19769,12 +19762,7 @@
                   "orgDes": "Comissão de Defesa Nacional",
                   "orgSigla": "CDN",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4528",
@@ -29560,6 +29548,13 @@
                   "orgId": "6304",
                   "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
                   "orgSigla": "GT-TAL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

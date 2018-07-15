@@ -5090,7 +5090,12 @@
                   "orgDes": "Comissão de Defesa Nacional",
                   "orgSigla": "CDN",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 },
                 {
                   "orgId": "4529",
@@ -6366,7 +6371,12 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -15699,6 +15709,15 @@
                   "timDes": "Efetivo"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5864",
+                "orgDes": "Grupo de Trabalho - Regime Jurídico do Associativismo Jovem",
+                "orgSigla": "GT-RJAJ",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -22095,12 +22114,7 @@
                   "orgDes": "Comissão de Defesa Nacional",
                   "orgSigla": "CDN",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4528",
@@ -32044,12 +32058,7 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "5024",
@@ -52808,9 +52817,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3841",
+              "rgiId": "8788",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-07-13",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputada",
@@ -52821,22 +52830,37 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3695",
-                    "rgaActividade": "Membro da Assembleia Municipal do Seixal",
+                    "rgaId": "8673",
+                    "rgaActividade": "Deputada ",
                     "rgaDataInicio": "2009",
+                    "rgaDataFim": "2011",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8674",
+                    "rgaActividade": "Deputada",
+                    "rgaDataInicio": "2011",
+                    "rgaDataFim": "2015",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8675",
+                    "rgaActividade": "Membro da Assembleia Municipal do Seixal",
+                    "rgaDataInicio": "2013",
+                    "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3696",
-                    "rgaActividade": "Deputada ",
-                    "rgaDataInicio": "2009",
-                    "rgaRemunerada": "S"
+                    "rgaId": "8676",
+                    "rgaActividade": "Membro da Assembleia Municipal do Seixal",
+                    "rgaDataInicio": "2017",
+                    "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "3647",
+                  "rgcId": "7058",
                   "rgcCargo": "Membro da Presidência",
                   "rgcEntidade": "Conselho Português para a Paz e Cooperação",
                   "rgcAreaActividade": "Associação sem fins lucrativos",

@@ -5076,7 +5076,12 @@
                   "orgDes": "Comissão de Defesa Nacional",
                   "orgSigla": "CDN",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 },
                 {
                   "orgId": "4529",
@@ -8744,18 +8749,27 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5925",
-                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                "orgSigla": "GT-AEPE",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5925",
+                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                  "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "6744",
+                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
+                  "orgSigla": "GT-LFL",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -21723,12 +21737,7 @@
                   "orgDes": "Comissão de Defesa Nacional",
                   "orgSigla": "CDN",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4528",
