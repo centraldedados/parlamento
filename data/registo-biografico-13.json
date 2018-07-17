@@ -47853,9 +47853,9 @@
           "cadEstadoCivilDes": "União de Facto",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8228",
+              "rgiId": "8808",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-02",
+              "rgiDataVersao": "2018-07-16",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
@@ -47865,62 +47865,62 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8073",
+                    "rgaId": "8693",
                     "rgaActividade": "Diretor Financeiro",
                     "rgaDataInicio": "2013-10-01",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8074",
+                    "rgaId": "8694",
                     "rgaActividade": "Formador",
                     "rgaDataInicio": "2013-03",
                     "rgaDataFim": "2013-05",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8075",
+                    "rgaId": "8695",
                     "rgaActividade": "Professor",
                     "rgaDataInicio": "2011-10",
                     "rgaDataFim": "2013-08",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8076",
+                    "rgaId": "8696",
                     "rgaActividade": "Membro da Comunidade Intermunicipal do Cávado - CIM Cávado",
                     "rgaDataInicio": "2017-11-29",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8077",
+                    "rgaId": "8697",
                     "rgaActividade": "Deputado Municipal - Município de Barcelos",
                     "rgaDataInicio": "2001-11",
                     "rgaDataFim": "2005-11",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8078",
+                    "rgaId": "8698",
                     "rgaActividade": "Deputado Municipal - Município de Barcelos",
                     "rgaDataInicio": "2005-11",
                     "rgaDataFim": "2009-11",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8079",
+                    "rgaId": "8699",
                     "rgaActividade": "Deputado Municipal - Município de Barcelos",
                     "rgaDataInicio": "2009-11",
                     "rgaDataFim": "2013-11",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8080",
+                    "rgaId": "8700",
                     "rgaActividade": "Deputado Municipal - Município de Barcelos",
                     "rgaDataInicio": "2013-11",
                     "rgaDataFim": "2017-11",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8081",
+                    "rgaId": "8701",
                     "rgaActividade": "Deputado Municipal - Município de Barcelos",
                     "rgaDataInicio": "2017-11",
                     "rgaRemunerada": "N"
@@ -47930,7 +47930,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6558",
+                    "rgcId": "7078",
                     "rgcCargo": "Presidente da Mesa da Assembleia Geral",
                     "rgcEntidade": "Basquete Clube de Barcelos",
                     "rgcAreaActividade": "Associação desportiva",
@@ -47938,7 +47938,7 @@
                     "rgcDataInicio": "2012-03"
                   },
                   {
-                    "rgcId": "6559",
+                    "rgcId": "7079",
                     "rgcCargo": "Delegado à Assembleia Geral em representação do Clubes do distrito de Braga",
                     "rgcEntidade": "Federação Portuguesa de Basquetebol ",
                     "rgcAreaActividade": "Federação desportiva - Basquetebol",
@@ -47951,21 +47951,14 @@
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "4195",
-                    "rgsEntidade": "Joel Sá, Lda.",
-                    "rgsAreaActividade": "Restauração e Bebidas, com entregas de refeição ao domicilio",
-                    "rgsLocalSede": "Av.ª João Paulo II, Barcelos",
-                    "rgsPartiSocial": "70%"
-                  },
-                  {
-                    "rgsId": "4196",
+                    "rgsId": "4455",
                     "rgsEntidade": "Edibarcelos, S.A.",
                     "rgsAreaActividade": "Compra e Venda de Imoveis, S.A.",
                     "rgsLocalSede": "Av.ª Vasco da Gama - Povoa de varzim",
                     "rgsPartiSocial": "5%"
                   },
                   {
-                    "rgsId": "4197",
+                    "rgsId": "4456",
                     "rgsEntidade": "João Cândido Fernandes Ferreira & Ca, Lda.",
                     "rgsAreaActividade": "Fabrico e Comercio de vestuário exterior",
                     "rgsLocalSede": "Rua São Sebastião - Carvalhal - Barcelos",
