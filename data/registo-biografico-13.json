@@ -48048,9 +48048,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7868",
+              "rgiId": "8828",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-01-17",
+              "rgiDataVersao": "2018-07-19",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado",
@@ -48061,34 +48061,34 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7693",
+                    "rgaId": "8713",
                     "rgaActividade": "SNO- Secretario Nacional Organização PS",
-                    "rgaDataInicio": "2015",
-                    "rgaDataFim": "2015",
+                    "rgaDataInicio": "2014-12-02",
+                    "rgaDataFim": "2015-11-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7694",
-                    "rgaActividade": "Membro da Comissão Avaliação  Credito Agrícola - Bragança",
-                    "rgaDataInicio": "2015",
+                    "rgaId": "8714",
+                    "rgaActividade": "Membro da Comissão Avaliação  CCAM - Bragança",
+                    "rgaDataInicio": "2015-09-25",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7695",
+                    "rgaId": "8715",
                     "rgaActividade": "Deputado XIII Legislatura",
                     "rgaDataInicio": "2015-10",
                     "rgaDataFim": "2015-11",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7696",
+                    "rgaId": "8716",
                     "rgaActividade": "Secretario Estado Administração Interna",
                     "rgaDataInicio": "2015-11-26",
-                    "rgaDataFim": "2017-10",
+                    "rgaDataFim": "2017-10-21",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7697",
+                    "rgaId": "8717",
                     "rgaActividade": "DEPUTADO",
                     "rgaDataInicio": "2017-10-21",
                     "rgaRemunerada": "S"
@@ -48098,16 +48098,16 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6298",
+                    "rgcId": "7098",
                     "rgcCargo": "Gerente",
                     "rgcEntidade": "Efeito Saúde SGPS",
-                    "rgcAreaActividade": "Sociedade sem fins lucrativos",
-                    "rgcLocalSede": "Bragança",
-                    "rgcDataInicio": "2001",
-                    "rgcDataFim": "2014"
+                    "rgcAreaActividade": "Sociedade unipessoal, Lda.",
+                    "rgcLocalSede": "Lisboa",
+                    "rgcDataInicio": "2012-03-26",
+                    "rgcDataFim": "2015-07-26"
                   },
                   {
-                    "rgcId": "6299",
+                    "rgcId": "7099",
                     "rgcCargo": "Secretário Nacional, cargo sem remuneração",
                     "rgcEntidade": "Partido Socialista",
                     "rgcAreaActividade": "Partido Politico",
@@ -48119,10 +48119,10 @@
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "4055",
+                  "rgsId": "4475",
                   "rgsEntidade": "Efeito Saúde, Unipessoal Lda",
                   "rgsAreaActividade": "Saúde",
-                  "rgsLocalSede": "Bragança",
+                  "rgsLocalSede": "Lisboa",
                   "rgsPartiSocial": "valor do capital: 100%, 4.043.622€"
                 }
               },
