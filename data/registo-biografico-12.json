@@ -5954,13 +5954,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6724",
                   "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
                   "orgSigla": "GT-TNC",
@@ -8743,22 +8736,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5164",
-                  "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites",
-                  "orgSigla": "GT-APSH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5164",
+                "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites",
+                "orgSigla": "GT-APSH",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -15022,18 +15006,6 @@
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 }
               ]
             }
@@ -19840,22 +19812,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5844",
+                "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
+                "orgSigla": "GT-FPCE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },

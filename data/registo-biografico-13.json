@@ -23230,13 +23230,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26280",
+                "habId": "26400",
                 "habDes": "Humanidades.",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26281",
+                "habId": "26401",
                 "habDes": "Ciências da Educação- Especialização Pedagogia.",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -23246,50 +23246,50 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29956",
+                "funId": "30116",
                 "funDes": "Vereadora na Câmara Municipal de Viseu- 2017-2021",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29957",
+                "funId": "30117",
                 "funDes": "Presidente da Concelhia do PS Viseu",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29958",
-                "funDes": "Membro da Nacional.",
+                "funId": "30118",
+                "funDes": "Membro da  Comissão Nacional.",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "29959",
+                "funId": "30119",
                 "funDes": "Presidente da Assembleia Geral da Associação Cultural, Recreativa e Desportiva de Marzovelos- Viseu.",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "29960",
+                "funId": "30120",
                 "funDes": "Cabeça de lista  à Câmara Municipal de Viseu ( 2017-2021)\nPresidente do Departamento Federativo das Mulheres Socialistas de Viseu.(2014-2018)\n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "29961",
+                "funId": "30121",
                 "funDes": "Cabeça de lista à Assembleia de Freguesia de Coração de Jesus(atualmente freguesia de Viseu), em 2009.\nPresidente da concelhia do PS - Viseu- dois mandatos.",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "29962",
-                "funDes": "Profissionalmente: orientadora de estágio de grupos do Centro Regional das Beiras -  Universidade Católica Portuguesa; delegada de grupo disciplinar; diretora de turma; membro da Assembleia Geral; representante dos encarregados de educação no conselho geral de escola.",
+                "funId": "30122",
+                "funDes": "Profissionalmente: orientadora de estágio de professores estagiários do Centro Regional das Beiras -  Universidade Católica Portuguesa.\nDelegada de grupo disciplinar.\nDiretora de turma.\nMembro da Assembleia Geral.\nRepresentante dos encarregados de educação, no conselho geral de escola, - na escola secundária Viriato- Viseu.",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "29963",
-                "funDes": "Deputada na Assembleia Municipal de Viseu ( 2013-2017)\nMembro da Comissão Política Nacional.",
+                "funId": "30123",
+                "funDes": "Deputada na Assembleia Municipal de Viseu ( 2013-2017);\nDeputada na Comunidade Intermunicipal  Dão Lafões;\nMembro da Comissão Política Nacional.",
                 "funOrdem": "8",
                 "funAntiga": "S"
               }
@@ -23297,7 +23297,7 @@
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "7311",
+              "pubId": "7371",
               "pubDes": "Conto infantil \"A História da Matilde\"",
               "pubOrdem": "1"
             }
@@ -43367,9 +43367,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "5788",
+              "rgiId": "8848",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-05-18",
+              "rgiDataVersao": "2018-07-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputada   ",
               "rgiCargoData": "2015",
@@ -43379,35 +43379,41 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "5753",
+                    "rgaId": "8733",
+                    "rgaActividade": "Membro efetivo da Assembleia Parlamentar  CPLP",
+                    "rgaDataInicio": "2012",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8734",
                     "rgaActividade": "Membro suplente do Conselho Pedagógico do Centro de estudos Judiciários",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "5754",
-                    "rgaActividade": "Membro efetivo da Assembleia Parlamentar  CPLP",
-                    "rgaDataInicio": "2012",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "5755",
+                    "rgaId": "8735",
                     "rgaActividade": "Investigadora no CICS.NOVA - Centro Interdisciplinar de Ciências Sociais ",
                     "rgaDataInicio": "2007",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "5756",
+                    "rgaId": "8736",
                     "rgaActividade": "Deputada à Assembleia da República na XII Legislatura",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5757",
+                    "rgaId": "8737",
                     "rgaActividade": "Investigadora do Centro de Investigação em Direito Penal e Ciências Criminais (CIDPCC)",
                     "rgaDataInicio": "2014",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8738",
+                    "rgaActividade": "Conselheira  da Comissão para a Igualdade e Contra a Discriminação Racial (CICDR)",
+                    "rgaDataInicio": "2015-12-18",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -55531,9 +55537,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "6728",
+              "rgiId": "8868",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-04-20",
+              "rgiDataVersao": "2018-07-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado ",
               "rgiCargoData": "2015",
@@ -55543,22 +55549,21 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "6653",
+                    "rgaId": "8753",
                     "rgaActividade": "Deputado à Assembleia da República",
-                    "rgaDataInicio": "2011-06-20",
-                    "rgaDataFim": "2015",
+                    "rgaDataInicio": "2015-10-15",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "6654",
-                    "rgaActividade": "of counsel na sociedade de advogados \"Gomez-Acebo & Pombo\", Lisboa.\n",
-                    "rgaDataInicio": "2016-11-15",
+                    "rgaId": "8754",
+                    "rgaActividade": "autor de artigos de opinião na imprensa",
+                    "rgaDataInicio": "2018-05-02",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "6655",
-                    "rgaActividade": "Membro da Assembleia Municipal de Sintra",
-                    "rgaDataInicio": "2013",
+                    "rgaId": "8755",
+                    "rgaActividade": "Presidente da Assembleia Municipal de Sintra",
+                    "rgaDataInicio": "2017-10-01",
                     "rgaRemunerada": "N"
                   }
                 ]

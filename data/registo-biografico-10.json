@@ -24787,22 +24787,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5844",
+                "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
+                "orgSigla": "GT-FPCE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },

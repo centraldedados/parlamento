@@ -12736,18 +12736,6 @@
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 }
               ]
             }
@@ -17810,22 +17798,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6444",
-                  "orgDes": "Grupo de Trabalho - Recrutamento dos Médicos Internos - PJL 766/XIII/3.ª",
-                  "orgSigla": "GT-RMI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5844",
+                "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
+                "orgSigla": "GT-FPCE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -31272,13 +31251,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21421",
+                "habId": "26380",
                 "habDes": "Geografia e Planeamento Regional",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "21422",
+                "habId": "26381",
                 "habDes": "Geografia e Planeamento Regional",
                 "habTipoId": "15",
                 "habEstado": "F"
