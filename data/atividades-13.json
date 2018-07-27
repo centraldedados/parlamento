@@ -42,6 +42,25 @@
           "legislatura": "XIII",
           "sessao": "3",
           "dataEntrada": "2018-06-06",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "51",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-06-12",
+              "pag": {
+                "string": "2-2"
+              },
+              "idPag": "821165",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/051/2018-06-12/2?pgs=2&org=PLC",
+              "idDeb": null
+            }
+          },
           "dataAgendamentoDebate": "2018-06-14",
           "numero": "20",
           "tipoAutor": "Grupos Parlamentares",
@@ -1009,23 +1028,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "12",
-                "pubTipo": "DAR I série",
-                "pubTp": "D",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2017-10-25",
-                "pag": {
-                  "string": "3-52"
-                },
-                "idPag": "804322",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "15",
                 "pubTipo": "DAR II série A",
                 "pubTp": "A",
@@ -1040,6 +1042,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "12",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2017-10-25",
+                "pag": {
+                  "string": "3-52"
+                },
+                "idPag": "804322",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
                 "idDeb": null
               }
             ]
@@ -1159,6 +1178,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2015-12-04",
+                    "pag": {
+                      "string": "67-67"
+                    },
+                    "idPag": "755822",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "19",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1174,23 +1210,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/019/2015-12-19/55?pgs=55&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2015-12-04",
-                    "pag": {
-                      "string": "67-67"
-                    },
-                    "idPag": "755822",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2843,23 +2862,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774236",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2875,6 +2877,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774236",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2970,23 +2989,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774235",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3002,6 +3004,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774235",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3043,23 +3062,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774234",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3075,6 +3077,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774234",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -6364,7 +6383,7 @@
                 "resultado": "Aprovado",
                 "descricao": "Ponto 1 e 3",
                 "reuniao": "98",
-                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: 1-<I>PSD</I>",
+                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: Miguel Morgado (PSD)",
                 "data": "2018-06-22"
               },
               {
@@ -6372,7 +6391,7 @@
                 "resultado": "Rejeitado",
                 "descricao": "Ponto 2",
                 "reuniao": "98",
-                "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Abstenção: 2-<I>PS</I>",
+                "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Abstenção: Bacelar de Vasconcelos (PS), Wanda Guimarães (PS)",
                 "data": "2018-06-22"
               }
             ]
@@ -6522,7 +6541,7 @@
               "id": "79939",
               "resultado": "Aprovado",
               "reuniao": "98",
-              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: 1-<I>PSD</I>",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: Miguel Morgado (PSD)",
               "data": "2018-06-22"
             }
           },
@@ -6607,7 +6626,7 @@
                 "resultado": "Rejeitado",
                 "descricao": "Ponto 2",
                 "reuniao": "95",
-                "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, <I>PS</I><BR>Abstenção: <I>CDS-PP</I>",
+                "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>, Paulo Trigo Pereira (PS)<BR>Contra: <I>PSD</I>, <I>PS</I><BR>Abstenção: <I>CDS-PP</I>",
                 "data": "2018-06-15"
               }
             ]
@@ -6804,7 +6823,7 @@
               "id": "79839",
               "resultado": "Aprovado",
               "reuniao": "95",
-              "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: <I>PSD</I>, 1-<I>PS</I>, <I>CDS-PP</I>",
+              "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: <I>PSD</I>, Vitalino Canas (PS), <I>CDS-PP</I>",
               "data": "2018-06-15"
             }
           },
@@ -6853,7 +6872,7 @@
               "id": "79780",
               "resultado": "Aprovado",
               "reuniao": "93",
-              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: 2-<I>PS</I>, <I>PAN</I>",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: Jorge Gomes (PS), <I>PAN</I>, Paulo Trigo Pereira (PS)",
               "data": "2018-06-06"
             }
           },
@@ -6877,7 +6896,7 @@
               "id": "79779",
               "resultado": "Aprovado",
               "reuniao": "93",
-              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: 8-<I>PS</I>, <I>PAN</I>",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: Alexandre Quintanilha (PS), <I>PAN</I>, Porfírio Silva (PS), Jorge Gomes (PS), João Galamba (PS), Santinho Pacheco (PS), Margarida Marques (PS), Paulo Trigo Pereira (PS), Wanda Guimarães (PS)",
               "data": "2018-06-06"
             }
           },
@@ -6901,7 +6920,7 @@
               "id": "79778",
               "resultado": "Aprovado",
               "reuniao": "93",
-              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: 8-<I>PS</I>, <I>PAN</I>",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: Alexandre Quintanilha (PS), <I>PAN</I>, Porfírio Silva (PS), Jorge Gomes (PS), João Galamba (PS), Santinho Pacheco (PS), Margarida Marques (PS), Paulo Trigo Pereira (PS), Wanda Guimarães (PS)",
               "data": "2018-06-06"
             }
           },
@@ -56259,7 +56278,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
               "assunto": "Audição conjunta de várias entidades sobre o processo de Descentralização",
-              "entidades": "Associação Sócio Profissional dos Guardas-noturnos;Associação Portuguesa de Habitação Municipal - APHM;Sindicato dos trabalhadores da Administração Pública - SINTAP;CIP - Confederação Empresarial de Portugal;IHRU - Instituto de Habitação e da Reabilitação Urbana;CNOD - Confederação Nacional dos Organismos de Deficientes;FNSTFPS - Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais;MUSP - Movimento de Utentes;APAI - Associação Portuguesa de Arqueologia Industrial;União das Mutualidades Portuguesas;Jacinta Bugalhão - Arqueóloga;ANVETEM;STAL - Sindicato Nacional dos Trabalhadores da Administração Local;Sindicato dos Trabalhadores de Arqueologia;FORESTIS - Associação Florestal de Portugal;ANAFRE - Associação Nacional de Freguesias;Associação Portuguesa dos Peritos Avaliadores de Engenharia (APAE);Associação Portuguesa das Casas Antigas;Ordem dos Médicos Veterinários;SIEE - Sindicato dos Inspetores da Educação e Ensino;Sindicato dos Trabalhadores do Município de Lisboa (STML);UNAC - Confederação dos Agricultores de Portugal;CONFAP - Confederação Nacional das Associações de Pais;CAP - Confederação dos Agricultores de Portugal;AHRESP - Associação de Hotelaria,Restauração e Similares de Portugal;Animar;Federação Minha Terra;Associação Portuguesa de Medicina Geral e Familiar;Conselho Intermunicipal da CIM do Médio Tejo;APD - Associação Portuguesa de Deficientes",
+              "entidades": "Associação Sócio Profissional dos Guardas-noturnos;Associação Portuguesa de Habitação Municipal - APHM;Sindicato dos trabalhadores da Administração Pública - SINTAP;CIP - Confederação Empresarial de Portugal;IHRU - Instituto de Habitação e da Reabilitação Urbana;CNOD - Confederação Nacional dos Organismos de Deficientes;FNSTFPS - Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais;Associação Portuguesa de Medicina Geral e Familiar;MUSP - Movimento de Utentes;APAI - Associação Portuguesa de Arqueologia Industrial;União das Mutualidades Portuguesas;Jacinta Bugalhão - Arqueóloga;ANVETEM;Conselho Intermunicipal da CIM do Médio Tejo;STAL - Sindicato Nacional dos Trabalhadores da Administração Local;Sindicato dos Trabalhadores de Arqueologia;APD - Associação Portuguesa de Deficientes;FORESTIS - Associação Florestal de Portugal;ANAFRE - Associação Nacional de Freguesias;Associação Portuguesa dos Peritos Avaliadores de Engenharia (APAE);Associação Portuguesa das Casas Antigas;Ordem dos Médicos Veterinários;SIEE - Sindicato dos Inspetores da Educação e Ensino;Sindicato dos Trabalhadores do Município de Lisboa (STML);UNAC - Confederação dos Agricultores de Portugal;CONFAP - Confederação Nacional das Associações de Pais;CAP - Confederação dos Agricultores de Portugal;Federação Minha Terra;AHRESP - Associação de Hotelaria,Restauração e Similares de Portugal;Animar",
               "data": "2017-07-04"
             },
             {
@@ -76621,6 +76640,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "109720",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-28",
+              "dataFim": "2018-06-08",
+              "designacao": "107.ª Conferência da OIT (Organização Internacional do Trabalho) – Genebra, de 28 de maio a 08 junho de 2018",
+              "localEvento": "Genebra",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "108583",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -76697,7 +76726,7 @@
               "dataIni": "2017-06-13",
               "dataFim": "2017-06-14",
               "designacao": "106.ª Conferência da OIT (Organização Internacional do Trabalho) – Genebra, de 5 a 16 junho de 2017",
-              "localEvento": "Gebebra",
+              "localEvento": "Genebra",
               "tipo": "Representação"
             },
             {
