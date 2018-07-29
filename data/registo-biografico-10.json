@@ -10563,27 +10563,18 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5925",
+                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                "orgSigla": "GT-AEPE",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
-              ]
+              }
             }
           }
         },
@@ -39807,13 +39798,6 @@
                   "orgSigla": "GT-PAC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6644",
-                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
-                  "orgSigla": "GT-SPME",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -49373,13 +49357,6 @@
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

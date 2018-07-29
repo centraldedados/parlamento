@@ -2159,24 +2159,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "2",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2004-09-17",
-                    "pag": {
-                      "string": "110-110"
-                    },
-                    "idPag": "292335",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/002/2004-09-17/110?pgs=110&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "3",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2192,6 +2174,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/003/2004-09-18/116?pgs=116&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "2",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2004-09-17",
+                    "pag": {
+                      "string": "110-110"
+                    },
+                    "idPag": "292335",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/002/2004-09-17/110?pgs=110&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -4497,24 +4497,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "22",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "obs": "Repetição da votação por não ter obtido, em votações anteriores, o requisito constitucional de dois terços",
-                    "pubdt": "2002-06-21",
-                    "pag": {
-                      "string": "884-884"
-                    },
-                    "idPag": "271328",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/884?pgs=884&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "21",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -4546,6 +4528,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/723?pgs=723&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "22",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "obs": "Repetição da votação por não ter obtido, em votações anteriores, o requisito constitucional de dois terços",
+                    "pubdt": "2002-06-21",
+                    "pag": {
+                      "string": "884-884"
+                    },
+                    "idPag": "271328",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/884?pgs=884&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -20231,7 +20231,7 @@
           "numero": "75",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; CDS-PP; BE"
+            "string": "BE; CDS-PP; PS; PCP; PSD; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338334e56394a574335775a47593d&fich=75_IX.pdf&Inline=true"
         },
@@ -23061,7 +23061,7 @@
           "numero": "39",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "PCP; PEV; PS; CDS-PP; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a5743387a4f56394a574335775a47593d&fich=39_IX.pdf&Inline=true"
         },
@@ -23454,7 +23454,7 @@
           "numero": "34",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PCP; PSD; CDS-PP; BE"
+            "string": "PCP; BE; PSD; CDS-PP; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a5743387a4e46394a574335775a47593d&fich=34_IX.pdf&Inline=true"
         },
@@ -23652,7 +23652,7 @@
           "numero": "31",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "BE; PSD; CDS-PP"
+            "string": "CDS-PP; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a5743387a4d56394a574335775a47593d&fich=31_IX.pdf&Inline=true"
         },
@@ -25176,23 +25176,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "3",
-                "pubTipo": "DAR II série B",
-                "pubTp": "B",
-                "pubLeg": "IX",
-                "pubSL": "1",
-                "supl": ".",
-                "pubdt": "2002-05-11",
-                "pag": {
-                  "string": "8-8"
-                },
-                "idPag": "270887",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/003/2002-05-11/8?pgs=8&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "13",
                 "pubTipo": "DAR II série B",
                 "pubTp": "B",
@@ -25208,6 +25191,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/013/2002-09-21/56?pgs=56-69&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "pubLeg": "IX",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "2002-05-11",
+                "pag": {
+                  "string": "8-8"
+                },
+                "idPag": "270887",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/003/2002-05-11/8?pgs=8&org=PLC",
                 "idDeb": null
               }
             ]
@@ -25842,37 +25842,6 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
-              "IDAudicao": "72204",
-              "numeroAudicao": "3-ACDLG-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "CARGO GOVERNADOR CIVIL (EXTINÇÃO)",
-              "entidades": "Ministro da Administração Interna;Secretário de Estado Adjunto do Ministro da Administração Interna, Dr. Luis Filipe Garrido Pais de Sousa;Secretário de Estado da Administração Interna - Dr. Nuno Miguel Miranda de Magalhães",
-              "data": "2002-05-22"
-            },
-            {
-              "IDAudicao": "72203",
-              "numeroAudicao": "2-ACDLG-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "ASSUNTOS \"JAI\"",
-              "entidades": "Secretário de Estado Adjunto da Ministra da Justiça, Dr. João Luís Mota de Campos;Ministra da Justiça, Dra. Maria Celeste Ferreira Lopes Cardona;Secretário de Estado da Justiça, Dr. Miguel Bento Martins da Costa Macedo e Silva",
-              "data": "2002-05-21"
-            },
-            {
-              "IDAudicao": "72137",
-              "numeroAudicao": "1-ACDLG-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "SERVIÇO PÚBLICO DE TELEVISÃO",
-              "entidades": "Ministro da Presidência, Dr. Nuno Albuquerque Morais Sarmento",
-              "data": "2002-05-14"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
               "IDAudicao": "72216",
               "numeroAudicao": "3-OPTC-IX",
               "legislatura": "IX",
@@ -25898,6 +25867,37 @@
               "assunto": "Obras Públicas, Transportes e Habitação",
               "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
               "data": "2002-05-28"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "72204",
+              "numeroAudicao": "3-ACDLG-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "CARGO GOVERNADOR CIVIL (EXTINÇÃO)",
+              "entidades": "Ministro da Administração Interna;Secretário de Estado Adjunto do Ministro da Administração Interna, Dr. Luis Filipe Garrido Pais de Sousa;Secretário de Estado da Administração Interna - Dr. Nuno Miguel Miranda de Magalhães",
+              "data": "2002-05-22"
+            },
+            {
+              "IDAudicao": "72203",
+              "numeroAudicao": "2-ACDLG-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "ASSUNTOS \"JAI\"",
+              "entidades": "Secretário de Estado Adjunto da Ministra da Justiça, Dr. João Luís Mota de Campos;Ministra da Justiça, Dra. Maria Celeste Ferreira Lopes Cardona;Secretário de Estado da Justiça, Dr. Miguel Bento Martins da Costa Macedo e Silva",
+              "data": "2002-05-21"
+            },
+            {
+              "IDAudicao": "72137",
+              "numeroAudicao": "1-ACDLG-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "SERVIÇO PÚBLICO DE TELEVISÃO",
+              "entidades": "Ministro da Presidência, Dr. Nuno Albuquerque Morais Sarmento",
+              "data": "2002-05-14"
             }
           ]
         },
@@ -27494,6 +27494,18 @@
     "Audiencias": {
       "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
         {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
+            "IDAudiencia": "72227",
+            "numeroAudiencia": "1-OPTC-IX",
+            "legislatura": "IX",
+            "sessaoLegislativa": "1",
+            "assunto": "Aeroporto na OTA e traçado do TGV",
+            "entidades": "Movimento Pró-Aeroporto Na Ota",
+            "data": "2002-07-02",
+            "concedida": "Concedida"
+          }
+        },
+        {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
               "IDAudiencia": "72201",
@@ -27568,16 +27580,28 @@
           ]
         },
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
-            "IDAudiencia": "72227",
-            "numeroAudiencia": "1-OPTC-IX",
-            "legislatura": "IX",
-            "sessaoLegislativa": "1",
-            "assunto": "Aeroporto na OTA e traçado do TGV",
-            "entidades": "Movimento Pró-Aeroporto Na Ota",
-            "data": "2002-07-02",
-            "concedida": "Concedida"
-          }
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "74217",
+              "numeroAudiencia": "2-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
+              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
+              "data": "2004-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73431",
+              "numeroAudiencia": "1-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
+              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
+              "data": "2003-06-25",
+              "concedida": "Concedida"
+            }
+          ]
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
@@ -27849,30 +27873,6 @@
               "assunto": "Estatuto de integração social das Medicinas Alternativas e as perspectivas criadas face ao Projecto-Lei nº. 34/VIII",
               "entidades": "AMENA - Associação de Medicina Natural e Bioterapêuticas",
               "data": "2002-07-17",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "74217",
-              "numeroAudiencia": "2-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
-              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
-              "data": "2004-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73431",
-              "numeroAudiencia": "1-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
-              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
-              "data": "2003-06-25",
               "concedida": "Concedida"
             }
           ]
@@ -28490,16 +28490,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "74509",
-              "numeroAudiencia": "106- AEPE-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "AUDIÊNCIA",
-              "entidades": "Embaixador do Irão",
-              "data": "2004-02-12",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "74497",
               "numeroAudiencia": "106-AEPE-IX",
               "legislatura": "IX",
@@ -28507,6 +28497,16 @@
               "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
               "entidades": "Embaixador do Egipto",
               "data": "2004-01-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "74509",
+              "numeroAudiencia": "106- AEPE-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "AUDIÊNCIA",
+              "entidades": "Embaixador do Irão",
+              "data": "2004-02-12",
               "concedida": "Concedida"
             },
             {

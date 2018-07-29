@@ -1040,7 +1040,15 @@
               "local": "Bruxelas",
               "dataInicio": "10-07-2018",
               "dataFim": "12-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
             },
             {
               "nome": "Reunião da Pré-Cimeira da NATO",
@@ -1048,7 +1056,15 @@
               "local": "Bruxelas",
               "dataInicio": "10-07-2018",
               "dataFim": "10-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS COSTA NEVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3963"
+                }
+              }
             },
             {
               "nome": "Visita conjunta da Subcomissão para as Relações Económicas Transtalânticas da Comissão de Economia e Segurança, e da Subcomissão para as Parcerias da NATO da Comissão Política da Assembleia Parlamentar da NATO",
@@ -2798,7 +2814,45 @@
               "local": "Berlim",
               "dataInicio": "07-07-2018",
               "dataFim": "11-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ISABEL SANTOS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2103"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ MIGUEL MEDEIROS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "682"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIGUEL SANTOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "2071"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "NILZA DE SENA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4326"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "SUSANA AMADOR",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1944"
+                  }
+                ]
+              }
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas na Turquia",
@@ -4743,7 +4797,15 @@
               "local": "Atenas",
               "dataInicio": "23-07-2018",
               "dataFim": "23-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
+                }
+              }
             },
             {
               "nome": "Conférence régionale sur les femmes et politique: comment progresser vers l'égalité",
@@ -4751,7 +4813,15 @@
               "local": "Rabat",
               "dataInicio": "05-07-2018",
               "dataFim": "05-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "EDITE ESTRELA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "162"
+                }
+              }
             },
             {
               "nome": "3ª. Parte da Sessão Plenária de 2018",

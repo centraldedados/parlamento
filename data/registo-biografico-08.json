@@ -7705,27 +7705,18 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5925",
+                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                "orgSigla": "GT-AEPE",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
-              ]
+              }
             }
           }
         },
@@ -32433,22 +32424,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5364",
-                  "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
-                  "orgSigla": "GT-ATFPI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5364",
+                "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
+                "orgSigla": "GT-ATFPI",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },

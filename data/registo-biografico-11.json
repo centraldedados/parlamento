@@ -6675,20 +6675,6 @@
                   "orgSigla": "GT-AEPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6644",
-                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
-                  "orgSigla": "GT-SPME",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -8076,27 +8062,18 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5925",
+                "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
+                "orgSigla": "GT-AEPE",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
-              ]
+              }
             }
           }
         },
@@ -10866,19 +10843,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26120",
+                "habId": "26420",
                 "habDes": "Economia / ISEG",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26121",
+                "habId": "26421",
                 "habDes": "Transportes / IST",
                 "habTipoId": "14",
                 "habEstado": "C"
               },
               {
-                "habId": "26122",
+                "habId": "26422",
                 "habDes": "Pós Graduação em Planeamento e Políticas Económicas / ISEG",
                 "habTipoId": "16"
               }
@@ -10887,13 +10864,13 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29796",
+                "funId": "30136",
                 "funDes": "Deputado à Assembleia da República desde Outubro de 2015",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29797",
+                "funId": "30137",
                 "funDes": "Deputado à Assembleia Municipal de Lisboa 2001-2005\nDeputado à Assembleia da República entre 2009-2011\nChefe de Departamento na Carris a partir de 2001\nDeputado à Assembleia Municipal de Leiria entre 2013-2017",
                 "funOrdem": "2",
                 "funAntiga": "S"
@@ -12088,7 +12065,33 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4534",
+                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+                  "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "1537",
@@ -14024,34 +14027,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5824",
-                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                  "orgSigla": "GT-SB",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6644",
-                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
-                  "orgSigla": "GT-SPME",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5824",
+                "orgDes": "Grupo de Trabalho - Supervisão Bancária",
+                "orgSigla": "GT-SB",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -27083,13 +27065,6 @@
                   "orgSigla": "GT-PAC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6644",
-                  "orgDes": "Grupo de Trabalho - Serviços de Pagamento de Moeda Eletrónica",
-                  "orgSigla": "GT-SPME",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -29527,13 +29502,6 @@
                   "orgId": "6304",
                   "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
                   "orgSigla": "GT-TAL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6744",
-                  "orgDes": "Grupo de Trabalho - Lei das Finanças Locais",
-                  "orgSigla": "GT-LFL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
