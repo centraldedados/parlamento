@@ -72,21 +72,38 @@
         "Titulo": "Grupos Parlamentares",
         "nOrdem": "110",
         "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "9194",
-            "ID_Tema": "4",
-            "Data_Inicio_Publicacao": "2018-07-10T00:00:00",
-            "Data_Fim_Publicacao": "2018-09-20T00:00:00",
-            "nOrdem": "1843",
-            "Data_Inicio": "2018-09-20T00:00:00",
-            "Data_Fim": "2018-09-20T23:59:00",
-            "Titulo": "Grupo Parlamentar do PS ",
-            "Subtitulo": "Dia 20 de setembro de 2018",
-            "Texto": "11:00 - Federação Portuguesa de Osteopatas\n",
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
+          "genBI2_Conteudo": [
+            {
+              "ID": "9223",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-07-30T00:00:00",
+              "Data_Fim_Publicacao": "2018-07-31T00:00:00",
+              "nOrdem": "1489",
+              "Data_Inicio": "2018-07-31T00:00:00",
+              "Data_Fim": "2018-07-31T23:59:00",
+              "Titulo": "Grupo Parlamentar do PCP",
+              "Subtitulo": "Dia 31 de julho de 2018",
+              "Texto": "11:00 - Sindicato dos Trabalhadores de Espectáculos, do Audiovisual e dos Músicos (CENA-STE) \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9194",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-07-10T00:00:00",
+              "Data_Fim_Publicacao": "2018-09-20T00:00:00",
+              "nOrdem": "1843",
+              "Data_Inicio": "2018-09-20T00:00:00",
+              "Data_Fim": "2018-09-20T23:59:00",
+              "Titulo": "Grupo Parlamentar do PS ",
+              "Subtitulo": "Dia 20 de setembro de 2018",
+              "Texto": "11:00 - Federação Portuguesa de Osteopatas\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            }
+          ]
         }
       },
       {

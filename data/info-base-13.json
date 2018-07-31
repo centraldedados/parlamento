@@ -4977,10 +4977,17 @@
           "depCPDes": "LEIRIA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-07-24"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-07-24"
+              }
+            ]
           },
           "depNomeCompleto": "JOSÉ MIGUEL ABREU DE FIGUEIREDO MEDEIROS"
         },
@@ -6918,8 +6925,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-07-24"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2017-07-14"
+                "sioDtInicio": "2017-07-14",
+                "sioDtFim": "2018-07-24"
               },
               {
                 "sioDes": "Efetivo Temporário",
