@@ -66744,15 +66744,6 @@
               "data": "2017-03-22"
             },
             {
-              "IDAudicao": "104614",
-              "numeroAudicao": "65-CS-XIII",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Proposta de Lei n.º 42/XIII/2.ª - Altera a utilização de técnicas de procriação medicamente assistida",
-              "entidades": "CNPMA - Conselho Nacional de Procriação Medicamente Assistida",
-              "data": "2017-03-22"
-            },
-            {
               "IDAudicao": "104515",
               "numeroAudicao": "65-CS-XIII",
               "legislatura": "XIII",
@@ -66760,6 +66751,15 @@
               "assunto": "Audição do Ministro da Saúde, ao abrigo do n.º2 do artigo 104.º do RAR (2.ª audição obrigatória), sobre Política Geral de Saúde.",
               "entidades": "MIN.  DA   SAÚDE",
               "data": "2017-03-15"
+            },
+            {
+              "IDAudicao": "104614",
+              "numeroAudicao": "65-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Proposta de Lei n.º 42/XIII/2.ª - Altera a utilização de técnicas de procriação medicamente assistida",
+              "entidades": "CNPMA - Conselho Nacional de Procriação Medicamente Assistida",
+              "data": "2017-03-22"
             },
             {
               "IDAudicao": "104341",
@@ -67565,6 +67565,16 @@
       "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "109729",
+              "numeroAudiencia": "41-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Audiência do Senhor Presidente da ADFA José Arruda",
+              "entidades": "Presidente da ADFA José Eduardo Arruda",
+              "data": "2018-07-31",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "109389",
               "numeroAudiencia": "40-CDN-XIII",
@@ -74620,16 +74630,6 @@
               "concedida": "Em apreciação"
             },
             {
-              "IDAudiencia": "108651",
-              "numeroAudiencia": "6-CS-XIII",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "assunto": "Questões que preocupam a Associação",
-              "entidades": "Associação de Médicos de Origem Luso-Venezuelano (ASOMELUVE)",
-              "data": "2018-05-10",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "101874",
               "numeroAudiencia": "6-CS-XIII",
               "legislatura": "XIII",
@@ -74637,6 +74637,16 @@
               "assunto": "Problemática da Anemia na Sociedade Portuguesa",
               "entidades": "Anemia Working Group Portugal - AWGP",
               "data": "2016-04-08",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "108651",
+              "numeroAudiencia": "6-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Questões que preocupam a Associação",
+              "entidades": "Associação de Médicos de Origem Luso-Venezuelano (ASOMELUVE)",
+              "data": "2018-05-10",
               "concedida": "Concedida"
             },
             {
