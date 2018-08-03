@@ -7,6 +7,28 @@
     "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
     "genBI2_Seccao": [
       {
+        "ID": "-3",
+        "Titulo": "Comissões Parlamentares",
+        "nOrdem": "30",
+        "Conteudos": {
+          "genBI2_Conteudo": {
+            "ID": "0",
+            "ID_Tema": "1",
+            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+            "nOrdem": "0",
+            "Data_Inicio": "2018-09-06T15:30:00",
+            "Data_Fim": "2018-09-06T16:30:00",
+            "Titulo": "Comissão de Agricultura e Mar",
+            "Subtitulo": "DIA 6 setembro | HORA 15:30",
+            "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Audição da Senhora Ministra do Mar, Ana Paula Vitorino, ao abrigo do n.º 2 do artigo 104º do Regimento da Assembleia da República</td></tr></table>",
+            "Seccao": null,
+            "Tema": null,
+            "Local": null
+          }
+        }
+      },
+      {
         "ID": "-5",
         "Titulo": "Conferência de Líderes",
         "nOrdem": "40",
