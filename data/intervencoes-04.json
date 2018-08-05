@@ -21,6 +21,202 @@
             "supl": ".",
             "pubdt": "1985-11-15",
             "pag": {
+              "string": "68-69"
+            },
+            "idPag": null,
+            "idInt": "226467",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68-69&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": {
+          "id": "79531",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "3108",
+              "nome": "ANTÓNIO FERNANDES",
+              "GP": "PRD"
+            }
+          },
+          "autoresGP": {
+            "pt_gov_ar_objectos_GPOut": {
+              "sigla": "PRD",
+              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "40º Aniversário da Organização das Nações Unidas.",
+        "actividadeId": "79531",
+        "idDebate": "33477",
+        "deputados": {
+          "idCadastro": "615",
+          "nome": "RAÚL RÊGO",
+          "GP": "PS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Declaração de voto",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "68-68"
+            },
+            "idPag": null,
+            "idInt": "226465",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": {
+          "id": "79531",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "3108",
+              "nome": "ANTÓNIO FERNANDES",
+              "GP": "PRD"
+            }
+          },
+          "autoresGP": {
+            "pt_gov_ar_objectos_GPOut": {
+              "sigla": "PRD",
+              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "40º Aniversário da Organização das Nações Unidas.",
+        "actividadeId": "79531",
+        "idDebate": "33477",
+        "deputados": {
+          "idCadastro": "212",
+          "nome": "JOÃO CORREGEDOR DA FONSECA",
+          "GP": "MDP/CDE"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Declaração de voto",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "66-66"
+            },
+            "idPag": null,
+            "idInt": "226452",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/66?pgs=66&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": {
+          "id": "79530",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "1627",
+              "nome": "MARIA SANTOS",
+              "GP": "INDEP"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
+        "actividadeId": "79530",
+        "idDebate": "33476",
+        "deputados": {
+          "idCadastro": "2984",
+          "nome": "FRANCISCO FERNANDES",
+          "GP": "PRD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Declaração de voto",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "66-66"
+            },
+            "idPag": null,
+            "idInt": "226451",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/66?pgs=66&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": {
+          "id": "79530",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "1627",
+              "nome": "MARIA SANTOS",
+              "GP": "INDEP"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
+        "actividadeId": "79530",
+        "idDebate": "33476",
+        "deputados": {
+          "idCadastro": "105",
+          "nome": "COSTA ANDRADE",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Declaração de voto",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
               "string": "66-66"
             },
             "idPag": null,
@@ -113,98 +309,6 @@
             "supl": ".",
             "pubdt": "1985-11-15",
             "pag": {
-              "string": "66-66"
-            },
-            "idPag": null,
-            "idInt": "226451",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/66?pgs=66&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": {
-          "id": "79530",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "1627",
-              "nome": "MARIA SANTOS",
-              "GP": "INDEP"
-            }
-          }
-        },
-        "faseSessao": "PAOD",
-        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
-        "actividadeId": "79530",
-        "idDebate": "33476",
-        "deputados": {
-          "idCadastro": "105",
-          "nome": "COSTA ANDRADE",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Declaração de voto",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "66-66"
-            },
-            "idPag": null,
-            "idInt": "226452",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/66?pgs=66&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": {
-          "id": "79530",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "1627",
-              "nome": "MARIA SANTOS",
-              "GP": "INDEP"
-            }
-          }
-        },
-        "faseSessao": "PAOD",
-        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
-        "actividadeId": "79530",
-        "idDebate": "33476",
-        "deputados": {
-          "idCadastro": "2984",
-          "nome": "FRANCISCO FERNANDES",
-          "GP": "PRD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Declaração de voto",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
               "string": "67-67"
             },
             "idPag": null,
@@ -251,37 +355,31 @@
             "supl": ".",
             "pubdt": "1985-11-15",
             "pag": {
-              "string": "68-68"
+              "string": "67-67"
             },
             "idPag": null,
-            "idInt": "226465",
+            "idInt": "226456",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/67?pgs=67&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
         "actividadesRelacionadas": {
-          "id": "79531",
+          "id": "79530",
           "tipo": "Voto",
           "autoresDeputados": {
             "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "3108",
-              "nome": "ANTÓNIO FERNANDES",
-              "GP": "PRD"
-            }
-          },
-          "autoresGP": {
-            "pt_gov_ar_objectos_GPOut": {
-              "sigla": "PRD",
-              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+              "idCadastro": "1627",
+              "nome": "MARIA SANTOS",
+              "GP": "INDEP"
             }
           }
         },
         "faseSessao": "PAOD",
-        "sumario": "40º Aniversário da Organização das Nações Unidas.",
-        "actividadeId": "79531",
-        "idDebate": "33477",
+        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
+        "actividadeId": "79530",
+        "idDebate": "33476",
         "deputados": {
           "idCadastro": "212",
           "nome": "JOÃO CORREGEDOR DA FONSECA",
@@ -303,62 +401,10 @@
             "supl": ".",
             "pubdt": "1985-11-15",
             "pag": {
-              "string": "68-69"
-            },
-            "idPag": null,
-            "idInt": "226467",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68-69&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": {
-          "id": "79531",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "3108",
-              "nome": "ANTÓNIO FERNANDES",
-              "GP": "PRD"
-            }
-          },
-          "autoresGP": {
-            "pt_gov_ar_objectos_GPOut": {
-              "sigla": "PRD",
-              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
-            }
-          }
-        },
-        "faseSessao": "PAOD",
-        "sumario": "40º Aniversário da Organização das Nações Unidas.",
-        "actividadeId": "79531",
-        "idDebate": "33477",
-        "deputados": {
-          "idCadastro": "615",
-          "nome": "RAÚL RÊGO",
-          "GP": "PS"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Declaração de voto",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
               "string": "68-68"
             },
             "idPag": null,
-            "idInt": "226463",
+            "idInt": "226461",
             "idAct": null,
             "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68&org=PLC",
             "idDeb": null
@@ -387,9 +433,9 @@
         "actividadeId": "79531",
         "idDebate": "33477",
         "deputados": {
-          "idCadastro": "3159",
-          "nome": "RUI OLIVEIRA E COSTA",
-          "GP": "PSD"
+          "idCadastro": "3191",
+          "nome": "JOAQUIM MIRANDA",
+          "GP": "PCP"
         }
       },
       {
@@ -462,7 +508,7 @@
               "string": "68-68"
             },
             "idPag": null,
-            "idInt": "226461",
+            "idInt": "226463",
             "idAct": null,
             "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/68?pgs=68&org=PLC",
             "idDeb": null
@@ -491,55 +537,9 @@
         "actividadeId": "79531",
         "idDebate": "33477",
         "deputados": {
-          "idCadastro": "3191",
-          "nome": "JOAQUIM MIRANDA",
-          "GP": "PCP"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Declaração de voto",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "67-67"
-            },
-            "idPag": null,
-            "idInt": "226456",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/67?pgs=67&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": {
-          "id": "79530",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "1627",
-              "nome": "MARIA SANTOS",
-              "GP": "INDEP"
-            }
-          }
-        },
-        "faseSessao": "PAOD",
-        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
-        "actividadeId": "79530",
-        "idDebate": "33476",
-        "deputados": {
-          "idCadastro": "212",
-          "nome": "JOÃO CORREGEDOR DA FONSECA",
-          "GP": "MDP/CDE"
+          "idCadastro": "3159",
+          "nome": "RUI OLIVEIRA E COSTA",
+          "GP": "PSD"
         }
       },
       {
@@ -732,28 +732,24 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": [
-                "35-36",
-                "37-37"
-              ]
+              "string": "38-39"
             },
             "idPag": null,
-            "idInt": "226422",
+            "idInt": "226427",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/35?pgs=35-36,37&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/38?pgs=38-39&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
-        "resumo": "Responde aos Pedidos de Esclarecimento dos Deputados Francisco Menezes Falcão (CDS) e Jorge Lacão (PS)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
-        "idDebate": "33469",
+        "sumario": "Resultados das eleições de 6 de Outubro e suas consequências políticas",
+        "idDebate": "33470",
         "deputados": {
-          "idCadastro": "81",
-          "nome": "SILVA MARQUES",
-          "GP": "PSD"
+          "idCadastro": "3175",
+          "nome": "JOSÉ TENGARRINHA",
+          "GP": "MDP/CDE"
         }
       },
       {
@@ -880,24 +876,28 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "38-39"
+              "string": [
+                "35-36",
+                "37-37"
+              ]
             },
             "idPag": null,
-            "idInt": "226427",
+            "idInt": "226422",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/38?pgs=38-39&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/35?pgs=35-36,37&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
+        "resumo": "Responde aos Pedidos de Esclarecimento dos Deputados Francisco Menezes Falcão (CDS) e Jorge Lacão (PS)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Resultados das eleições de 6 de Outubro e suas consequências políticas",
-        "idDebate": "33470",
+        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
+        "idDebate": "33469",
         "deputados": {
-          "idCadastro": "3175",
-          "nome": "JOSÉ TENGARRINHA",
-          "GP": "MDP/CDE"
+          "idCadastro": "81",
+          "nome": "SILVA MARQUES",
+          "GP": "PSD"
         }
       },
       {
@@ -1028,24 +1028,23 @@
             "pubdt": "1985-11-13",
             "pag": {
               "string": [
-                "31-31",
-                "31-31",
-                "31-31"
+                "37-37",
+                "37-37"
               ]
             },
             "idPag": null,
-            "idInt": "226413",
+            "idInt": "226426",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/31?pgs=31&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/37?pgs=37&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Ao Deputado Jorge Lemos (PCP)",
+        "resumo": "Ao Deputado Jorge Lacão (PS)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
-        "idDebate": "33466",
+        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
+        "idDebate": "33469",
         "deputados": {
           "idCadastro": "49",
           "nome": "FERNANDO AMARAL",
@@ -1107,23 +1106,27 @@
             "pubdt": "1985-11-13",
             "pag": {
               "string": [
-                "37-37",
-                "37-37"
+                "30-30",
+                "30-30",
+                "30-30",
+                "30-30",
+                "30-30",
+                "30-30"
               ]
             },
             "idPag": null,
-            "idInt": "226426",
+            "idInt": "226410",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/37?pgs=37&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/30?pgs=30&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Ao Deputado Jorge Lacão (PS)",
+        "resumo": "Ao Deputado Carlos Alfredo Brito (PCP)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
-        "idDebate": "33469",
+        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
+        "idDebate": "33466",
         "deputados": {
           "idCadastro": "49",
           "nome": "FERNANDO AMARAL",
@@ -1146,23 +1149,20 @@
             "pubdt": "1985-11-13",
             "pag": {
               "string": [
-                "30-30",
-                "30-30",
-                "30-30",
-                "30-30",
-                "30-30",
-                "30-30"
+                "31-31",
+                "31-31",
+                "31-31"
               ]
             },
             "idPag": null,
-            "idInt": "226410",
+            "idInt": "226413",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/30?pgs=30&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/31?pgs=31&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Ao Deputado Carlos Alfredo Brito (PCP)",
+        "resumo": "Ao Deputado Jorge Lemos (PCP)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
         "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
@@ -1375,6 +1375,41 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
+              "string": "31-31"
+            },
+            "idPag": null,
+            "idInt": "226411",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/31?pgs=31&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
+        "idDebate": "33466",
+        "deputados": {
+          "idCadastro": "3017",
+          "nome": "JOSÉ LUÍS NUNES",
+          "GP": "PS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Interpelação à mesa",
+        "dataReuniaoPlenaria": "1985-11-12",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-13",
+            "pag": {
               "string": [
                 "31-31",
                 "31-31",
@@ -1397,41 +1432,6 @@
           "idCadastro": "3007",
           "nome": "JORGE LEMOS",
           "GP": "PCP"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Interpelação à mesa",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
-              "string": "31-31"
-            },
-            "idPag": null,
-            "idInt": "226411",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/31?pgs=31&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
-        "idDebate": "33466",
-        "deputados": {
-          "idCadastro": "3017",
-          "nome": "JOSÉ LUÍS NUNES",
-          "GP": "PS"
         }
       },
       {
@@ -1526,41 +1526,6 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "32-32"
-            },
-            "idPag": null,
-            "idInt": "226418",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/32?pgs=32&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
-        "idDebate": "33466",
-        "deputados": {
-          "idCadastro": "212",
-          "nome": "JOÃO CORREGEDOR DA FONSECA",
-          "GP": "MDP/CDE"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Interpelação à mesa",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
               "string": [
                 "37-37",
                 "37-37",
@@ -1589,73 +1554,35 @@
         "legislatura": "IV",
         "sessao": "1",
         "tipoIntervencao": "Interpelação à mesa",
-        "tipoDebate": "Primeira reunião após eleições legislativas",
-        "dataReuniaoPlenaria": "1985-11-04",
+        "dataReuniaoPlenaria": "1985-11-12",
         "publicacao": {
           "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "1",
+            "pubNr": "3",
             "pubTipo": "DAR I série",
             "pubTp": "D",
             "pubLeg": "IV",
             "pubSL": "1",
             "supl": ".",
-            "pubdt": "1985-11-05",
+            "pubdt": "1985-11-13",
             "pag": {
-              "string": "4-4"
+              "string": "32-32"
             },
             "idPag": null,
-            "idInt": "226392",
+            "idInt": "226418",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/4?pgs=4&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/32?pgs=32&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
         "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
-        "idDebate": "33464",
-        "sumario2": "Comissão Eventual para a Verificação de poderes",
+        "faseSessao": "PAOD",
+        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
+        "idDebate": "33466",
         "deputados": {
-          "idCadastro": "4788",
-          "nome": "Magalhães Mota",
-          "GP": "PRD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Interpelação à mesa",
-        "tipoDebate": "Primeira reunião após eleições legislativas",
-        "dataReuniaoPlenaria": "1985-11-04",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "1",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-05",
-            "pag": {
-              "string": "1-1"
-            },
-            "idPag": null,
-            "idInt": "226388",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/1?pgs=1&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
-        "idDebate": "33464",
-        "deputados": {
-          "idCadastro": "589",
-          "nome": "LUÍS BEIROCO",
-          "GP": "CDS"
+          "idCadastro": "212",
+          "nome": "JOÃO CORREGEDOR DA FONSECA",
+          "GP": "MDP/CDE"
         }
       },
       {
@@ -1733,6 +1660,278 @@
       {
         "legislatura": "IV",
         "sessao": "1",
+        "tipoIntervencao": "Interpelação à mesa",
+        "tipoDebate": "Primeira reunião após eleições legislativas",
+        "dataReuniaoPlenaria": "1985-11-04",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-05",
+            "pag": {
+              "string": "1-1"
+            },
+            "idPag": null,
+            "idInt": "226388",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/1?pgs=1&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
+        "idDebate": "33464",
+        "deputados": {
+          "idCadastro": "589",
+          "nome": "LUÍS BEIROCO",
+          "GP": "CDS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Interpelação à mesa",
+        "tipoDebate": "Primeira reunião após eleições legislativas",
+        "dataReuniaoPlenaria": "1985-11-04",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-05",
+            "pag": {
+              "string": "4-4"
+            },
+            "idPag": null,
+            "idInt": "226392",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/4?pgs=4&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
+        "idDebate": "33464",
+        "sumario2": "Comissão Eventual para a Verificação de poderes",
+        "deputados": {
+          "idCadastro": "4788",
+          "nome": "Magalhães Mota",
+          "GP": "PRD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "70-71"
+            },
+            "idPag": null,
+            "idInt": "226479",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/70?pgs=70-71&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Presidente da Assembleia da República",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Tomada de posse das Comissões Parlamentares",
+        "idDebate": "33484",
+        "deputados": {
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "65-65"
+            },
+            "idPag": null,
+            "idInt": "226477",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/65?pgs=65&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Necessidade de incentivar o setor cooperativo na agricultura",
+        "idDebate": "33482",
+        "deputados": {
+          "idCadastro": "137",
+          "nome": "VASCO MIGUEL",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": [
+                "63-64",
+                "65-65"
+              ]
+            },
+            "idPag": null,
+            "idInt": "226475",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/63?pgs=63-64,65&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Responde ao Pedido de Esclarecimento da Deputad Ilda Figueiredo (PCP)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Principais problemas que afetam o concelho de Vila Nova de Gaia",
+        "idDebate": "33481"
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": [
+                "61-63",
+                "63-63"
+              ]
+            },
+            "idPag": null,
+            "idInt": "226472",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/61?pgs=61-63,63&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Eurico Pires (PRD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Questões relativas ao ensino",
+        "idDebate": "33480",
+        "deputados": {
+          "idCadastro": "3071",
+          "nome": "ROGÉRIO MOREIRA",
+          "GP": "PCP"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "dataReuniaoPlenaria": "1985-11-14",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-15",
+            "pag": {
+              "string": "69-69"
+            },
+            "idPag": null,
+            "idInt": "226468",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/69?pgs=69&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Presidente da Assembleia da República",
+        "actividadesRelacionadas": {
+          "id": "79531",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "3108",
+              "nome": "ANTÓNIO FERNANDES",
+              "GP": "PRD"
+            }
+          },
+          "autoresGP": {
+            "pt_gov_ar_objectos_GPOut": {
+              "sigla": "PRD",
+              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "40º Aniversário da Organização das Nações Unidas.",
+        "actividadeId": "79531",
+        "idDebate": "33477",
+        "deputados": {
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
         "tipoIntervencao": "Intervenção",
         "dataReuniaoPlenaria": "1985-11-14",
         "publicacao": {
@@ -1797,81 +1996,35 @@
             "supl": ".",
             "pubdt": "1985-11-15",
             "pag": {
-              "string": "69-69"
+              "string": "67-67"
             },
             "idPag": null,
-            "idInt": "226468",
+            "idInt": "226457",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/69?pgs=69&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/67?pgs=67&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
         "actividadesRelacionadas": {
-          "id": "79531",
+          "id": "79530",
           "tipo": "Voto",
           "autoresDeputados": {
             "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "3108",
-              "nome": "ANTÓNIO FERNANDES",
-              "GP": "PRD"
-            }
-          },
-          "autoresGP": {
-            "pt_gov_ar_objectos_GPOut": {
-              "sigla": "PRD",
-              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+              "idCadastro": "1627",
+              "nome": "MARIA SANTOS",
+              "GP": "INDEP"
             }
           }
         },
         "faseSessao": "PAOD",
-        "sumario": "40º Aniversário da Organização das Nações Unidas.",
-        "actividadeId": "79531",
-        "idDebate": "33477",
+        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
+        "actividadeId": "79530",
+        "idDebate": "33476",
         "deputados": {
           "idCadastro": "49",
           "nome": "FERNANDO AMARAL",
           "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": [
-                "61-63",
-                "63-63"
-              ]
-            },
-            "idPag": null,
-            "idInt": "226472",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/61?pgs=61-63,63&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Eurico Pires (PRD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Questões relativas ao ensino",
-        "idDebate": "33480",
-        "deputados": {
-          "idCadastro": "3071",
-          "nome": "ROGÉRIO MOREIRA",
-          "GP": "PCP"
         }
       },
       {
@@ -1924,149 +2077,59 @@
         "legislatura": "IV",
         "sessao": "1",
         "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-14",
+        "dataReuniaoPlenaria": "1985-11-12",
         "publicacao": {
           "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
+            "pubNr": "3",
             "pubTipo": "DAR I série",
             "pubTp": "D",
             "pubLeg": "IV",
             "pubSL": "1",
             "supl": ".",
-            "pubdt": "1985-11-15",
+            "pubdt": "1985-11-13",
             "pag": {
-              "string": [
-                "63-64",
-                "65-65"
-              ]
+              "string": "54-54"
             },
             "idPag": null,
-            "idInt": "226475",
+            "idInt": "226442",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/63?pgs=63-64,65&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Responde ao Pedido de Esclarecimento da Deputad Ilda Figueiredo (PCP)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Principais problemas que afetam o concelho de Vila Nova de Gaia",
-        "idDebate": "33481"
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "65-65"
-            },
-            "idPag": null,
-            "idInt": "226477",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/65?pgs=65&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Necessidade de incentivar o setor cooperativo na agricultura",
-        "idDebate": "33482",
-        "deputados": {
-          "idCadastro": "137",
-          "nome": "VASCO MIGUEL",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "70-71"
-            },
-            "idPag": null,
-            "idInt": "226479",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/70?pgs=70-71&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Presidente da Assembleia da República",
-        "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Tomada de posse das Comissões Parlamentares",
-        "idDebate": "33484",
-        "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "67-67"
-            },
-            "idPag": null,
-            "idInt": "226457",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/67?pgs=67&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/54?pgs=54&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
         "actividadesRelacionadas": {
-          "id": "79530",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "1627",
-              "nome": "MARIA SANTOS",
-              "GP": "INDEP"
-            }
-          }
+          "id": "109493",
+          "tipo": "Disc. Iniciativas"
         },
-        "faseSessao": "PAOD",
-        "sumario": "Morte do poeta sul-africano Benjamin Moloise.",
-        "actividadeId": "79530",
-        "idDebate": "33476",
+        "iniciativas": {
+          "pt_gov_ar_objectos_intervencoes_IniciativasOut": [
+            {
+              "id": "27866",
+              "tipo": "Projeto de Lei",
+              "fase": "Baixa comissão especialidade"
+            },
+            {
+              "id": "27794",
+              "tipo": "Projeto de Lei",
+              "fase": "Baixa comissão especialidade"
+            },
+            {
+              "id": "27861",
+              "tipo": "Projeto de Lei",
+              "fase": "Baixa comissão especialidade"
+            },
+            {
+              "id": "27800",
+              "tipo": "Projeto de Lei",
+              "fase": "Baixa comissão especialidade"
+            }
+          ]
+        },
+        "faseSessao": "POD",
+        "sumario": "Revê as disposições legais que regulamentam a eleição dos Presidentes da República; Alterações à lei eleitoral para  a Presidência da República; Alterações pontuais da lei  eleitoral para a Presidência da República; Alterações à lei eleitoral para a Presidencia da República",
+        "actividadeId": "109493",
+        "idDebate": "33475",
         "deputados": {
           "idCadastro": "49",
           "nome": "FERNANDO AMARAL",
@@ -2155,152 +2218,12 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "54-54"
+              "string": "48-50"
             },
             "idPag": null,
-            "idInt": "226442",
+            "idInt": "226434",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/54?pgs=54&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Presidente da Assembleia da República",
-        "actividadesRelacionadas": {
-          "id": "109493",
-          "tipo": "Disc. Iniciativas"
-        },
-        "iniciativas": {
-          "pt_gov_ar_objectos_intervencoes_IniciativasOut": [
-            {
-              "id": "27866",
-              "tipo": "Projeto de Lei",
-              "fase": "Baixa comissão especialidade"
-            },
-            {
-              "id": "27794",
-              "tipo": "Projeto de Lei",
-              "fase": "Baixa comissão especialidade"
-            },
-            {
-              "id": "27861",
-              "tipo": "Projeto de Lei",
-              "fase": "Baixa comissão especialidade"
-            },
-            {
-              "id": "27800",
-              "tipo": "Projeto de Lei",
-              "fase": "Baixa comissão especialidade"
-            }
-          ]
-        },
-        "faseSessao": "POD",
-        "sumario": "Revê as disposições legais que regulamentam a eleição dos Presidentes da República; Alterações à lei eleitoral para  a Presidência da República; Alterações pontuais da lei  eleitoral para a Presidência da República; Alterações à lei eleitoral para a Presidencia da República",
-        "actividadeId": "109493",
-        "idDebate": "33475",
-        "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
-              "string": "40-41"
-            },
-            "idPag": null,
-            "idInt": "226428",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/40?pgs=40-41&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Nogueira de Brito (CDS)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Aspetos relativos ao Plano de Investimentos do Setor Empresarial do Estado",
-        "idDebate": "33471",
-        "deputados": {
-          "idCadastro": "2953",
-          "nome": "CARLOS CORRÊA GAGO",
-          "GP": "PRD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
-              "string": [
-                "41-42",
-                "42-42"
-              ]
-            },
-            "idPag": null,
-            "idInt": "226430",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/41?pgs=41-42,42&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputada",
-        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Gonçalo Ribeiro Telles (Indep.)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Questões relativas ao problema das cheias e medidas que permitam enfrentar situações futuras",
-        "idDebate": "33472",
-        "deputados": {
-          "idCadastro": "1627",
-          "nome": "MARIA SANTOS",
-          "GP": "INDEP"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
-              "string": "43-46"
-            },
-            "idPag": null,
-            "idInt": "226432",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/43?pgs=43-46&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/48?pgs=48-50&org=PLC",
             "idDeb": null
           }
         },
@@ -2338,9 +2261,9 @@
         "actividadeId": "79693",
         "idDebate": "33473",
         "deputados": {
-          "idCadastro": "3008",
-          "nome": "JORGE LIZ",
-          "GP": "PRD"
+          "idCadastro": "1205",
+          "nome": "ANTÓNIO VITORINO",
+          "GP": "PS"
         }
       },
       {
@@ -2421,12 +2344,12 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "48-50"
+              "string": "43-46"
             },
             "idPag": null,
-            "idInt": "226434",
+            "idInt": "226432",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/48?pgs=48-50&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/43?pgs=43-46&org=PLC",
             "idDeb": null
           }
         },
@@ -2464,9 +2387,86 @@
         "actividadeId": "79693",
         "idDebate": "33473",
         "deputados": {
-          "idCadastro": "1205",
-          "nome": "ANTÓNIO VITORINO",
-          "GP": "PS"
+          "idCadastro": "3008",
+          "nome": "JORGE LIZ",
+          "GP": "PRD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-12",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-13",
+            "pag": {
+              "string": [
+                "41-42",
+                "42-42"
+              ]
+            },
+            "idPag": null,
+            "idInt": "226430",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/41?pgs=41-42,42&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputada",
+        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Gonçalo Ribeiro Telles (Indep.)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Questões relativas ao problema das cheias e medidas que permitam enfrentar situações futuras",
+        "idDebate": "33472",
+        "deputados": {
+          "idCadastro": "1627",
+          "nome": "MARIA SANTOS",
+          "GP": "INDEP"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-12",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-13",
+            "pag": {
+              "string": "40-41"
+            },
+            "idPag": null,
+            "idInt": "226428",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/40?pgs=40-41&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Responde ao Pedido de Esclarecimento do Deputado Nogueira de Brito (CDS)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Aspetos relativos ao Plano de Investimentos do Setor Empresarial do Estado",
+        "idDebate": "33471",
+        "deputados": {
+          "idCadastro": "2953",
+          "nome": "CARLOS CORRÊA GAGO",
+          "GP": "PRD"
         }
       },
       {
@@ -2485,24 +2485,60 @@
             "supl": ".",
             "pubdt": "1985-11-09",
             "pag": {
-              "string": "21-22"
+              "string": "22-22"
             },
             "idPag": null,
-            "idInt": "226403",
+            "idInt": "226405",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/21?pgs=21-22&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/22?pgs=22&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Deputado",
+        "qualidade": "Deputada",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Eleição da mesa da Assembleia da República",
         "idDebate": "33465",
         "deputados": {
-          "idCadastro": "4788",
-          "nome": "Magalhães Mota",
-          "GP": "PRD"
+          "idCadastro": "1627",
+          "nome": "MARIA SANTOS",
+          "GP": "INDEP"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Outros Debates",
+        "dataReuniaoPlenaria": "1985-11-08",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-09",
+            "pag": {
+              "string": "22-22"
+            },
+            "idPag": null,
+            "idInt": "226406",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/22?pgs=22&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Presidente da Assembleia da República",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Eleição da mesa da Assembleia da República",
+        "idDebate": "33465",
+        "deputados": {
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
+          "GP": "PSD"
         }
       },
       {
@@ -2557,23 +2593,23 @@
             "supl": ".",
             "pubdt": "1985-11-09",
             "pag": {
-              "string": "20-20"
+              "string": "17-19"
             },
             "idPag": null,
-            "idInt": "226400",
+            "idInt": "226398",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/20?pgs=20&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/17?pgs=17-19&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Deputado",
+        "qualidade": "Presidente da Assembleia da República",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Eleição da mesa da Assembleia da República",
         "idDebate": "33465",
         "deputados": {
-          "idCadastro": "314",
-          "nome": "ANTÓNIO CAPUCHO",
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
           "GP": "PSD"
         }
       },
@@ -2629,24 +2665,24 @@
             "supl": ".",
             "pubdt": "1985-11-09",
             "pag": {
-              "string": "22-22"
+              "string": "21-22"
             },
             "idPag": null,
-            "idInt": "226405",
+            "idInt": "226403",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/22?pgs=22&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/21?pgs=21-22&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Deputada",
+        "qualidade": "Deputado",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Eleição da mesa da Assembleia da República",
         "idDebate": "33465",
         "deputados": {
-          "idCadastro": "1627",
-          "nome": "MARIA SANTOS",
-          "GP": "INDEP"
+          "idCadastro": "4788",
+          "nome": "Magalhães Mota",
+          "GP": "PRD"
         }
       },
       {
@@ -2737,59 +2773,23 @@
             "supl": ".",
             "pubdt": "1985-11-09",
             "pag": {
-              "string": "22-22"
+              "string": "20-20"
             },
             "idPag": null,
-            "idInt": "226406",
+            "idInt": "226400",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/22?pgs=22&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/20?pgs=20&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Presidente da Assembleia da República",
+        "qualidade": "Deputado",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Eleição da mesa da Assembleia da República",
         "idDebate": "33465",
         "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-08",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "2",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-09",
-            "pag": {
-              "string": "17-19"
-            },
-            "idPag": null,
-            "idInt": "226398",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/002/1985-11-09/17?pgs=17-19&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Presidente da Assembleia da República",
-        "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Eleição da mesa da Assembleia da República",
-        "idDebate": "33465",
-        "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
+          "idCadastro": "314",
+          "nome": "ANTÓNIO CAPUCHO",
           "GP": "PSD"
         }
       },
@@ -2845,6 +2845,43 @@
             "supl": ".",
             "pubdt": "1985-11-05",
             "pag": {
+              "string": "3-4"
+            },
+            "idPag": null,
+            "idInt": "226390",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/3?pgs=3-4&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Presidente da Assembleia da República",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
+        "idDebate": "33464",
+        "sumario2": "Comissão Eventual para a Verificação de poderes",
+        "deputados": {
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Intervenção",
+        "tipoDebate": "Primeira reunião após eleições legislativas",
+        "dataReuniaoPlenaria": "1985-11-04",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-05",
+            "pag": {
               "string": [
                 "1-1",
                 "1-1"
@@ -2871,37 +2908,52 @@
       {
         "legislatura": "IV",
         "sessao": "1",
-        "tipoIntervencao": "Intervenção",
-        "tipoDebate": "Primeira reunião após eleições legislativas",
-        "dataReuniaoPlenaria": "1985-11-04",
+        "tipoIntervencao": "Leitura",
+        "dataReuniaoPlenaria": "1985-11-14",
         "publicacao": {
           "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "1",
+            "pubNr": "4",
             "pubTipo": "DAR I série",
             "pubTp": "D",
             "pubLeg": "IV",
             "pubSL": "1",
             "supl": ".",
-            "pubdt": "1985-11-05",
+            "pubdt": "1985-11-15",
             "pag": {
-              "string": "3-4"
+              "string": "60-60"
             },
             "idPag": null,
-            "idInt": "226390",
+            "idInt": "226459",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/3?pgs=3-4&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/60?pgs=60&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Presidente da Assembleia da República",
-        "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
-        "idDebate": "33464",
-        "sumario2": "Comissão Eventual para a Verificação de poderes",
+        "qualidade": "Secretário da Mesa da Assembleia da República",
+        "actividadesRelacionadas": {
+          "id": "79531",
+          "tipo": "Voto",
+          "autoresDeputados": {
+            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
+              "idCadastro": "3108",
+              "nome": "ANTÓNIO FERNANDES",
+              "GP": "PRD"
+            }
+          },
+          "autoresGP": {
+            "pt_gov_ar_objectos_GPOut": {
+              "sigla": "PRD",
+              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
+            }
+          }
+        },
+        "faseSessao": "PAOD",
+        "sumario": "40º Aniversário da Organização das Nações Unidas.",
+        "actividadeId": "79531",
+        "idDebate": "33477",
         "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
+          "idCadastro": "3069",
+          "nome": "REINALDO GOMES",
           "GP": "PSD"
         }
       },
@@ -2972,58 +3024,6 @@
               "string": "60-60"
             },
             "idPag": null,
-            "idInt": "226459",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/60?pgs=60&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Secretário da Mesa da Assembleia da República",
-        "actividadesRelacionadas": {
-          "id": "79531",
-          "tipo": "Voto",
-          "autoresDeputados": {
-            "pt_gov_ar_objectos_iniciativas_AutoresDeputadosOut": {
-              "idCadastro": "3108",
-              "nome": "ANTÓNIO FERNANDES",
-              "GP": "PRD"
-            }
-          },
-          "autoresGP": {
-            "pt_gov_ar_objectos_GPOut": {
-              "sigla": "PRD",
-              "nome": "PARTIDO RENOVADOR DEMOCRÁTICO"
-            }
-          }
-        },
-        "faseSessao": "PAOD",
-        "sumario": "40º Aniversário da Organização das Nações Unidas.",
-        "actividadeId": "79531",
-        "idDebate": "33477",
-        "deputados": {
-          "idCadastro": "3069",
-          "nome": "REINALDO GOMES",
-          "GP": "PSD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Leitura",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "60-60"
-            },
-            "idPag": null,
             "idInt": "226449",
             "idAct": null,
             "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/60?pgs=60&org=PLC",
@@ -3067,17 +3067,17 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "53-53"
+              "string": "53-54"
             },
             "idPag": null,
-            "idInt": "226440",
+            "idInt": "226441",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/53?pgs=53&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/53?pgs=53-54&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Do requerimento de baixa à Comissão",
+        "resumo": "Da carta do Presidente da República",
         "actividadesRelacionadas": {
           "id": "109493",
           "tipo": "Disc. Iniciativas"
@@ -3131,17 +3131,17 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "53-54"
+              "string": "53-53"
             },
             "idPag": null,
-            "idInt": "226441",
+            "idInt": "226440",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/53?pgs=53-54&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/53?pgs=53&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Da carta do Presidente da República",
+        "resumo": "Do requerimento de baixa à Comissão",
         "actividadesRelacionadas": {
           "id": "109493",
           "tipo": "Disc. Iniciativas"
@@ -3270,17 +3270,17 @@
             "supl": ".",
             "pubdt": "1985-11-05",
             "pag": {
-              "string": "3-4"
+              "string": "10-11"
             },
             "idPag": null,
-            "idInt": "226391",
+            "idInt": "226394",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/3?pgs=3-4&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/10?pgs=10-11&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Da resolução",
+        "resumo": "Do parecer da Comissão de verificação de poderes",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
@@ -3308,17 +3308,17 @@
             "supl": ".",
             "pubdt": "1985-11-05",
             "pag": {
-              "string": "10-11"
+              "string": "3-4"
             },
             "idPag": null,
-            "idInt": "226394",
+            "idInt": "226391",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/10?pgs=10-11&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/001/1985-11-05/3?pgs=3-4&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Presidente da Assembleia da República",
-        "resumo": "Do parecer da Comissão de verificação de poderes",
+        "resumo": "Da resolução",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Primeira reunião da 1ª sessão da IV legislatura da Assembleia da República",
@@ -3381,12 +3381,12 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
-              "string": "536-536"
+              "string": "534-535"
             },
             "idPag": null,
-            "idInt": "206584",
+            "idInt": "206579",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/534?pgs=534-535&org=PLC",
             "idDeb": null
           }
         },
@@ -3397,9 +3397,45 @@
         "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
         "idDebate": "31151",
         "deputados": {
-          "idCadastro": "226",
-          "nome": "NOGUEIRA DE BRITO",
-          "GP": "CDS"
+          "idCadastro": "2956",
+          "nome": "CARLOS LILAIA",
+          "GP": "PRD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1986-01-17",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "24",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1986-01-18",
+            "pag": {
+              "string": "535-535"
+            },
+            "idPag": null,
+            "idInt": "206581",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/535?pgs=535&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado Carlos Coelho (PSD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
+        "idDebate": "31151",
+        "deputados": {
+          "idCadastro": "212",
+          "nome": "JOÃO CORREGEDOR DA FONSECA",
+          "GP": "ID"
         }
       },
       {
@@ -3456,42 +3492,6 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
-              "string": "535-535"
-            },
-            "idPag": null,
-            "idInt": "206581",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/535?pgs=535&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Ao Deputado Carlos Coelho (PSD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
-        "idDebate": "31151",
-        "deputados": {
-          "idCadastro": "212",
-          "nome": "JOÃO CORREGEDOR DA FONSECA",
-          "GP": "ID"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "dataReuniaoPlenaria": "1986-01-17",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "24",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1986-01-18",
-            "pag": {
               "string": "536-536"
             },
             "idPag": null,
@@ -3528,12 +3528,12 @@
             "supl": ".",
             "pubdt": "1986-01-18",
             "pag": {
-              "string": "534-535"
+              "string": "536-536"
             },
             "idPag": null,
-            "idInt": "206579",
+            "idInt": "206584",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/534?pgs=534-535&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/024/1986-01-18/536?pgs=536&org=PLC",
             "idDeb": null
           }
         },
@@ -3544,46 +3544,9 @@
         "sumario": "Manifesta a sua solidariedade com o ex-membro do Governo Carlos Pimenta a propósito da questão que envolve o Centro de Estudos de Economia em Energia de Transportes",
         "idDebate": "31151",
         "deputados": {
-          "idCadastro": "2956",
-          "nome": "CARLOS LILAIA",
-          "GP": "PRD"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-14",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "4",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-15",
-            "pag": {
-              "string": "64-65"
-            },
-            "idPag": null,
-            "idInt": "226476",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/64?pgs=64-65&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputada",
-        "resumo": "Ao Deputado Barbosa da Costa (PRD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Principais problemas que afetam o concelho de Vila Nova de Gaia",
-        "idDebate": "33481",
-        "deputados": {
-          "idCadastro": "569",
-          "nome": "ILDA FIGUEIREDO",
-          "GP": "PCP"
+          "idCadastro": "226",
+          "nome": "NOGUEIRA DE BRITO",
+          "GP": "CDS"
         }
       },
       {
@@ -3628,36 +3591,36 @@
         "sessao": "1",
         "tipoIntervencao": "Pedido de esclarecimento",
         "tipoDebate": "Outros Debates",
-        "dataReuniaoPlenaria": "1985-11-12",
+        "dataReuniaoPlenaria": "1985-11-14",
         "publicacao": {
           "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
+            "pubNr": "4",
             "pubTipo": "DAR I série",
             "pubTp": "D",
             "pubLeg": "IV",
             "pubSL": "1",
             "supl": ".",
-            "pubdt": "1985-11-13",
+            "pubdt": "1985-11-15",
             "pag": {
-              "string": "42-42"
+              "string": "64-65"
             },
             "idPag": null,
-            "idInt": "226431",
+            "idInt": "226476",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/42?pgs=42&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/004/1985-11-15/64?pgs=64-65&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Deputado",
-        "resumo": "À Deputada Maria Santos (Indep.)",
+        "qualidade": "Deputada",
+        "resumo": "Ao Deputado Barbosa da Costa (PRD)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Questões relativas ao problema das cheias e medidas que permitam enfrentar situações futuras",
-        "idDebate": "33472",
+        "sumario": "Principais problemas que afetam o concelho de Vila Nova de Gaia",
+        "idDebate": "33481",
         "deputados": {
-          "idCadastro": "3199",
-          "nome": "GONÇALO RIBEIRO TELLES",
-          "GP": "INDEP"
+          "idCadastro": "569",
+          "nome": "ILDA FIGUEIREDO",
+          "GP": "PCP"
         }
       },
       {
@@ -3675,12 +3638,12 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "37-37"
+              "string": "36-37"
             },
             "idPag": null,
-            "idInt": "226424",
+            "idInt": "226423",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/37?pgs=37&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/36?pgs=36-37&org=PLC",
             "idDeb": null
           }
         },
@@ -3691,9 +3654,9 @@
         "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
         "idDebate": "33469",
         "deputados": {
-          "idCadastro": "179",
-          "nome": "JORGE LACÃO",
-          "GP": "PS"
+          "idCadastro": "3151",
+          "nome": "FRANCISCO MENEZES FALCÃO",
+          "GP": "CDS"
         }
       },
       {
@@ -3711,12 +3674,48 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "51-52"
+              "string": "30-30"
             },
             "idPag": null,
-            "idInt": "226438",
+            "idInt": "226408",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/51?pgs=51-52&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/30?pgs=30&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado Carlos Alfredo Brito (PCP)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
+        "idDebate": "33466",
+        "deputados": {
+          "idCadastro": "314",
+          "nome": "ANTÓNIO CAPUCHO",
+          "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1985-11-12",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-13",
+            "pag": {
+              "string": "51-51"
+            },
+            "idPag": null,
+            "idInt": "226436",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/51?pgs=51&org=PLC",
             "idDeb": null
           }
         },
@@ -3755,9 +3754,9 @@
         "actividadeId": "79693",
         "idDebate": "33473",
         "deputados": {
-          "idCadastro": "1205",
-          "nome": "ANTÓNIO VITORINO",
-          "GP": "PS"
+          "idCadastro": "189",
+          "nome": "JOSÉ MAGALHÃES",
+          "GP": "PCP"
         }
       },
       {
@@ -3839,12 +3838,12 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "51-51"
+              "string": "51-52"
             },
             "idPag": null,
-            "idInt": "226436",
+            "idInt": "226438",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/51?pgs=51&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/51?pgs=51-52&org=PLC",
             "idDeb": null
           }
         },
@@ -3883,9 +3882,45 @@
         "actividadeId": "79693",
         "idDebate": "33473",
         "deputados": {
-          "idCadastro": "189",
-          "nome": "JOSÉ MAGALHÃES",
-          "GP": "PCP"
+          "idCadastro": "1205",
+          "nome": "ANTÓNIO VITORINO",
+          "GP": "PS"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "1",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1985-11-12",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "1",
+            "supl": ".",
+            "pubdt": "1985-11-13",
+            "pag": {
+              "string": "37-37"
+            },
+            "idPag": null,
+            "idInt": "226424",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/37?pgs=37&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado Silva Marques (PSD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "PAOD",
+        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
+        "idDebate": "33469",
+        "deputados": {
+          "idCadastro": "179",
+          "nome": "JORGE LACÃO",
+          "GP": "PS"
         }
       },
       {
@@ -3929,6 +3964,7 @@
         "legislatura": "IV",
         "sessao": "1",
         "tipoIntervencao": "Pedido de esclarecimento",
+        "tipoDebate": "Outros Debates",
         "dataReuniaoPlenaria": "1985-11-12",
         "publicacao": {
           "pt_gov_ar_objectos_PublicacoesOut": {
@@ -3940,61 +3976,25 @@
             "supl": ".",
             "pubdt": "1985-11-13",
             "pag": {
-              "string": "36-37"
+              "string": "42-42"
             },
             "idPag": null,
-            "idInt": "226423",
+            "idInt": "226431",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/36?pgs=36-37&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/42?pgs=42&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
-        "resumo": "Ao Deputado Silva Marques (PSD)",
+        "resumo": "À Deputada Maria Santos (Indep.)",
         "actividadesRelacionadas": null,
         "faseSessao": "PAOD",
-        "sumario": "Consequências da instalação de uma central térmica a carvão da EDP no concelho de Pombal",
-        "idDebate": "33469",
+        "sumario": "Questões relativas ao problema das cheias e medidas que permitam enfrentar situações futuras",
+        "idDebate": "33472",
         "deputados": {
-          "idCadastro": "3151",
-          "nome": "FRANCISCO MENEZES FALCÃO",
-          "GP": "CDS"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "1",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "dataReuniaoPlenaria": "1985-11-12",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "3",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "1",
-            "supl": ".",
-            "pubdt": "1985-11-13",
-            "pag": {
-              "string": "30-30"
-            },
-            "idPag": null,
-            "idInt": "226408",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/003/1985-11-13/30?pgs=30&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Ao Deputado Carlos Alfredo Brito (PCP)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "PAOD",
-        "sumario": "Perspetivas e planos do PCP para a atividade parlamentar",
-        "idDebate": "33466",
-        "deputados": {
-          "idCadastro": "314",
-          "nome": "ANTÓNIO CAPUCHO",
-          "GP": "PSD"
+          "idCadastro": "3199",
+          "nome": "GONÇALO RIBEIRO TELLES",
+          "GP": "INDEP"
         }
       },
       {
@@ -4052,27 +4052,28 @@
             "pubdt": "1986-10-17",
             "pag": {
               "string": [
-                "4-5",
-                "5-6"
+                "6-6",
+                "7-7",
+                "7-7"
               ]
             },
             "idPag": null,
-            "idInt": "226696",
+            "idInt": "226721",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/4?pgs=4-5,5-6&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/6,7?pgs=6,7&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
-        "resumo": "Responde ao pedido de esclarecimento do Deputado Victor Crespo (PSD).",
+        "resumo": "Responde ao pedido de esclarecimento do Deputado Eduardo Pereira (PS).",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
-        "sumario": "Início da sessão legislativa",
-        "idDebate": "33508",
+        "sumario": "Apresenta algumas conclusões das Jornadas Parlamentares do PSD.",
+        "idDebate": "33509",
         "deputados": {
-          "idCadastro": "175",
-          "nome": "FERRAZ DE ABREU",
-          "GP": "PS"
+          "idCadastro": "314",
+          "nome": "ANTÓNIO CAPUCHO",
+          "GP": "PSD"
         }
       },
       {
@@ -4131,28 +4132,27 @@
             "pubdt": "1986-10-17",
             "pag": {
               "string": [
-                "6-6",
-                "7-7",
-                "7-7"
+                "4-5",
+                "5-6"
               ]
             },
             "idPag": null,
-            "idInt": "226721",
+            "idInt": "226696",
             "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/6,7?pgs=6,7&org=PLC",
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/4?pgs=4-5,5-6&org=PLC",
             "idDeb": null
           }
         },
         "qualidade": "Deputado",
-        "resumo": "Responde ao pedido de esclarecimento do Deputado Eduardo Pereira (PS).",
+        "resumo": "Responde ao pedido de esclarecimento do Deputado Victor Crespo (PSD).",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
-        "sumario": "Apresenta algumas conclusões das Jornadas Parlamentares do PSD.",
-        "idDebate": "33509",
+        "sumario": "Início da sessão legislativa",
+        "idDebate": "33508",
         "deputados": {
-          "idCadastro": "314",
-          "nome": "ANTÓNIO CAPUCHO",
-          "GP": "PSD"
+          "idCadastro": "175",
+          "nome": "FERRAZ DE ABREU",
+          "GP": "PS"
         }
       },
       {
@@ -4209,21 +4209,21 @@
               "string": "3-3"
             },
             "idPag": null,
-            "idInt": "226694",
+            "idInt": "226695",
             "idAct": null,
             "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/3?pgs=3&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Presidente da Assembleia da República",
+        "qualidade": "Deputado",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Acidente do deputado Manuel Queiró (CDS).",
         "idDebate": "33507",
         "deputados": {
-          "idCadastro": "49",
-          "nome": "FERNANDO AMARAL",
-          "GP": "PSD"
+          "idCadastro": "1341",
+          "nome": "JOSÉ GAMA",
+          "GP": "CDS"
         }
       },
       {
@@ -4245,21 +4245,21 @@
               "string": "3-3"
             },
             "idPag": null,
-            "idInt": "226695",
+            "idInt": "226694",
             "idAct": null,
             "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/3?pgs=3&org=PLC",
             "idDeb": null
           }
         },
-        "qualidade": "Deputado",
+        "qualidade": "Presidente da Assembleia da República",
         "actividadesRelacionadas": null,
         "faseSessao": "POD",
         "sumario": "Acidente do deputado Manuel Queiró (CDS).",
         "idDebate": "33507",
         "deputados": {
-          "idCadastro": "1341",
-          "nome": "JOSÉ GAMA",
-          "GP": "CDS"
+          "idCadastro": "49",
+          "nome": "FERNANDO AMARAL",
+          "GP": "PSD"
         }
       },
       {
@@ -4386,45 +4386,6 @@
             "pubdt": "1986-10-17",
             "pag": {
               "string": [
-                "6-7",
-                "7-7"
-              ]
-            },
-            "idPag": null,
-            "idInt": "226722",
-            "idAct": null,
-            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/6?pgs=6-7,7&org=PLC",
-            "idDeb": null
-          }
-        },
-        "qualidade": "Deputado",
-        "resumo": "Ao Deputado António Capucho (PSD)",
-        "actividadesRelacionadas": null,
-        "faseSessao": "POD",
-        "sumario": "Apresenta algumas conclusões das Jornadas Parlamentares do PSD.",
-        "idDebate": "33509",
-        "deputados": {
-          "idCadastro": "164",
-          "nome": "EDUARDO PEREIRA",
-          "GP": "PS"
-        }
-      },
-      {
-        "legislatura": "IV",
-        "sessao": "2",
-        "tipoIntervencao": "Pedido de esclarecimento",
-        "dataReuniaoPlenaria": "1986-10-16",
-        "publicacao": {
-          "pt_gov_ar_objectos_PublicacoesOut": {
-            "pubNr": "1",
-            "pubTipo": "DAR I série",
-            "pubTp": "D",
-            "pubLeg": "IV",
-            "pubSL": "2",
-            "supl": ".",
-            "pubdt": "1986-10-17",
-            "pag": {
-              "string": [
                 "9-10",
                 "10-10"
               ]
@@ -4446,6 +4407,45 @@
           "idCadastro": "105",
           "nome": "COSTA ANDRADE",
           "GP": "PSD"
+        }
+      },
+      {
+        "legislatura": "IV",
+        "sessao": "2",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "dataReuniaoPlenaria": "1986-10-16",
+        "publicacao": {
+          "pt_gov_ar_objectos_PublicacoesOut": {
+            "pubNr": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "pubLeg": "IV",
+            "pubSL": "2",
+            "supl": ".",
+            "pubdt": "1986-10-17",
+            "pag": {
+              "string": [
+                "6-7",
+                "7-7"
+              ]
+            },
+            "idPag": null,
+            "idInt": "226722",
+            "idAct": null,
+            "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/6?pgs=6-7,7&org=PLC",
+            "idDeb": null
+          }
+        },
+        "qualidade": "Deputado",
+        "resumo": "Ao Deputado António Capucho (PSD)",
+        "actividadesRelacionadas": null,
+        "faseSessao": "POD",
+        "sumario": "Apresenta algumas conclusões das Jornadas Parlamentares do PSD.",
+        "idDebate": "33509",
+        "deputados": {
+          "idCadastro": "164",
+          "nome": "EDUARDO PEREIRA",
+          "GP": "PS"
         }
       }
     ]
