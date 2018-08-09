@@ -7535,16 +7535,6 @@
         "participantes": null
       },
       {
-        "id": "1824",
-        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-06-01",
-        "dataFim": "2018-06-30",
-        "participantes": null
-      },
-      {
         "id": "1821",
         "nome": "European Roundtable 2018 - \"Nacionalism and the European Unin\"",
         "local": "Barcelona",
@@ -7561,6 +7551,16 @@
             "id": "1102"
           }
         }
+      },
+      {
+        "id": "1824",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-01",
+        "dataFim": "2018-06-30",
+        "participantes": null
       },
       {
         "id": "1843",
@@ -7583,14 +7583,22 @@
         "participantes": null
       },
       {
-        "id": "1823",
-        "nome": "Participação no \"International Forum of Parliament Visitors Centres\"",
+        "id": "1828",
+        "nome": "Participação como orador no \"2nd HCV Policy Summit on the Elimination of Hepatitis C in Europe\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2018-06-06",
-        "dataFim": "2018-06-08",
-        "participantes": null
+        "dataFim": "2018-06-06",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
       },
       {
         "id": "1818",
@@ -7611,22 +7619,14 @@
         }
       },
       {
-        "id": "1828",
-        "nome": "Participação como orador no \"2nd HCV Policy Summit on the Elimination of Hepatitis C in Europe\"",
+        "id": "1823",
+        "nome": "Participação no \"International Forum of Parliament Visitors Centres\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2018-06-06",
-        "dataFim": "2018-06-06",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "RICARDO BAPTISTA LEITE",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4441"
-          }
-        }
+        "dataFim": "2018-06-08",
+        "participantes": null
       },
       {
         "id": "1827",
@@ -7858,28 +7858,18 @@
         }
       },
       {
-        "id": "1835",
-        "nome": "Participação na Reunião IPU \"Centre fo Innovation in Parliament\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-06-19",
-        "dataFim": "2018-06-20",
-        "participantes": null
-      },
-      {
-        "id": "1837",
-        "nome": "Participação na Reuinão IPU \"Centre for Innovation in Parliament\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-06-19",
-        "dataFim": "2018-06-20",
-        "participantes": null
-      },
-      {
         "id": "1833",
         "nome": "Deslocação à Reunião IPU - Centre for Innovation in Parliament",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1835",
+        "nome": "Participação na Reunião IPU \"Centre fo Innovation in Parliament\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
@@ -7900,6 +7890,16 @@
       {
         "id": "1836",
         "nome": "Participação na Reunião IPU \"Centre fo Innovation in Parliament\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-06-19",
+        "dataFim": "2018-06-20",
+        "participantes": null
+      },
+      {
+        "id": "1837",
+        "nome": "Participação na Reuinão IPU \"Centre for Innovation in Parliament\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
@@ -8158,6 +8158,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "5749"
+          }
+        }
+      },
+      {
+        "id": "1854",
+        "nome": "Ukrainian Diaspora Youth Forum \"Kyiv 2018\" and 2nd Congress of SKUMO.",
+        "local": "Kiev",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-08-27",
+        "dataFim": "2018-08-29",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "IVAN GONÇALVES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "6048"
           }
         }
       }
