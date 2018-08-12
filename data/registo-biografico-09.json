@@ -21713,40 +21713,7 @@
               "pubOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1702",

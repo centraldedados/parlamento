@@ -11,21 +11,53 @@
         "Titulo": "Comissões Parlamentares",
         "nOrdem": "30",
         "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "0",
-            "ID_Tema": "1",
-            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-            "nOrdem": "0",
-            "Data_Inicio": "2018-09-06T15:30:00",
-            "Data_Fim": "2018-09-06T16:30:00",
-            "Titulo": "Comissão de Agricultura e Mar",
-            "Subtitulo": "DIA 6 setembro | HORA 15:30",
-            "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Audição da Senhora Ministra do Mar, Ana Paula Vitorino, ao abrigo do n.º 2 do artigo 104º do Regimento da Assembleia da República</td></tr></table>",
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
+          "genBI2_Conteudo": [
+            {
+              "ID": "0",
+              "ID_Tema": "1",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-09-06T15:30:00",
+              "Data_Fim": "2018-09-06T16:30:00",
+              "Titulo": "Comissão de Agricultura e Mar",
+              "Subtitulo": "DIA 6 setembro | HORA 15:30",
+              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Audição da Senhora Ministra do Mar, Ana Paula Vitorino, ao abrigo do n.º 2 do artigo 104º do Regimento da Assembleia da República</td></tr></table>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "1",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-09-11T14:00:00",
+              "Data_Fim": "2018-09-11T15:00:00",
+              "Titulo": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+              "Subtitulo": "DIA 11 setembro | HORA 14:00",
+              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Aprovação da Ata 163</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Iniciativas legislativas\nDistribuição\nPJL 970/XIII/3 (PAN) Aumenta os valores da Taxa de Gestão de Resíduos relativamente aos resíduos destinados a aterro e incineração - Relator cabe ao GP PS\n\nConexão\nPJL 971/XIII/3 (PAN) Alargamento do regime de tributação para sacos com maior gramagem (competente 5ª)\n\nFixação de Redação Final\n\nTexto Final dos PJL 618/XIII/3.ª (PAN) e 579/XIII/3.ª (PEV) - Eliminação do risco de amianto em edifícios\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">3 - Projetos de Resolução\nDistribuição\nPJR 1776/XIII/3 (PEV) - Pela área de Barregão (Cantanhede e Mealhada) livre da exploração de caulinos\nPJR 1777/XIII/3 (PEV) - Recomenda ao Governo que trave o atentado ambiental em Mira e Cantanhede provocado pelas sucessivas descargas do Intercetor Sul\nPJR 1779/XIII/3 (PEV) – Despoluição do Rio Ave com o envolvimento dos municípios e das entidades responsáveis pelos recursos hídricos\n\nConexão\nPJR 1781/XIII/3 (PCP) Pelo reconhecimento e valorização do trabalho dos Feirantes (competente 6ª)\n\nFixação de Redação Final\n\nTexto aprovado do PJR 1026/XIII/2 (PCP) - Recomenda ao Governo que crie um Grupo de Trabalho no âmbito da viabilização do processo de reconversão urbanística, na área abrangida pela servidão militar do Depósito de Munições da NATO de Lisboa, na Quinta da Lobateira e Pinhal das Freiras e no Pinhal da Palmeira em Fernão Ferro, no Concelho do Seixal\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">4 - Plano de Atividades da CAOTDPLH para a 4ª Sessão Legislativa</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">5 - Outros Assuntos</td></tr></table>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "1",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-09-12T15:00:00",
+              "Data_Fim": "2018-09-12T16:00:00",
+              "Titulo": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+              "Subtitulo": "DIA 12 setembro | HORA 15:00",
+              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Audição do novo Conselho de Administração da empresa Águas do Norte para prestar esclarecimentos sobre o encerramento do polo de Guimarães, a Requerimento do GP do PCP</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Outros Assuntos</td></tr></table>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            }
+          ]
         }
       },
       {
