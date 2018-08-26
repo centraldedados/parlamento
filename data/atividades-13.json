@@ -140,6 +140,26 @@
             }
           },
           "dataAgendamentoDebate": "2018-06-14",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "94",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "XIII",
+              "pubSL": "3",
+              "supl": ".",
+              "pubdt": "2018-06-15",
+              "pag": {
+                "string": "3-35"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/094/2018-06-15/3?pgs=3-35&org=PLC",
+              "debateDtReu": "2018-06-14",
+              "idDeb": "33646"
+            }
+          },
           "numero": "20",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5760,6 +5780,34 @@
               "honra": "S"
             }
           }
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de Pesar pelo falecimento do Professor Doutor Rui Nogueira Lobo de Alarcão e Silva",
+          "legislatura": "XIII",
+          "sessao": "3",
+          "dataEntrada": "2018-08-24",
+          "numero": "611",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PSD"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636939684f5451354f5749314e793169595759354c5451335a544174595449324d4330785a6d51355a544e68596d466d4f5749755a47396a&fich=a9499b57-baf9-47e0-a260-1fd9e3abaf9b.doc&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de Pesar pelo falecimento do empresário Pedro Mendonça de Queiroz Pereira",
+          "legislatura": "XIII",
+          "sessao": "3",
+          "dataEntrada": "2018-08-23",
+          "numero": "610",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS-PP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396d4d444a69597a6b774e53316a596d597a4c54517a5a446b744f444d7a5a5330334e7a466d4e3256695954566a5a5449755a47396a65413d3d&fich=f02bc905-cbf3-43d9-833e-771f7eba5ce2.docx&Inline=true"
         },
         {
           "tipo": "VOT",

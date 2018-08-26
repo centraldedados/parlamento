@@ -2252,24 +2252,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "3",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Anúncio",
-                    "pubdt": "2004-09-18",
-                    "pag": {
-                      "string": "116-116"
-                    },
-                    "idPag": "292541",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/003/2004-09-18/116?pgs=116&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "2",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2285,6 +2267,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/002/2004-09-17/110?pgs=110&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "3",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Anúncio",
+                    "pubdt": "2004-09-18",
+                    "pag": {
+                      "string": "116-116"
+                    },
+                    "idPag": "292541",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/03/003/2004-09-18/116?pgs=116&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -4497,6 +4497,24 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "22",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "obs": "Repetição da votação por não ter obtido, em votações anteriores, o requisito constitucional de dois terços",
+                    "pubdt": "2002-06-21",
+                    "pag": {
+                      "string": "884-884"
+                    },
+                    "idPag": "271328",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/884?pgs=884&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "21",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -4528,24 +4546,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/018/2002-06-07/723?pgs=723&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "22",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "obs": "Repetição da votação por não ter obtido, em votações anteriores, o requisito constitucional de dois terços",
-                    "pubdt": "2002-06-21",
-                    "pag": {
-                      "string": "884-884"
-                    },
-                    "idPag": "271328",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/884?pgs=884&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -7637,7 +7637,7 @@
           "numero": "227",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PAR; PSD; BE; PCP"
+            "string": "PCP; BE; PSD; PAR; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338794d6a6466535667756347526d&fich=227_IX.pdf&Inline=true"
         },
@@ -7720,7 +7720,7 @@
           "numero": "226",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; CDS-PP; BE"
+            "string": "BE; PCP; PS; CDS-PP; PSD; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338794d6a5a66535667756347526d&fich=226_IX.pdf&Inline=true"
         },
@@ -10567,7 +10567,7 @@
           "numero": "191",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PCP; BE; PS; PEV; PSD; CDS-PP"
+            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338784f544666535667756347526d&fich=191_IX.pdf&Inline=true"
         },
@@ -10650,7 +10650,7 @@
           "numero": "190",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "CDS-PP; PCP; PSD; BE; PS; PEV"
+            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338784f544266535667756347526d&fich=190_IX.pdf&Inline=true"
         },
@@ -20686,7 +20686,7 @@
           "numero": "69",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; CDS-PP; BE"
+            "string": "CDS-PP; PEV; PSD; PCP; PS; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338324f56394a574335775a47593d&fich=69_IX.pdf&Inline=true"
         },
@@ -20831,7 +20831,7 @@
           "numero": "67",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "PCP; PEV; PS; CDS-PP; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338324e31394a574335775a47593d&fich=67_IX.pdf&Inline=true"
         },
@@ -20914,7 +20914,7 @@
           "numero": "66",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "CDS-PP; PCP; PS; PEV; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338324e6c394a574335775a47593d&fich=66_IX.pdf&Inline=true"
         },
@@ -20997,7 +20997,7 @@
           "numero": "65",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "PEV; PCP; PSD; BE; PS; CDS-PP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338324e56394a574335775a47593d&fich=65_IX.pdf&Inline=true"
         },
@@ -27836,16 +27836,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "73129",
-              "numeroAudiencia": "5-ECC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Sobre o futuro do Instituto Portugues de Arqueologia",
-              "entidades": "Trabalhadores do IPA - Instituto Português de Arqueologia",
-              "data": "2002-05-28",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "73130",
               "numeroAudiencia": "5-ECC-IX",
               "legislatura": "IX",
@@ -27853,6 +27843,16 @@
               "assunto": "Sobre a alteração do Decreto-Lei nº. 99/2001 de 28 de Março (Escolas Superiores de Enfermagem)",
               "entidades": "Sindicato Nacional do Ensino Superior - SNESup.",
               "data": "2002-06-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73129",
+              "numeroAudiencia": "5-ECC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Sobre o futuro do Instituto Portugues de Arqueologia",
+              "entidades": "Trabalhadores do IPA - Instituto Português de Arqueologia",
+              "data": "2002-05-28",
               "concedida": "Concedida"
             },
             {
