@@ -6062,10 +6062,10 @@
                 "depNomeParlamentar": "Borges De Carvalho",
                 "legDes": "IV",
                 "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
+                "parSigla": "CDS",
+                "parDes": "Centro Democrático Social",
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social",
                 "indDes": "Independente",
                 "indData": "1986-03-12"
               },
@@ -15532,41 +15532,18 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6124",
-                  "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                  "orgSigla": "GT-ALERJRE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6164",
-                  "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
-                  "orgSigla": "GT-ALN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6405",
-                  "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
-                  "orgSigla": "GT-IP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6405",
+                "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
+                "orgSigla": "GT-IP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
                 }
-              ]
+              }
             }
           }
         },
@@ -16359,15 +16336,6 @@
                   "timDes": "Suplente"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6124",
-                "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                "orgSigla": "GT-ALERJRE",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
             }
           }
         },

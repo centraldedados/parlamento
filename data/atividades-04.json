@@ -1159,23 +1159,6 @@
                     "idDeb": null
                   },
                   {
-                    "pubNr": "26",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IV",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1986-01-23",
-                    "pag": {
-                      "string": "851-852"
-                    },
-                    "idPag": "573322",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/026/1986-01-23/851?pgs=851-852&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "53",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1190,6 +1173,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/053/1986-04-09/2030?pgs=2030&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "26",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IV",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1986-01-23",
+                    "pag": {
+                      "string": "851-852"
+                    },
+                    "idPag": "573322",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/026/1986-01-23/851?pgs=851-852&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -1906,6 +1906,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "48",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IV",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "1987-02-25",
+                    "pag": {
+                      "string": "1846-1847"
+                    },
+                    "idPag": "348723",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/048/1987-02-25/1846?pgs=1846-1847&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "49",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1921,23 +1938,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/049/1987-02-27?pgs=&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "48",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IV",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "1987-02-25",
-                    "pag": {
-                      "string": "1846-1847"
-                    },
-                    "idPag": "348723",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/02/048/1987-02-25/1846?pgs=1846-1847&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -4000,6 +4000,26 @@
               "idDeb": null
             }
           },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "22",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "IV",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1986-01-15",
+              "pag": {
+                "string": "736-736"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/022/1986-01-15/736?pgs=736&org=PLC",
+              "debateDtReu": "1986-01-14",
+              "idDeb": "33782"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "48526",
@@ -4060,6 +4080,29 @@
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/595?pgs=595&org=PLC",
               "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "19",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "IV",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1986-01-07",
+              "pag": {
+                "string": [
+                  "595-595",
+                  "639-639"
+                ]
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/595,639?pgs=595,639&org=PLC",
+              "debateDtReu": "1986-01-06",
+              "idDeb": "33730"
             }
           },
           "votacaoDebate": {

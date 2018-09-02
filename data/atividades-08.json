@@ -2381,23 +2381,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "68",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2000-05-19",
-                    "pag": {
-                      "string": "2706-2706"
-                    },
-                    "idPag": "285102",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "69",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2412,6 +2395,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2712?pgs=2712&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "68",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2000-05-19",
+                    "pag": {
+                      "string": "2706-2706"
+                    },
+                    "idPag": "285102",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -17059,172 +17059,6 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
-              "IDAudicao": "71904",
-              "numeroAudicao": "18-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
-              "entidades": "Instituto Português do Livro e das Bibliotecas (Prof. Doutor João Luís Lisboa)",
-              "data": "2001-03-19"
-            },
-            {
-              "IDAudicao": "71903",
-              "numeroAudicao": "17-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
-              "entidades": "Instituto dos Arquivos Nacionais - Torre do Tombo (Profª Miriam Pereira)",
-              "data": "2002-03-14"
-            },
-            {
-              "IDAudicao": "71902",
-              "numeroAudicao": "16-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
-              "entidades": "Direcção-Geral dos Edifícios e Monumentos Nacionais (Engº Vasco Martins Costa);Biblioteca Nacional;Cinemateca Portuguesa - Museu do Cinema;Instituto do Cinema, Audiovisual e Multimédia;Comissão Episcopal dos Bens Culturais da Igreja (D. Albino Mamede Cleto);Instituto Português de Museus (Dra Raquel Henriques da Silva)",
-              "data": "2001-03-06"
-            },
-            {
-              "IDAudicao": "71901",
-              "numeroAudicao": "15-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Regime fiscal e regime de protecção e valorização do património cultura (PPL 38 e 39/VIII)",
-              "entidades": "Instituto Português de Arqueologia (Prof. Dr. João Carlos Zilhão);Centro Português de Fotografia (Dra Teresa Siza);Instituto Português do Património Arquitectónico",
-              "data": "2001-03-05"
-            },
-            {
-              "IDAudicao": "71881",
-              "numeroAudicao": "14-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
-              "entidades": "Pró-reitora e Presidente da Comissão de Gestão da Faculdade de Arquitectura da Universidade Técnica de Lisboa",
-              "data": "2000-08-02"
-            },
-            {
-              "IDAudicao": "71883",
-              "numeroAudicao": "13-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207/VIII)",
-              "entidades": "Federação Nacional dos Professores;Federação Nacional dos Sindicatos da Educação;Sindicato Nacional do Ensino Superior e Outros",
-              "data": "2000-06-28"
-            },
-            {
-              "IDAudicao": "71876",
-              "numeroAudicao": "12-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207/VIII)",
-              "entidades": "Associação Académica da Universidade da Beira Interior;Associação Académica da Universidade de Aveiro (AAUAv);Associação Académica de Lisboa;Conselho de Reitores das Universidades Portuguesas;Conselho Coordenador dos Institutos Superiores Politécnicos;Associação Portuguesa do Ensino Superior Particular",
-              "data": "2000-06-27"
-            },
-            {
-              "IDAudicao": "71875",
-              "numeroAudicao": "11-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207)",
-              "entidades": "Federação Nacional das Associações de Estudantes do Ensino Superior Politécnico;Associação Académica da Universidade de Évora;Associação Académica de Coimbra;Associação Academica da Universidade do Algarve",
-              "data": "2000-06-26"
-            },
-            {
-              "IDAudicao": "71874",
-              "numeroAudicao": "10-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Língua Portuguesa no Estrangeiro",
-              "entidades": "Presidente do Instituto Camões - Dr. Jorge Couto",
-              "data": "2000-06-21"
-            },
-            {
-              "IDAudicao": "71873",
-              "numeroAudicao": "9-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Língua Portuguesa no Estrangeiro",
-              "entidades": "Ministro da Educação",
-              "data": "2000-05-16"
-            },
-            {
-              "IDAudicao": "71872",
-              "numeroAudicao": "8-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Língua Portuguesa no Estrangeiro",
-              "entidades": "Confederação Nacional das Associações de Pais;Federação Nacional dos Sindicatos da Educação",
-              "data": "2000-05-11"
-            },
-            {
-              "IDAudicao": "71871",
-              "numeroAudicao": "7-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Língua Portuguesa no Estrangeiro.",
-              "entidades": "Secretário Regional da Educação e Assuntos Sociais - Governo Regional dos Açores;Federação Nacional dos Professores",
-              "data": "2000-05-03"
-            },
-            {
-              "IDAudicao": "71882",
-              "numeroAudicao": "6-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Situação do Instituto Politécnico da Guarda",
-              "entidades": "Presidente do Instituto Politécnico da Guarda;Ministro da Educação",
-              "data": "2000-02-01"
-            },
-            {
-              "IDAudicao": "71870",
-              "numeroAudicao": "5-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Situação do Instituto Politécnico da Guarda",
-              "entidades": "Associação de Estudantes do Instituto Politécnico da Guarda",
-              "data": "2000-01-18"
-            },
-            {
-              "IDAudicao": "71880",
-              "numeroAudicao": "4-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
-              "entidades": "Sr. Juiz Conselheiro Ramiro Vidigal;Ministro da Educação",
-              "data": "1999-12-21"
-            },
-            {
-              "IDAudicao": "71853",
-              "numeroAudicao": "3-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
-              "entidades": "Associação de Estudantes da Faculdade de Arquitectura da Universidade Técnica de Lisboa",
-              "data": "1999-12-14"
-            },
-            {
-              "IDAudicao": "71879",
-              "numeroAudicao": "2-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PORTO - 2001 / Capital Europeia da Cultura",
-              "entidades": "Profª Doutora Teresa Lago;Dr. Artur Santos Silva",
-              "data": "1999-12-07"
-            },
-            {
-              "IDAudicao": "71852",
-              "numeroAudicao": "1-ECC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Porto 2001 Capital Europeia da Cultura",
-              "entidades": "Ministro da Cultura;Presidente da Câmara Municipal do Porto",
-              "data": "1999-12-06"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
               "IDAudicao": "71532",
               "numeroAudicao": "2-CDN-VIII",
               "legislatura": "VIII",
@@ -17239,401 +17073,6 @@
               "sessaoLegislativa": "1",
               "assunto": "ESCLARECIMENTOS SOBRE O BUG DO ANO 2000",
               "entidades": "Professor Doutor José Dias Coelho",
-              "data": "1999-12-07"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
-              "IDAudicao": "71637",
-              "numeroAudicao": "19-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano das Propostas de Lei do OE e das GOP`s para 2002, na matéria relativa ao MInistério dos Negócios Estrangeiros",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2001-11-14"
-            },
-            {
-              "IDAudicao": "71636",
-              "numeroAudicao": "18-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "Informar a Comissão sobre a política internacioanal, na sequencia da Assembleia Geral das Nações Unidas",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
-              "data": "2001-11-14"
-            },
-            {
-              "IDAudicao": "71635",
-              "numeroAudicao": "17-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "Apresentar as Propostas de Lei do OE e das GOP`s para 2002, na matéria relativa ao Ministério dos Negócios Estrangeiros",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2001-10-30"
-            },
-            {
-              "IDAudicao": "71634",
-              "numeroAudicao": "16-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Analisar os trágicos acontecimentos de que foi vitima a nação americana.",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Presidente da Assembleia da República;Secretário de Estado dos Assuntos Parlamentares",
-              "data": "2001-09-12"
-            },
-            {
-              "IDAudicao": "71633",
-              "numeroAudicao": "15-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Abordar a participação de Portugal na operação da NATO na Macedónia.",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Ministro da Defesa Nacional",
-              "data": "2001-08-24"
-            },
-            {
-              "IDAudicao": "71632",
-              "numeroAudicao": "14-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Informar a Comissão sobre a situação da Comunidade Portuguesa na África do Sul",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas",
-              "data": "2001-06-21"
-            },
-            {
-              "IDAudicao": "71631",
-              "numeroAudicao": "13-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Reunião requerida pelo PCP, tendo por objectivo informar a Comissão sobre as politicas do Governo que envolvem as Comunidades Portuguesas",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas",
-              "data": "2001-03-13"
-            },
-            {
-              "IDAudicao": "71630",
-              "numeroAudicao": "12-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Informar a Comissão sobre a política do Governo para as Balcãs e a Presidencia portuguesa da OSCE em 2002 e a paraticipação na respectiva Troika em 2001",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
-              "data": "2001-01-24"
-            },
-            {
-              "IDAudicao": "71629",
-              "numeroAudicao": "11-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Debate na especialidade, em sede da Comissão de Economia, Finanças e Plano das Propostas de Lei do OE e das GOP`s para 2001",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
-              "data": "2000-11-14"
-            },
-            {
-              "IDAudicao": "71484",
-              "numeroAudicao": "11-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e das GOP`s para 2001",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
-              "data": "2000-11-14"
-            },
-            {
-              "IDAudicao": "71628",
-              "numeroAudicao": "10-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Informar a Comissão sobre os objectivos da Politica da Cooperação portuguesa",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2000-10-25"
-            },
-            {
-              "IDAudicao": "71493",
-              "numeroAudicao": "10-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Informar sobre a politica de cooperação portuguesa",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2000-11-25"
-            },
-            {
-              "IDAudicao": "71477",
-              "numeroAudicao": "9-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Apresentar as Propostas de Lei do OE e das GOP`s para 2001, na matéria relativa ao Ministério dos Negócios Estrangeiros",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas;Ministro dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado dos Assuntos Europeus",
-              "data": "2000-10-16"
-            },
-            {
-              "IDAudicao": "71389",
-              "numeroAudicao": "8-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Prestar informações sobre as acções desenvolvidas na Sessão Legislativa",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas",
-              "data": "2000-07-12"
-            },
-            {
-              "IDAudicao": "71388",
-              "numeroAudicao": "7-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Prestar informações sobre o desenrolar do processo de eleição do Conselho Permanente do CCP.",
-              "entidades": "Secretário de Estado das Comunidades Portuguesas",
-              "data": "2000-05-30"
-            },
-            {
-              "IDAudicao": "71387",
-              "numeroAudicao": "6-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Esclarecer e debater com os Senhores Deputados as situações que suscitaram as referencias criticas feitas a Portugal, no relatório apresentado em Nova Iorque, pela Comissão de sanções a UNITA, no Conselho de Segurança da ONU",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
-              "data": "2000-05-11"
-            },
-            {
-              "IDAudicao": "71386",
-              "numeroAudicao": "5-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Informar a Comissão acerca da posição de Portugal, em relação às afirmações de responsáveis angolanos em relação ao Dr. Mário Soares.",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
-              "data": "2000-03-13"
-            },
-            {
-              "IDAudicao": "71913",
-              "numeroAudicao": "4-SCP-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A ACTUAL SITUAÇÃO DO CONSELHO DAS COMUNIDADES PORTUGESAS E O PEDIDO DE SUSPENSÃO DAS ELEIÇÕES PREVISTAS PARA O DIA 25 DE nOVEMBRO DE 2001.",
-              "entidades": "Presidente do Conselho Mundial das Comunidades Portuguesas",
-              "data": "2001-09-26"
-            },
-            {
-              "IDAudicao": "71385",
-              "numeroAudicao": "4-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e GOP`s para 2000.",
-              "entidades": "Secretário de Estado dos Assuntos Europeus;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado das Comunidades Portuguesas",
-              "data": "2000-02-26"
-            },
-            {
-              "IDAudicao": "71384",
-              "numeroAudicao": "3-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Prestar esclarecimentos sobre o Conselho informal para o desenvolvimento, assim como os objectivos e prioridades da Presidencia portuguesa para o sector do desenvolvimento",
-              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
-              "data": "2000-02-22"
-            },
-            {
-              "IDAudicao": "71910",
-              "numeroAudicao": "3-SCP-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "COMUNICAÇÃO SOCIAL E AS COMUNIDADES PORTUGUESAS",
-              "entidades": "Secretário de Estado da Comunicação Social",
-              "data": "2001-06-26"
-            },
-            {
-              "IDAudicao": "71383",
-              "numeroAudicao": "2-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Apresentar as Propostas de Lei do OE e das GOP¿s para 2000, na matéria relativa ao Ministério dos Negócios Estrangeiros",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
-              "data": "2000-02-10"
-            },
-            {
-              "IDAudicao": "71909",
-              "numeroAudicao": "2-SCP-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A COMUNICAÇAO SOCIAL E AS COMUNIDADES PORTGUESAS",
-              "entidades": "Presidente do Conselho de Administração da RDP-I, Sr. José Manuel Nunes",
-              "data": "2001-06-26"
-            },
-            {
-              "IDAudicao": "71907",
-              "numeroAudicao": "1-SCP-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A RTP INTERNACIONAL",
-              "entidades": "Presidente do Conselho de Administração da RTP, Dr. João Carlos Silva",
-              "data": "2001-05-22"
-            },
-            {
-              "IDAudicao": "71359",
-              "numeroAudicao": "1-NECPC-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAR O PROGRAMA DA PRESIDENCIA PORTUGUESA DA UNIÃO EUROPEIAE DA UEO",
-              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Assuntos Europeus",
-              "data": "1999-12-13"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
-              "IDAudicao": "71343",
-              "numeroAudicao": "18-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "ESCLARECIMENTOS A PROPÓSITO DAS INSTALAÇÕES DO CLUBE LISNAVE",
-              "entidades": "Presidente do Conselho de Administração da LISNAVE",
-              "data": "2001-11-06"
-            },
-            {
-              "IDAudicao": "71342",
-              "numeroAudicao": "17-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "ESCLARECIMENTOS SOBRE A SITUAÇÃO QUE SE PRENDE COM O EVENTUAL ABANDONO DAS INSTALAÇÕES QUE O CLUBE LISNAVE TEM OCUPADO",
-              "entidades": "Presidente do Fundo Margueira Capital",
-              "data": "2001-11-06"
-            },
-            {
-              "IDAudicao": "71341",
-              "numeroAudicao": "16-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "O.E/2002",
-              "entidades": "Ministro do Desporto e da Juventude",
-              "data": "2001-10-24"
-            },
-            {
-              "IDAudicao": "71340",
-              "numeroAudicao": "15-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESCLARECIMENTOS A PROPÓSITO DO AMBIENTE QUE SE VIVE ACTUALMENTE NO MOVIMENTO ASSOCIATIVO DESPORTIVO",
-              "entidades": "Presidente da Confederação do Desporto de Portugal Dr. José Manuel Constantino",
-              "data": "2001-07-05"
-            },
-            {
-              "IDAudicao": "71339",
-              "numeroAudicao": "14-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESCLARECIMENTOS RELATIVAMENTE AS ACTUAIS RELAÇÕES ENTRE O COMITÉ OLÍMPICO DE PORTUGAL E O MINISTÉRIO DA JUVENTUDE E DO DESPORTO, TENDO IGUALMENTE EM ATENÇÃO O ESTADO ACTUAL NO MOVIMENTO ASSOCIATIVO DESPORTIVO",
-              "entidades": "Presidente do Comité Olímpico de Portugal Comandante José Vicente Moura",
-              "data": "2001-07-05"
-            },
-            {
-              "IDAudicao": "71338",
-              "numeroAudicao": "13-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "DEBATE SOBRE ALGUMAS PROBLEMÁTICAS DESPORTIVAS ACTUAIS",
-              "entidades": "Presidente do Sindicato dos Jogadores Profissionais;Secretário do Sindicato dos Jogadores Profissionais João Nogueira da Rocha",
-              "data": "2001-06-25"
-            },
-            {
-              "IDAudicao": "71337",
-              "numeroAudicao": "12-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "OUVIR TODOS OS REPRESENTANTES DO CONSELHO CONSULTIVO DA JUVENTUDE, A PROPÓSITO DOS DIPLOMAS EM APRECIAÇÃO SOBRE O ESTATUTO DAS ASSOCIAÇÕES JUVENIS E GRUPOS INFORMAIS DE JOVENS",
-              "entidades": "Presidente do Conselho Consultivo da Juventude - Secretário de Estado da Juventude e do Desporto",
-              "data": "2001-06-18"
-            },
-            {
-              "IDAudicao": "71336",
-              "numeroAudicao": "11-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESCLARECIMENTOS SOBRE AS OPÇÕES DE POLÍTICA DESPORTIVA, NOMEADAMENTE CRITÉRIOS DE FINANCIAMENTO PÚBLICO DAS FEDERAÇÕES DESPORTIVAS",
-              "entidades": "Ministro da Juventude e Dodesporto",
-              "data": "2001-05-08"
-            },
-            {
-              "IDAudicao": "71326",
-              "numeroAudicao": "10-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESCLARECIMENTOS SOBRE O ESTATUTO DAS ASSOCIAÇÕES JUVENIS",
-              "entidades": "Membro da Direcção do Conselho Nacional da Juventude Margarida Prata;Presidente da Federação Nacional das Associações Juvenis;Secretário da Direcção da Federação Nacional das Associações Juvenis;Notário do 2º. Cartório Notarial de Sintra Dr.Joaquim Barata Lopes",
-              "data": "2001-03-06"
-            },
-            {
-              "IDAudicao": "71325",
-              "numeroAudicao": "9-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESCLARECIMENTOS SOBRE OS ACONTECIMENTOS OCORRIDOS DURANTE OS \"JOGOS DE LISBOA\"",
-              "entidades": "Vereadora da Câmara Municipal de Lisboa Drª. Rita Magrinho;Presidente da Câmara Municipal de Lisboa",
-              "data": "2001-01-31"
-            },
-            {
-              "IDAudicao": "71300",
-              "numeroAudicao": "8-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "REGULAMENTO DE INCOMPATIBILIDADES E REGISTO DE INTERRESSES DOS ÁRBITROS",
-              "entidades": "Presidente de Árbitros de Futebol Associados;Presidente da Liga dos Clubes de Basquetebol;Presidente da Associação Nacional de Juízes de Basquetebol;Presidente da Federação Portuguesa de Basquetebol;Presidente da Federação Portuguesa de Futebol;Presidente da Liga Portuguesa de Futebol Profissional;Presidente da Associação Portuguesa de Árbitros de Futebol",
-              "data": "2001-01-30"
-            },
-            {
-              "IDAudicao": "71299",
-              "numeroAudicao": "7-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO NA GENERALIDADE DAS GOP'S E O.E. 2001",
-              "entidades": "Ministro da Juventude e Dodesporto;Secretário de Estado da Juventude",
-              "data": "2000-10-27"
-            },
-            {
-              "IDAudicao": "71256",
-              "numeroAudicao": "6-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "SCLARECIMENTOS DAS DIFERENTES TOMADAS DE POSIÇÃO RELATIVAMENTE AO NOVO SISTEMA DE CONTROLE ANTI-DOPING NO DESPORTO",
-              "entidades": "Director dos Serviços de Medicina Desportiva;Presidente do Instituto Nacional do Desporto",
-              "data": "2000-10-24"
-            },
-            {
-              "IDAudicao": "71255",
-              "numeroAudicao": "5-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESCLARECIMENTOS SOBRE A SITUAÇÃO DO INSTITUTO PORTUGUÊS DA JUVENTUDE EM GERAL, E AS NOMEAÇÕES DOS SEUS DELEGADOS REGIONAIS",
-              "entidades": "Secretário de Estado da Juventude;Presidente do Instituto Português da Juventude;Ministro Adjunto do Primeiro Ministro",
-              "data": "2000-07-31"
-            },
-            {
-              "IDAudicao": "71254",
-              "numeroAudicao": "4-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "O.E./2000",
-              "entidades": "Ministro Adjunto e da Administracão Interna;Secretário de Estado do Desporto",
-              "data": "2000-02-10"
-            },
-            {
-              "IDAudicao": "71253",
-              "numeroAudicao": "3-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "O.E./2000",
-              "entidades": "Ministro Adjunto do Primeiro Ministro;Secretário de Estado da Juventude Dr. Miguel Fontes",
-              "data": "2000-02-09"
-            },
-            {
-              "IDAudicao": "71252",
-              "numeroAudicao": "2-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESCLARECIMENTOS SOBRE O PROGRAMA DOS JOVENS VOLUNTARIOS PARA A SOLIDARIEDADE, BEM COMO OUTROS PROGRAMAS DA RESPONSABILIDADE DA SECRETARIA DE ESTADO DA JUVENTUDE",
-              "entidades": "Secretário de Estado da Juventude Dr. Miguel Fontes",
-              "data": "2000-01-18"
-            },
-            {
-              "IDAudicao": "71245",
-              "numeroAudicao": "1-JD-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESCLARECIMENTOS SOBRE REGIME DE CRÉDITO JOVEM BONIFICADO",
-              "entidades": "Secretaria de Estado da Habitação Dra.Leonor Coutinho",
               "data": "1999-12-07"
             }
           ]
@@ -18181,6 +17620,567 @@
               "data": "1999-12-13"
             }
           ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "71904",
+              "numeroAudicao": "18-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
+              "entidades": "Instituto Português do Livro e das Bibliotecas (Prof. Doutor João Luís Lisboa)",
+              "data": "2001-03-19"
+            },
+            {
+              "IDAudicao": "71903",
+              "numeroAudicao": "17-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
+              "entidades": "Instituto dos Arquivos Nacionais - Torre do Tombo (Profª Miriam Pereira)",
+              "data": "2002-03-14"
+            },
+            {
+              "IDAudicao": "71902",
+              "numeroAudicao": "16-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Regime fiscal e regime de protecção e valorização do património cultural (PPL 38 e 39/VIII)",
+              "entidades": "Direcção-Geral dos Edifícios e Monumentos Nacionais (Engº Vasco Martins Costa);Biblioteca Nacional;Cinemateca Portuguesa - Museu do Cinema;Instituto do Cinema, Audiovisual e Multimédia;Comissão Episcopal dos Bens Culturais da Igreja (D. Albino Mamede Cleto);Instituto Português de Museus (Dra Raquel Henriques da Silva)",
+              "data": "2001-03-06"
+            },
+            {
+              "IDAudicao": "71901",
+              "numeroAudicao": "15-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Regime fiscal e regime de protecção e valorização do património cultura (PPL 38 e 39/VIII)",
+              "entidades": "Instituto Português de Arqueologia (Prof. Dr. João Carlos Zilhão);Centro Português de Fotografia (Dra Teresa Siza);Instituto Português do Património Arquitectónico",
+              "data": "2001-03-05"
+            },
+            {
+              "IDAudicao": "71881",
+              "numeroAudicao": "14-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
+              "entidades": "Pró-reitora e Presidente da Comissão de Gestão da Faculdade de Arquitectura da Universidade Técnica de Lisboa",
+              "data": "2000-08-02"
+            },
+            {
+              "IDAudicao": "71883",
+              "numeroAudicao": "13-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207/VIII)",
+              "entidades": "Federação Nacional dos Professores;Federação Nacional dos Sindicatos da Educação;Sindicato Nacional do Ensino Superior e Outros",
+              "data": "2000-06-28"
+            },
+            {
+              "IDAudicao": "71876",
+              "numeroAudicao": "12-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207/VIII)",
+              "entidades": "Associação Académica da Universidade da Beira Interior;Associação Académica da Universidade de Aveiro (AAUAv);Associação Académica de Lisboa;Conselho de Reitores das Universidades Portuguesas;Conselho Coordenador dos Institutos Superiores Politécnicos;Associação Portuguesa do Ensino Superior Particular",
+              "data": "2000-06-27"
+            },
+            {
+              "IDAudicao": "71875",
+              "numeroAudicao": "11-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Organização e Ordenamento do Ensino Superior (PPL 22/VIII e PJL 207)",
+              "entidades": "Federação Nacional das Associações de Estudantes do Ensino Superior Politécnico;Associação Académica da Universidade de Évora;Associação Académica de Coimbra;Associação Academica da Universidade do Algarve",
+              "data": "2000-06-26"
+            },
+            {
+              "IDAudicao": "71874",
+              "numeroAudicao": "10-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Língua Portuguesa no Estrangeiro",
+              "entidades": "Presidente do Instituto Camões - Dr. Jorge Couto",
+              "data": "2000-06-21"
+            },
+            {
+              "IDAudicao": "71873",
+              "numeroAudicao": "9-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Língua Portuguesa no Estrangeiro",
+              "entidades": "Ministro da Educação",
+              "data": "2000-05-16"
+            },
+            {
+              "IDAudicao": "71872",
+              "numeroAudicao": "8-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Língua Portuguesa no Estrangeiro",
+              "entidades": "Confederação Nacional das Associações de Pais;Federação Nacional dos Sindicatos da Educação",
+              "data": "2000-05-11"
+            },
+            {
+              "IDAudicao": "71871",
+              "numeroAudicao": "7-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Língua Portuguesa no Estrangeiro.",
+              "entidades": "Secretário Regional da Educação e Assuntos Sociais - Governo Regional dos Açores;Federação Nacional dos Professores",
+              "data": "2000-05-03"
+            },
+            {
+              "IDAudicao": "71882",
+              "numeroAudicao": "6-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Situação do Instituto Politécnico da Guarda",
+              "entidades": "Presidente do Instituto Politécnico da Guarda;Ministro da Educação",
+              "data": "2000-02-01"
+            },
+            {
+              "IDAudicao": "71870",
+              "numeroAudicao": "5-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Situação do Instituto Politécnico da Guarda",
+              "entidades": "Associação de Estudantes do Instituto Politécnico da Guarda",
+              "data": "2000-01-18"
+            },
+            {
+              "IDAudicao": "71880",
+              "numeroAudicao": "4-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
+              "entidades": "Sr. Juiz Conselheiro Ramiro Vidigal;Ministro da Educação",
+              "data": "1999-12-21"
+            },
+            {
+              "IDAudicao": "71853",
+              "numeroAudicao": "3-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Faculdade de Arquitectura da Universidade Técnica de Lisboa",
+              "entidades": "Associação de Estudantes da Faculdade de Arquitectura da Universidade Técnica de Lisboa",
+              "data": "1999-12-14"
+            },
+            {
+              "IDAudicao": "71879",
+              "numeroAudicao": "2-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PORTO - 2001 / Capital Europeia da Cultura",
+              "entidades": "Profª Doutora Teresa Lago;Dr. Artur Santos Silva",
+              "data": "1999-12-07"
+            },
+            {
+              "IDAudicao": "71852",
+              "numeroAudicao": "1-ECC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Porto 2001 Capital Europeia da Cultura",
+              "entidades": "Ministro da Cultura;Presidente da Câmara Municipal do Porto",
+              "data": "1999-12-06"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "71637",
+              "numeroAudicao": "19-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano das Propostas de Lei do OE e das GOP`s para 2002, na matéria relativa ao MInistério dos Negócios Estrangeiros",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2001-11-14"
+            },
+            {
+              "IDAudicao": "71636",
+              "numeroAudicao": "18-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Informar a Comissão sobre a política internacioanal, na sequencia da Assembleia Geral das Nações Unidas",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
+              "data": "2001-11-14"
+            },
+            {
+              "IDAudicao": "71635",
+              "numeroAudicao": "17-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Apresentar as Propostas de Lei do OE e das GOP`s para 2002, na matéria relativa ao Ministério dos Negócios Estrangeiros",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2001-10-30"
+            },
+            {
+              "IDAudicao": "71634",
+              "numeroAudicao": "16-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Analisar os trágicos acontecimentos de que foi vitima a nação americana.",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Presidente da Assembleia da República;Secretário de Estado dos Assuntos Parlamentares",
+              "data": "2001-09-12"
+            },
+            {
+              "IDAudicao": "71633",
+              "numeroAudicao": "15-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Abordar a participação de Portugal na operação da NATO na Macedónia.",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Ministro da Defesa Nacional",
+              "data": "2001-08-24"
+            },
+            {
+              "IDAudicao": "71632",
+              "numeroAudicao": "14-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Informar a Comissão sobre a situação da Comunidade Portuguesa na África do Sul",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas",
+              "data": "2001-06-21"
+            },
+            {
+              "IDAudicao": "71631",
+              "numeroAudicao": "13-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Reunião requerida pelo PCP, tendo por objectivo informar a Comissão sobre as politicas do Governo que envolvem as Comunidades Portuguesas",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas",
+              "data": "2001-03-13"
+            },
+            {
+              "IDAudicao": "71630",
+              "numeroAudicao": "12-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Informar a Comissão sobre a política do Governo para as Balcãs e a Presidencia portuguesa da OSCE em 2002 e a paraticipação na respectiva Troika em 2001",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
+              "data": "2001-01-24"
+            },
+            {
+              "IDAudicao": "71629",
+              "numeroAudicao": "11-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Debate na especialidade, em sede da Comissão de Economia, Finanças e Plano das Propostas de Lei do OE e das GOP`s para 2001",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
+              "data": "2000-11-14"
+            },
+            {
+              "IDAudicao": "71484",
+              "numeroAudicao": "11-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e das GOP`s para 2001",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
+              "data": "2000-11-14"
+            },
+            {
+              "IDAudicao": "71628",
+              "numeroAudicao": "10-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Informar a Comissão sobre os objectivos da Politica da Cooperação portuguesa",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2000-10-25"
+            },
+            {
+              "IDAudicao": "71493",
+              "numeroAudicao": "10-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Informar sobre a politica de cooperação portuguesa",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2000-11-25"
+            },
+            {
+              "IDAudicao": "71477",
+              "numeroAudicao": "9-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Apresentar as Propostas de Lei do OE e das GOP`s para 2001, na matéria relativa ao Ministério dos Negócios Estrangeiros",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas;Ministro dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado dos Assuntos Europeus",
+              "data": "2000-10-16"
+            },
+            {
+              "IDAudicao": "71389",
+              "numeroAudicao": "8-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Prestar informações sobre as acções desenvolvidas na Sessão Legislativa",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas",
+              "data": "2000-07-12"
+            },
+            {
+              "IDAudicao": "71388",
+              "numeroAudicao": "7-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Prestar informações sobre o desenrolar do processo de eleição do Conselho Permanente do CCP.",
+              "entidades": "Secretário de Estado das Comunidades Portuguesas",
+              "data": "2000-05-30"
+            },
+            {
+              "IDAudicao": "71387",
+              "numeroAudicao": "6-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Esclarecer e debater com os Senhores Deputados as situações que suscitaram as referencias criticas feitas a Portugal, no relatório apresentado em Nova Iorque, pela Comissão de sanções a UNITA, no Conselho de Segurança da ONU",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
+              "data": "2000-05-11"
+            },
+            {
+              "IDAudicao": "71386",
+              "numeroAudicao": "5-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Informar a Comissão acerca da posição de Portugal, em relação às afirmações de responsáveis angolanos em relação ao Dr. Mário Soares.",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros",
+              "data": "2000-03-13"
+            },
+            {
+              "IDAudicao": "71913",
+              "numeroAudicao": "4-SCP-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A ACTUAL SITUAÇÃO DO CONSELHO DAS COMUNIDADES PORTUGESAS E O PEDIDO DE SUSPENSÃO DAS ELEIÇÕES PREVISTAS PARA O DIA 25 DE nOVEMBRO DE 2001.",
+              "entidades": "Presidente do Conselho Mundial das Comunidades Portuguesas",
+              "data": "2001-09-26"
+            },
+            {
+              "IDAudicao": "71385",
+              "numeroAudicao": "4-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Debater na especialidade, em sede da Comissão de Economia, Finanças e Plano, das Propostas de Lei do OE e GOP`s para 2000.",
+              "entidades": "Secretário de Estado dos Assuntos Europeus;Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Negócios Estrangeiros e Cooperação;Secretário de Estado das Comunidades Portuguesas",
+              "data": "2000-02-26"
+            },
+            {
+              "IDAudicao": "71384",
+              "numeroAudicao": "3-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Prestar esclarecimentos sobre o Conselho informal para o desenvolvimento, assim como os objectivos e prioridades da Presidencia portuguesa para o sector do desenvolvimento",
+              "entidades": "Secretário de Estado dos Negócios Estrangeiros e Cooperação",
+              "data": "2000-02-22"
+            },
+            {
+              "IDAudicao": "71910",
+              "numeroAudicao": "3-SCP-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "COMUNICAÇÃO SOCIAL E AS COMUNIDADES PORTUGUESAS",
+              "entidades": "Secretário de Estado da Comunicação Social",
+              "data": "2001-06-26"
+            },
+            {
+              "IDAudicao": "71383",
+              "numeroAudicao": "2-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Apresentar as Propostas de Lei do OE e das GOP¿s para 2000, na matéria relativa ao Ministério dos Negócios Estrangeiros",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado das Comunidades Portuguesas;Secretário de Estado dos Assuntos Europeus",
+              "data": "2000-02-10"
+            },
+            {
+              "IDAudicao": "71909",
+              "numeroAudicao": "2-SCP-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A COMUNICAÇAO SOCIAL E AS COMUNIDADES PORTGUESAS",
+              "entidades": "Presidente do Conselho de Administração da RDP-I, Sr. José Manuel Nunes",
+              "data": "2001-06-26"
+            },
+            {
+              "IDAudicao": "71907",
+              "numeroAudicao": "1-SCP-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "INFORMAR A SUBCOMISSÃO SOBRE A RTP INTERNACIONAL",
+              "entidades": "Presidente do Conselho de Administração da RTP, Dr. João Carlos Silva",
+              "data": "2001-05-22"
+            },
+            {
+              "IDAudicao": "71359",
+              "numeroAudicao": "1-NECPC-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAR O PROGRAMA DA PRESIDENCIA PORTUGUESA DA UNIÃO EUROPEIAE DA UEO",
+              "entidades": "Ministro de Estado e dos Negócios Estrangeiros;Secretário de Estado dos Assuntos Europeus",
+              "data": "1999-12-13"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "71343",
+              "numeroAudicao": "18-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "ESCLARECIMENTOS A PROPÓSITO DAS INSTALAÇÕES DO CLUBE LISNAVE",
+              "entidades": "Presidente do Conselho de Administração da LISNAVE",
+              "data": "2001-11-06"
+            },
+            {
+              "IDAudicao": "71342",
+              "numeroAudicao": "17-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "ESCLARECIMENTOS SOBRE A SITUAÇÃO QUE SE PRENDE COM O EVENTUAL ABANDONO DAS INSTALAÇÕES QUE O CLUBE LISNAVE TEM OCUPADO",
+              "entidades": "Presidente do Fundo Margueira Capital",
+              "data": "2001-11-06"
+            },
+            {
+              "IDAudicao": "71341",
+              "numeroAudicao": "16-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "O.E/2002",
+              "entidades": "Ministro do Desporto e da Juventude",
+              "data": "2001-10-24"
+            },
+            {
+              "IDAudicao": "71340",
+              "numeroAudicao": "15-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESCLARECIMENTOS A PROPÓSITO DO AMBIENTE QUE SE VIVE ACTUALMENTE NO MOVIMENTO ASSOCIATIVO DESPORTIVO",
+              "entidades": "Presidente da Confederação do Desporto de Portugal Dr. José Manuel Constantino",
+              "data": "2001-07-05"
+            },
+            {
+              "IDAudicao": "71339",
+              "numeroAudicao": "14-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESCLARECIMENTOS RELATIVAMENTE AS ACTUAIS RELAÇÕES ENTRE O COMITÉ OLÍMPICO DE PORTUGAL E O MINISTÉRIO DA JUVENTUDE E DO DESPORTO, TENDO IGUALMENTE EM ATENÇÃO O ESTADO ACTUAL NO MOVIMENTO ASSOCIATIVO DESPORTIVO",
+              "entidades": "Presidente do Comité Olímpico de Portugal Comandante José Vicente Moura",
+              "data": "2001-07-05"
+            },
+            {
+              "IDAudicao": "71338",
+              "numeroAudicao": "13-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "DEBATE SOBRE ALGUMAS PROBLEMÁTICAS DESPORTIVAS ACTUAIS",
+              "entidades": "Presidente do Sindicato dos Jogadores Profissionais;Secretário do Sindicato dos Jogadores Profissionais João Nogueira da Rocha",
+              "data": "2001-06-25"
+            },
+            {
+              "IDAudicao": "71337",
+              "numeroAudicao": "12-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "OUVIR TODOS OS REPRESENTANTES DO CONSELHO CONSULTIVO DA JUVENTUDE, A PROPÓSITO DOS DIPLOMAS EM APRECIAÇÃO SOBRE O ESTATUTO DAS ASSOCIAÇÕES JUVENIS E GRUPOS INFORMAIS DE JOVENS",
+              "entidades": "Presidente do Conselho Consultivo da Juventude - Secretário de Estado da Juventude e do Desporto",
+              "data": "2001-06-18"
+            },
+            {
+              "IDAudicao": "71336",
+              "numeroAudicao": "11-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESCLARECIMENTOS SOBRE AS OPÇÕES DE POLÍTICA DESPORTIVA, NOMEADAMENTE CRITÉRIOS DE FINANCIAMENTO PÚBLICO DAS FEDERAÇÕES DESPORTIVAS",
+              "entidades": "Ministro da Juventude e Dodesporto",
+              "data": "2001-05-08"
+            },
+            {
+              "IDAudicao": "71326",
+              "numeroAudicao": "10-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESCLARECIMENTOS SOBRE O ESTATUTO DAS ASSOCIAÇÕES JUVENIS",
+              "entidades": "Membro da Direcção do Conselho Nacional da Juventude Margarida Prata;Presidente da Federação Nacional das Associações Juvenis;Secretário da Direcção da Federação Nacional das Associações Juvenis;Notário do 2º. Cartório Notarial de Sintra Dr.Joaquim Barata Lopes",
+              "data": "2001-03-06"
+            },
+            {
+              "IDAudicao": "71325",
+              "numeroAudicao": "9-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESCLARECIMENTOS SOBRE OS ACONTECIMENTOS OCORRIDOS DURANTE OS \"JOGOS DE LISBOA\"",
+              "entidades": "Vereadora da Câmara Municipal de Lisboa Drª. Rita Magrinho;Presidente da Câmara Municipal de Lisboa",
+              "data": "2001-01-31"
+            },
+            {
+              "IDAudicao": "71300",
+              "numeroAudicao": "8-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "REGULAMENTO DE INCOMPATIBILIDADES E REGISTO DE INTERRESSES DOS ÁRBITROS",
+              "entidades": "Presidente de Árbitros de Futebol Associados;Presidente da Liga dos Clubes de Basquetebol;Presidente da Associação Nacional de Juízes de Basquetebol;Presidente da Federação Portuguesa de Basquetebol;Presidente da Federação Portuguesa de Futebol;Presidente da Liga Portuguesa de Futebol Profissional;Presidente da Associação Portuguesa de Árbitros de Futebol",
+              "data": "2001-01-30"
+            },
+            {
+              "IDAudicao": "71299",
+              "numeroAudicao": "7-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO NA GENERALIDADE DAS GOP'S E O.E. 2001",
+              "entidades": "Ministro da Juventude e Dodesporto;Secretário de Estado da Juventude",
+              "data": "2000-10-27"
+            },
+            {
+              "IDAudicao": "71256",
+              "numeroAudicao": "6-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "SCLARECIMENTOS DAS DIFERENTES TOMADAS DE POSIÇÃO RELATIVAMENTE AO NOVO SISTEMA DE CONTROLE ANTI-DOPING NO DESPORTO",
+              "entidades": "Director dos Serviços de Medicina Desportiva;Presidente do Instituto Nacional do Desporto",
+              "data": "2000-10-24"
+            },
+            {
+              "IDAudicao": "71255",
+              "numeroAudicao": "5-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESCLARECIMENTOS SOBRE A SITUAÇÃO DO INSTITUTO PORTUGUÊS DA JUVENTUDE EM GERAL, E AS NOMEAÇÕES DOS SEUS DELEGADOS REGIONAIS",
+              "entidades": "Secretário de Estado da Juventude;Presidente do Instituto Português da Juventude;Ministro Adjunto do Primeiro Ministro",
+              "data": "2000-07-31"
+            },
+            {
+              "IDAudicao": "71254",
+              "numeroAudicao": "4-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "O.E./2000",
+              "entidades": "Ministro Adjunto e da Administracão Interna;Secretário de Estado do Desporto",
+              "data": "2000-02-10"
+            },
+            {
+              "IDAudicao": "71253",
+              "numeroAudicao": "3-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "O.E./2000",
+              "entidades": "Ministro Adjunto do Primeiro Ministro;Secretário de Estado da Juventude Dr. Miguel Fontes",
+              "data": "2000-02-09"
+            },
+            {
+              "IDAudicao": "71252",
+              "numeroAudicao": "2-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESCLARECIMENTOS SOBRE O PROGRAMA DOS JOVENS VOLUNTARIOS PARA A SOLIDARIEDADE, BEM COMO OUTROS PROGRAMAS DA RESPONSABILIDADE DA SECRETARIA DE ESTADO DA JUVENTUDE",
+              "entidades": "Secretário de Estado da Juventude Dr. Miguel Fontes",
+              "data": "2000-01-18"
+            },
+            {
+              "IDAudicao": "71245",
+              "numeroAudicao": "1-JD-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESCLARECIMENTOS SOBRE REGIME DE CRÉDITO JOVEM BONIFICADO",
+              "entidades": "Secretaria de Estado da Habitação Dra.Leonor Coutinho",
+              "data": "1999-12-07"
+            }
+          ]
         }
       ]
     },
@@ -18415,6 +18415,1219 @@
               "assunto": "SITUAÇÃO DOS RECLUSOS AFRICANOS/IMIGRANTES  DISCRIMINAÇÃO NAS SAÍDAS PRECÁRIAS E LIBERDADE CONDICIONAL EM RELAÇÃO AOS RECLUSOS EUROPEUS",
               "entidades": "Associação dos Angolanos Residentes em Portugal / NOVAGER",
               "data": "1999-12-21",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "71954",
+              "numeroAudiencia": "66-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Situação dos doentes de Parkinson",
+              "entidades": "Associação Portuguesa de Doentes de Parkinson",
+              "data": "2001-07-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71953",
+              "numeroAudiencia": "65-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Apresentaç~ºao das conclusões resultantes da campanha sobre os Direitos Sexuais e Reprodutivos",
+              "entidades": "Movimento Democrático de Mulheres-Mdm",
+              "data": "2001-07-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71952",
+              "numeroAudiencia": "64-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Implicações da retirada de comparticipação à classe dos venotrópicos e cérebro-vasculares",
+              "entidades": "Conselho de Administração da Decomed Farmaceutica",
+              "data": "2001-07-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71951",
+              "numeroAudiencia": "63-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Construção de novo edifício para o Hospital Nossa Senhora da Assunção",
+              "entidades": "Movimento Cívico de Apoio à Construção do Novo Hospital de Seia",
+              "data": "2001-07-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71950",
+              "numeroAudiencia": "62-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Apresentação da Direcção da APNF",
+              "entidades": "Associação Portuguesa de Neurofibromatose",
+              "data": "2001-07-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71949",
+              "numeroAudiencia": "61-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Apresentação da Associação e da Revista Portuguesa de Administração e Políticas Públicas",
+              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
+              "data": "2001-07-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71948",
+              "numeroAudiencia": "60-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Funcionamento do novo Centro de Saúde Concelhio de Alcanena",
+              "entidades": "Comissão Utentes de Saúde do Centro de Saúde de Alcanena",
+              "data": "2001-07-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71947",
+              "numeroAudiencia": "59-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Estado da Saúde na Península de Setúbal",
+              "entidades": "Comissão de Utentes de Saúde de Pinhal Novo",
+              "data": "2001-07-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71946",
+              "numeroAudiencia": "58-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Actividades Paramédicas",
+              "entidades": "Associação Portuguesa dos Técnicos de Farmácia",
+              "data": "2001-07-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71945",
+              "numeroAudiencia": "57-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Integração da Ordem dos Biólogos no CNECV",
+              "entidades": "Bastonário da Ordem dos Biólogos",
+              "data": "2001-06-27",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71944",
+              "numeroAudiencia": "56-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Situação do Hospital de Seia",
+              "entidades": "Assembleia Municipal de Seia",
+              "data": "2001-06-27",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71943",
+              "numeroAudiencia": "55-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Carreira dos Técnicos de Diagnóstico e Terapeutica",
+              "entidades": "Sindicato das Ciencias e Tecnologias da Saúde",
+              "data": "2001-06-19",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71928",
+              "numeroAudiencia": "54-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Lista de espera de fisioterapia",
+              "entidades": "Sindicato dos Fisioterapeutas Portugueses",
+              "data": "2001-06-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71927",
+              "numeroAudiencia": "53-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Apresentação de cumprimentos e exposição dos principais problemas que afectam a actividade profissional dos administradores hospitalares",
+              "entidades": "Associação Portuguesa de Administradores Hospitalares",
+              "data": "2001-06-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71926",
+              "numeroAudiencia": "52-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Cinco anos de actividade do Hospital Fernando Fonseca",
+              "entidades": "Conselho de Administração do Hospital Fernando Fonseca",
+              "data": "2001-06-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71925",
+              "numeroAudiencia": "51-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Carências e problemas da saúde dentária em Portugal",
+              "entidades": "Bastonário da Ordem dos Médicos Dentistas",
+              "data": "2001-06-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71924",
+              "numeroAudiencia": "50-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Para apreciação a grave situação que está criada no sector da saúde",
+              "entidades": "Plataforma Sindical da Saúde",
+              "data": "2001-06-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71922",
+              "numeroAudiencia": "49-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Taiwan International Medical Alliance",
+              "entidades": "Presidente, MPAT, Taipei",
+              "data": "2001-03-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71921",
+              "numeroAudiencia": "48-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Testes genéticose ratificação da convenção de Oviedo",
+              "entidades": "Heloísa Santos Directora do Serviço de Genética Médica do Hospital de Sta. Maria",
+              "data": "2001-03-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71920",
+              "numeroAudiencia": "47-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Incremento de doenças infecto-contagiosas junto de populações",
+              "entidades": "Associação para a Informação e Defesa da Saúde dos Africanos",
+              "data": "2001-03-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71918",
+              "numeroAudiencia": "46-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Situação do Instituto Piaget no Algarve",
+              "entidades": "Conselho Directivo do Instituto Piaget",
+              "data": "2001-02-07",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71916",
+              "numeroAudiencia": "45-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Situação Profissional do Nutricionista no Sistema Nacional de Saúde",
+              "entidades": "Associação Portuguesa dos Nutricionistas - APN",
+              "data": "2000-10-25",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71914",
+              "numeroAudiencia": "44-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Situação dos insuficientes renais e os direitos dos mesmos",
+              "entidades": "Associação Portuguesa dos Insuficientes Renais",
+              "data": "2000-10-25",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71912",
+              "numeroAudiencia": "43-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Estratégias para contribuir para o debate e efectivação dos direitos na perspectiva da promoção de oportunidades, saúde e cidadania",
+              "entidades": "Alice Frade-ONG's",
+              "data": "2000-07-18",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71911",
+              "numeroAudiencia": "42-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Melhorar condições sócio-económicas dos portadores e Esclerose Múltipla",
+              "entidades": "Associação Nacional de Esclerose Múltipla",
+              "data": "2000-07-18",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71908",
+              "numeroAudiencia": "41-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Ensino superior na área da saúde",
+              "entidades": "Associação Portuguesa do Ensino Superior Particular",
+              "data": "2000-07-18",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71906",
+              "numeroAudiencia": "40-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Regulamentação das Medicinas Não Convencionais",
+              "entidades": "Pedro Choy",
+              "data": "2000-07-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71905",
+              "numeroAudiencia": "39-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Medicinas Não Convencionais",
+              "entidades": "Augusto Henriques",
+              "data": "2000-07-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71900",
+              "numeroAudiencia": "38-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Centro de Saúde de Fátima",
+              "entidades": "Grupo de Utentes do Centro de Saúde de Fátima",
+              "data": "2000-05-30",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71899",
+              "numeroAudiencia": "37-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Centro de Saúde de Aljustrel",
+              "entidades": "Presidente da Assembleia Municipal de Aljustrel",
+              "data": "2000-05-31",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71898",
+              "numeroAudiencia": "36-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Regulamentação da Lei nº46/99",
+              "entidades": "Associação de Apoio aos Ex-Combatentes Vítimas do Stress de Guerra",
+              "data": "2000-05-17",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71897",
+              "numeroAudiencia": "35-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Odontologia-Decreto Lei 343/78",
+              "entidades": "Associação Nacional de Dentistas Portugueses",
+              "data": "2000-05-24",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71896",
+              "numeroAudiencia": "34-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "xtensão de Saúde de Quinta do Conde",
+              "entidades": "Comissão Representativa dos Utentes dos Serviços Públicos de Saúde de Quinta do Conde",
+              "data": "2000-05-24",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71895",
+              "numeroAudiencia": "33-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Acção política e governamental sobre os jovens e a droga",
+              "entidades": "Isabel Cochito",
+              "data": "2000-05-17",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71894",
+              "numeroAudiencia": "32-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Unidades Básicas de Urgência",
+              "entidades": "Sindicato dos Médicos da Zona Sul",
+              "data": "2000-05-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71893",
+              "numeroAudiencia": "31-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Gestão de Equipamentos Hospitalares",
+              "entidades": "Mónica Fernandes",
+              "data": "2000-05-03",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71892",
+              "numeroAudiencia": "30-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Acto médico",
+              "entidades": "Federação Nacional de Sindicatos de Enfermeiros",
+              "data": "2000-05-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71891",
+              "numeroAudiencia": "29-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Entrega de abaixo-assinados sobre comparticipações do SNS",
+              "entidades": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical",
+              "data": "2000-05-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71890",
+              "numeroAudiencia": "28-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Revogação da Lei 4/99",
+              "entidades": "Associação de Estudantes da Faculdade de Medicina Dentária da Universidade do Porto",
+              "data": "2000-04-13",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71889",
+              "numeroAudiencia": "27-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Medicinas Alternativas",
+              "entidades": "Comissão Coordenadora Para Regulamentação da Naturologia",
+              "data": "2000-04-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71888",
+              "numeroAudiencia": "26-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Lei da Propriedade de Farmácia",
+              "entidades": "Associação Portuguesa dos Técnicos de Farmácia",
+              "data": "2000-04-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71887",
+              "numeroAudiencia": "25-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Declaração de repúdio-Secretário de Estado da Saúde",
+              "entidades": "João José Massapina Antunes",
+              "data": "2000-04-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71886",
+              "numeroAudiencia": "24-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Para expôr a situação de seu filho",
+              "entidades": "Dionísia Mendes",
+              "data": "2000-04-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71885",
+              "numeroAudiencia": "23-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Apresentação das conclusões do Painel Sistemas de Saúde",
+              "entidades": "Plataforma Mais Diálogo Utentes de Saúde",
+              "data": "2000-04-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71867",
+              "numeroAudiencia": "22-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "Plano de reorganização da Farmácia Hospitalar",
+              "entidades": "Direcção da Associação Nacional dos Técnicos de Farmácia do Grupo de Diagnóstico e Terapêutica",
+              "data": "2000-03-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71866",
+              "numeroAudiencia": "20-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Construção de novo Hospital",
+              "entidades": "Director do Bloco Operatório do Hospital de Setúbal",
+              "data": "2000-03-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71865",
+              "numeroAudiencia": "20-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Saúde Oral",
+              "entidades": "Associação Nacional de Prevenção de Saúde Oral",
+              "data": "2000-03-16",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71864",
+              "numeroAudiencia": "19-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Aliança para salvar Vidas-Consciência Medicina e Alternativas ao Sangue",
+              "entidades": "Associação de Testemunhas de Jeová",
+              "data": "2000-03-29",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71861",
+              "numeroAudiencia": "18-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Proposta de Lei de Incapacidade para os Doentes com Lupus Eritematoso Sistémico",
+              "entidades": "Associação de Doentes com Lupus",
+              "data": "2000-03-29",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71858",
+              "numeroAudiencia": "17-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Medicinas Alternativas",
+              "entidades": "Associação Medicina Natural e Bioterapêuticas",
+              "data": "2000-03-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71857",
+              "numeroAudiencia": "16-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Delegação de Taipei",
+              "entidades": "Presidente, MPAT, Taipei",
+              "data": "2000-02-18",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71855",
+              "numeroAudiencia": "15-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Situação dos Fisioterapeutas em Portugal",
+              "entidades": null,
+              "concedida": "Não realizada"
+            },
+            {
+              "IDAudiencia": "71847",
+              "numeroAudiencia": "13-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Sector das Farmácias",
+              "entidades": "ANF - Associação Nacional das Farmácias",
+              "data": "2000-02-01",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71539",
+              "numeroAudiencia": "12-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Saúde natural",
+              "entidades": "Associação Dietéticos Nacionais",
+              "data": "2000-02-01",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71538",
+              "numeroAudiencia": "11-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Termalismo",
+              "entidades": "Associação das Termas de Portugal",
+              "data": "2000-01-26",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70901",
+              "numeroAudiencia": "3-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Serviço de Maternidade do Hospital de Ovar",
+              "entidades": "Movimento Cívico de Defesa da Maternidade do Hospital de Ovar",
+              "data": "2000-01-14",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70900",
+              "numeroAudiencia": "2-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Ratificação do Decreto-Lei nº 157/99",
+              "entidades": "APSS - Associação dos Profissionais de Serviço Social",
+              "data": "2000-01-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70898",
+              "numeroAudiencia": "1-ST-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "Cuidados Continuados",
+              "entidades": "Apoio Móvel Especial à Terceira Idade e Convalescentes, LDA",
+              "data": "2000-01-18",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "71529",
+              "numeroAudiencia": "3-CDN-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS",
+              "entidades": "Associação Nacional dos Contratados do Exército",
+              "data": "2000-02-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71527",
+              "numeroAudiencia": "2-CDN-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS -EMFAR",
+              "entidades": "Associação Nacional de Sargentos",
+              "data": "2000-02-14",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71526",
+              "numeroAudiencia": "1-CDN-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS -EMFAR",
+              "entidades": "Associação dos Oficiais das Forças Armadas - AOFA",
+              "data": "2000-02-14",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "71863",
+              "numeroAudiencia": "44-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "FUTURO DA UE, PAPEL DOS PARLAMENTOS NACIONAIS, ALARGAMENTO, CONVENÇÃO EUROPEIA, ETC",
+              "entidades": "Presidente do Parlamento Sueco e Delegação",
+              "data": "2002-02-27",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71862",
+              "numeroAudiencia": "43-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "ALARGAMENTO",
+              "entidades": "Embaixador Republica Checa",
+              "data": "2002-02-26",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71860",
+              "numeroAudiencia": "42-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "CONVENÇÃO EUROPEIA",
+              "entidades": "Embaixador da Alemanha",
+              "data": "2002-02-26",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71859",
+              "numeroAudiencia": "41-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
+              "entidades": "Embaixador da Alemanha",
+              "data": "2002-01-29",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71688",
+              "numeroAudiencia": "40-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "POLÍTICA DE INTEGRAÇÃO SUIÇA, NEGOCIAÇÕES BILATERAIS COM A U:E.",
+              "entidades": "Gabinete de Integração da Suiça",
+              "data": "2001-10-23",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71686",
+              "numeroAudiencia": "39-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "3",
+              "assunto": "FUTURO DA UNIÃO - RELATÓRIO PARA A PRESIDENCIA BELGA",
+              "entidades": "Senador Mahoux e Deputado Chevalier - Parlamento Belga",
+              "data": "2001-10-17",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71536",
+              "numeroAudiencia": "38-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO DAS LINHAS E PROJECTOS DE INVESTIGAÇÃO, INTERCAMBIOS E COOPERAÇÃO A PROMOVER PELA APAPP",
+              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
+              "data": "2001-05-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71535",
+              "numeroAudiencia": "37-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ESTADO DAS NEGOCIAÇÕES PARA A ADESÃO DA TURQUIA",
+              "entidades": "Embaixador da Turquia",
+              "data": "2001-04-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71534",
+              "numeroAudiencia": "36-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "COLABORAÇÃO ENTRE O PARLAMENTO E A COMISSÃO EUROPEIA",
+              "entidades": "Director da Comissão Europeia Em Portugal",
+              "data": "2001-03-07",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71523",
+              "numeroAudiencia": "35-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS E PRESIDÊNCIA BELGA",
+              "entidades": "Embaixador da Bélgica",
+              "data": "2001-03-07",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71522",
+              "numeroAudiencia": "34-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ALARGAMENTO E LAÇOS DE COOPERAÇÃO ENTRE OS DOIS PAÍSES",
+              "entidades": "Vice-Presidente da Assembleia Nacional da Hungria",
+              "data": "2001-02-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71521",
+              "numeroAudiencia": "33-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ALARGAMENTO, ADESÃO DA ESLOVÁQUIA A UE",
+              "entidades": "Embaixador da Eslováquia",
+              "data": "2001-01-16",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71520",
+              "numeroAudiencia": "32-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "RELAÇÕES BILATERAIS, ALARGAMENTO,ETC",
+              "entidades": "Presidente do Congresso dos Deputados de Espanha",
+              "data": "2001-01-16",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71518",
+              "numeroAudiencia": "31-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
+              "entidades": "Embaixador Republica  Checa",
+              "data": "2000-12-20",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71516",
+              "numeroAudiencia": "30-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "ADESÃO DA HUNGRIA À UE E CIG",
+              "entidades": "Conselheiro da Embaixada da Hungria",
+              "data": "2000-11-29",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71513",
+              "numeroAudiencia": "29-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS, ADESÃO DA HUNGRIA À UE",
+              "entidades": "Embaixador da Hungria",
+              "data": "2000-10-25",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71512",
+              "numeroAudiencia": "28-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "RELAÇÕES BILATERAIS",
+              "entidades": "Presidente da Câmara de Representantes de Marrocos",
+              "data": "2000-09-20",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71505",
+              "numeroAudiencia": "27-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ADESÃO DA BULGÁRIA, ALARGAMENTO CONSELHO DA EUROPA E NATO",
+              "entidades": "Presidente da Assembleia Nacional da Bulgária",
+              "data": "2000-05-17",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71504",
+              "numeroAudiencia": "26-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESTATUTO DOS DEPUTADOS DO PE, CARTA DOS DIREITOS FUNDAMENTAIS DA UE, REGULAMENTOS E DIRECTIVAS",
+              "entidades": "Comissão de Assuntos Juridicos do Parlamento Europeu",
+              "data": "2000-05-12",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71503",
+              "numeroAudiencia": "25-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "CIMEIRA UE INDIA, RELAÇÕES BILATERIAS PORTUGAL/UE/ INDIA TÊXTEIS E ACORDO MULTIFIBRAS",
+              "entidades": "Embaixadores Indianos creditados em Paises da UE",
+              "data": "2000-05-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71502",
+              "numeroAudiencia": "24-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ADESÃO DA LETÓNIA À UE, ALARGAMENTO,ETC",
+              "entidades": "Comissão de Assuntos Europeus do Parlamento da Letónia",
+              "data": "2000-04-27",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71500",
+              "numeroAudiencia": "23-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "O ALARGAMENTO,O PROCESSO NEGOCIAL DA ESLOVÁQUIA E COOPERAÇÃO COM ESTE PAÍS",
+              "entidades": "Vice-Primeiro Ministro da Integração Europeia da Eslováquia",
+              "data": "2000-04-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71499",
+              "numeroAudiencia": "22-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ESTADO DAS NEGOCIAÇÕES DE ADESÃO DA LITUÂNIA",
+              "entidades": "Embaixador da Lituânia;Vice-Presidente da Comissão de Negócios Estrangeiros da Lituania;Vice-Presidente da Comissão de Assuntos Europeus da Lituânia",
+              "data": "2000-03-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71491",
+              "numeroAudiencia": "21-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ALARGAMENTO",
+              "entidades": "Deputados e Senadores Romenos",
+              "data": "2000-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71490",
+              "numeroAudiencia": "20-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "OBJECTIVOS DA PRESIDENCIA PORTUGUESA, ALARGAMENTO, CIG  E TEMAS DA AGENDA DA SESSÃO DE MARÇO DO CONSELHO EUROPEU",
+              "entidades": "Comissão de Integração Europeia da Assembleia Nacional da Hungria",
+              "data": "2000-03-01",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71488",
+              "numeroAudiencia": "19-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ENVOLVIMENTO DOS PARLAMENTOS NACIONAIS E DO PE NA CIG, CIMEIRO DO EMPREGO E INOVAÇÃO, CARTA DOS DIREITOS FUNDAMENTAIS DA UE, NATO, UEO E A PESC",
+              "entidades": "Comissão de Negócios Estrangeiros do PE",
+              "data": "2000-02-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71475",
+              "numeroAudiencia": "18-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "TRANSFERÊNCIA DE EQUIPAMENTO MILITAR, DE SEGURANÇA E POLICIAL NA UE",
+              "entidades": "Amnistia Internacional",
+              "data": "2000-02-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71474",
+              "numeroAudiencia": "17-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "TRABALHO PARLAMENTAR DA COMISSÃO, ACOMPANHAMENTO PELO PARLAMENTO DAS MATÉRIAS EUROPEIAS, CARTA DOS DIREITOS FUNDAMENTAIS, REFORMA DOS TRATADOS,ETC",
+              "entidades": "Comissão de Assuntos Europeus do Parlamento Sueco",
+              "data": "2000-02-22",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71473",
+              "numeroAudiencia": "16-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ALARGAMENTO E A REFORMA DA UNIÃO",
+              "entidades": "Comissão de Negócios Estrangeiros da Estónia",
+              "data": "2000-02-15",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71463",
+              "numeroAudiencia": "15-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "ALARGAMENTO E REFORMA DA UNIÃO",
+              "entidades": "Primeiro Ministro da República Checa",
+              "data": "2000-02-15",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71462",
+              "numeroAudiencia": "14-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRIORIDADES E PREOCUPAÇÕES DE PORTUGAL E DA PRESIDÊNCIA PORTUGUESA",
+              "entidades": "Comissão de Negócios Estrangeiros da Cãmara dos Comuns Britãnica",
+              "data": "2000-02-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71460",
+              "numeroAudiencia": "13-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PREPARAÇÃO DA VISITA DE UMA DELEGAÇÃO DA CAE DA ESLOVÉNIA A PORTUGAL",
+              "entidades": "Embaixador da Eslovénia",
+              "data": "2000-01-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71360",
+              "numeroAudiencia": "12-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "INTERVENÇÃO DO PARLAMENTO NOS ASSUNTOS EUROPEUS-LEI 20/94, PROBLEMAS QUE PORTUGAL TEVE AQUANDO DA ADESÃO EM TERMOS ECONÓMICOS E DE ADAPTAÇÃO LEGISLATIVA",
+              "entidades": "Juristas Hungaros",
+              "data": "2000-01-18",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71356",
+              "numeroAudiencia": "11-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PREPARAÇÃO DA VISITA  DE UMA DELEGAÇÃO DA CNE DA CÂMARA DOS COMUNS BRITÂNICA",
+              "entidades": "Embaixador do Reino Unido",
+              "data": "1999-12-22",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71355",
+              "numeroAudiencia": "10-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PREPARAÇÃO DA DESLOCAÇÃO DE UMA DELEGAÇÃO DA COMISSÃO HOMÓLOGA HUNGARA PARA DEBATER O PROCESSO DE ALARGAMENTO",
+              "entidades": "Embaixada da Hungria",
+              "data": "1999-12-22",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71280",
+              "numeroAudiencia": "9-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "CIG,ALARGAMENTO,AS RECENTES EVOLUÇÕES NO DOMÍNIO DA PESC E CARTA DOS DIREITOS FUNDAMENTAIS",
+              "entidades": "Ministro de Estado Alemão,Dr.Zopel",
+              "data": "1999-12-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71279",
+              "numeroAudiencia": "8-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE E AS RELAÇÕES ENTRE A UNIÃO E OS PAÍSES DO ACORDO EEE",
+              "entidades": "Comissão das Relações Externas do Parlamento da Noruega",
+              "data": "1999-12-16",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71357",
+              "numeroAudiencia": "7-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PREPARAÇÃO DA VISITA DA CAE DA LETÓNIA A PORTUGAL E OUTROS ASSUNTOS",
+              "entidades": "Embaixador da Letónia",
+              "data": "1999-12-14",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71278",
+              "numeroAudiencia": "6-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE, PREPARAÇÃO DA VISITA DA COMISSÃO HOMÓLOGA A PORTUGAL",
+              "entidades": "Embaixador da República Checa",
+              "data": "1999-12-07",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71276",
+              "numeroAudiencia": "5-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE",
+              "entidades": "Deputado Finlândes ao Parlamento Europeu",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71275",
+              "numeroAudiencia": "4-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE, EUROPEAN ECONOMIC AREA",
+              "entidades": "Delegação Islandesa da Efta",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71274",
+              "numeroAudiencia": "3-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE,CARTA DOS DIREITOS FUNDAMENTAIS E COSAC",
+              "entidades": "Comissão de Assuntos Europeus do Parlamento da Finlândia",
+              "data": "1999-12-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71273",
+              "numeroAudiencia": "2-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS-PREPARAÇÃO DA VISITA DA DELEGAÇÃO FINLANDESA",
+              "entidades": "Embaixador da Finlândia",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71259",
+              "numeroAudiencia": "1-AE-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "assunto": "PRESIDÊNCIA PORTUGUESA",
+              "entidades": "Secretário de Estado do Comércio Exterior de França",
+              "data": "1999-11-18",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "71006",
+              "numeroAudiencia": "17-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "entidades": "Associaçao dos Profissionais da Guarda",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71005",
+              "numeroAudiencia": "16-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Associação da Imprensa Nao Diaria",
+              "data": "2000-03-01",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71004",
+              "numeroAudiencia": "15-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Embaixador Costa Lobo",
+              "data": "2000-01-30",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71003",
+              "numeroAudiencia": "14-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Delegação da EULEC",
+              "data": "2000-01-29",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71002",
+              "numeroAudiencia": "13-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "entidades": "Conselho da Federação da Assembleia Federal Russa",
+              "data": "2000-10-23",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71001",
+              "numeroAudiencia": "12-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "entidades": "Secretaria para a Administraçao da Justiça de Macau",
+              "data": "2000-10-17",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "71000",
+              "numeroAudiencia": "11-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "2",
+              "entidades": "Republica do Direito da Associação Juridica de Coimbra",
+              "data": "2000-09-28",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70999",
+              "numeroAudiencia": "10-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Comissão Constitucional da Assembleia Nacional de Angola",
+              "data": "2000-06-26",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70997",
+              "numeroAudiencia": "9-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Fórum de Angola",
+              "data": "2000-06-14",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70998",
+              "numeroAudiencia": "8-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Delegação do Tribunal Constitucional da Albania",
+              "data": "2000-06-15",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70996",
+              "numeroAudiencia": "7-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Paula Martinho da Silva",
+              "data": "2000-05-11",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70995",
+              "numeroAudiencia": "6-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Ministro Justiça Israel",
+              "data": "2000-04-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70994",
+              "numeroAudiencia": "5-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Dionisia Mendes",
+              "data": "2000-04-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70993",
+              "numeroAudiencia": "4-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
+              "data": "2000-03-30",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70992",
+              "numeroAudiencia": "3-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Karen National Union",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70991",
+              "numeroAudiencia": "2-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Presidente do Supremo Tribunal Administrativo",
+              "data": "2000-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "70990",
+              "numeroAudiencia": "1-ACDLG-VIII",
+              "legislatura": "VIII",
+              "sessaoLegislativa": "1",
+              "entidades": "Conselho Português para os Refugiados",
+              "data": "2000-01-20",
               "concedida": "Concedida"
             }
           ]
@@ -19251,589 +20464,6 @@
               "assunto": "ALARGAMENTO DA LEI Nº 39/99 (ACTUALIZAÇÃO DAS PENSÕES DA CARREIRA DOCENTE) A TODOS OS FUNCIONÁRIOS PÚBLICOS APOSENTADOS",
               "entidades": "Rafael Campos Pereira",
               "data": "2000-01-19",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "71954",
-              "numeroAudiencia": "66-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Situação dos doentes de Parkinson",
-              "entidades": "Associação Portuguesa de Doentes de Parkinson",
-              "data": "2001-07-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71953",
-              "numeroAudiencia": "65-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Apresentaç~ºao das conclusões resultantes da campanha sobre os Direitos Sexuais e Reprodutivos",
-              "entidades": "Movimento Democrático de Mulheres-Mdm",
-              "data": "2001-07-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71952",
-              "numeroAudiencia": "64-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Implicações da retirada de comparticipação à classe dos venotrópicos e cérebro-vasculares",
-              "entidades": "Conselho de Administração da Decomed Farmaceutica",
-              "data": "2001-07-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71951",
-              "numeroAudiencia": "63-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Construção de novo edifício para o Hospital Nossa Senhora da Assunção",
-              "entidades": "Movimento Cívico de Apoio à Construção do Novo Hospital de Seia",
-              "data": "2001-07-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71950",
-              "numeroAudiencia": "62-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Apresentação da Direcção da APNF",
-              "entidades": "Associação Portuguesa de Neurofibromatose",
-              "data": "2001-07-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71949",
-              "numeroAudiencia": "61-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Apresentação da Associação e da Revista Portuguesa de Administração e Políticas Públicas",
-              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
-              "data": "2001-07-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71948",
-              "numeroAudiencia": "60-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Funcionamento do novo Centro de Saúde Concelhio de Alcanena",
-              "entidades": "Comissão Utentes de Saúde do Centro de Saúde de Alcanena",
-              "data": "2001-07-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71947",
-              "numeroAudiencia": "59-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Estado da Saúde na Península de Setúbal",
-              "entidades": "Comissão de Utentes de Saúde de Pinhal Novo",
-              "data": "2001-07-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71946",
-              "numeroAudiencia": "58-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Actividades Paramédicas",
-              "entidades": "Associação Portuguesa dos Técnicos de Farmácia",
-              "data": "2001-07-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71945",
-              "numeroAudiencia": "57-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Integração da Ordem dos Biólogos no CNECV",
-              "entidades": "Bastonário da Ordem dos Biólogos",
-              "data": "2001-06-27",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71944",
-              "numeroAudiencia": "56-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Situação do Hospital de Seia",
-              "entidades": "Assembleia Municipal de Seia",
-              "data": "2001-06-27",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71943",
-              "numeroAudiencia": "55-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Carreira dos Técnicos de Diagnóstico e Terapeutica",
-              "entidades": "Sindicato das Ciencias e Tecnologias da Saúde",
-              "data": "2001-06-19",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71928",
-              "numeroAudiencia": "54-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Lista de espera de fisioterapia",
-              "entidades": "Sindicato dos Fisioterapeutas Portugueses",
-              "data": "2001-06-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71927",
-              "numeroAudiencia": "53-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Apresentação de cumprimentos e exposição dos principais problemas que afectam a actividade profissional dos administradores hospitalares",
-              "entidades": "Associação Portuguesa de Administradores Hospitalares",
-              "data": "2001-06-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71926",
-              "numeroAudiencia": "52-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Cinco anos de actividade do Hospital Fernando Fonseca",
-              "entidades": "Conselho de Administração do Hospital Fernando Fonseca",
-              "data": "2001-06-06",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71925",
-              "numeroAudiencia": "51-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Carências e problemas da saúde dentária em Portugal",
-              "entidades": "Bastonário da Ordem dos Médicos Dentistas",
-              "data": "2001-06-05",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71924",
-              "numeroAudiencia": "50-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Para apreciação a grave situação que está criada no sector da saúde",
-              "entidades": "Plataforma Sindical da Saúde",
-              "data": "2001-06-05",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71922",
-              "numeroAudiencia": "49-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Taiwan International Medical Alliance",
-              "entidades": "Presidente, MPAT, Taipei",
-              "data": "2001-03-21",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71921",
-              "numeroAudiencia": "48-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Testes genéticose ratificação da convenção de Oviedo",
-              "entidades": "Heloísa Santos Directora do Serviço de Genética Médica do Hospital de Sta. Maria",
-              "data": "2001-03-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71920",
-              "numeroAudiencia": "47-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Incremento de doenças infecto-contagiosas junto de populações",
-              "entidades": "Associação para a Informação e Defesa da Saúde dos Africanos",
-              "data": "2001-03-21",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71918",
-              "numeroAudiencia": "46-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Situação do Instituto Piaget no Algarve",
-              "entidades": "Conselho Directivo do Instituto Piaget",
-              "data": "2001-02-07",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71916",
-              "numeroAudiencia": "45-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Situação Profissional do Nutricionista no Sistema Nacional de Saúde",
-              "entidades": "Associação Portuguesa dos Nutricionistas - APN",
-              "data": "2000-10-25",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71914",
-              "numeroAudiencia": "44-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Situação dos insuficientes renais e os direitos dos mesmos",
-              "entidades": "Associação Portuguesa dos Insuficientes Renais",
-              "data": "2000-10-25",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71912",
-              "numeroAudiencia": "43-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Estratégias para contribuir para o debate e efectivação dos direitos na perspectiva da promoção de oportunidades, saúde e cidadania",
-              "entidades": "Alice Frade-ONG's",
-              "data": "2000-07-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71911",
-              "numeroAudiencia": "42-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Melhorar condições sócio-económicas dos portadores e Esclerose Múltipla",
-              "entidades": "Associação Nacional de Esclerose Múltipla",
-              "data": "2000-07-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71908",
-              "numeroAudiencia": "41-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Ensino superior na área da saúde",
-              "entidades": "Associação Portuguesa do Ensino Superior Particular",
-              "data": "2000-07-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71906",
-              "numeroAudiencia": "40-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Regulamentação das Medicinas Não Convencionais",
-              "entidades": "Pedro Choy",
-              "data": "2000-07-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71905",
-              "numeroAudiencia": "39-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Medicinas Não Convencionais",
-              "entidades": "Augusto Henriques",
-              "data": "2000-07-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71900",
-              "numeroAudiencia": "38-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Centro de Saúde de Fátima",
-              "entidades": "Grupo de Utentes do Centro de Saúde de Fátima",
-              "data": "2000-05-30",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71899",
-              "numeroAudiencia": "37-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Centro de Saúde de Aljustrel",
-              "entidades": "Presidente da Assembleia Municipal de Aljustrel",
-              "data": "2000-05-31",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71898",
-              "numeroAudiencia": "36-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Regulamentação da Lei nº46/99",
-              "entidades": "Associação de Apoio aos Ex-Combatentes Vítimas do Stress de Guerra",
-              "data": "2000-05-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71897",
-              "numeroAudiencia": "35-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Odontologia-Decreto Lei 343/78",
-              "entidades": "Associação Nacional de Dentistas Portugueses",
-              "data": "2000-05-24",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71896",
-              "numeroAudiencia": "34-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "xtensão de Saúde de Quinta do Conde",
-              "entidades": "Comissão Representativa dos Utentes dos Serviços Públicos de Saúde de Quinta do Conde",
-              "data": "2000-05-24",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71895",
-              "numeroAudiencia": "33-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Acção política e governamental sobre os jovens e a droga",
-              "entidades": "Isabel Cochito",
-              "data": "2000-05-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71894",
-              "numeroAudiencia": "32-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Unidades Básicas de Urgência",
-              "entidades": "Sindicato dos Médicos da Zona Sul",
-              "data": "2000-05-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71893",
-              "numeroAudiencia": "31-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Gestão de Equipamentos Hospitalares",
-              "entidades": "Mónica Fernandes",
-              "data": "2000-05-03",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71892",
-              "numeroAudiencia": "30-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Acto médico",
-              "entidades": "Federação Nacional de Sindicatos de Enfermeiros",
-              "data": "2000-05-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71891",
-              "numeroAudiencia": "29-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Entrega de abaixo-assinados sobre comparticipações do SNS",
-              "entidades": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical",
-              "data": "2000-05-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71890",
-              "numeroAudiencia": "28-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Revogação da Lei 4/99",
-              "entidades": "Associação de Estudantes da Faculdade de Medicina Dentária da Universidade do Porto",
-              "data": "2000-04-13",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71889",
-              "numeroAudiencia": "27-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Medicinas Alternativas",
-              "entidades": "Comissão Coordenadora Para Regulamentação da Naturologia",
-              "data": "2000-04-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71888",
-              "numeroAudiencia": "26-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Lei da Propriedade de Farmácia",
-              "entidades": "Associação Portuguesa dos Técnicos de Farmácia",
-              "data": "2000-04-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71887",
-              "numeroAudiencia": "25-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Declaração de repúdio-Secretário de Estado da Saúde",
-              "entidades": "João José Massapina Antunes",
-              "data": "2000-04-06",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71886",
-              "numeroAudiencia": "24-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Para expôr a situação de seu filho",
-              "entidades": "Dionísia Mendes",
-              "data": "2000-04-05",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71885",
-              "numeroAudiencia": "23-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Apresentação das conclusões do Painel Sistemas de Saúde",
-              "entidades": "Plataforma Mais Diálogo Utentes de Saúde",
-              "data": "2000-04-05",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71867",
-              "numeroAudiencia": "22-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "Plano de reorganização da Farmácia Hospitalar",
-              "entidades": "Direcção da Associação Nacional dos Técnicos de Farmácia do Grupo de Diagnóstico e Terapêutica",
-              "data": "2000-03-21",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71866",
-              "numeroAudiencia": "20-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Construção de novo Hospital",
-              "entidades": "Director do Bloco Operatório do Hospital de Setúbal",
-              "data": "2000-03-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71865",
-              "numeroAudiencia": "20-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Saúde Oral",
-              "entidades": "Associação Nacional de Prevenção de Saúde Oral",
-              "data": "2000-03-16",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71864",
-              "numeroAudiencia": "19-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Aliança para salvar Vidas-Consciência Medicina e Alternativas ao Sangue",
-              "entidades": "Associação de Testemunhas de Jeová",
-              "data": "2000-03-29",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71861",
-              "numeroAudiencia": "18-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Proposta de Lei de Incapacidade para os Doentes com Lupus Eritematoso Sistémico",
-              "entidades": "Associação de Doentes com Lupus",
-              "data": "2000-03-29",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71858",
-              "numeroAudiencia": "17-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Medicinas Alternativas",
-              "entidades": "Associação Medicina Natural e Bioterapêuticas",
-              "data": "2000-03-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71857",
-              "numeroAudiencia": "16-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Delegação de Taipei",
-              "entidades": "Presidente, MPAT, Taipei",
-              "data": "2000-02-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71855",
-              "numeroAudiencia": "15-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Situação dos Fisioterapeutas em Portugal",
-              "entidades": null,
-              "concedida": "Não realizada"
-            },
-            {
-              "IDAudiencia": "71847",
-              "numeroAudiencia": "13-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Sector das Farmácias",
-              "entidades": "ANF - Associação Nacional das Farmácias",
-              "data": "2000-02-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71539",
-              "numeroAudiencia": "12-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Saúde natural",
-              "entidades": "Associação Dietéticos Nacionais",
-              "data": "2000-02-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71538",
-              "numeroAudiencia": "11-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Termalismo",
-              "entidades": "Associação das Termas de Portugal",
-              "data": "2000-01-26",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70901",
-              "numeroAudiencia": "3-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Serviço de Maternidade do Hospital de Ovar",
-              "entidades": "Movimento Cívico de Defesa da Maternidade do Hospital de Ovar",
-              "data": "2000-01-14",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70900",
-              "numeroAudiencia": "2-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Ratificação do Decreto-Lei nº 157/99",
-              "entidades": "APSS - Associação dos Profissionais de Serviço Social",
-              "data": "2000-01-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70898",
-              "numeroAudiencia": "1-ST-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "Cuidados Continuados",
-              "entidades": "Apoio Móvel Especial à Terceira Idade e Convalescentes, LDA",
-              "data": "2000-01-18",
               "concedida": "Concedida"
             }
           ]
@@ -20935,40 +21565,6 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
-              "IDAudiencia": "71529",
-              "numeroAudiencia": "3-CDN-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS",
-              "entidades": "Associação Nacional dos Contratados do Exército",
-              "data": "2000-02-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71527",
-              "numeroAudiencia": "2-CDN-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS -EMFAR",
-              "entidades": "Associação Nacional de Sargentos",
-              "data": "2000-02-14",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71526",
-              "numeroAudiencia": "1-CDN-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESTATUTO MILITAR DAS FORÇAS ARMADAS -EMFAR",
-              "entidades": "Associação dos Oficiais das Forças Armadas - AOFA",
-              "data": "2000-02-14",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
               "IDAudiencia": "72070",
               "numeroAudiencia": "83-NECPC-VIII",
               "legislatura": "VIII",
@@ -21926,602 +22522,6 @@
               "assunto": "Exposição das suas razões relativamente ao enquadramento e atenção que deve ser dada às estruturas de base do movimento associativo no que respeita ao futebol designado amador",
               "entidades": "Delegação do Clube de Futebol Benfica",
               "data": "2000-01-18",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "71863",
-              "numeroAudiencia": "44-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "FUTURO DA UE, PAPEL DOS PARLAMENTOS NACIONAIS, ALARGAMENTO, CONVENÇÃO EUROPEIA, ETC",
-              "entidades": "Presidente do Parlamento Sueco e Delegação",
-              "data": "2002-02-27",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71862",
-              "numeroAudiencia": "43-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "ALARGAMENTO",
-              "entidades": "Embaixador Republica Checa",
-              "data": "2002-02-26",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71860",
-              "numeroAudiencia": "42-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "CONVENÇÃO EUROPEIA",
-              "entidades": "Embaixador da Alemanha",
-              "data": "2002-02-26",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71859",
-              "numeroAudiencia": "41-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
-              "entidades": "Embaixador da Alemanha",
-              "data": "2002-01-29",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71688",
-              "numeroAudiencia": "40-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "POLÍTICA DE INTEGRAÇÃO SUIÇA, NEGOCIAÇÕES BILATERAIS COM A U:E.",
-              "entidades": "Gabinete de Integração da Suiça",
-              "data": "2001-10-23",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71686",
-              "numeroAudiencia": "39-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "3",
-              "assunto": "FUTURO DA UNIÃO - RELATÓRIO PARA A PRESIDENCIA BELGA",
-              "entidades": "Senador Mahoux e Deputado Chevalier - Parlamento Belga",
-              "data": "2001-10-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71536",
-              "numeroAudiencia": "38-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO DAS LINHAS E PROJECTOS DE INVESTIGAÇÃO, INTERCAMBIOS E COOPERAÇÃO A PROMOVER PELA APAPP",
-              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
-              "data": "2001-05-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71535",
-              "numeroAudiencia": "37-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ESTADO DAS NEGOCIAÇÕES PARA A ADESÃO DA TURQUIA",
-              "entidades": "Embaixador da Turquia",
-              "data": "2001-04-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71534",
-              "numeroAudiencia": "36-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "COLABORAÇÃO ENTRE O PARLAMENTO E A COMISSÃO EUROPEIA",
-              "entidades": "Director da Comissão Europeia Em Portugal",
-              "data": "2001-03-07",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71523",
-              "numeroAudiencia": "35-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS E PRESIDÊNCIA BELGA",
-              "entidades": "Embaixador da Bélgica",
-              "data": "2001-03-07",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71522",
-              "numeroAudiencia": "34-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ALARGAMENTO E LAÇOS DE COOPERAÇÃO ENTRE OS DOIS PAÍSES",
-              "entidades": "Vice-Presidente da Assembleia Nacional da Hungria",
-              "data": "2001-02-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71521",
-              "numeroAudiencia": "33-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ALARGAMENTO, ADESÃO DA ESLOVÁQUIA A UE",
-              "entidades": "Embaixador da Eslováquia",
-              "data": "2001-01-16",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71520",
-              "numeroAudiencia": "32-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "RELAÇÕES BILATERAIS, ALARGAMENTO,ETC",
-              "entidades": "Presidente do Congresso dos Deputados de Espanha",
-              "data": "2001-01-16",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71518",
-              "numeroAudiencia": "31-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
-              "entidades": "Embaixador Republica  Checa",
-              "data": "2000-12-20",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71516",
-              "numeroAudiencia": "30-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "ADESÃO DA HUNGRIA À UE E CIG",
-              "entidades": "Conselheiro da Embaixada da Hungria",
-              "data": "2000-11-29",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71513",
-              "numeroAudiencia": "29-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS, ADESÃO DA HUNGRIA À UE",
-              "entidades": "Embaixador da Hungria",
-              "data": "2000-10-25",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71512",
-              "numeroAudiencia": "28-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "RELAÇÕES BILATERAIS",
-              "entidades": "Presidente da Câmara de Representantes de Marrocos",
-              "data": "2000-09-20",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71505",
-              "numeroAudiencia": "27-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ADESÃO DA BULGÁRIA, ALARGAMENTO CONSELHO DA EUROPA E NATO",
-              "entidades": "Presidente da Assembleia Nacional da Bulgária",
-              "data": "2000-05-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71504",
-              "numeroAudiencia": "26-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESTATUTO DOS DEPUTADOS DO PE, CARTA DOS DIREITOS FUNDAMENTAIS DA UE, REGULAMENTOS E DIRECTIVAS",
-              "entidades": "Comissão de Assuntos Juridicos do Parlamento Europeu",
-              "data": "2000-05-12",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71503",
-              "numeroAudiencia": "25-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "CIMEIRA UE INDIA, RELAÇÕES BILATERIAS PORTUGAL/UE/ INDIA TÊXTEIS E ACORDO MULTIFIBRAS",
-              "entidades": "Embaixadores Indianos creditados em Paises da UE",
-              "data": "2000-05-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71502",
-              "numeroAudiencia": "24-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ADESÃO DA LETÓNIA À UE, ALARGAMENTO,ETC",
-              "entidades": "Comissão de Assuntos Europeus do Parlamento da Letónia",
-              "data": "2000-04-27",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71500",
-              "numeroAudiencia": "23-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "O ALARGAMENTO,O PROCESSO NEGOCIAL DA ESLOVÁQUIA E COOPERAÇÃO COM ESTE PAÍS",
-              "entidades": "Vice-Primeiro Ministro da Integração Europeia da Eslováquia",
-              "data": "2000-04-06",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71499",
-              "numeroAudiencia": "22-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ESTADO DAS NEGOCIAÇÕES DE ADESÃO DA LITUÂNIA",
-              "entidades": "Embaixador da Lituânia;Vice-Presidente da Comissão de Negócios Estrangeiros da Lituania;Vice-Presidente da Comissão de Assuntos Europeus da Lituânia",
-              "data": "2000-03-21",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71491",
-              "numeroAudiencia": "21-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ALARGAMENTO",
-              "entidades": "Deputados e Senadores Romenos",
-              "data": "2000-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71490",
-              "numeroAudiencia": "20-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "OBJECTIVOS DA PRESIDENCIA PORTUGUESA, ALARGAMENTO, CIG  E TEMAS DA AGENDA DA SESSÃO DE MARÇO DO CONSELHO EUROPEU",
-              "entidades": "Comissão de Integração Europeia da Assembleia Nacional da Hungria",
-              "data": "2000-03-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71488",
-              "numeroAudiencia": "19-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ENVOLVIMENTO DOS PARLAMENTOS NACIONAIS E DO PE NA CIG, CIMEIRO DO EMPREGO E INOVAÇÃO, CARTA DOS DIREITOS FUNDAMENTAIS DA UE, NATO, UEO E A PESC",
-              "entidades": "Comissão de Negócios Estrangeiros do PE",
-              "data": "2000-02-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71475",
-              "numeroAudiencia": "18-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "TRANSFERÊNCIA DE EQUIPAMENTO MILITAR, DE SEGURANÇA E POLICIAL NA UE",
-              "entidades": "Amnistia Internacional",
-              "data": "2000-02-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71474",
-              "numeroAudiencia": "17-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "TRABALHO PARLAMENTAR DA COMISSÃO, ACOMPANHAMENTO PELO PARLAMENTO DAS MATÉRIAS EUROPEIAS, CARTA DOS DIREITOS FUNDAMENTAIS, REFORMA DOS TRATADOS,ETC",
-              "entidades": "Comissão de Assuntos Europeus do Parlamento Sueco",
-              "data": "2000-02-22",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71473",
-              "numeroAudiencia": "16-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ALARGAMENTO E A REFORMA DA UNIÃO",
-              "entidades": "Comissão de Negócios Estrangeiros da Estónia",
-              "data": "2000-02-15",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71463",
-              "numeroAudiencia": "15-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "ALARGAMENTO E REFORMA DA UNIÃO",
-              "entidades": "Primeiro Ministro da República Checa",
-              "data": "2000-02-15",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71462",
-              "numeroAudiencia": "14-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRIORIDADES E PREOCUPAÇÕES DE PORTUGAL E DA PRESIDÊNCIA PORTUGUESA",
-              "entidades": "Comissão de Negócios Estrangeiros da Cãmara dos Comuns Britãnica",
-              "data": "2000-02-10",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71460",
-              "numeroAudiencia": "13-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PREPARAÇÃO DA VISITA DE UMA DELEGAÇÃO DA CAE DA ESLOVÉNIA A PORTUGAL",
-              "entidades": "Embaixador da Eslovénia",
-              "data": "2000-01-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71360",
-              "numeroAudiencia": "12-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "INTERVENÇÃO DO PARLAMENTO NOS ASSUNTOS EUROPEUS-LEI 20/94, PROBLEMAS QUE PORTUGAL TEVE AQUANDO DA ADESÃO EM TERMOS ECONÓMICOS E DE ADAPTAÇÃO LEGISLATIVA",
-              "entidades": "Juristas Hungaros",
-              "data": "2000-01-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71356",
-              "numeroAudiencia": "11-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PREPARAÇÃO DA VISITA  DE UMA DELEGAÇÃO DA CNE DA CÂMARA DOS COMUNS BRITÂNICA",
-              "entidades": "Embaixador do Reino Unido",
-              "data": "1999-12-22",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71355",
-              "numeroAudiencia": "10-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PREPARAÇÃO DA DESLOCAÇÃO DE UMA DELEGAÇÃO DA COMISSÃO HOMÓLOGA HUNGARA PARA DEBATER O PROCESSO DE ALARGAMENTO",
-              "entidades": "Embaixada da Hungria",
-              "data": "1999-12-22",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71280",
-              "numeroAudiencia": "9-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "CIG,ALARGAMENTO,AS RECENTES EVOLUÇÕES NO DOMÍNIO DA PESC E CARTA DOS DIREITOS FUNDAMENTAIS",
-              "entidades": "Ministro de Estado Alemão,Dr.Zopel",
-              "data": "1999-12-21",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71279",
-              "numeroAudiencia": "8-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE E AS RELAÇÕES ENTRE A UNIÃO E OS PAÍSES DO ACORDO EEE",
-              "entidades": "Comissão das Relações Externas do Parlamento da Noruega",
-              "data": "1999-12-16",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71357",
-              "numeroAudiencia": "7-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PREPARAÇÃO DA VISITA DA CAE DA LETÓNIA A PORTUGAL E OUTROS ASSUNTOS",
-              "entidades": "Embaixador da Letónia",
-              "data": "1999-12-14",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71278",
-              "numeroAudiencia": "6-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE, PREPARAÇÃO DA VISITA DA COMISSÃO HOMÓLOGA A PORTUGAL",
-              "entidades": "Embaixador da República Checa",
-              "data": "1999-12-07",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71276",
-              "numeroAudiencia": "5-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE",
-              "entidades": "Deputado Finlândes ao Parlamento Europeu",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71275",
-              "numeroAudiencia": "4-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE, EUROPEAN ECONOMIC AREA",
-              "entidades": "Delegação Islandesa da Efta",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71274",
-              "numeroAudiencia": "3-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA DA UE,CARTA DOS DIREITOS FUNDAMENTAIS E COSAC",
-              "entidades": "Comissão de Assuntos Europeus do Parlamento da Finlândia",
-              "data": "1999-12-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71273",
-              "numeroAudiencia": "2-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS-PREPARAÇÃO DA VISITA DA DELEGAÇÃO FINLANDESA",
-              "entidades": "Embaixador da Finlândia",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71259",
-              "numeroAudiencia": "1-AE-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "assunto": "PRESIDÊNCIA PORTUGUESA",
-              "entidades": "Secretário de Estado do Comércio Exterior de França",
-              "data": "1999-11-18",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "71006",
-              "numeroAudiencia": "17-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "entidades": "Associaçao dos Profissionais da Guarda",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71005",
-              "numeroAudiencia": "16-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Associação da Imprensa Nao Diaria",
-              "data": "2000-03-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71004",
-              "numeroAudiencia": "15-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Embaixador Costa Lobo",
-              "data": "2000-01-30",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71003",
-              "numeroAudiencia": "14-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Delegação da EULEC",
-              "data": "2000-01-29",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71002",
-              "numeroAudiencia": "13-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "entidades": "Conselho da Federação da Assembleia Federal Russa",
-              "data": "2000-10-23",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71001",
-              "numeroAudiencia": "12-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "entidades": "Secretaria para a Administraçao da Justiça de Macau",
-              "data": "2000-10-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71000",
-              "numeroAudiencia": "11-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "2",
-              "entidades": "Republica do Direito da Associação Juridica de Coimbra",
-              "data": "2000-09-28",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70999",
-              "numeroAudiencia": "10-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Comissão Constitucional da Assembleia Nacional de Angola",
-              "data": "2000-06-26",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70997",
-              "numeroAudiencia": "9-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Fórum de Angola",
-              "data": "2000-06-14",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70998",
-              "numeroAudiencia": "8-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Delegação do Tribunal Constitucional da Albania",
-              "data": "2000-06-15",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70996",
-              "numeroAudiencia": "7-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Paula Martinho da Silva",
-              "data": "2000-05-11",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70995",
-              "numeroAudiencia": "6-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Ministro Justiça Israel",
-              "data": "2000-04-06",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70994",
-              "numeroAudiencia": "5-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Dionisia Mendes",
-              "data": "2000-04-05",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70993",
-              "numeroAudiencia": "4-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Associação Portuguesa de Administração e Políticas Públicas",
-              "data": "2000-03-30",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70992",
-              "numeroAudiencia": "3-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Karen National Union",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70991",
-              "numeroAudiencia": "2-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Presidente do Supremo Tribunal Administrativo",
-              "data": "2000-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70990",
-              "numeroAudiencia": "1-ACDLG-VIII",
-              "legislatura": "VIII",
-              "sessaoLegislativa": "1",
-              "entidades": "Conselho Português para os Refugiados",
-              "data": "2000-01-20",
               "concedida": "Concedida"
             }
           ]

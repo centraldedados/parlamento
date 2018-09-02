@@ -4677,41 +4677,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5624",
-                  "orgDes": "Grupo de Trabalho - Petição n.º 250/XIII/2.ª - Toda a vida tem dignidade",
-                  "orgSigla": "GT-TVTD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6084",
-                  "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2017",
-                  "orgSigla": "GT-JPDH2017",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6124",
-                  "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                  "orgSigla": "GT-ALERJRE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6164",
-                  "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
-                  "orgSigla": "GT-ALN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
@@ -4719,16 +4684,16 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6704",
-                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
-                  "orgSigla": "GT-RMA",
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6705",
-                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
-                  "orgSigla": "GT-RGPD",
+                  "orgId": "6764",
+                  "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2018",
+                  "orgSigla": "GTJPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -17933,41 +17898,18 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6124",
-                  "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                  "orgSigla": "GT-ALERJRE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6164",
-                  "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
-                  "orgSigla": "GT-ALN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6405",
-                  "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
-                  "orgSigla": "GT-IP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6405",
+                "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
+                "orgSigla": "GT-IP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
                 }
-              ]
+              }
             }
           }
         },
@@ -18728,15 +18670,6 @@
                   "timDes": "Suplente"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6124",
-                "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                "orgSigla": "GT-ALERJRE",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
             }
           }
         },
