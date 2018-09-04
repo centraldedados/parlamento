@@ -2673,8 +2673,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-09-01"
               },
               {
                 "sioDes": "Suplente",
@@ -3028,10 +3033,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-01"
+              }
+            ]
           },
           "depNomeCompleto": "MARIA GABRIELA DA SILVEIRA FERREIRA CANAVILHAS",
           "videos": {
@@ -4898,6 +4910,40 @@
             }
           },
           "depNomeCompleto": "JOSÉ LUÍS TEIXEIRA FERREIRA"
+        },
+        {
+          "depId": "8855",
+          "depCadId": "189",
+          "depNomeParlamentar": "JOSÉ MAGALHÃES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2017-07-20",
+                "sioDtFim": "2018-09-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2017-07-20"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOSÉ MANUEL SANTOS DE MAGALHÃES"
         },
         {
           "depId": "8503",
