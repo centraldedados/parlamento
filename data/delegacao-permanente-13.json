@@ -2817,6 +2817,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião \"2018 Human Dimention Implementation Meeting\"",
+              "tipo": "REN",
+              "local": "Varsóvia",
+              "dataInicio": "10-09-2018",
+              "dataFim": "21-09-2018",
+              "participantes": null
+            },
+            {
               "nome": "Sessão Anual Plenária",
               "tipo": "REN",
               "local": "Berlim",
@@ -4800,6 +4808,14 @@
               }
             },
             {
+              "nome": "Visita de Estudo a copenhaga, no âmbito do Relatório \"For a disability-inclusive workforce\"",
+              "tipo": "REN",
+              "local": "Copenhaga",
+              "dataInicio": "10-09-2018",
+              "dataFim": "11-09-2018",
+              "participantes": null
+            },
+            {
               "nome": "Comissão de Migrações, Refugiados e Pessoas Deslocadas - Visita a Aldeias SOS na Grécia",
               "tipo": "REN",
               "local": "Atenas",
@@ -5788,22 +5804,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-03-2017",
-              "dataFim": "23-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -5816,6 +5816,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-03-2017",
+              "dataFim": "23-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
@@ -6225,22 +6241,6 @@
               }
             },
             {
-              "nome": "Reunião da Subcomissão de Relações Externas da Comissão de Assuntos Políticos e Democracia",
-              "tipo": "REN",
-              "local": "Nova Iorque",
-              "dataInicio": "07-12-2016",
-              "dataFim": "09-12-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -6253,6 +6253,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Subcomissão de Relações Externas da Comissão de Assuntos Políticos e Democracia",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "07-12-2016",
+              "dataFim": "09-12-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -6510,22 +6526,6 @@
               }
             },
             {
-              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
-              "tipo": "RNI",
-              "local": "Assembleia da República-Sala D. Maria",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -6538,6 +6538,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
+              "tipo": "RNI",
+              "local": "Assembleia da República-Sala D. Maria",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -6808,22 +6824,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "01-06-2016",
-              "dataFim": "01-06-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -6836,6 +6836,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "01-06-2016",
+              "dataFim": "01-06-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
@@ -7024,22 +7040,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "15-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -7052,6 +7052,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "15-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
