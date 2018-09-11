@@ -54942,9 +54942,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4290",
+              "rgiId": "8888",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-12",
+              "rgiDataVersao": "2018-09-10",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputada",
               "rgiCargoData": "2015",
@@ -54953,11 +54953,21 @@
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "4339",
+                  "rgaId": "8773",
                   "rgaActividade": "Professora Universitária",
                   "rgaDataInicio": "2013-09-18",
                   "rgaDataFim": "2015-10-22",
                   "rgaRemunerada": "S"
+                }
+              },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
+                  "rgcId": "7118",
+                  "rgcCargo": "Vogal de Direção",
+                  "rgcEntidade": "Meninos do Mundo - Associação (ONGD)\norganização sem fins lucrativos, constituída em 9 de setembro de 2008, com sede legal em Lisboa delegações nacionais (Porto e Setúbal).",
+                  "rgcAreaActividade": "A associação trabalha para a Promoção dos Direitos da Criança, solidariedade entre os Povos, igualdade de oportunidades e igualdade de género, respeito pela diversidade e respeito pelos Direitos Humanos, em geral, e os Direitos da Criança, em especial.",
+                  "rgcLocalSede": "Rua Bento Gonçalves, lote 726, Loja B Dto\n1950-334 Lisboa, Portugal",
+                  "rgcDataInicio": "2017-10-03"
                 }
               },
               "rgiCadId": "4196"
