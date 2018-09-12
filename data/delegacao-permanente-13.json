@@ -4808,6 +4808,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Tbilisi",
+              "dataInicio": "25-09-2018",
+              "dataFim": "25-09-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
               "tipo": "REN",
               "local": "Paris",
@@ -5616,6 +5624,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -5630,14 +5646,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -6662,6 +6670,14 @@
               }
             },
             {
+              "nome": "Campanha #NoHateNoFear",
+              "tipo": "RNI",
+              "local": "Assembleia da República - Passos Perdidos",
+              "dataInicio": "30-06-2016",
+              "dataFim": "30-06-2016",
+              "participantes": null
+            },
+            {
               "nome": "Cerimónia de Entrega do Prémio Norte-Sul do Conselho da Europa 2015",
               "tipo": "RNI",
               "local": "Sala do Senado",
@@ -6676,14 +6692,6 @@
                   "id": "1212"
                 }
               }
-            },
-            {
-              "nome": "Campanha #NoHateNoFear",
-              "tipo": "RNI",
-              "local": "Assembleia da República - Passos Perdidos",
-              "dataInicio": "30-06-2016",
-              "dataFim": "30-06-2016",
-              "participantes": null
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas na Albânia",
@@ -6832,22 +6840,6 @@
               }
             },
             {
-              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "01-06-2016",
-              "dataFim": "02-06-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -6860,6 +6852,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "01-06-2016",
+              "dataFim": "02-06-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
