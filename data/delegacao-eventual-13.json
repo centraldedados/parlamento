@@ -5316,6 +5316,16 @@
         }
       },
       {
+        "id": "1721",
+        "nome": "Reunião dos Membros do Conselho do IPEX Board",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-10-11",
+        "dataFim": "2017-10-12",
+        "participantes": null
+      },
+      {
         "id": "1719",
         "nome": "Reunião Interparlamentar organizada pela Comissão AFCO do PE",
         "local": "Bruxelas",
@@ -5377,19 +5387,9 @@
         }
       },
       {
-        "id": "1721",
-        "nome": "Reunião dos Membros do Conselho do IPEX Board",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-10-11",
-        "dataFim": "2017-10-12",
-        "participantes": null
-      },
-      {
-        "id": "1713",
-        "nome": "137ª Assembleia da União Interparlamentar e reunião da Associação de Secretários-Gerais dos Parlamentos (ASGP)",
-        "local": "São Petersburgo",
+        "id": "1712",
+        "nome": "\"IPU Advisory Group on Health\" no âmbito da 137ª. Assembleia da UIP",
+        "local": "St. Petersburgo",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-10-14",
@@ -5397,9 +5397,9 @@
         "participantes": null
       },
       {
-        "id": "1712",
-        "nome": "\"IPU Advisory Group on Health\" no âmbito da 137ª. Assembleia da UIP",
-        "local": "St. Petersburgo",
+        "id": "1713",
+        "nome": "137ª Assembleia da União Interparlamentar e reunião da Associação de Secretários-Gerais dos Parlamentos (ASGP)",
+        "local": "São Petersburgo",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-10-14",
@@ -5525,6 +5525,16 @@
         "participantes": null
       },
       {
+        "id": "1727",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-01",
+        "dataFim": "2017-11-30",
+        "participantes": null
+      },
+      {
         "id": "1728",
         "nome": "\"World Hepatitis Summit\"",
         "local": "São Paulo",
@@ -5541,16 +5551,6 @@
             "id": "4441"
           }
         }
-      },
-      {
-        "id": "1727",
-        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-01",
-        "dataFim": "2017-11-30",
-        "participantes": null
       },
       {
         "id": "1731",
@@ -5608,6 +5608,24 @@
         }
       },
       {
+        "id": "1729",
+        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
+        "local": "Atenas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-09",
+        "dataFim": "2017-11-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
+          }
+        }
+      },
+      {
         "id": "1730",
         "nome": "Participação no III Grupo de Trabalho de Alto Nível dos PALOP e de Timor-Leste para Análise e Discussão da Fiscalização Legislativa ao longo do Ciclo Orçamental",
         "local": "Maputo",
@@ -5632,24 +5650,6 @@
               "id": "469"
             }
           ]
-        }
-      },
-      {
-        "id": "1729",
-        "nome": "Visita Oficial a Atenas, a convite de SEXA o Presidente do Parlamento Helénico",
-        "local": "Atenas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-09",
-        "dataFim": "2017-11-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDUARDO FERRO RODRIGUES",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "163"
-          }
         }
       },
       {
@@ -5681,9 +5681,9 @@
         "participantes": null
       },
       {
-        "id": "1732",
-        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
-        "local": "Bruxelas",
+        "id": "1733",
+        "nome": "Reunião dos Correspondentes do IPEX",
+        "local": "Bratislava",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-15",
@@ -5691,9 +5691,9 @@
         "participantes": null
       },
       {
-        "id": "1733",
-        "nome": "Reunião dos Correspondentes do IPEX",
-        "local": "Bratislava",
+        "id": "1732",
+        "nome": "Participação no \"Meeting of the Competent Authorities on Tissues and Cells\"",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-15",
@@ -5731,49 +5731,14 @@
         "participantes": null
       },
       {
-        "id": "1742",
-        "nome": "Reunião Interp organizada pela Com. dos Direitos das Mulheres e Igualdade de Género (FEMM) do PE, subordinada ao tema - Convenção de istambul: combater a violência contra a mulher ao nível nacional e da UE",
+        "id": "1739",
+        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "ÂNGELA GUERRA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "4031"
-            },
-            {
-              "tipo": "D",
-              "nome": "ELZA PAIS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "4209"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1743",
-        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-21",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
+        "dataFim": "2017-11-22",
+        "participantes": null
       },
       {
         "id": "1740",
@@ -5821,14 +5786,49 @@
         }
       },
       {
-        "id": "1739",
-        "nome": "Seminário - Seminar for National Parliament Representatives in EU Member States on the European Commission's Economic Agenda",
+        "id": "1743",
+        "nome": "Reunião Interp. org. pela Comissão de Desenvolvimento(DEVE) do PE, - \"O novo Consenso Europeu sobre o Desenvolvimento\"",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "3",
         "dataInicio": "2017-11-21",
-        "dataFim": "2017-11-22",
-        "participantes": null
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
+        "id": "1742",
+        "nome": "Reunião Interp organizada pela Com. dos Direitos das Mulheres e Igualdade de Género (FEMM) do PE, subordinada ao tema - Convenção de istambul: combater a violência contra a mulher ao nível nacional e da UE",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-11-21",
+        "dataFim": "2017-11-21",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "ÂNGELA GUERRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4031"
+            },
+            {
+              "tipo": "D",
+              "nome": "ELZA PAIS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "4209"
+            }
+          ]
+        }
       },
       {
         "id": "1737",
@@ -5953,24 +5953,6 @@
         }
       },
       {
-        "id": "1748",
-        "nome": "Participação  na qualidade de Vice-Presidente da Assembleia República, no Congresso \"Lusofonia e Francofonia, duas potências mundiais\"",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2017-12-07",
-        "dataFim": "2017-12-09",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOSÉ MANUEL PUREZA",
-            "gp": "BE",
-            "leg": "XIII",
-            "id": "3998"
-          }
-        }
-      },
-      {
         "id": "1749",
         "nome": "Conferência internacional: 10ª Edição do \"Parliamentary Intelligence Security Forum\"",
         "local": "Washington",
@@ -5985,6 +5967,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "1264"
+          }
+        }
+      },
+      {
+        "id": "1748",
+        "nome": "Participação  na qualidade de Vice-Presidente da Assembleia República, no Congresso \"Lusofonia e Francofonia, duas potências mundiais\"",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2017-12-07",
+        "dataFim": "2017-12-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ MANUEL PUREZA",
+            "gp": "BE",
+            "leg": "XIII",
+            "id": "3998"
           }
         }
       },
@@ -6237,6 +6237,24 @@
         }
       },
       {
+        "id": "1774",
+        "nome": "Visita Oficial de Sua Excelência o Presidente da AR à Tunísia, a convite do seu homólogo.",
+        "local": "Tunís",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-13",
+        "dataFim": "2018-02-15",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO PAULO CORREIA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "2129"
+          }
+        }
+      },
+      {
         "id": "1773",
         "nome": "Visita Oficial de Sua Excelência o Presidente da AR, à Tunísia e Marrocos, a convite dos seus homólogos",
         "local": "Tunes e Casablanca",
@@ -6261,24 +6279,6 @@
               "id": "1264"
             }
           ]
-        }
-      },
-      {
-        "id": "1774",
-        "nome": "Visita Oficial de Sua Excelência o Presidente da AR à Tunísia, a convite do seu homólogo.",
-        "local": "Tunís",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-13",
-        "dataFim": "2018-02-15",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOÃO PAULO CORREIA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "2129"
-          }
         }
       },
       {
@@ -6365,6 +6365,24 @@
         }
       },
       {
+        "id": "1767",
+        "nome": "\"Interreligious Leadership Conference 2018\" \"Addressing the Critical of our Time: The Responsability of Parliamentarians and Religious Leaders\"",
+        "local": "Seul",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-02-18",
+        "dataFim": "2018-02-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÂNGELA GUERRA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4031"
+          }
+        }
+      },
+      {
         "id": "1778",
         "nome": "Visita de Trabalho ao Interior - Reunião com Autarcas de Almeida - Visita às minas de urânio em Retortillo - Visita a Pedrogão Grande.",
         "local": "Salamanca",
@@ -6445,24 +6463,6 @@
               "id": "5777"
             }
           ]
-        }
-      },
-      {
-        "id": "1767",
-        "nome": "\"Interreligious Leadership Conference 2018\" \"Addressing the Critical of our Time: The Responsability of Parliamentarians and Religious Leaders\"",
-        "local": "Seul",
-        "legislatura": "XIII",
-        "sessao": "3",
-        "dataInicio": "2018-02-18",
-        "dataFim": "2018-02-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "ÂNGELA GUERRA",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4031"
-          }
         }
       },
       {
@@ -8322,6 +8322,24 @@
               "id": "4471"
             }
           ]
+        }
+      },
+      {
+        "id": "1861",
+        "nome": "Participação \"For the 2nd Gago Conference on European Science Policy\"",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "dataInicio": "2018-09-21",
+        "dataFim": "2018-09-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ALEXANDRE QUINTANILHA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "5930"
+          }
         }
       }
     ]

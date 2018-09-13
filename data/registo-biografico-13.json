@@ -8417,7 +8417,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "23920",
+              "habId": "26460",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "F"
@@ -8425,7 +8425,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "27636",
+              "funId": "30196",
               "funDes": "Deputado  a Assembleia da Republica na XIII Legislatura",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -46832,9 +46832,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4668",
+              "rgiId": "8908",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-29",
+              "rgiDataVersao": "2018-09-12",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado AR.",
               "rgiCargoData": "2015",
@@ -46844,49 +46844,42 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "4693",
-                    "rgaActividade": "Representante da Assembleia de Freguesia de Oliveira do Douro - Vila Nova de Gaia",
-                    "rgaDataInicio": "2009",
-                    "rgaDataFim": "2013",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "4694",
-                    "rgaActividade": "Deputado da Assembleia Municipal de Vila Nova de Gaia",
-                    "rgaDataInicio": "2009",
-                    "rgaDataFim": "2013",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "4695",
-                    "rgaActividade": "Adjunto do Presidente da Câmara Municipal de Matosinhos",
-                    "rgaDataInicio": "2011-09-01",
-                    "rgaDataFim": "2013-06-18",
-                    "rgaRemunerada": "S"
-                  },
-                  {
-                    "rgaId": "4696",
-                    "rgaActividade": "Deputado AR",
-                    "rgaDataInicio": "2009-09-28",
-                    "rgaDataFim": "2011-07-01",
-                    "rgaRemunerada": "S"
-                  },
-                  {
-                    "rgaId": "4697",
+                    "rgaId": "8793",
                     "rgaActividade": "Presidente da Junta da União das Freguesias de Mafamude e Vilar do Paraíso",
                     "rgaDataInicio": "2013-10-19",
+                    "rgaDataFim": "2017-10-15",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "4698",
+                    "rgaId": "8794",
                     "rgaActividade": "Deputado da Assembleia Municipal de Vila Nova de Gaia",
                     "rgaDataInicio": "2013-10-20",
+                    "rgaDataFim": "2017-10-15",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "4699",
+                    "rgaId": "8795",
                     "rgaActividade": "Deputado AR",
                     "rgaDataInicio": "2013-06-19",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8796",
+                    "rgaActividade": "Presidente da Junta da União das Freguesias de Mafamude e Vilar do Paraíso",
+                    "rgaDataInicio": "2017-10-16",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8797",
+                    "rgaActividade": "Deputado da Assembleia Municipal de Vila Nova de Gaia",
+                    "rgaDataInicio": "2017-10-16",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8798",
+                    "rgaActividade": "Deputado à Assembleia da República - XII Legislatura",
+                    "rgaDataInicio": "2013-06-19",
+                    "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -46894,15 +46887,16 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "4418",
+                    "rgcId": "7138",
                     "rgcCargo": "Presidente ",
                     "rgcEntidade": "Clube de Futebol de Oliveira do Douro",
                     "rgcAreaActividade": "Clube desportivo.",
                     "rgcLocalSede": "Oliveira do Douro - Vila Nova de Gaia.",
-                    "rgcDataInicio": "2012-06-01"
+                    "rgcDataInicio": "2012-06-01",
+                    "rgcDataFim": "2018-07-31"
                   },
                   {
-                    "rgcId": "4419",
+                    "rgcId": "7139",
                     "rgcCargo": "Presidente do Conselho Fiscal ",
                     "rgcEntidade": "Cooperativa Sol Maior - cooperativa multisectorial ",
                     "rgcAreaActividade": "Solidariedade social.",
