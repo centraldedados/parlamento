@@ -39990,7 +39990,37 @@
           "cadNomeCompleto": "ÂNGELA MANUELA DE SOUSA MOREIRA",
           "cadActividadeProfissional": "Enfermeira",
           "cadEstadoCivilCod": "2",
-          "cadEstadoCivilDes": "Divorciado(a)"
+          "cadEstadoCivilDes": "Divorciado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "8928",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-09-13",
+              "rgiRegimeBensId": "0",
+              "rgiCargoDes": "Deputada à Assembleia da República",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Senhas de presença da Assembleia de Freguesia da Madalena ",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8813",
+                    "rgaActividade": "Deputada na Assembleia de Freguesia da Madalena",
+                    "rgaDataInicio": "2017-10-07",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8814",
+                    "rgaActividade": "Dirigente da Associação Nacional de Deficientes Sinistrados do Trabalho ",
+                    "rgaDataInicio": "2014-01-01",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiCadId": "5906"
+            }
+          }
         },
         {
           "cadId": "6127",
