@@ -65,6 +65,31 @@
                     "participantes": null
                   },
                   {
+                    "id": "114",
+                    "tipoAtividade": "FRM",
+                    "tipo": "Formação",
+                    "nome": "Estágio on de job na Área de Controlo e Gestão Orçamental",
+                    "dataInicio": "2018-08-27",
+                    "dataFim": "2018-08-31",
+                    "local": "Divisão de Gestão Financeira - Portugal",
+                    "participantes": {
+                      "Participante": [
+                        {
+                          "nome": "Augusto Napoleão",
+                          "cargo": "Funcionário",
+                          "servico": "Assembleia Nacional de Angola",
+                          "id": null
+                        },
+                        {
+                          "nome": "Valter Lucas",
+                          "cargo": "Funcionário",
+                          "servico": "Assembleia Nacional de Angola",
+                          "id": null
+                        }
+                      ]
+                    }
+                  },
+                  {
                     "id": "113",
                     "tipoAtividade": "FRM",
                     "tipo": "Visita",
