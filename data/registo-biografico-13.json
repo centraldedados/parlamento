@@ -2723,7 +2723,7 @@
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -8912,6 +8912,67 @@
             }
           },
           "cadActividadeOrgaos": null
+        },
+        {
+          "cadId": "5710",
+          "cadNomeCompleto": "DUARTE LA FALHER DE CAMPOS ALVES",
+          "cadDtNascimento": "1991-01-06",
+          "cadSexo": "M",
+          "cadProfissao": "Economista",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Duarte Alves",
+              "legDes": "XIII",
+              "ceDes": "LISBOA",
+              "parSigla": "CDU",
+              "parDes": "Coligação Democrática Unitária",
+              "gpSigla": "PCP",
+              "gpDes": "Partido Comunista Português"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26480",
+                "habDes": "Economia",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26481",
+                "habDes": "Economia e Políticas Públicas",
+                "habTipoId": "14",
+                "habEstado": "C"
+              }
+            ]
+          },
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "4170",
@@ -28377,89 +28438,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
-                      {
-                        "tiaDes": "CGP"
-                      },
-                      {
-                        "tiaDes": "Vice-Presidente"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5004",
-                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
-                  "orgSigla": "GT-EIE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4784",
-                  "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
-                  "orgSigla": "GT-CBCCC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5824",
-                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                  "orgSigla": "GT-SB",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5924",
-                  "orgDes": "Grupo de Trabalho - Lei de Enquadramento Orçamental",
-                  "orgSigla": "GT-LEO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6424",
-                  "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
-                  "orgSigla": "GT-PAC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "193",
@@ -30521,14 +30500,14 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -31200,6 +31179,13 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4528",
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
@@ -31210,13 +31196,6 @@
                       "tiaDes": "CGP"
                     }
                   }
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
                 }
               ]
             },
@@ -42940,6 +42919,13 @@
               "rgiCadId": "5529"
             }
           }
+        },
+        {
+          "cadId": "5710",
+          "cadNomeCompleto": "DUARTE LA FALHER DE CAMPOS ALVES",
+          "cadActividadeProfissional": "Economista",
+          "cadEstadoCivilCod": "4",
+          "cadEstadoCivilDes": "Solteiro(a)"
         },
         {
           "cadId": "4170",

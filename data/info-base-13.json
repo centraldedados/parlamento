@@ -2195,6 +2195,35 @@
           }
         },
         {
+          "depId": "9258",
+          "depCadId": "5710",
+          "depNomeParlamentar": "DUARTE ALVES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4468",
+              "gpSigla": "PCP",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-09-15"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-15"
+              }
+            ]
+          },
+          "depNomeCompleto": "DUARTE LA FALHER DE CAMPOS ALVES"
+        },
+        {
           "depId": "8405",
           "depCadId": "4170",
           "depNomeParlamentar": "DUARTE MARQUES",
@@ -6720,10 +6749,17 @@
           "depCPDes": "LISBOA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-09-15"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-15"
+              }
+            ]
           },
           "depNomeCompleto": "MIGUEL TIAGO CRISPIM ROSADO"
         },
