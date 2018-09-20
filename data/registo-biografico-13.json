@@ -6276,15 +6276,6 @@
                 }
               ]
             },
-            "actividadeSCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4664",
-                "orgDes": "Subcomissão para a Igualdade e Não Discriminação",
-                "orgSigla": "SIND",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
-            },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
                 "orgId": "5044",
@@ -7568,6 +7559,15 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeSCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4664",
+                "orgDes": "Subcomissão para a Igualdade e Não Discriminação",
+                "orgSigla": "SIND",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
@@ -16085,40 +16085,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                "orgSigla": "GT-RP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6063",
@@ -26195,6 +26162,43 @@
           "cadActividadeOrgaos": null
         },
         {
+          "cadId": "4136",
+          "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO",
+          "cadDtNascimento": "1947-04-12",
+          "cadSexo": "F",
+          "cadProfissao": "Aposentada",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
+              {
+                "depNomeParlamentar": "Maria Conceição Loureiro",
+                "legDes": "XIII",
+                "ceDes": "PORTO",
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
+              },
+              {
+                "depNomeParlamentar": "Maria Conceição Loureiro",
+                "legDes": "XI",
+                "ceDes": "PORTO",
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
+              }
+            ]
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "10668",
+              "habDes": "A frequentar o Curso de Ciência Politica e Estudos Eleitorais na Universidade Lusófona do Porto",
+              "habTipoId": "16"
+            }
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
           "cadId": "4051",
           "cadNomeCompleto": "MARIA DA CONCEIÇÃO FELICIANO ANTUNES BRETTS JARDIM PEREIRA",
           "cadDtNascimento": "1950-12-08",
@@ -29199,7 +29203,7 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             }
@@ -30281,7 +30285,7 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -50962,6 +50966,13 @@
               "rgiCadId": "4476"
             }
           }
+        },
+        {
+          "cadId": "4136",
+          "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO",
+          "cadActividadeProfissional": "Aposentada",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "4051",

@@ -3914,8 +3914,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-09-19"
+              },
+              {
                 "sioDes": "Efetivo Definitivo",
-                "sioDtInicio": "2017-07-20"
+                "sioDtInicio": "2017-07-20",
+                "sioDtFim": "2018-09-19"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -6224,6 +6229,35 @@
             ]
           },
           "depNomeCompleto": "MARIA CELESTE VILELA FERNANDES CARDOSO"
+        },
+        {
+          "depId": "8857",
+          "depCadId": "4136",
+          "depNomeParlamentar": "MARIA CONCEIÇÃO LOUREIRO",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-19"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-19"
+              }
+            ]
+          },
+          "depNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO"
         },
         {
           "depId": "8619",
