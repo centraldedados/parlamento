@@ -8361,6 +8361,47 @@
             "id": "5930"
           }
         }
+      },
+      {
+        "id": "1864",
+        "nome": "Grupo de Controlo Parlamentar Conjunto (GCPC) da Europol",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-24",
+        "dataFim": "2018-09-25",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "SANDRA PEREIRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5749"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO GAMEIRO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1977"
+            },
+            {
+              "tipo": "D",
+              "nome": "ISABEL PIRES",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5854"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO FILIPE",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "209"
+            }
+          ]
+        }
       }
     ]
   }
