@@ -8335,7 +8335,7 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4529",
@@ -8915,7 +8915,7 @@
         },
         {
           "cadId": "5710",
-          "cadNomeCompleto": "DUARTE LA FALHER DE CAMPOS ALVES",
+          "cadNomeCompleto": "DUARTE LE FALHER DE CAMPOS ALVES",
           "cadDtNascimento": "1991-01-06",
           "cadSexo": "M",
           "cadProfissao": "Economista",
@@ -18955,12 +18955,7 @@
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4535",
@@ -25550,7 +25545,7 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4531",
@@ -27140,7 +27135,12 @@
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 },
                 {
                   "orgId": "6664",
@@ -42965,7 +42965,7 @@
         },
         {
           "cadId": "5710",
-          "cadNomeCompleto": "DUARTE LA FALHER DE CAMPOS ALVES",
+          "cadNomeCompleto": "DUARTE LE FALHER DE CAMPOS ALVES",
           "cadActividadeProfissional": "Economista",
           "cadEstadoCivilCod": "4",
           "cadEstadoCivilDes": "Solteiro(a)"

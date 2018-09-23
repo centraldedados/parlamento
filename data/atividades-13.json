@@ -2973,6 +2973,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774236",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2988,23 +3005,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774236",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3100,6 +3100,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774235",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3115,23 +3132,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774235",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3173,6 +3173,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774234",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3188,23 +3205,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774234",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -55430,6 +55430,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110230",
+              "numeroAudicao": "148-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "No âmbito da Lei do Direito de Petição - Petição 526/XIII-3ª",
+              "entidades": "Tiago Nuno Borges de Albuquerque Rodrigues",
+              "data": "2018-09-20"
+            },
+            {
               "IDAudicao": "110224",
               "numeroAudicao": "147-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -63436,7 +63445,8 @@
               "numeroAudicao": "21-CPIPREPE-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "entidades": null,
+              "assunto": "Audição do Professor Dr. Orlando Borges",
+              "entidades": "Dr. Orlando Borges",
               "data": "2018-09-26"
             },
             {
@@ -68096,6 +68106,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "110274",
+              "numeroAudicao": "129-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente do Conselho Diretivo da Fundação para a Ciência e a Tecnologia, a requerimento do BE, para prestar esclarecimentos sobre a aplicação dos instrumentos de emprego científico",
+              "entidades": null,
+              "data": "2018-09-25"
+            },
             {
               "IDAudicao": "109670",
               "numeroAudicao": "128-CEC-XIII",
@@ -72892,6 +72911,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110264",
+              "numeroAudiencia": "135-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Comunidades Portuguesas",
+              "entidades": "Conselho das Comunidades Portuguesas",
+              "data": "2018-09-20",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110262",
+              "numeroAudiencia": "134-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apresentação das recomendações do estudo \"A educação para a cidadania global e as juventudes partidária\"s",
+              "entidades": "AIDGlobal - Acção e Integração para o Desenvolvimento Global",
+              "data": "2018-09-18",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "109694",
               "numeroAudiencia": "133-CNECP-XIII",
@@ -81709,6 +81748,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110273",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-09-17",
+              "dataFim": "2018-09-18",
+              "designacao": "Conferência Interparlamentar sobre Estabilidade, Coordenação e Governação Económica na UE",
+              "localEvento": "Viena - Áustria",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "108052",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -83549,6 +83598,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110276",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-09-21",
+              "dataFim": "2018-09-21",
+              "designacao": "Conferência Internacional \"Combate à Corrupção - Perspetivas de Futuro\"",
+              "localEvento": "Auditório da Torre do Tombo, na Alameda da Universidade, Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110275",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-09-20",
+              "dataFim": "2018-09-20",
+              "designacao": "Sessão solene de Abertura do Ano Académico 2018-2019",
+              "localEvento": "Aula Magna da Reitoria da Universidade de Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110110",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -83819,16 +83888,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "106579",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2017-10-03",
-              "dataFim": "2017-10-03",
-              "designacao": "Receção Dia da Unidade Alemã",
-              "localEvento": "Rua D. Constantino de Bragança, 29, em Lisboa (Restelo)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "106578",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -83836,6 +83895,16 @@
               "dataFim": "2017-10-03",
               "designacao": "Cerimónia de tomada de posse dos novos membros da Entidade das Contas e Financiamentos Políticos",
               "localEvento": "Sala de Atos do Tribunal Constitucional",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "106579",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2017-10-03",
+              "dataFim": "2017-10-03",
+              "designacao": "Receção Dia da Unidade Alemã",
+              "localEvento": "Rua D. Constantino de Bragança, 29, em Lisboa (Restelo)",
               "tipo": "Representação"
             },
             {
@@ -83999,16 +84068,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "104476",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-03-14",
-              "dataFim": "2017-03-14",
-              "designacao": "Visita de trabalho ao Conselho Superior da Magistratura",
-              "localEvento": "Conselho Superior da Magistratura",
-              "tipo": "Deslocação"
-            },
-            {
               "IDDeslocacao": "104520",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -84017,6 +84076,16 @@
               "designacao": "Posse do Presidente e Membros da Comissão de Acesso aos Documentos Administrativos (CADA)",
               "localEvento": "Sala de Visitas da Presidência da Assembleia da República",
               "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "104476",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-03-14",
+              "dataFim": "2017-03-14",
+              "designacao": "Visita de trabalho ao Conselho Superior da Magistratura",
+              "localEvento": "Conselho Superior da Magistratura",
+              "tipo": "Deslocação"
             },
             {
               "IDDeslocacao": "104353",
@@ -84119,16 +84188,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "103379",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2016-11-15",
-              "dataFim": "2016-11-15",
-              "designacao": "Conferência \"O Provedor de Justiça e os 40 anos da Constituição\"",
-              "localEvento": "Salão Nobre da Assembleia da República",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "103378",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -84136,6 +84195,16 @@
               "dataFim": "2016-11-15",
               "designacao": "Colóquio Comemorativo do 40.º Aniversário da Constituição da República",
               "localEvento": "Fundação Calouste Gulbenkian (Anfiteatro 3)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "103379",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2016-11-15",
+              "dataFim": "2016-11-15",
+              "designacao": "Conferência \"O Provedor de Justiça e os 40 anos da Constituição\"",
+              "localEvento": "Salão Nobre da Assembleia da República",
               "tipo": "Representação"
             },
             {
@@ -84229,22 +84298,22 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "102745",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "1",
-              "dataIni": "2016-09-05",
-              "dataFim": "2016-09-05",
-              "designacao": "Tomada de Posse do Presidente da Comissão da Liberdade Religiosa e restantes membros da Comissão",
-              "localEvento": "Fundação Calouste Kulbenkian",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "102746",
               "legislatura": "XIII",
               "sessaoLegislativa": "1",
               "dataIni": "2016-09-05",
               "dataFim": "2016-09-05",
               "designacao": "Debate «A Liberdade religiosa e a Laicidade Portuguesa - Os princípios da Separação e da Cooperação entre o Estado e as Comunidades Religiosas»",
+              "localEvento": "Fundação Calouste Kulbenkian",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "102745",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "1",
+              "dataIni": "2016-09-05",
+              "dataFim": "2016-09-05",
+              "designacao": "Tomada de Posse do Presidente da Comissão da Liberdade Religiosa e restantes membros da Comissão",
               "localEvento": "Fundação Calouste Kulbenkian",
               "tipo": "Representação"
             },

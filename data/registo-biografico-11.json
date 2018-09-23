@@ -6345,6 +6345,15 @@
                 }
               ]
             },
+            "actividadeSCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4664",
+                "orgDes": "Subcomissão para a Igualdade e Não Discriminação",
+                "orgSigla": "SIND",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
+            },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
                 "orgId": "6244",
@@ -15853,12 +15862,7 @@
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4535",
@@ -23487,15 +23491,26 @@
           "cadSexo": "F",
           "cadProfissao": "Aposentada",
           "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Maria Conceição Loureiro",
-              "legDes": "XI",
-              "ceDes": "PORTO",
-              "parSigla": "PS",
-              "parDes": "Partido Socialista",
-              "gpSigla": "PS",
-              "gpDes": "Partido Socialista"
-            }
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
+              {
+                "depNomeParlamentar": "Maria Conceição Loureiro",
+                "legDes": "XIII",
+                "ceDes": "PORTO",
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
+              },
+              {
+                "depNomeParlamentar": "Maria Conceição Loureiro",
+                "legDes": "XI",
+                "ceDes": "PORTO",
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
+              }
+            ]
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
@@ -26843,89 +26858,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
-                      {
-                        "tiaDes": "CGP"
-                      },
-                      {
-                        "tiaDes": "Vice-Presidente"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5004",
-                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
-                  "orgSigla": "GT-EIE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4784",
-                  "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
-                  "orgSigla": "GT-CBCCC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5824",
-                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                  "orgSigla": "GT-SB",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5924",
-                  "orgDes": "Grupo de Trabalho - Lei de Enquadramento Orçamental",
-                  "orgSigla": "GT-LEO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6424",
-                  "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
-                  "orgSigla": "GT-PAC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4065",
@@ -28469,13 +28402,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21176",
+                "habId": "26500",
                 "habDes": "Matemática",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21177",
+                "habId": "26501",
                 "habDes": "Tecnologias da Informação e Comunicação em Educação ",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -28485,268 +28418,274 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "24570",
-                "funDes": "Deputada na XII Legislatura;",
+                "funId": "30216",
+                "funDes": "Deputada na 4ª sessão legislativa  da XIII legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "24571",
-                "funDes": "Presidente do Conselho Fiscal do Grupo Parlamentar do PS;\n",
+                "funId": "30217",
+                "funDes": "Membro da Comissão Parlamentar de Negócios Estrangeiros e Comunidades Portuguesas",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "24572",
-                "funDes": "Membro da Comissão Parlamentar de Educação, Ciência e Cultura;\n",
+                "funId": "30218",
+                "funDes": "Membro da Comissão Parlamentar de Educação e Ciência",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "24573",
-                "funDes": "Membro da Comissão Parlamentar de Defesa Nacional;",
+                "funId": "30219",
+                "funDes": "Membro da Comissão Politica da Federação do PS Leiria",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "24574",
-                "funDes": "Vice-Presidente do Grupo de Amizade Portugal- Rússia;\n",
-                "funOrdem": "5",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24575",
-                "funDes": "Membro do Grupo de Amizade Portugal-Cabo Verde;\n",
-                "funOrdem": "6",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24576",
-                "funDes": "Membro do Grupo de Amizade Portugal-Bulgária;\n",
-                "funOrdem": "7",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24577",
-                "funDes": "Membro do Grupo Municipal do PS na Assembleia Municipal de Leiria;\n",
-                "funOrdem": "8",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24578",
-                "funDes": "Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral;\n",
-                "funOrdem": "9",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24579",
-                "funDes": "Membro da Comissão Politica Concelhia do PSLeiria;\n",
-                "funOrdem": "10",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24580",
-                "funDes": "Membro do Secretariado e da Comissão Politica da Federação do PS Leiria",
-                "funOrdem": "11",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "24581",
+                "funId": "30220",
                 "funDes": "Membro da Comissão Parlamentar de Inquérito aos Programas relativos à Aquisição de Equipamentos Militares (EH-101, P3-Orion, C-295, Torpedos, F-16, submarinos, Pandur II)",
+                "funOrdem": "5",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30221",
+                "funDes": "Deputada na XIII (1º e 2ª sessão legislativa) XII, XI e X Legislatura;",
+                "funOrdem": "6",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30222",
+                "funDes": "Membro da Comissão Parlamentar de Assunto Económicos, Inovação e Energia;",
+                "funOrdem": "7",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30223",
+                "funDes": "Membro da Comissão Parlamentar de Educação e Ciência;",
+                "funOrdem": "8",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30224",
+                "funDes": "Relatora para a Inovação;",
+                "funOrdem": "9",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30225",
+                "funDes": "Membro da Comissão Parlamentar de  Defesa Nacional;",
+                "funOrdem": "10",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30226",
+                "funDes": "Pertenceu ao Grupo de Trabalho, Energia e Eficiência Energética;",
+                "funOrdem": "11",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30227",
+                "funDes": "Pertenceu ao Grupo de Trabalho Cogeração;",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "24582",
-                "funDes": "Deputada na XI e X Legislatura;",
+                "funId": "30228",
+                "funDes": "Pertenceu ao Grupo de Trabalho Pólos de Competitividade e Clusters;",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "24583",
-                "funDes": "Membro da Comissão Parlamentar de Assunto Económicos, Inovação e Energia;",
+                "funId": "30229",
+                "funDes": "Pertenceu ao Grupo de Trabalho Sector Automóvel;",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "24584",
-                "funDes": "Membro da Comissão Parlamentar de Educação e Ciência;",
+                "funId": "30230",
+                "funDes": "Pertenceu ao Grupo de Trabalho Processo Legislativo Estatuto do Aluno;",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "24585",
-                "funDes": "Relatora para a Inovação;",
+                "funId": "30231",
+                "funDes": "Vice-Presidente do Grupo de Amizade Portugal- Rússia;",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "24586",
-                "funDes": "Membro da Comissão Parlamentar de  Defesa Nacional;",
+                "funId": "30232",
+                "funDes": "Vice-Presidente do Grupo de Amizade Portugal-Paquistão;\n",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "24587",
-                "funDes": "Pertenceu ao Grupo de Trabalho, Energia e Eficiência Energética;",
+                "funId": "30233",
+                "funDes": "Membro do Grupo de Amizade Portugal-Alemanha;\n",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "24588",
-                "funDes": "Pertenceu ao Grupo de Trabalho Cogeração;",
+                "funId": "30234",
+                "funDes": "Participou nas sessões distritais e em debates nas escolas no âmbito do Parlamento dos Jovens;",
                 "funOrdem": "19",
                 "funAntiga": "S"
               },
               {
-                "funId": "24589",
-                "funDes": "Pertenceu ao Grupo de Trabalho Pólos de Competitividade e Clusters;",
+                "funId": "30235",
+                "funDes": "Presidente da Concelhia do PS Leiria [2008-2010];",
                 "funOrdem": "20",
                 "funAntiga": "S"
               },
               {
-                "funId": "24590",
-                "funDes": "Pertenceu ao Grupo de Trabalho Sector Automóvel;",
+                "funId": "30236",
+                "funDes": "Membro da Comissão Parlamentar de Educação e Ciência;",
                 "funOrdem": "21",
                 "funAntiga": "S"
               },
               {
-                "funId": "24591",
-                "funDes": "Pertenceu ao Grupo de Trabalho Processo Legislativo Estatuto do Aluno;",
+                "funId": "30237",
+                "funDes": "Membro da Comissão Parlamentar de Defesa Nacional;\n",
                 "funOrdem": "22",
                 "funAntiga": "S"
               },
               {
-                "funId": "24592",
-                "funDes": "Vice-Presidente do Grupo de Amizade Portugal- Rússia;",
+                "funId": "30238",
+                "funDes": "Membro da Comissão Parlamentar de Trabalho, Segurança e Administração Pública;",
                 "funOrdem": "23",
                 "funAntiga": "S"
               },
               {
-                "funId": "24593",
-                "funDes": "Vice-Presidente do Grupo de Amizade Portugal-Paquistão;\n",
+                "funId": "30239",
+                "funDes": "Coordenou o Grupo de Trabalho  Políticas Espaciais;\n",
                 "funOrdem": "24",
                 "funAntiga": "S"
               },
               {
-                "funId": "24594",
-                "funDes": "Membro do Grupo de Amizade Portugal-Alemanha;\n",
+                "funId": "30240",
+                "funDes": "Pertenceu ao Grupo de Trabalho  Ensino Superior;\n",
                 "funOrdem": "25",
                 "funAntiga": "S"
               },
               {
-                "funId": "24595",
-                "funDes": "Participou nas sessões distritais e em debates nas escolas no âmbito do Parlamento dos Jovens;",
+                "funId": "30241",
+                "funDes": "Pertenceu ao Grupo de Trabalho  Manuais Escolares;\n",
                 "funOrdem": "26",
                 "funAntiga": "S"
               },
               {
-                "funId": "24596",
-                "funDes": "Presidente da Concelhia do PS Leiria [2008-2010];",
+                "funId": "30242",
+                "funDes": "Participou nas sessões nacional, distrital e no debate nas escolas no âmbito do Parlamento dos Jovens;",
                 "funOrdem": "27",
                 "funAntiga": "S"
               },
               {
-                "funId": "24597",
-                "funDes": "Deputada na X legislatura;\n",
+                "funId": "30243",
+                "funDes": "Professora na Escola Superior de Enfermagem de Leiria (em regime de acumulação);\n",
                 "funOrdem": "28",
                 "funAntiga": "S"
               },
               {
-                "funId": "24598",
-                "funDes": "Membro da Comissão Parlamentar de Educação e Ciência;",
+                "funId": "30244",
+                "funDes": "Coordenadora do Centro de Área Educativa de Leiria [1993, 2002];\n",
                 "funOrdem": "29",
                 "funAntiga": "S"
               },
               {
-                "funId": "24599",
-                "funDes": "Membro da Comissão Parlamentar de Defesa Nacional;\n",
+                "funId": "30245",
+                "funDes": "Professora na Escola Superior de Educação de Leiria;\n",
                 "funOrdem": "30",
                 "funAntiga": "S"
               },
               {
-                "funId": "24600",
-                "funDes": "Membro da Comissão Parlamentar de Trabalho, Segurança e Administração Pública;",
+                "funId": "30246",
+                "funDes": "Coordenadora do Projecto Minerva-Leiria\n",
                 "funOrdem": "31",
                 "funAntiga": "S"
               },
               {
-                "funId": "24601",
-                "funDes": "Coordenou o Grupo de Trabalho  Políticas Espaciais;\n",
+                "funId": "30247",
+                "funDes": "Professora no Magistério Primário de Leiria;\n",
                 "funOrdem": "32",
                 "funAntiga": "S"
               },
               {
-                "funId": "24602",
-                "funDes": "Pertenceu ao Grupo de Trabalho  Ensino Superior;\n",
+                "funId": "30248",
+                "funDes": "Membro do Conselho Científico do ISLA Leiria;\n",
                 "funOrdem": "33",
                 "funAntiga": "S"
               },
               {
-                "funId": "24603",
-                "funDes": "Pertenceu ao Grupo de Trabalho  Manuais Escolares;\n",
+                "funId": "30249",
+                "funDes": "Vice-Presidente do Grupo Parlamentar do PS;\n",
                 "funOrdem": "34",
                 "funAntiga": "S"
               },
               {
-                "funId": "24604",
-                "funDes": "Participou nas sessões nacional, distrital e no debate nas escolas no âmbito do Parlamento dos Jovens;",
+                "funId": "30250",
+                "funDes": "Presidente do Departamento Federativo das Mulheres Socialista de Leiria;\n",
                 "funOrdem": "35",
                 "funAntiga": "S"
               },
               {
-                "funId": "24605",
-                "funDes": "Professora na Escola Superior de Enfermagem de Leiria (em regime de acumulação);\n",
+                "funId": "30251",
+                "funDes": "Presidente do Conselho Fiscal do Grupo Parlamentar do PS;\n",
                 "funOrdem": "36",
                 "funAntiga": "S"
               },
               {
-                "funId": "24606",
-                "funDes": "Coordenadora do Centro de Área Educativa de Leiria [1993, 2002];\n",
+                "funId": "30252",
+                "funDes": "Membro da Comissão Parlamentar de Educação, Ciência e Cultura;\n",
                 "funOrdem": "37",
                 "funAntiga": "S"
               },
               {
-                "funId": "24607",
-                "funDes": "Professora na Escola Superior de Educação de Leiria;\n",
+                "funId": "30253",
+                "funDes": "Membro da Comissão Parlamentar de Defesa Nacional;",
                 "funOrdem": "38",
                 "funAntiga": "S"
               },
               {
-                "funId": "24608",
-                "funDes": "Coordenadora do Projecto Minerva-Leiria\n",
+                "funId": "30254",
+                "funDes": "Vice-Presidente do Grupo de Amizade Portugal- Rússia;\n",
                 "funOrdem": "39",
                 "funAntiga": "S"
               },
               {
-                "funId": "24609",
-                "funDes": "Professora no Magistério Primário de Leiria;\n",
+                "funId": "30255",
+                "funDes": "Membro do Grupo de Amizade Portugal-Cabo Verde;\n",
                 "funOrdem": "40",
                 "funAntiga": "S"
               },
               {
-                "funId": "24610",
-                "funDes": "Membro do Conselho Científico do ISLA Leiria;\n",
+                "funId": "30256",
+                "funDes": "Membro do Grupo de Amizade Portugal-Bulgária;\n",
                 "funOrdem": "41",
                 "funAntiga": "S"
               },
               {
-                "funId": "24611",
-                "funDes": "Vice-Presidente do Grupo Parlamentar do PS;\n",
+                "funId": "30257",
+                "funDes": "Membro do Grupo Municipal do PS na Assembleia Municipal de Leiria;\n",
                 "funOrdem": "42",
                 "funAntiga": "S"
               },
               {
-                "funId": "24612",
-                "funDes": "Presidente do Departamento Federativo das Mulheres Socialista de Leiria;\n",
+                "funId": "30258",
+                "funDes": "Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral;\n",
                 "funOrdem": "43",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30259",
+                "funDes": "Membro da Comissão Politica Comissão Politica da Federação do PS Leiria e da Concelhia do PS Leiria;\n",
+                "funOrdem": "44",
                 "funAntiga": "S"
               }
             ]
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "5845",
+              "pubId": "7431",
               "pubDes": "Diversos artigos na imprensa regional;",
               "pubOrdem": "1"
             }
@@ -29333,14 +29272,14 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             },
