@@ -8363,6 +8363,24 @@
         }
       },
       {
+        "id": "1865",
+        "nome": "Conferências e Apresentações  sobre \"Portugal 2020\" e \"Sistema de Incentivos\"",
+        "local": "Fortaleza e Natal",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-17",
+        "dataFim": "2018-09-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PAULO RIOS DE OLIVEIRA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4392"
+          }
+        }
+      },
+      {
         "id": "1864",
         "nome": "Grupo de Controlo Parlamentar Conjunto (GCPC) da Europol",
         "local": "Bruxelas",
@@ -8399,6 +8417,43 @@
               "gp": "PCP",
               "leg": "XIII",
               "id": "209"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
+        "id": "1867",
+        "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
+        "local": "Buxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "BRUNO COIMBRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4304"
+            },
+            {
+              "tipo": "D",
+              "nome": "LUÍS VILHENA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6188"
             }
           ]
         }
