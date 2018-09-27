@@ -4848,6 +4848,73 @@
               "participantes": null
             },
             {
+              "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "RNI",
+              "local": "Assembleia da República, Sala do Senado",
+              "dataInicio": "17-09-2018",
+              "dataFim": "18-09-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ANA CATARINA MENDONÇA MENDES",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1212"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS ALBERTO GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1458"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "EDITE ESTRELA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "162"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "EDUARDO FERRO RODRIGUES",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "163"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ DE MATOS ROSA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1951"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS LEITE RAMOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4364"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PAULO PISCO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1741"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PEDRO SOARES",
+                    "gp": "BE",
+                    "leg": "XIII",
+                    "id": "839"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Visita de Estudo a copenhaga, no âmbito do Relatório \"For a disability-inclusive workforce\"",
               "tipo": "REN",
               "local": "Copenhaga",
@@ -5648,6 +5715,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -5662,14 +5737,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -5844,22 +5911,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-03-2017",
-              "dataFim": "23-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -5872,6 +5923,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-03-2017",
+              "dataFim": "23-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
@@ -6566,22 +6633,6 @@
               }
             },
             {
-              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
-              "tipo": "RNI",
-              "local": "Assembleia da República-Sala D. Maria",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -6594,6 +6645,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
+              "tipo": "RNI",
+              "local": "Assembleia da República-Sala D. Maria",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -6694,6 +6761,14 @@
               }
             },
             {
+              "nome": "Campanha #NoHateNoFear",
+              "tipo": "RNI",
+              "local": "Assembleia da República - Passos Perdidos",
+              "dataInicio": "30-06-2016",
+              "dataFim": "30-06-2016",
+              "participantes": null
+            },
+            {
               "nome": "Cerimónia de Entrega do Prémio Norte-Sul do Conselho da Europa 2015",
               "tipo": "RNI",
               "local": "Sala do Senado",
@@ -6708,14 +6783,6 @@
                   "id": "1212"
                 }
               }
-            },
-            {
-              "nome": "Campanha #NoHateNoFear",
-              "tipo": "RNI",
-              "local": "Assembleia da República - Passos Perdidos",
-              "dataInicio": "30-06-2016",
-              "dataFim": "30-06-2016",
-              "participantes": null
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas na Albânia",
