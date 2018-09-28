@@ -2024,8 +2024,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-09-27"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-07-12"
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-09-27"
               },
               {
                 "sioDes": "Impedido",
@@ -5394,8 +5399,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-27"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-07-12"
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-09-27"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -5733,10 +5743,17 @@
           "depCPDes": "BRAGA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-09-27"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-27"
+              }
+            ]
           },
           "depNomeCompleto": "LUÍS MIGUEL DE FREITAS MARQUES CARVALHO SOARES"
         },

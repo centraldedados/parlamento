@@ -1035,6 +1035,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da Subcomissão para a Governação Democrática e da Subcomissão para a Cooperação Transatlântica em Matéria de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Budapeste e Praga",
+              "dataInicio": "01-10-2018",
+              "dataFim": "04-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança e do Grupo Especial para o Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Madrid",
@@ -1229,6 +1237,31 @@
               }
             },
             {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Sarajevo e Belgrado",
+              "dataInicio": "16-04-2018",
+              "dataFim": "19-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Arábia Saudita",
@@ -1256,31 +1289,6 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
-                  }
-                ]
-              }
-            },
-            {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
-              "tipo": "REN",
-              "local": "Sarajevo e Belgrado",
-              "dataInicio": "16-04-2018",
-              "dataFim": "19-04-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOÃO REBELO",
-                    "gp": "CDS-PP",
-                    "leg": "XIII",
-                    "id": "1654"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LARA MARTINHO",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "6157"
                   }
                 ]
               }
@@ -1375,14 +1383,6 @@
               }
             },
             {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
-            },
-            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1434,6 +1434,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
@@ -1523,22 +1531,6 @@
               }
             },
             {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
-              }
-            },
-            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1561,6 +1553,22 @@
                     "id": "193"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
               }
             },
             {

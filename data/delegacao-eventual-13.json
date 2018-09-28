@@ -8422,14 +8422,22 @@
         }
       },
       {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
+        "id": "1868",
+        "nome": "\"Leave on one behind Scaling up integrated people-centred TB/HIV care towards universal health coverage\"",
+        "local": "Nova Iorque",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
+        "dataInicio": "2018-09-26",
+        "dataFim": "2018-09-26",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
       },
       {
         "id": "1867",
@@ -8456,6 +8464,34 @@
               "id": "6188"
             }
           ]
+        }
+      },
+      {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
+        "id": "1869",
+        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-05",
+        "dataFim": "2018-10-05",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ CESÁRIO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "77"
+          }
         }
       }
     ]
