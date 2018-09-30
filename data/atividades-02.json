@@ -346,6 +346,33 @@
           "legislatura": "II",
           "sessao": "3",
           "dataEntrada": "1982-11-22",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "58017",
+              "resultado": "Aprovado",
+              "reuniao": "16",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "16",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "3",
+                  "supl": ".",
+                  "pubdt": "1982-11-23",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "545683",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/03/016/1982-11-23?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1982-11-22"
+            }
+          },
           "textosAprovados": {
             "string": [
               "16416",
@@ -400,6 +427,33 @@
           "legislatura": "II",
           "sessao": "3",
           "dataEntrada": "1982-10-28",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "58015",
+              "resultado": "Aprovado",
+              "reuniao": "5",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "5",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "3",
+                  "supl": ".",
+                  "pubdt": "1982-10-29",
+                  "pag": {
+                    "string": "102-102"
+                  },
+                  "idPag": "755708",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/03/005/1982-10-29/102?pgs=102&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1982-10-28"
+            }
+          },
           "textosAprovados": {
             "string": [
               "16414",
@@ -605,6 +659,33 @@
           "legislatura": "II",
           "sessao": "2",
           "dataEntrada": "1981-12-03",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "58003",
+              "resultado": "Aprovado",
+              "reuniao": "22",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "22",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "2",
+                  "supl": ".",
+                  "pubdt": "1981-12-04",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "545542",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/02/022/1981-12-04?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1981-12-03"
+            }
+          },
           "textosAprovados": {
             "string": [
               "16399",
@@ -635,6 +716,33 @@
           "legislatura": "II",
           "sessao": "1",
           "dataEntrada": "1981-02-27",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "58001",
+              "resultado": "Aprovado",
+              "reuniao": "35",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "35",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1981-02-28",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "545511",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/035/1981-02-28?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1981-02-27"
+            }
+          },
           "textosAprovados": {
             "string": [
               "16388",
@@ -689,6 +797,33 @@
           "legislatura": "II",
           "sessao": "1",
           "dataEntrada": "1981-02-10",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "58000",
+              "resultado": "Aprovado",
+              "reuniao": "28",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "28",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1981-02-11",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "545509",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/028/1981-02-11?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1981-02-10"
+            }
+          },
           "textosAprovados": {
             "string": [
               "16386",
@@ -714,6 +849,60 @@
           "legislatura": "II",
           "sessao": "1",
           "dataEntrada": "1981-02-06",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": [
+              {
+                "id": "54409",
+                "resultado": "Aprovado",
+                "reuniao": "27",
+                "publicacao": {
+                  "pt_gov_ar_objectos_PublicacoesOut": {
+                    "pubNr": "27",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "II",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1981-02-06",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "492573",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/027/1981-02-06?pgs=&org=PLC",
+                    "idDeb": null
+                  }
+                },
+                "data": "1981-02-05"
+              },
+              {
+                "id": "54410",
+                "resultado": "Aprovado",
+                "reuniao": "26",
+                "publicacao": {
+                  "pt_gov_ar_objectos_PublicacoesOut": {
+                    "pubNr": "26",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "II",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1981-02-04",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "492575",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/026/1981-02-04?pgs=&org=PLC",
+                    "idDeb": null
+                  }
+                },
+                "data": "1981-02-03"
+              }
+            ]
+          },
           "textosAprovados": {
             "string": "15687"
           },
@@ -747,6 +936,33 @@
           "legislatura": "II",
           "sessao": "1",
           "dataEntrada": "1981-02-04",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "54408",
+              "resultado": "Aprovado",
+              "reuniao": "26",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "26",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1981-02-04",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "492572",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/026/1981-02-04?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1981-02-03"
+            }
+          },
           "textosAprovados": {
             "string": "15686"
           },
@@ -770,6 +986,33 @@
           "legislatura": "II",
           "sessao": "1",
           "dataEntrada": "1981-02-04",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "54407",
+              "resultado": "Aprovado",
+              "reuniao": "26",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "26",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "II",
+                  "pubSL": "1",
+                  "supl": ".",
+                  "pubdt": "1981-02-04",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "492570",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/02/01/026/1981-02-04?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "1981-02-03"
+            }
+          },
           "textosAprovados": {
             "string": "15685"
           },

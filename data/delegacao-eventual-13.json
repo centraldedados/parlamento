@@ -8477,6 +8477,33 @@
         "participantes": null
       },
       {
+        "id": "1870",
+        "nome": "Conferência interparlamentar \"Transformação da região dos Balcãs Ocidentais - perspetiva parlamentar sobre o papel e futuro do processo de adesão à UE\"",
+        "local": "Sófia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-05",
+        "dataFim": "2018-10-05",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "JOSÉ CESÁRIO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "77"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
+      },
+      {
         "id": "1869",
         "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
         "local": "Bruxelas",

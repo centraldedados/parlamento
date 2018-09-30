@@ -17426,7 +17426,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4535",
+                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                "orgSigla": "CCCJD",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "1276",
@@ -29126,7 +29136,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "19284",
+              "habId": "26540",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "C"

@@ -2024,8 +2024,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-09-28"
+              },
+              {
                 "sioDes": "Impedido",
-                "sioDtInicio": "2018-09-27"
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
               },
               {
                 "sioDes": "Suplente",
@@ -5399,8 +5404,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-09-28"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-09-27"
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
               },
               {
                 "sioDes": "Suplente",
@@ -5745,8 +5755,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-09-28"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2018-09-27"
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
               },
               {
                 "sioDes": "Efetivo",
