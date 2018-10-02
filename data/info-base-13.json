@@ -1594,8 +1594,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -5312,8 +5317,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -8723,8 +8733,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Efetivo Temporário",

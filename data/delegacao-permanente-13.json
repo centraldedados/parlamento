@@ -2833,6 +2833,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Conferência \"the Future of International Electrion Observation\"",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-10-2018",
+              "dataFim": "11-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião de Outono da AP OSCE",
               "tipo": "REN",
               "local": "Bisqueque",
@@ -7434,6 +7442,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reuniões Anuais de 2018 do Fundo Monetário Internacional e do Grupo do Banco Mundial",
+              "tipo": "REN",
+              "local": "Bali",
+              "dataInicio": "08-10-2018",
+              "dataFim": "14-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "73ª Assembleia Geral da Organização das Nações Unidas",
               "tipo": "REN",
               "local": "Nova Iorque",
@@ -7803,22 +7819,6 @@
               }
             },
             {
-              "nome": "26ª Conferência Parlamentar do Mar Báltico",
-              "tipo": "REN",
-              "local": "Hamburgo",
-              "dataInicio": "03-09-2017",
-              "dataFim": "05-09-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RENATO SAMPAIO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1679"
-                }
-              }
-            },
-            {
               "nome": "26ª Conferência Parlamentar do Mar Báltico e Reunião de trabalho no Parlamento da Sérvia",
               "tipo": "REN",
               "local": "Hamburgo e Belgrado",
@@ -7831,6 +7831,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "26ª Conferência Parlamentar do Mar Báltico",
+              "tipo": "REN",
+              "local": "Hamburgo",
+              "dataInicio": "03-09-2017",
+              "dataFim": "05-09-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RENATO SAMPAIO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1679"
                 }
               }
             },
