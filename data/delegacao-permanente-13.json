@@ -1035,6 +1035,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação Eleitoral na Bosnia e Herzegovina",
+              "tipo": "REN",
+              "local": "Sarajevo",
+              "dataInicio": "05-10-2018",
+              "dataFim": "08-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Subcomissão para a Governação Democrática e da Subcomissão para a Cooperação Transatlântica em Matéria de Defesa e Segurança",
               "tipo": "REN",
               "local": "Budapeste e Praga",
@@ -1531,6 +1539,22 @@
               }
             },
             {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
+            },
+            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1553,22 +1577,6 @@
                     "id": "193"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
               }
             },
             {
@@ -4840,6 +4848,14 @@
               }
             },
             {
+              "nome": "Missão de Observação das Eleições na Bósnia e Herzegovina",
+              "tipo": "REN",
+              "local": "Sarajevo",
+              "dataInicio": "07-10-2018",
+              "dataFim": "07-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Tbilisi",
@@ -5739,14 +5755,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
-            },
-            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -5761,6 +5769,14 @@
                   "id": "3"
                 }
               }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -5935,22 +5951,6 @@
               }
             },
             {
-              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-03-2017",
-              "dataFim": "24-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -5963,6 +5963,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-03-2017",
+              "dataFim": "24-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -6657,22 +6673,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "DUARTE MARQUES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4170"
-                }
-              }
-            },
-            {
               "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
               "tipo": "RNI",
               "local": "Assembleia da República-Sala D. Maria",
@@ -6685,6 +6685,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "3"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE MARQUES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4170"
                 }
               }
             },
@@ -6785,14 +6801,6 @@
               }
             },
             {
-              "nome": "Campanha #NoHateNoFear",
-              "tipo": "RNI",
-              "local": "Assembleia da República - Passos Perdidos",
-              "dataInicio": "30-06-2016",
-              "dataFim": "30-06-2016",
-              "participantes": null
-            },
-            {
               "nome": "Cerimónia de Entrega do Prémio Norte-Sul do Conselho da Europa 2015",
               "tipo": "RNI",
               "local": "Sala do Senado",
@@ -6807,6 +6815,14 @@
                   "id": "1212"
                 }
               }
+            },
+            {
+              "nome": "Campanha #NoHateNoFear",
+              "tipo": "RNI",
+              "local": "Assembleia da República - Passos Perdidos",
+              "dataInicio": "30-06-2016",
+              "dataFim": "30-06-2016",
+              "participantes": null
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas na Albânia",

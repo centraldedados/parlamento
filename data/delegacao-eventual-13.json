@@ -8477,6 +8477,16 @@
         "participantes": null
       },
       {
+        "id": "1871",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-01",
+        "dataFim": "2018-10-31",
+        "participantes": null
+      },
+      {
         "id": "1870",
         "nome": "Conferência interparlamentar \"Transformação da região dos Balcãs Ocidentais - perspetiva parlamentar sobre o papel e futuro do processo de adesão à UE\"",
         "local": "Sófia",
@@ -8520,6 +8530,80 @@
             "id": "77"
           }
         }
+      },
+      {
+        "id": "1874",
+        "nome": "Reunião Interparlamentar, organizada pela Comissão ECON do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-09",
+        "dataFim": "2018-10-09",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO LEITÃO AMARO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4086"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": null
+      },
+      {
+        "id": "1875",
+        "nome": "Conferência de Alto Nível sobre o futuro das Missões de Observação Eleitoral",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "PEDRO ALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1738"
+            },
+            {
+              "tipo": "D",
+              "nome": "RICARDO BEXIGA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1974"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1872",
+        "nome": "Reunião do conselho do IPEX - IPEX Board",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-11",
+        "dataFim": "2018-10-11",
+        "participantes": null
       }
     ]
   }
