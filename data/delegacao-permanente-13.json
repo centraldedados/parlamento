@@ -188,6 +188,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação Eleitoral da CPLP",
+              "tipo": "REN",
+              "local": "S. Tomé e Príncipe",
+              "dataInicio": "04-10-2018",
+              "dataFim": "09-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Rede de Mulheres AP-CPLP com a Escola Superior de Enfermagem de Coimbra",
               "tipo": "RNI",
               "local": "Sala 2",
@@ -316,6 +324,14 @@
               }
             },
             {
+              "nome": "Reunião da 3a Comissão da AP-CPLP",
+              "tipo": "REN",
+              "local": "São Tomé, São Tomé e Príncipe",
+              "dataInicio": "19-03-2018",
+              "dataFim": "20-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão 3 - Língua, Educação, Cultura  da AP-CPLP",
               "tipo": "REN",
               "local": "São Tomé",
@@ -339,14 +355,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Reunião da 3a Comissão da AP-CPLP",
-              "tipo": "REN",
-              "local": "São Tomé, São Tomé e Príncipe",
-              "dataInicio": "19-03-2018",
-              "dataFim": "20-03-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião da 3a Comissão da AP-CPLP",
@@ -374,14 +382,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -407,6 +407,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
               "tipo": "RNI",
               "local": null,
@@ -421,14 +429,6 @@
                   "id": "646"
                 }
               }
-            },
-            {
-              "nome": "VII AP-CPLP",
-              "tipo": "REN",
-              "local": "Lisboa",
-              "dataInicio": "04-12-2017",
-              "dataFim": "05-12-2017",
-              "participantes": null
             },
             {
               "nome": "VII Assembleia Parlamentar da CPLP",
@@ -503,6 +503,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "VII AP-CPLP",
+              "tipo": "REN",
+              "local": "Lisboa",
+              "dataInicio": "04-12-2017",
+              "dataFim": "05-12-2017",
+              "participantes": null
             },
             {
               "nome": "Missão de Observação Eleitoral - Angola, 23 de agosto",
@@ -1048,7 +1056,15 @@
               "local": "Budapeste e Praga",
               "dataInicio": "01-10-2018",
               "dataFim": "04-10-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
             },
             {
               "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança e do Grupo Especial para o Mediterrâneo e Médio Oriente",
@@ -1056,7 +1072,24 @@
               "local": "Madrid",
               "dataInicio": "24-09-2018",
               "dataFim": "28-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Visita da Subcomissão para a Transição e Desenvolvimento da Comissão de Economia e Segurança",
@@ -1064,7 +1097,24 @@
               "local": "Baku",
               "dataInicio": "12-09-2018",
               "dataFim": "14-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
@@ -2846,7 +2896,15 @@
               "local": "Bruxelas",
               "dataInicio": "10-10-2018",
               "dataFim": "11-10-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ISABEL SANTOS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2103"
+                }
+              }
             },
             {
               "nome": "Reunião de Outono da AP OSCE",
@@ -2854,7 +2912,15 @@
               "local": "Bisqueque",
               "dataInicio": "03-10-2018",
               "dataFim": "06-10-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIGUEL SANTOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "2071"
+                }
+              }
             },
             {
               "nome": "Reunião \"2018 Human Dimention Implementation Meeting\"",
@@ -2862,7 +2928,15 @@
               "local": "Varsóvia",
               "dataInicio": "10-09-2018",
               "dataFim": "21-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ISABEL SANTOS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2103"
+                }
+              }
             },
             {
               "nome": "Sessão Anual Plenária",
@@ -4848,6 +4922,14 @@
               }
             },
             {
+              "nome": "4ª. Parte da Sessão Plenária de 2018",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "08-10-2018",
+              "dataFim": "12-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação das Eleições na Bósnia e Herzegovina",
               "tipo": "REN",
               "local": "Sarajevo",
@@ -4861,7 +4943,24 @@
               "local": "Tbilisi",
               "dataInicio": "25-09-2018",
               "dataFim": "25-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS ALBERTO GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1458"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS LEITE RAMOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4364"
+                  }
+                ]
+              }
             },
             {
               "nome": "Conferência Regional \"Plataforma para as Políticas de Cooperação: o papel das associações das diásporas e sinergias com as autoridades públicas\" - Comissão de Migrações, Refugiados e Pessoas Deslocadas.",
@@ -4869,7 +4968,15 @@
               "local": "Kiev",
               "dataInicio": "24-09-2018",
               "dataFim": "24-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE MARQUES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4170"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão de MIgrações, Refugiados e Pessoas Deslocadas e da Subcomissão sobre Diasporas",
@@ -4877,7 +4984,15 @@
               "local": "Paris",
               "dataInicio": "21-09-2018",
               "dataFim": "21-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -4885,7 +5000,24 @@
               "local": "Paris",
               "dataInicio": "19-09-2018",
               "dataFim": "20-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ADÃO SILVA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "3"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "EDITE ESTRELA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "162"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
@@ -4960,7 +5092,15 @@
               "local": "Copenhaga",
               "dataInicio": "10-09-2018",
               "dataFim": "11-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
+                }
+              }
             },
             {
               "nome": "Comissão de Migrações, Refugiados e Pessoas Deslocadas - Visita a Aldeias SOS na Grécia",
@@ -5349,22 +5489,6 @@
               }
             },
             {
-              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
-              "tipo": "REN",
-              "local": "Rabat",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PAULO PISCO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1741"
-                }
-              }
-            },
-            {
               "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -5377,6 +5501,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Rabat",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
                 }
               }
             },
@@ -7463,7 +7603,15 @@
               "local": "Bali",
               "dataInicio": "08-10-2018",
               "dataFim": "14-10-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "73ª Assembleia Geral da Organização das Nações Unidas",
@@ -7471,7 +7619,15 @@
               "local": "Nova Iorque",
               "dataInicio": "23-09-2018",
               "dataFim": "30-09-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Conferência de Alto Nível da OMC e da APM sobre facilitação do Comércio e dos Investimentos nos Balcãs Ocidentais",
@@ -7487,7 +7643,15 @@
               "local": "Berlim e Belgrado",
               "dataInicio": "07-07-2018",
               "dataFim": "13-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "25ª Assembleia-Geral da Assembleia Interparlamentar da Ortodoxia",
@@ -7495,7 +7659,15 @@
               "local": "Atenas",
               "dataInicio": "25-06-2018",
               "dataFim": "30-06-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Seminário ONU/PAM sobre direitos Humanos para Deputados da APM",
@@ -8552,12 +8724,45 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "WTO - 42nd session of the Steering Committee of the Parliamentary Conferênce on the WTO on the occasion of the annual WTO Public Forum",
+              "tipo": "REN",
+              "local": "Genebra e Varsóvia",
+              "dataInicio": "02-10-2018",
+              "dataFim": "05-10-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE PACHECO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "42"
+                }
+              }
+            },
+            {
               "nome": "Fórum Político de Alto-Nível sobre Desenvolvimento Sustentável e reuniões conexas",
               "tipo": "REN",
               "local": "Nova Iorque",
               "dataInicio": "09-07-2018",
               "dataFim": "19-07-2018",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "HORTENSE MARTINS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2225"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "TERESA MORAIS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1897"
+                  }
+                ]
+              }
             },
             {
               "nome": "Observação de Eleições no México",
