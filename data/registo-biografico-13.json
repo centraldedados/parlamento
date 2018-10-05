@@ -18779,7 +18779,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "24260",
+              "habId": "26580",
               "habDes": "Ciências da Comunicação",
               "habTipoId": "15",
               "habEstado": "C"
@@ -24541,51 +24541,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4533",
-                  "orgDes": "Comissão de Trabalho e Segurança Social",
-                  "orgSigla": "CTSS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5804",
-                  "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
-                  "orgSigla": "GT-SP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6604",
-                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
-                  "orgSigla": "GT-ECI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4148",
@@ -42961,7 +42917,46 @@
           "cadNomeCompleto": "DUARTE LE FALHER DE CAMPOS ALVES",
           "cadActividadeProfissional": "Economista",
           "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
+          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "8948",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-10-04",
+              "rgiRegimeBensId": "0",
+              "rgiCargoDes": "Deputado à Assembleia da República",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8833",
+                    "rgaActividade": "Membro da Direcção Nacional da JCP e dos seus organismos executivos",
+                    "rgaDataInicio": "2010-05-22",
+                    "rgaDataFim": "2017-02-01",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8834",
+                    "rgaActividade": "Funcionário do PCP - Membro da Direcção Nacional da JCP e dos seus organismos executivos",
+                    "rgaDataInicio": "2017-02-01",
+                    "rgaDataFim": "2017-11-01",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8835",
+                    "rgaActividade": "Assessor do Grupo Parlamentar do PCP",
+                    "rgaDataInicio": "2017-11-01",
+                    "rgaDataFim": "2018-09-14",
+                    "rgaRemunerada": "S"
+                  }
+                ]
+              },
+              "rgiCadId": "5710"
+            }
+          }
         },
         {
           "cadId": "4170",
@@ -47778,8 +47773,8 @@
           "cadId": "3387",
           "cadNomeCompleto": "JORGE MANUEL COSTA CAMPOS",
           "cadActividadeProfissional": "Professor do Ensino Superior",
-          "cadEstadoCivilCod": "2",
-          "cadEstadoCivilDes": "Divorciado(a)",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "3899",
