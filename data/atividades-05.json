@@ -1425,23 +1425,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "V",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1987-12-12",
-                    "pag": {
-                      "string": "683-683"
-                    },
-                    "idPag": "573555",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "30",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1457,6 +1440,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/030/1987-12-12/718?pgs=718&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "V",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1987-12-12",
+                    "pag": {
+                      "string": "683-683"
+                    },
+                    "idPag": "573555",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2758,7 +2758,7 @@
           "numero": "222",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; CDS; PSD; PS; PRD"
+            "string": "PS; PRD; PSD; CDS; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49794d6c39574c6e426b5a673d3d&fich=222_V.pdf&Inline=true"
         },
@@ -2791,7 +2791,7 @@
           "numero": "221",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; INDEP; PS"
+            "string": "PS; INDEP; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49794d5639574c6e426b5a673d3d&fich=221_V.pdf&Inline=true"
         },
@@ -3500,7 +3500,7 @@
           "numero": "206",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PS; PRD; PSD"
+            "string": "PS; PSD; CDS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49774e6c39574c6e426b5a673d3d&fich=206_V.pdf&Inline=true"
         },
@@ -3977,7 +3977,7 @@
           "numero": "198",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; PRD; INDEP; PSD; PS"
+            "string": "PS; PRD; PSD; PCP; INDEP; CDS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354f4639574c6e426b5a673d3d&fich=198_V.pdf&Inline=true"
         },
@@ -4108,7 +4108,7 @@
           "numero": "195",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PS; INDEP; PRD; PSD"
+            "string": "PS; PRD; INDEP; PSD; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354e5639574c6e426b5a673d3d&fich=195_V.pdf&Inline=true"
         },
@@ -4256,7 +4256,7 @@
           "numero": "192",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PSD"
+            "string": "PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354d6c39574c6e426b5a673d3d&fich=192_V.pdf&Inline=true"
         },
@@ -9161,7 +9161,7 @@
           "numero": "102",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PRD; INDEP; CDS; PSD; PCP"
+            "string": "PCP; CDS; INDEP; PRD; PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45774d6c39574c6e426b5a673d3d&fich=102_V.pdf&Inline=true"
         },
@@ -9355,7 +9355,7 @@
           "numero": "99",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PRD; INDEP; PCP; PSD; CDS"
+            "string": "CDS; PCP; PRD; PS; INDEP; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a6b35583159756347526d&fich=99_V.pdf&Inline=true"
         },
@@ -10428,7 +10428,7 @@
           "numero": "82",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; CDS; PS; PSD; PCP"
+            "string": "PEV; PS; PSD; PCP; CDS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a6779583159756347526d&fich=82_V.pdf&Inline=true"
         },
@@ -10888,7 +10888,7 @@
           "numero": "76",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PEV; PRD; PS; PSD; PCP"
+            "string": "PEV; PS; PSD; CDS; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a6332583159756347526d&fich=76_V.pdf&Inline=true"
         },
@@ -11632,7 +11632,7 @@
           "numero": "65",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; CDS; PRD; INDEP; PS; PSD"
+            "string": "PS; PRD; INDEP; CDS; PSD; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a5931583159756347526d&fich=65_V.pdf&Inline=true"
         },
@@ -11957,7 +11957,7 @@
           "numero": "61",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PS; PSD; PRD"
+            "string": "PS; PSD; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a5978583159756347526d&fich=61_V.pdf&Inline=true"
         },
@@ -15071,7 +15071,7 @@
           "numero": "22",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; PS; PSD; ID; PRD"
+            "string": "PS; PRD; PSD; CDS; PCP; ID"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4979583159756347526d&fich=22_V.pdf&Inline=true"
         },
@@ -15267,7 +15267,7 @@
           "numero": "19",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; INDEP; PRD; PS"
+            "string": "PS; INDEP; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4535583159756347526d&fich=19_V.pdf&Inline=true"
         },

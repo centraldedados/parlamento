@@ -4110,6 +4110,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "110",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IX",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2003-04-11",
+                    "pag": {
+                      "string": "4618-4619"
+                    },
+                    "idPag": "277176",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/110/2003-04-11/4618?pgs=4618-4619&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "111",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -4125,23 +4142,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/111/2003-04-12/4694?pgs=4694-4695&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "110",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IX",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2003-04-11",
-                    "pag": {
-                      "string": "4618-4619"
-                    },
-                    "idPag": "277176",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/09/01/110/2003-04-11/4618?pgs=4618-4619&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -14883,7 +14883,7 @@
           "numero": "140",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PAR; PSD; PCP; CDS-PP; BE"
+            "string": "PAR; PEV; BE; PS; PCP; PSD; CDS-PP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338784e444266535667756347526d&fich=140_IX.pdf&Inline=true"
         },
@@ -15380,7 +15380,7 @@
           "numero": "134",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; PCP"
+            "string": "PCP; PEV; PSD; PS; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338784d7a5266535667756347526d&fich=134_IX.pdf&Inline=true"
         },
@@ -18445,7 +18445,7 @@
           "numero": "97",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS; PSD; BE; PAR"
+            "string": "PAR; PSD; PS; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338354e31394a574335775a47593d&fich=97_IX.pdf&Inline=true"
         },
@@ -19659,7 +19659,7 @@
           "numero": "83",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS; PSD; CDS-PP"
+            "string": "CDS-PP; PS; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338344d31394a574335775a47593d&fich=83_IX.pdf&Inline=true"
         },
@@ -20231,7 +20231,7 @@
           "numero": "75",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; CDS-PP; BE"
+            "string": "BE; CDS-PP; PS; PCP; PSD; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338334e56394a574335775a47593d&fich=75_IX.pdf&Inline=true"
         },
@@ -20831,7 +20831,7 @@
           "numero": "67",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
+            "string": "PCP; PEV; PS; CDS-PP; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a574338324e31394a574335775a47593d&fich=67_IX.pdf&Inline=true"
         },
@@ -27836,16 +27836,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "73129",
-              "numeroAudiencia": "5-ECC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Sobre o futuro do Instituto Portugues de Arqueologia",
-              "entidades": "Trabalhadores do IPA - Instituto Português de Arqueologia",
-              "data": "2002-05-28",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "73130",
               "numeroAudiencia": "5-ECC-IX",
               "legislatura": "IX",
@@ -27853,6 +27843,16 @@
               "assunto": "Sobre a alteração do Decreto-Lei nº. 99/2001 de 28 de Março (Escolas Superiores de Enfermagem)",
               "entidades": "Sindicato Nacional do Ensino Superior - SNESup.",
               "data": "2002-06-06",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73129",
+              "numeroAudiencia": "5-ECC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Sobre o futuro do Instituto Portugues de Arqueologia",
+              "entidades": "Trabalhadores do IPA - Instituto Português de Arqueologia",
+              "data": "2002-05-28",
               "concedida": "Concedida"
             },
             {
@@ -28490,16 +28490,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "74509",
-              "numeroAudiencia": "106- AEPE-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "AUDIÊNCIA",
-              "entidades": "Embaixador do Irão",
-              "data": "2004-02-12",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "74497",
               "numeroAudiencia": "106-AEPE-IX",
               "legislatura": "IX",
@@ -28507,6 +28497,16 @@
               "assunto": "APRESENTAÇÃO DE CUMPRIMENTOS",
               "entidades": "Embaixador do Egipto",
               "data": "2004-01-21",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "74509",
+              "numeroAudiencia": "106- AEPE-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "AUDIÊNCIA",
+              "entidades": "Embaixador do Irão",
+              "data": "2004-02-12",
               "concedida": "Concedida"
             },
             {
