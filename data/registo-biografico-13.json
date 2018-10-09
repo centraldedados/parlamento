@@ -23089,7 +23089,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4526",
+                "orgDes": "Comissão de Defesa Nacional",
+                "orgSigla": "CDN",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "5493",
@@ -24541,7 +24551,51 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4532",
+                  "orgDes": "Comissão de Saúde",
+                  "orgSigla": "CS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4533",
+                  "orgDes": "Comissão de Trabalho e Segurança Social",
+                  "orgSigla": "CTSS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5804",
+                  "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
+                  "orgSigla": "GT-SP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "4148",
