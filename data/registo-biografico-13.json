@@ -7448,6 +7448,13 @@
                   "orgSigla": "GT-SB",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -7761,6 +7768,13 @@
                   "orgId": "5925",
                   "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
                   "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -8940,6 +8954,15 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6784",
+                "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                "orgSigla": "GT-ASR",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -11501,6 +11524,13 @@
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -14711,6 +14741,18 @@
                   "orgSigla": "GT-AEPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -17219,13 +17261,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5824",
-                "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                "orgSigla": "GT-SB",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5824",
+                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
+                  "orgSigla": "GT-SB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -17545,6 +17596,13 @@
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -27619,6 +27677,13 @@
                   "orgSigla": "GT-AEPE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -31265,6 +31330,13 @@
                   "orgId": "5925",
                   "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
                   "orgSigla": "GT-AEPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6784",
+                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
+                  "orgSigla": "GT-ASR",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

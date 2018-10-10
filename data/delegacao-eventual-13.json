@@ -8440,6 +8440,16 @@
         }
       },
       {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8465,16 +8475,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
       },
       {
         "id": "1871",
@@ -8596,6 +8596,42 @@
         }
       },
       {
+        "id": "1878",
+        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÁLVARO CASTELLO-BRANCO",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "1290"
+          }
+        }
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
         "id": "1872",
         "nome": "Reunião do conselho do IPEX - IPEX Board",
         "local": "Bruxelas",
@@ -8604,6 +8640,61 @@
         "dataInicio": "2018-10-11",
         "dataFim": "2018-10-11",
         "participantes": null
+      },
+      {
+        "id": "1876",
+        "nome": "Conferência Interparlamentar sobre Política Externa e de Segurança Comum e Política Comum de Segurança e Defesa (PESC/PCSD).",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-11",
+        "dataFim": "2018-10-12",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "JOSÉ DE MATOS CORREIA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1643"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOSÉ CESÁRIO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "77"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA LUÍS ALBUQUERQUE",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4380"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA SOUSA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5933"
+            },
+            {
+              "tipo": "D",
+              "nome": "ASCENSO SIMÕES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2010"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
       }
     ]
   }
