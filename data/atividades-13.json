@@ -1295,23 +1295,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2015-12-04",
-                    "pag": {
-                      "string": "67-67"
-                    },
-                    "idPag": "755822",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "19",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1327,6 +1310,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/019/2015-12-19/55?pgs=55&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2015-12-04",
+                    "pag": {
+                      "string": "67-67"
+                    },
+                    "idPag": "755822",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5847,6 +5847,48 @@
               "honra": "S"
             }
           }
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De pesar pelo falecimento de Mariema",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-10-10",
+          "numero": "636",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396b5a6d497a4d3255785a4330304d445a6c4c5451785a545974596d45785a69307a59324a6d4d6a4e6b4f5451304e6d59755a47396a65413d3d&fich=dfb33e1d-406e-41e6-ba1f-3cbf23d9446f.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De pesar pelo falecimento de Odette Ferreira",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-10-10",
+          "numero": "635",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636939685a574d7a5a5751334d43316a4d7a637a4c545179596a55744f5755784e5330774e4755784f5441794d7a59324f5751755a47396a65413d3d&fich=aec3ed70-c373-42b5-9e15-04e19023669d.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De saudação pelo 20.º aniversário da atribuição do Nobel da Literatura a José Saramago",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-10-10",
+          "numero": "634",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PCP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938354e54417a59546b354d4330314e7a4d304c54517a596d4d74596a4d784f43316c4e6d45325a4749314e44597a4d6a4d755a47396a65413d3d&fich=9503a990-5734-43bc-b318-e6a6db546323.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -56049,6 +56091,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110441",
+              "numeroAudicao": "153-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "A propósito da concretização da venda de imóveis da Fidelidade em Lisboa a empresas sediadas em Offshore",
+              "entidades": "S.E.  DA   HABITAÇÃO",
+              "data": "2018-10-09"
+            },
+            {
+              "IDAudicao": "110438",
+              "numeroAudicao": "152-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "A propósito da concretização da venda de imóveis da Fidelidade em Lisboa a empresas sediadas em Offshore",
+              "entidades": "Vereadora Paula Marques, em representação do PCM de Lisboa",
+              "data": "2018-10-10"
+            },
+            {
               "IDAudicao": "110428",
               "numeroAudicao": "151-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -58145,6 +58205,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110459",
+              "numeroAudicao": "255-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição dos peticionários da Petição n.º 533/XIII/3ª",
+              "entidades": "APEFE - Associação de Promotores de Espetáculos, Festivais e Eventos",
+              "data": "2018-10-09"
+            },
+            {
               "IDAudicao": "110419",
               "numeroAudicao": "254-COFMA-XIII",
               "legislatura": "XIII",
@@ -58824,7 +58893,7 @@
               "numeroAudicao": "179-COFMA-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
-              "assunto": "Petição n.º 298/XIII/2.ª",
+              "assunto": "Audição obrigatória dos peticionários da Petição n.º 298/XIII/2.ª",
               "entidades": "Presidente do Conselho de Administração do Novo Banco, Dr. António Ramalho",
               "data": "2017-09-19"
             },
@@ -61270,6 +61339,24 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "110460",
+              "numeroAudicao": "112-CTSS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Audição dos responsáveis da Autoridade para as Condições do Trabalho (ACT) sobre a atividade da Ryanair em Portugal",
+              "entidades": "ACT - Autoridade para as Condições do Trabalho",
+              "data": "2018-10-11"
+            },
+            {
+              "IDAudicao": "110432",
+              "numeroAudicao": "111-CTSS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente do Conselho Diretivo do Instituto da Segurança Social, Dr. Rui Fiolhais",
+              "entidades": "Presidente do Conselho Diretivo do Instituto da Segurança Social, Dr. Rui Fiolhais",
+              "data": "2018-10-10"
+            },
             {
               "IDAudicao": "110361",
               "numeroAudicao": "110-CTSS-XIII",
@@ -64168,6 +64255,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110462",
+              "numeroAudicao": "28-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Professor Francisco Nunes Correia",
+              "entidades": "Professor Francisco Nunes Correia",
+              "data": "2018-10-16"
+            },
+            {
+              "IDAudicao": "110461",
+              "numeroAudicao": "27-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Professor António Castro Guerra",
+              "entidades": "Professor António Castro Guerra",
+              "data": "2018-10-16"
+            },
+            {
               "IDAudicao": "110377",
               "numeroAudicao": "26-CPIPREPE-XIII",
               "legislatura": "XIII",
@@ -66087,6 +66192,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110452",
+              "numeroAudicao": "132-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Conselho de Administração da Fundação de Serralves, na sequência dos requerimentos apresentados pelos Grupos Parlamentares do PS e do BE, sobre a demissão do diretor do Museu de Serralves após a truncagem de uma exposição do Museu por ordem do Conselho de Administração da Fundação",
+              "entidades": "Conselho de Administração da Fundação de Serralves",
+              "data": "2018-10-16"
+            },
+            {
+              "IDAudicao": "110451",
+              "numeroAudicao": "131-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Diretor demissionário do Museu de Serralves, João Ribas, na sequência dos requerimentos apresentados pelos Grupos Parlamentares do PS e do BE, sobre a sua demissão de diretor do Museu de Serralves após a truncagem de uma exposição do Museu por ordem do Conselho de Administração da Fundação",
+              "entidades": "Dr. João Ribas",
+              "data": "2018-10-16"
+            },
+            {
               "IDAudicao": "110339",
               "numeroAudicao": "130-CCCJD-XIII",
               "legislatura": "XIII",
@@ -67256,6 +67379,7 @@
               "numeroAudicao": "28-CEPT2030-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
+              "assunto": "Audição de Sua Excelência o Presidente do Governo Regional da Região Autónoma do Açores, Dr. Vasco Alves Cordeiro, no âmbito do novo quadro financeiro plurianual e o processo de definição da «Estratégia Portugal 2030»;",
               "entidades": null
             },
             {
@@ -67506,12 +67630,21 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110449",
+              "numeroAudicao": "161-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Solicitam o fim da violência Obstétrica nos blocos de parto dos hospitais portugueses",
+              "entidades": null,
+              "data": "2018-10-10"
+            },
+            {
               "IDAudicao": "110325",
               "numeroAudicao": "160-CS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de Doenças Inflamatórias do Intestino (Crohn e Colite Ulcerosa",
-              "entidades": "Audição de Peticionários sobre a Petição n.º 503 XIII (3.ª)",
+              "entidades": "Audição de Peticionários sobre a Petição n.º 503 XIII (3.ª);Audição dos Peticionários da Petição n.º 507/XIII (3.ª)",
               "data": "2018-09-26"
             },
             {
@@ -68949,6 +69082,24 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "110434",
+              "numeroAudicao": "132-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro da Educação, a requerimento do Grupo Parlamentar do CDS-PP, para prestar esclarecimentos sobre a forma como foi conduzido o programa de ‘vouchers’ para entrega de manuais escolares gratuitos, a requerimento do Grupo Parlamentar do PSD, para prestar esclarecimentos sobre as carências de assistentes operacionais nas escolas e a requerimentos do Grupo Parlamentar do PCP, sobre Educação Especial e  sobre a recuperação do tempo de serviço dos professores e educadores",
+              "entidades": null,
+              "data": "2018-10-17"
+            },
+            {
+              "IDAudicao": "110433",
+              "numeroAudicao": "131-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Reitor da Universidade de Lisboa a requerimento do Grupo Parlamentar do PSD, em virtude das declarações do Reitor da Universidade de Lisboa sobre a política do ensino superior, no seu discurso de abertura do ano letivo",
+              "entidades": null,
+              "data": "2018-10-16"
+            },
             {
               "IDAudicao": "110410",
               "numeroAudicao": "130-CEC-XIII",
@@ -75589,7 +75740,7 @@
               "assunto": "Audiência do Sindicato dos Trabalhadores de Espetáculos, do Audiovisual e dos Músicos, sobre  o caminho artístico seguido no OPART, EPE, nomeadamente no que respeita à temporada lírica do TNSC e à substituição da Direcção Artística da CNB",
               "entidades": "Sindicato dos Trabalhadores de Espetáculos, do Audiovisual e dos Músicos",
               "data": "2018-10-03",
-              "concedida": "Em apreciação"
+              "concedida": "Concedida"
             },
             {
               "IDAudiencia": "110220",
@@ -76125,6 +76276,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110436",
+              "numeroAudiencia": "75-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre a construção da Ala Pediátrica do Hospital S. João no Porto",
+              "entidades": "APOHSJ – Associação Pediátrica Oncológica",
+              "data": "2018-10-10",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110435",
+              "numeroAudiencia": "74-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Para debater temas como a baixa adesão à terapêutica e o excessivo consumo de sal",
+              "entidades": "Sociedade Portuguesa de Hipertensão (SPH)",
+              "data": "2018-10-10",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "110411",
               "numeroAudiencia": "73-CS-XIII",
@@ -76859,6 +77030,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110442",
+              "numeroAudiencia": "120-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido da audiência do SNESUP,  para expor os problemas com o processamento das progressões remuneratórias dos investigadores da Carreira de Investigação Científica, incluindo o não cumprimento do disposto no art.º 18.º da Lei n.º 114/2017 (Lei do Orçamento do Estado para 2018).",
+              "entidades": null,
+              "data": "2018-10-16",
+              "concedida": "Em apreciação"
+            },
+            {
+              "IDAudiencia": "110431",
+              "numeroAudiencia": "119-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido da audiência da Aidglobal,  com o objetivo de apresentar os resultados e as recomendações do projeto \"Jovens na Política - Participar para a Cidadania Global\"",
+              "entidades": null,
+              "data": "2018-10-11",
+              "concedida": "Em apreciação"
+            },
             {
               "IDAudiencia": "110363",
               "numeroAudiencia": "118-CEC-XIII",
@@ -78934,6 +79125,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "110453",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-07",
+              "dataFim": "2018-10-07",
+              "designacao": "III Congresso Europeu das Áreas Comunitárias",
+              "localEvento": "Central de Biomassa para a Energia (Miranda do Corvo)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110450",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-04",
+              "dataFim": "2018-10-04",
+              "designacao": "Conferência “Recursos Hídricos e Agricultura em cenários de Alterações Climáticas”",
+              "localEvento": "Universidade de Évora",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "110427",
               "legislatura": "XIII",
@@ -81715,6 +81926,36 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "110447",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-10",
+              "dataFim": "2018-10-10",
+              "designacao": "Visita de trabalho ao Comando de Operações da Força Aérea",
+              "localEvento": "Lisboa",
+              "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "110446",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-09",
+              "dataFim": "2018-10-09",
+              "designacao": "Visita de trabalho ao complexo militar das linhas de Torres",
+              "localEvento": "Sobral de Monte Agraço",
+              "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "110448",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-09",
+              "dataFim": "2018-10-09",
+              "designacao": "Encontro com o Embaixador do Estado de Israel",
+              "localEvento": "Embaixada - Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110334",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -81835,22 +82076,22 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "108441",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-04-18",
-              "dataFim": "2018-04-18",
-              "designacao": "Jantar oferecido pela Embaixadora do Reino Unido, Kirsty Hayes, em honra de Peter Abbott",
-              "localEvento": "Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "108442",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-04-18",
               "dataFim": "2018-04-18",
               "designacao": "Ciclo de conversas \"Camões dá que falar\" - Os desafios da cooperação para o desenvolvimento no contexto da Agenda 2030, com Jorge Moreira da Silva",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "108441",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-18",
+              "dataFim": "2018-04-18",
+              "designacao": "Jantar oferecido pela Embaixadora do Reino Unido, Kirsty Hayes, em honra de Peter Abbott",
               "localEvento": "Lisboa",
               "tipo": "Representação"
             },
@@ -82045,16 +82286,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "106633",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2017-10-10",
-              "dataFim": "2017-10-10",
-              "designacao": "Cerimónia de Boas-Vindas aos Reis dos Países Baixos",
-              "localEvento": "Assembleia da República",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "106628",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -82062,6 +82293,16 @@
               "dataFim": "2017-10-10",
               "designacao": "Jantar oferecido pelo  Presidente da República em honra do dos Reis dos Países Baixos",
               "localEvento": "Palácio da Ajuda - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "106633",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2017-10-10",
+              "dataFim": "2017-10-10",
+              "designacao": "Cerimónia de Boas-Vindas aos Reis dos Países Baixos",
+              "localEvento": "Assembleia da República",
               "tipo": "Representação"
             },
             {
@@ -82165,16 +82406,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "105485",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-06-21",
-              "dataFim": "2017-06-21",
-              "designacao": "Conferência de Alto Nível sobre Gestão de Migrações",
-              "localEvento": "Bruxelas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "105539",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -82182,6 +82413,16 @@
               "dataFim": "2017-06-21",
               "designacao": "Jantar em honra do escritor austríaco Robert Menasse",
               "localEvento": "Embaixada da República da  Áustria",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "105485",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-06-21",
+              "dataFim": "2017-06-21",
+              "designacao": "Conferência de Alto Nível sobre Gestão de Migrações",
+              "localEvento": "Bruxelas",
               "tipo": "Representação"
             },
             {
@@ -82265,16 +82506,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "105096",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-05-04",
-              "dataFim": "2017-05-04",
-              "designacao": "Receção por ocasião do 69.º Aniversário da Independência do Estado de Israel",
-              "localEvento": "Hotel InterContinental - Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "105097",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -82282,6 +82513,16 @@
               "dataFim": "2017-05-04",
               "designacao": "Reunião com o Embaixador da República Federal da Alemanha, Dr. Christof Weil",
               "localEvento": "Embaixada - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "105096",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-05-04",
+              "dataFim": "2017-05-04",
+              "designacao": "Receção por ocasião do 69.º Aniversário da Independência do Estado de Israel",
+              "localEvento": "Hotel InterContinental - Lisboa",
               "tipo": "Representação"
             },
             {
@@ -83190,7 +83431,7 @@
               "dataFim": "2018-10-04",
               "designacao": "Visita à exposição \"Robert Mapplethorpe\" na Fundação de Serralves",
               "localEvento": "Fundação de Serralves",
-              "tipo": "Representação"
+              "tipo": "Deslocação"
             },
             {
               "IDDeslocacao": "109473",
@@ -84250,6 +84491,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "110440",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-08",
+              "dataFim": "2018-10-09",
+              "designacao": "Verificar as Unidades de Saúde no Distrito de Beja",
+              "localEvento": "Hospital e Centro de Saúde de Beja",
+              "tipo": "Deslocação"
+            },
             {
               "IDDeslocacao": "110313",
               "legislatura": "XIII",
@@ -86255,6 +86506,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosEventosComissaoOut": [
+            {
+              "IDEvento": "110458",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "data": "2018-10-09",
+              "designacao": "Desenvolvimento Sustentável",
+              "localEvento": "Anfiteatro n.º 131 - Colégio do Espírito Santo, Universidade Évora",
+              "tipoEvento": "Audição Pública"
+            },
             {
               "IDEvento": "110355",
               "legislatura": "XIII",

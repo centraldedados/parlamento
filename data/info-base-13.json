@@ -3939,8 +3939,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-10-10"
+              },
+              {
                 "sioDes": "Efetivo Definitivo",
-                "sioDtInicio": "2018-09-20"
+                "sioDtInicio": "2018-09-20",
+                "sioDtFim": "2018-10-10"
               },
               {
                 "sioDes": "Suspenso(Efet Def)",
@@ -6324,8 +6329,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-10"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-09-20"
+                "sioDtInicio": "2018-09-20",
+                "sioDtFim": "2018-10-10"
               },
               {
                 "sioDes": "Efetivo Temporário",

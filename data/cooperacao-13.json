@@ -1356,6 +1356,116 @@
           ]
         },
         "documentos": null
+      },
+      {
+        "id": "80",
+        "tipo": "ACR",
+        "nome": "Encontro Parlamentar Luso-Espanhol",
+        "legislatura": "XIII",
+        "sessao": "3",
+        "data": "2017-05-22",
+        "local": null,
+        "programas": null,
+        "atividades": {
+          "Atividade": {
+            "id": "100",
+            "tipoAtividade": "RNI",
+            "tipo": null,
+            "nome": "VI Fórum do Encontro Parlamentar Luso-Espanhol",
+            "dataInicio": "2017-05-21",
+            "dataFim": "2017-05-22",
+            "local": "Vila Real",
+            "participantes": {
+              "Participante": [
+                {
+                  "nome": "Carla Sousa (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "5933"
+                },
+                {
+                  "nome": "Duarte Pacheco (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "42"
+                },
+                {
+                  "nome": "Eduardo Ferro Rodrigues (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "163"
+                },
+                {
+                  "nome": "Fernando Anastácio (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4012"
+                },
+                {
+                  "nome": "Helder Amaral (CDS-PP)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1450"
+                },
+                {
+                  "nome": "Idália Salvador Serrão (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2132"
+                },
+                {
+                  "nome": "Jorge Paulo Oliveira (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2665"
+                },
+                {
+                  "nome": "Marco António Costa (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "646"
+                },
+                {
+                  "nome": "Maria da Luz Rosinha (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "695"
+                },
+                {
+                  "nome": "Maria Manuela Tender (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4365"
+                },
+                {
+                  "nome": "Miranda Calha (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "193"
+                },
+                {
+                  "nome": "Paula Santos (PCP)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4197"
+                },
+                {
+                  "nome": "Pedro Soares (BE)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "839"
+                },
+                {
+                  "nome": "Regina Bastos (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2106"
+                }
+              ]
+            }
+          }
+        },
+        "documentos": null
       }
     ]
   }

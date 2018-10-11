@@ -16096,40 +16096,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                "orgSigla": "GT-RP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6063",
@@ -23071,14 +23038,14 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "20971",
+                "habId": "26600",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "20972",
-                "habDes": "Pós Graduação em Direito Fiscal;\nCurso de Preparação para a prática Tributária, DGCI.",
+                "habId": "26601",
+                "habDes": "Pós Graduação em Direito Fiscal;\nCurso de Preparação para a prática Tributária, DGCI;\nCurso de Especialização em Direito Intelectual.",
                 "habTipoId": "16"
               }
             ]
@@ -23086,63 +23053,45 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "24054",
-                "funDes": "Deputado na Assembleia da República, XIII Legislatura",
+                "funId": "30296",
+                "funDes": "Deputado na Assembleia da República",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "24055",
+                "funId": "30297",
                 "funDes": "Advogado",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "24056",
-                "funDes": "Membro da Assembleia Municipal de Felgueiras",
+                "funId": "30298",
+                "funDes": "Presidente da Direção do Futebol Clube de Felgueiras",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "24057",
-                "funDes": "Vogal da Comissão Política do PSD da Secção de Felgueiras",
+                "funId": "30299",
+                "funDes": "Deputado na Assembleia Municipal de Felgueiras",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "24058",
-                "funDes": "Vogal do Conselho de Jurisdição do PSD do Distrito do Porto",
+                "funId": "30300",
+                "funDes": "Membro da Assembleia Municipal de Felgueiras: 2009-2013",
                 "funOrdem": "5",
-                "funAntiga": "N"
+                "funAntiga": "S"
               },
               {
-                "funId": "24059",
-                "funDes": "Secretário da Comissão Política do JSD da Secção de Felgueiras: 2007-2009",
+                "funId": "30301",
+                "funDes": "1º Secretário e Vice-presidente da Assembleia Municipal de Felgueiras: 2013-2017",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "24060",
-                "funDes": "Vogal da Comissão Política do PSD da Secção de Felgueiras: 2009-2011, 2011-2013, 2013-presente",
+                "funId": "30302",
+                "funDes": "Líder de Grupo Político Municipal na Assembleia Municipal de Felgueiras: 2017",
                 "funOrdem": "7",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "24061",
-                "funDes": "Membro da Assembleia Municipal de Felgueiras, pelo PSD: 2009-2013",
-                "funOrdem": "8",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "24062",
-                "funDes": "Vogal do Conselho de Jurisdição do PSD do Distrito do Porto: 2014 até ao presente",
-                "funOrdem": "9",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "24063",
-                "funDes": "1º Secretário e Vice-presidente da Assembleia Municipal de Felgueiras, pelo PSD: 2013 até ao presente",
-                "funOrdem": "10",
                 "funAntiga": "S"
               }
             ]
@@ -26686,7 +26635,12 @@
                   "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
                   "orgSigla": "GT-ECI",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 },
                 {
                   "orgId": "6624",
