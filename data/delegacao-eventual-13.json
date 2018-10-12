@@ -8487,6 +8487,24 @@
         "participantes": null
       },
       {
+        "id": "1879",
+        "nome": "Orador na Sessão \"Will We reach the Sustainable Development Goals for Health by 2030\" - ECDC (European Center for Disease Prevention and Control)",
+        "local": "Badgastein",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-04",
+        "dataFim": "2018-10-04",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
+      },
+      {
         "id": "1870",
         "nome": "Conferência interparlamentar \"Transformação da região dos Balcãs Ocidentais - perspetiva parlamentar sobre o papel e futuro do processo de adesão à UE\"",
         "local": "Sófia",
@@ -8559,14 +8577,22 @@
         }
       },
       {
-        "id": "1873",
-        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "id": "1878",
+        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
         "dataInicio": "2018-10-10",
         "dataFim": "2018-10-10",
-        "participantes": null
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÁLVARO CASTELLO-BRANCO",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "1290"
+          }
+        }
       },
       {
         "id": "1875",
@@ -8596,24 +8622,6 @@
         }
       },
       {
-        "id": "1878",
-        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "ÁLVARO CASTELLO-BRANCO",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "1290"
-          }
-        }
-      },
-      {
         "id": "1877",
         "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
         "local": "Bruxelas",
@@ -8632,13 +8640,13 @@
         }
       },
       {
-        "id": "1872",
-        "nome": "Reunião do conselho do IPEX - IPEX Board",
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-10-11",
-        "dataFim": "2018-10-11",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
         "participantes": null
       },
       {
@@ -8695,6 +8703,26 @@
             }
           ]
         }
+      },
+      {
+        "id": "1872",
+        "nome": "Reunião do conselho do IPEX - IPEX Board",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-11",
+        "dataFim": "2018-10-11",
+        "participantes": null
+      },
+      {
+        "id": "1880",
+        "nome": "Conferência Anual dos Correspondentes do CERDP",
+        "local": "Helsínquia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-18",
+        "dataFim": "2018-10-20",
+        "participantes": null
       }
     ]
   }

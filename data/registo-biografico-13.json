@@ -2737,6 +2737,13 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "6424",
+                  "orgDes": "Grupo de Trabalho - Participação de Animais em Circos",
+                  "orgSigla": "GT-PAC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "6684",
                   "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
                   "orgSigla": "GT-RP",
@@ -7956,19 +7963,19 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "25860",
+                "habId": "26620",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "25861",
+                "habId": "26621",
                 "habDes": "Direito",
                 "habTipoId": "15",
                 "habEstado": "C"
               },
               {
-                "habId": "25862",
+                "habId": "26622",
                 "habDes": "Pós- Graduação em Estudos Europeus (Universidade do Sarre - Alemanha)",
                 "habTipoId": "16"
               }
@@ -7977,31 +7984,31 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29576",
+                "funId": "30316",
                 "funDes": "Deputada na XIII Legislatura ",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29577",
+                "funId": "30317",
                 "funDes": "Professora Universitária e Investigadora",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29578",
+                "funId": "30318",
                 "funDes": "Ministra da Administração Interna do XXI Governo Constitucional (2015-2017)",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "29579",
+                "funId": "30319",
                 "funDes": "Diretora do Departamento de Direito da Universidade Autónoma de Lisboa (2012-2015)",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "29580",
+                "funId": "30320",
                 "funDes": "Coordenadora do Núcleo Justiça e Assuntos Internos na REPER, Bruxelas (2006-2012)",
                 "funOrdem": "5",
                 "funAntiga": "S"
@@ -8011,57 +8018,57 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7191",
+                "pubId": "7451",
                 "pubDes": "Das Timesharing an Ferienimmobilien in der EU – Eine rechtsvergleichende Studie unter Berücksichtigung der Timesharing-Rictlinie (94/47/EG), Nomos Verlag, Baden-Baden, 1998. ISBN 3-7890-5167-5  ",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7192",
+                "pubId": "7452",
                 "pubDes": "Os princípios estruturantes do direito comunitário de criação jurisprudencial, Colecção Divulgação do Direito Comunitário, Gabinete de Direito Europeu do Ministério da Justiça, Lisboa, 2000. ISNN 0871-469X",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7193",
+                "pubId": "7453",
                 "pubDes": "The emergence of an european asylum policy / L’emergence d’une politique européenne d’asile (Coordenadora com Philippe de Bruycker), Bruylant, Bruxelas, 2004. ISBN 2-8027-1815-0",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7194",
+                "pubId": "7454",
                 "pubDes": "O espaço de liberdade, segurança e justiça da UE: desenvolvimentos recentes/ The EU area of freedom, security and justice:  recent developments,  EdiUAL, Lisboa, 2014 ",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7195",
+                "pubId": "7455",
                 "pubDes": "Introdução ao Direito (coordenadora com Pedro Trovão do Rosário, Anja Bothe, António Carlos dos Santos, António Pedro Ferreira, Jorge Carvalho, Stela Barbas), Almedina, Coimbra, 2016",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7196",
+                "pubId": "7456",
                 "pubDes": "“A naturalização do estrangeiro residente: concretização do direito fundamental à cidadania portuguesa – Anotação ao Acórdão do Supremo Tribunal Administrativo (1.ª Secção) de 5.2.2013, P. 76/12”, in Cadernos de Justiça Administrativa n.º 107, Setembro/Outubro 2014, pp. 23-36",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7197",
+                "pubId": "7457",
                 "pubDes": "“Globalização e Livre Circulação de Pessoas” (2015), Themis, ano XIII, n.ºs 26/27, 2014, pp. 137-142",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7198",
+                "pubId": "7458",
                 "pubDes": "“Cooperação judiciária em matéria penal na União Europeia: enquadramento normativo-institucional”, in Fernanda Palma, Augusto Santos Silva, Paulo de Sousa Mendes, Carlota Almeida (Coord.), Direito de Investigação Criminal e da Prova, Coimbra, Almedina,  2014, pp. 299-322.",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "7199",
+                "pubId": "7459",
                 "pubDes": "“Discriminação e Nacionalidade”, ReDIP – Revista de Direito Público, n.º 9 (janeiro-junho de 2013), pp.7-12. ",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "7200",
+                "pubId": "7460",
                 "pubDes": "“Segurança versus Privacidade: Breves notas a Propósito do Acordo UE-EUA sobre a transmissão de dados PNR (Passenger Name Record)”, Themis, Ano XII, n.ºs 22/23, 2012, pp.51-65 ",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "7201",
+                "pubId": "7461",
                 "pubDes": "“Le partenariat pour la mobilité: un instrument de l’approche globale en matière d’immigration », in M. Maes, MC Foblets, Ph de Bruycker, D. Vanheule, J. Wouters (eds), External Dimensions of EU Migration and Asylum Law and Policy / Dimensions Externes du Droit et de la Politique d’Immigration et d’Asile de l’UE, Bruylant, Brussels, 2011, pp. 343-358. ",
                 "pubOrdem": "11"
               }
@@ -16096,7 +16103,40 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4534",
+                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+                  "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6684",
+                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                "orgSigla": "GT-RP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
+            }
+          }
         },
         {
           "cadId": "6063",
@@ -23098,13 +23138,22 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4526",
-                "orgDes": "Comissão de Defesa Nacional",
-                "orgSigla": "CDN",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
             }
           }
         },
@@ -29736,13 +29785,6 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
                 {
                   "orgId": "4529",
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
@@ -42532,14 +42574,15 @@
           "cadId": "5932",
           "cadNomeCompleto": "MARIA CONSTANÇA DIAS URBANO DE SOUSA",
           "cadActividadeProfissional": "Professora Universitária, Advogada (inscrição suspensa)",
-          "cadEstadoCivilCod": "2",
-          "cadEstadoCivilDes": "Divorciado(a)",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "8348",
               "rgiLegDes": "XIII",
               "rgiDataVersao": "2018-02-27",
-              "rgiRegimeBensId": "0",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputada",
               "rgiCargoData": "2017",
               "rgiApoiosBeneficios": "Bolsa de Estudos (Pós-Graduação/Mestrado e Doutoramento)",
@@ -53636,9 +53679,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8769",
+              "rgiId": "8968",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-07-12",
+              "rgiDataVersao": "2018-10-11",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à Assembleia da República (XIII Legislatura)",
@@ -53649,123 +53692,129 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8640",
+                    "rgaId": "8853",
                     "rgaActividade": "Deputado à Assembleia da República (XII Legislatura)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-23",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8641",
+                    "rgaId": "8854",
                     "rgaActividade": "Assistente universitário (Faculdade de Direito da Universidade de Lisboa)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8642",
+                    "rgaId": "8855",
                     "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XIII Legislatura)",
                     "rgaDataInicio": "2017-03-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8643",
+                    "rgaId": "8856",
                     "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XII Legislatura)",
                     "rgaDataInicio": "2012-06-14",
                     "rgaDataFim": "2017-03-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8644",
+                    "rgaId": "8857",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8645",
+                    "rgaId": "8858",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-22",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8646",
+                    "rgaId": "8859",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-26",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8647",
+                    "rgaId": "8860",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-24",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8648",
+                    "rgaId": "8861",
                     "rgaActividade": "Membro da Assembleia de Freguesia de Alvalade (mandato 2009-2013)",
                     "rgaDataInicio": "2011-12",
                     "rgaDataFim": "2013-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8649",
+                    "rgaId": "8862",
                     "rgaActividade": "Membro do Conselho Geral do Centro de Estudos Judiciários, eleito pela AR",
                     "rgaDataInicio": "2012-07-18",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8650",
+                    "rgaId": "8863",
                     "rgaActividade": "Membro do Conselho Pedagógico do Centro de Estudos Judiciários, designado pelo respetivo Conselho Geral ",
                     "rgaDataInicio": "2012-12-19",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8651",
+                    "rgaId": "8864",
                     "rgaActividade": "Participações regulares nos Programas Em Foco e Hora Económico, do canal Económico TV",
                     "rgaDataInicio": "2010",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8652",
+                    "rgaId": "8865",
                     "rgaActividade": "Membro dos Conselhos Gerais dos Agrupamentos de Escolas Vergílio Ferreira, Lindley Cintra e Alto do Lumiar, designado pelo Município de Lisboa ",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2018",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8653",
+                    "rgaId": "8866",
                     "rgaActividade": "Participações regulares em programas de debate na SIC Notícias",
                     "rgaDataInicio": "2016",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8654",
+                    "rgaId": "8867",
                     "rgaActividade": "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa) ",
                     "rgaDataInicio": "2016-11-02",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8655",
+                    "rgaId": "8868",
                     "rgaActividade": "Membro suplente do Conselho de Escola da Faculdade de Direito da Universidade de Lisboa (substituição pontual de membros efetivos)",
                     "rgaDataInicio": "2016-11-21",
                     "rgaDataFim": "2017-11-29",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8656",
+                    "rgaId": "8869",
                     "rgaActividade": "Coluna semanal de opinião no jornal Sol",
                     "rgaDataInicio": "2017",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8657",
+                    "rgaId": "8870",
                     "rgaActividade": "Lecionação de aulas e seminários pontuais de curta duração em cursos de pós-graduação e cursos de verão organizados pelo Instituto de Ciências Jurídico-Políticas da Faculdade de Direito da Universidade de Lisboa, pelo Instituto de Direito Privado da Faculdade de Direito da Universidade de Lisboa e pelo Instituto de Direito Económico, Financeiro e Fiscal da Faculdade de Direito da Universidade de Lisboa",
                     "rgaDataInicio": "2017",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8871",
+                    "rgaActividade": "Membro da Secção de Arquivos do Conselho Nacional de Cultura, em representação da Comissão de Acesso aos Documentos Administrativos",
+                    "rgaDataInicio": "2018-10-29",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -53773,7 +53822,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "7039",
+                    "rgcId": "7178",
                     "rgcCargo": "Membro da Direcção",
                     "rgcEntidade": "English Speaking Union - Portugal",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -53781,7 +53830,7 @@
                     "rgcDataInicio": "2000"
                   },
                   {
-                    "rgcId": "7040",
+                    "rgcId": "7179",
                     "rgcCargo": "Presidente da mesa da Assembleia-Geral ",
                     "rgcEntidade": "Legística - Associação para a Qualidade da Legislação",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -53789,7 +53838,7 @@
                     "rgcDataInicio": "2013-05"
                   },
                   {
-                    "rgcId": "7041",
+                    "rgcId": "7180",
                     "rgcCargo": "Membro do Conselho Geral (órgão consultivo)",
                     "rgcEntidade": "Sindicato de Professores da Grande Lisboa",
                     "rgcAreaActividade": "Sindicato",
