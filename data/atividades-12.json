@@ -2111,23 +2111,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "103",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "pubdt": "2014-07-09",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "687685",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/03/103/2014-07-09/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "104",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2142,6 +2125,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/03/104/2014-07-11/4?pgs=4-5&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "103",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "pubdt": "2014-07-09",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "687685",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/03/103/2014-07-09/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5237,23 +5237,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "31",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2011-10-15",
-                    "pag": {
-                      "string": "7-7"
-                    },
-                    "idPag": "568518",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/01/031/2011-10-15/7?pgs=7&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "32",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -5268,6 +5251,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/01/032/2011-10-20/63?pgs=63&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "31",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2011-10-15",
+                    "pag": {
+                      "string": "7-7"
+                    },
+                    "idPag": "568518",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/12/01/031/2011-10-15/7?pgs=7&org=PLC",
                     "idDeb": null
                   }
                 ]

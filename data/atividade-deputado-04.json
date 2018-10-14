@@ -438,6 +438,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230193",
+                  "intTe": "Responde ao Pedido de Esclarecimento do Deputado Francisco Jardim (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1695-1698; 1699"
+                },
+                {
                   "intId": "228191",
                   "intSu": "Decreto-Lei n.º 288/85 de 23 de Junho - prevê a fixação por parte das Assembleias Distritais de quadros privativos, integrados por pessoal que venha a ser indispensável ao funcionamento dos Órgãos Distritais.",
                   "pubDtreu": "1986-01-14",
@@ -823,6 +836,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230245",
+                  "intTe": "Declaração final do CDS",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1737-1739"
+                },
                 {
                   "intId": "229423",
                   "intSu": "Criação de uma delegação à Assembleia Parlamentar da União da Europa Ocidental (UEO) com o estatuto de observador",
@@ -2643,6 +2669,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230236",
+                  "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Borges de Carvalho (Indep.) e António Lobo Xavier (CDS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1728-1731; 1732-1733"
+                },
+                {
                   "intId": "229492",
                   "intSu": "Importância da tomada de posse do novo Presidente da República",
                   "pubDtreu": "1986-03-10",
@@ -2789,15 +2828,6 @@
                     "relFase": "Baixa comissão especialidade"
                   },
                   {
-                    "accDtrel": "1987-04-29 00:00:00.0",
-                    "iniTi": "Eleição dos deputados ao Parlamento Europeu",
-                    "iniId": "27583",
-                    "iniNr": "412",
-                    "iniTp": "Projeto de Lei",
-                    "iniSelLg": "IV",
-                    "relFase": "Baixa comissão especialidade"
-                  },
-                  {
                     "accDtrel": "1987-04-28 00:00:00.0",
                     "iniTi": "Alteração ao Código do Processo Penal - data de entrada em vigor",
                     "iniId": "27592",
@@ -2841,6 +2871,15 @@
                     "iniTp": "Projeto de Lei",
                     "iniSelLg": "IV",
                     "relFase": "Baixa comissão distribuição inicial generalidade"
+                  },
+                  {
+                    "accDtrel": "1987-04-29 00:00:00.0",
+                    "iniTi": "Eleição dos deputados ao Parlamento Europeu",
+                    "iniId": "27583",
+                    "iniNr": "412",
+                    "iniTp": "Projeto de Lei",
+                    "iniSelLg": "IV",
+                    "relFase": "Baixa comissão especialidade"
                   },
                   {
                     "accDtrel": "1987-04-27 00:00:00.0",
@@ -3093,19 +3132,34 @@
               ]
             },
             "intev": {
-              "pt_gov_ar_wsar_objectos_IntervencoesOut": {
-                "intId": "229115",
-                "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Amândio Azevedo (PSD) e António da Silva Mota (PCP)",
-                "intSu": "Situação dos mineiros das Minas da Borralha",
-                "pubDtreu": "1986-02-21",
-                "pubTp": "D",
-                "pubSup": ".",
-                "pubLg": "IV",
-                "pubSl": "1",
-                "pubNr": "35",
-                "tinDs": "Intervenção",
-                "pubDar": "1166-1167; 1168; 1168"
-              }
+              "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230192",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1693"
+                },
+                {
+                  "intId": "229115",
+                  "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Amândio Azevedo (PSD) e António da Silva Mota (PCP)",
+                  "intSu": "Situação dos mineiros das Minas da Borralha",
+                  "pubDtreu": "1986-02-21",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "35",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1166-1167; 1168; 1168"
+                }
+              ]
             },
             "rel": null,
             "dadosLegisDeputado": {
@@ -3960,6 +4014,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230211",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1709"
+                },
+                {
                   "intId": "229835",
                   "intTe": "Ao Deputado Caio Roque (PS)",
                   "intSu": "Suspensão pelo Governo do sistema poupança-crédito para os emigrantes",
@@ -4474,6 +4541,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230178",
+                  "intTe": "Responde ao Pedido de Esclarecimento do Deputado João Corregedor da Fonseca (MDP/CDE)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1685-1687; 1687; 1687"
+                },
                 {
                   "intId": "227764",
                   "intTe": "Responde ao Pedido de Esclarecimento do Deputado Jorge Lemos (PCP)",
@@ -5605,6 +5685,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230232",
+                  "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Manuel Alegre (PS) e Carlos Alfredo Brito (PCP)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1722-1724; 1726"
+                },
+                {
                   "intId": "230046",
                   "intTe": "Ao Ministro da Defesa Nacional (Leonardo Ribeiro de Almeida)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -6262,19 +6355,34 @@
               ]
             },
             "intev": {
-              "pt_gov_ar_wsar_objectos_IntervencoesOut": {
-                "intId": "227266",
-                "intTe": "Ao Ministro do Plano e da Administração do Território (Luis Valente de Oliveira)",
-                "intSu": "Programa do X Governo Constitucional",
-                "pubDtreu": "1985-11-20",
-                "pubTp": "D",
-                "pubSup": ".",
-                "pubLg": "IV",
-                "pubSl": "1",
-                "pubNr": "7",
-                "tinDs": "Pedido de esclarecimento",
-                "pubDar": "200"
-              }
+              "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230184",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1690"
+                },
+                {
+                  "intId": "227266",
+                  "intTe": "Ao Ministro do Plano e da Administração do Território (Luis Valente de Oliveira)",
+                  "intSu": "Programa do X Governo Constitucional",
+                  "pubDtreu": "1985-11-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "7",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "200"
+                }
+              ]
             },
             "rel": {
               "relatoresIniciativas": {
@@ -7788,6 +7896,19 @@
                   "pubDar": "6;7;7"
                 },
                 {
+                  "intId": "230249",
+                  "intTe": "Declaração final do PSD",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1743"
+                },
+                {
                   "intId": "229991",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
                   "pubDtreu": "1986-03-18",
@@ -8865,6 +8986,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230207",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1707"
+                },
+                {
                   "intId": "229117",
                   "intTe": "Ao Deputado Aloísio Fonseca (PS)",
                   "intSu": "Situação dos mineiros das Minas da Borralha",
@@ -9700,6 +9834,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230222",
+                  "intTe": "Responde ao Pedido de Esclarecimento do Deputado António Lobo Xavier (CDS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1714-1716; 1716; 1717"
+                },
+                {
                   "intId": "230004",
                   "intTe": "Ao Ministro das Finanças (Miguel Cadilhe)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -9964,6 +10111,32 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230224",
+                  "intTe": "Ao Deputado António Guterres (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1716;1717"
+                },
+                {
+                  "intId": "230239",
+                  "intTe": "Ao Deputado Almeida Santos (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1732"
+                },
                 {
                   "intId": "230082",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -10425,6 +10598,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230208",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1707"
+                },
                 {
                   "intId": "229538",
                   "intTe": "Ao Deputado José Fillol (PS)",
@@ -16413,6 +16599,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230237",
+                  "intTe": "Ao Deputado Almeida Santos (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1732"
+                },
+                {
                   "intId": "230040",
                   "intTe": "Ao Deputado Silva Lopes (PRD)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -17978,6 +18177,68 @@
                   "pubNr": "1",
                   "tinDs": "Declaração politica",
                   "pubDar": "7-9; 10; 11"
+                },
+                {
+                  "intId": "230221",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1713"
+                },
+                {
+                  "intId": "230251",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1747;1747;1747"
+                },
+                {
+                  "intId": "230246",
+                  "intTe": "Declaração final do PCP",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1739-1741"
+                },
+                {
+                  "intId": "230241",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Protesto",
+                  "pubDar": "1735-1736"
+                },
+                {
+                  "intId": "230234",
+                  "intTe": "Ao Deputado Ângelo Correia (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1725"
                 },
                 {
                   "intId": "229476",
@@ -19614,6 +19875,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230225",
+                  "intTe": "Responde ao Pedido de Esclarecimento do Deputado Nogueira de Brito (CDS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1717-1718; 1718"
+                },
+                {
                   "intId": "230054",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -20098,6 +20372,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230190",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1693"
+                },
+                {
                   "intId": "230110",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
                   "pubDtreu": "1986-03-19",
@@ -20451,6 +20738,32 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230216",
+                  "intTe": "Ao Deputado Jorge Lemos (PCP)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Explicações",
+                  "pubDar": "1712;1712"
+                },
+                {
+                  "intId": "230218",
+                  "intTe": "Ao Deputado Lopes Cardoso (Indep.)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Explicações",
+                  "pubDar": "1713"
+                },
                 {
                   "intId": "229989",
                   "intSu": "Pelo falecimento do filho do Senhor Presidente da Assembleia da República.",
@@ -21385,6 +21698,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230197",
+                  "intTe": "Responde ao Pedido de Esclarecimento do Deputado Eduardo Pereira (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1700-1702; 1702"
+                },
                 {
                   "intId": "230062",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
@@ -22495,6 +22821,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230206",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1706"
+                },
+                {
                   "intId": "229596",
                   "intSu": "Instabilidade de diversas empresas públicas e privadas",
                   "pubDtreu": "1986-03-13",
@@ -23058,6 +23397,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230173",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1679-1680"
+                },
+                {
                   "intId": "229836",
                   "intSu": "Transportes urbanos de passageiros assegurados pelos municípios",
                   "pubDtreu": "1986-03-14",
@@ -23442,6 +23793,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230227",
+                  "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Mota Torres (PS) e Roberto Amaral (PRD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1718-1720; 1720-1721"
+                },
                 {
                   "intId": "229707",
                   "intSu": "Organização judiciária na região autónoma da Madeira",
@@ -26358,6 +26722,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230196",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1699-1700"
+                },
+                {
                   "intId": "229579",
                   "intTe": "Responde ao Pedido de Esclarecimento do Deputado Luís Neves Rodrigues (PSD)",
                   "intSu": "Sobre actos inconstitucionais e ilegais contra a Reforma Agrária praticados pelo Ministro da Agricultura e pelos serviços dependentes; Comissão parlamentar de inquérito a actuação do Ministério da Agricultura no quadro das medidas relativas a reforma agrária",
@@ -26597,6 +26973,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230183",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1690"
+                },
                 {
                   "intId": "230056",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
@@ -27674,6 +28063,19 @@
                   "pubDar": "6-7; 7"
                 },
                 {
+                  "intId": "230198",
+                  "intTe": "Ao Deputado Carlos Lilaia (PRD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1702"
+                },
+                {
                   "intId": "230053",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -28225,6 +28627,32 @@
                   "pubNr": "1",
                   "tinDs": "Intervenção",
                   "pubDar": "3"
+                },
+                {
+                  "intId": "230252",
+                  "intTe": "Ao Deputado Carlos Alfredo Brito (PCP)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Explicações",
+                  "pubDar": "1747;1747"
+                },
+                {
+                  "intId": "230254",
+                  "intTe": "Ao Deputado João Cravinho (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Explicações",
+                  "pubDar": "1748"
                 },
                 {
                   "intId": "229839",
@@ -30387,6 +30815,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230176",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1683-1684"
+                },
+                {
                   "intId": "229181",
                   "intTe": "Ao Deputado Francisco Porto (PSD)",
                   "intSu": "Condições deficientes dos bancos dos hospitais centrais, particularmente os de Lisboa",
@@ -31776,6 +32216,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230195",
+                  "intTe": "Ao Deputado Abreu Lima (CDS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1699"
+                },
+                {
                   "intId": "229403",
                   "intTe": "À Deputada Ilda Figueiredo (PCP)",
                   "intSu": "Problemas com que se debatem as mulheres portuguesas",
@@ -32866,6 +33319,32 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230171",
+                  "intTe": "Ao Deputado João Cravinho (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1677;1678"
+                },
+                {
+                  "intId": "230210",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1708"
+                },
+                {
                   "intId": "230097",
                   "intTe": "Ao Ministro da Educação e Cultura (João de Deus Pinheiro)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -33691,6 +34170,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230191",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1693"
+                },
                 {
                   "intId": "230016",
                   "intTe": "Ao Deputado Carlos Corrêa Gago (PRD)",
@@ -35852,6 +36344,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230188",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1691-1692"
+                },
+                {
                   "intId": "230064",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -37715,6 +38220,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230235",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1726-1727"
+                },
+                {
                   "intId": "229075",
                   "intTe": "Ao Deputado Narana Coissoró (CDS)",
                   "intSu": "Consequências especiais do não pagamento de salários; Sobre não pagamento de retribuições de trabalho; Aprova medidas urgentes para combater e eliminar a calamidade dos salários em atraso; Salários em atraso",
@@ -39462,6 +39979,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230174",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1681-1682"
+                },
+                {
                   "intId": "230061",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -40571,6 +41100,32 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230180",
+                  "intTe": "À Deputada Amélia Azevedo (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1687;1687"
+                },
+                {
+                  "intId": "230185",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1690-1691"
+                },
+                {
                   "intId": "230063",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -41672,6 +42227,31 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230170",
+                  "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Gomes de Pinho (CDS) e Silva Marques (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1675-1677; 1677-1678; 1678; 1679"
+                },
+                {
+                  "intId": "230253",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1747-1748"
+                },
                 {
                   "intId": "228972",
                   "intTe": "Ao Secretário de Estado do Orçamento (Rui Carp)",
@@ -45898,6 +46478,18 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230215",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1712;1712"
+                },
                 {
                   "intId": "230096",
                   "intTe": "Ao Ministro da Educação e Cultura (João de Deus Pinheiro)",
@@ -50963,6 +51555,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230248",
+                  "intTe": "Declaração final do PS",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1742-1743"
+                },
                 {
                   "intId": "229555",
                   "intTe": "Responde aos Pedidos de Esclarecimento dos Deputados Costa Andrade (PSD) e Correia Afonso (PSD)",
@@ -57278,6 +57883,30 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230201",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1703"
+                },
+                {
+                  "intId": "230217",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1712;1713;1713"
+                },
+                {
                   "intId": "229996",
                   "intTe": "Ao Ministro das Finanças (Miguel Cadilhe)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -58466,6 +59095,20 @@
                 }
               ]
             },
+            "intev": {
+              "pt_gov_ar_wsar_objectos_IntervencoesOut": {
+                "intId": "230202",
+                "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                "pubDtreu": "1986-03-20",
+                "pubTp": "D",
+                "pubSup": ".",
+                "pubLg": "IV",
+                "pubSl": "1",
+                "pubNr": "48",
+                "tinDs": "Intervenção",
+                "pubDar": "1703-1704"
+              }
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -58816,6 +59459,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230186",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1691"
+                },
                 {
                   "intId": "229741",
                   "intTe": "Pelo Grupo Parlamentar do PCP",
@@ -59803,6 +60459,19 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230247",
+                  "intTe": "Declaração final do PRD",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1741-1742"
+                },
                 {
                   "intId": "230074",
                   "intTe": "Ao Ministro da Agricultura, Pescas e Alimentação (Álvaro Barreto)",
@@ -61126,6 +61795,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230233",
+                  "intTe": "Ao Deputado Ângelo Correia (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1724-1725"
+                },
                 {
                   "intId": "229372",
                   "intTe": "Ao Deputado Silva Marques (PSD)",
@@ -67578,6 +68260,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230229",
+                  "intTe": "À Deputada Cecília Catarino (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1720"
+                },
+                {
                   "intId": "229708",
                   "intTe": "Responde ao Pedido de Esclarecimento do Deputado Correia Afonso (PSD)",
                   "intSu": "Organização judiciária na região autónoma da Madeira",
@@ -68085,6 +68780,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230226",
+                  "intTe": "Ao Deputado Carlos Corrêa Gago (PRD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1718"
+                },
                 {
                   "intId": "230007",
                   "intTe": "Ao Ministro das Finanças (Miguel Cadilhe)",
@@ -71588,6 +72296,18 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230175",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1682-1683"
+                },
+                {
                   "intId": "230070",
                   "intTe": "Ao Deputado Victor Ávila da Silva (PRD)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -72031,6 +72751,19 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230243",
+                  "intTe": "Declaração final do MDP/CDE",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1736-1737"
+                },
                 {
                   "intId": "230075",
                   "intTe": "Ao Ministro da Agricultura, Pescas e Alimentação (Álvaro Barreto)",
@@ -73017,6 +73750,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230189",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1692-1693"
+                },
+                {
                   "intId": "230058",
                   "intTe": "Ao Ministro do Plano e da Administração do Território (Luís Valente de Oliveira)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -73968,6 +74714,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230230",
+                  "intTe": "À Deputada Cecília Catarino (PSD)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1720"
+                },
+                {
                   "intId": "229355",
                   "intSu": "Pela morte de Olof Palme.",
                   "pubDtreu": "1986-03-04",
@@ -74384,19 +75143,33 @@
               ]
             },
             "intev": {
-              "pt_gov_ar_wsar_objectos_IntervencoesOut": {
-                "intId": "230073",
-                "intTe": "Ao Ministro da Agricultura, Pescas e Alimentação (Álvaro Barreto)",
-                "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
-                "pubDtreu": "1986-03-19",
-                "pubTp": "D",
-                "pubSup": ".",
-                "pubLg": "IV",
-                "pubSl": "1",
-                "pubNr": "47",
-                "tinDs": "Pedido de esclarecimento",
-                "pubDar": "1638"
-              }
+              "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230231",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1721-1722"
+                },
+                {
+                  "intId": "230073",
+                  "intTe": "Ao Ministro da Agricultura, Pescas e Alimentação (Álvaro Barreto)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-19",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "47",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1638"
+                }
+              ]
             },
             "rel": {
               "relatoresIniciativas": {
@@ -77554,6 +78327,19 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230172",
+                  "intTe": "Ao Deputado João Cravinho (PS)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1678"
+                },
+                {
                   "intId": "230017",
                   "intTe": "Ao Deputado Carlos Corrêa Gago (PRD)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -78306,6 +79092,19 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230212",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1709-1710"
+                },
                 {
                   "intId": "229404",
                   "intSu": "Gestão da empresa pública Companhia Nacional de Petroquímica",
@@ -80045,6 +80844,30 @@
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
+                  "intId": "230177",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1684-1685"
+                },
+                {
+                  "intId": "230199",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Interpelação à mesa",
+                  "pubDar": "1702"
+                },
+                {
                   "intId": "230005",
                   "intTe": "Ao Ministro das Finanças (Miguel Cadilhe)",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
@@ -80761,6 +81584,30 @@
                   "pubNr": "1",
                   "tinDs": "Pedido de esclarecimento",
                   "pubDar": "5"
+                },
+                {
+                  "intId": "230240",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Intervenção",
+                  "pubDar": "1733-1735"
+                },
+                {
+                  "intId": "230242",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Contraprotesto",
+                  "pubDar": "1736"
                 },
                 {
                   "intId": "229348",
@@ -81720,6 +82567,44 @@
             },
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
+                {
+                  "intId": "230187",
+                  "intTe": "Ao Ministro das Obras Públicas, Transportes e Comunicação (João Oliveira Martins)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1691"
+                },
+                {
+                  "intId": "230213",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Defesa da honra",
+                  "pubDar": "1712"
+                },
+                {
+                  "intId": "230209",
+                  "intTe": "Ao Ministro do Trabalho e Segurança Social (Mira Amaral)",
+                  "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
+                  "pubDtreu": "1986-03-20",
+                  "pubTp": "D",
+                  "pubSup": ".",
+                  "pubLg": "IV",
+                  "pubSl": "1",
+                  "pubNr": "48",
+                  "tinDs": "Pedido de esclarecimento",
+                  "pubDar": "1707-1708"
+                },
                 {
                   "intId": "230071",
                   "intSu": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986",
