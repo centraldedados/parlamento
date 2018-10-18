@@ -1919,6 +1919,35 @@
           "depNomeCompleto": "MARIA CONSTANÇA DIAS URBANO DE SOUSA"
         },
         {
+          "depId": "8774",
+          "depCadId": "5609",
+          "depNomeParlamentar": "CRISTINA JESUS",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
+          },
+          "depNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS"
+        },
+        {
           "depId": "8388",
           "depCadId": "4129",
           "depNomeParlamentar": "CRISTÓVÃO CRESPO",
@@ -4070,10 +4099,17 @@
           "depCPDes": "COIMBRA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO SALDANHA DE AZEVEDO GALAMBA"
         },
@@ -4411,10 +4447,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO VELOSO DA SILVA TORRES",
           "videos": {
@@ -5954,8 +5997,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Efetivo",
@@ -6096,8 +6144,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Efetivo",
@@ -6334,8 +6387,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-10-11"
+                "sioDtInicio": "2018-10-11",
+                "sioDtFim": "2018-10-17"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -7245,8 +7303,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-07-12"
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Suspenso(Não Eleito)",
@@ -8148,8 +8211,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Suplente",

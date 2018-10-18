@@ -6738,12 +6738,7 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -8101,6 +8096,23 @@
               ]
             }
           }
+        },
+        {
+          "cadId": "5609",
+          "cadNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS",
+          "cadSexo": "F",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Cristina Jesus",
+              "legDes": "XIII",
+              "ceDes": "COIMBRA",
+              "parSigla": "PS",
+              "parDes": "Partido Socialista",
+              "gpSigla": "PS",
+              "gpDes": "Partido Socialista"
+            }
+          },
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4129",
@@ -14244,7 +14256,7 @@
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -16571,70 +16583,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4784",
-                  "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
-                  "orgSigla": "GT-CBCCC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5824",
-                  "orgDes": "Grupo de Trabalho - Supervisão Bancária",
-                  "orgSigla": "GT-SB",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2867",
@@ -18281,72 +18230,7 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6204",
-                  "orgDes": "Grupo de Trabalho - Temática das Bactérias de Legionella",
-                  "orgSigla": "GT-TBL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                  "orgSigla": "GT-RP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4022",
@@ -30352,33 +30236,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6037",
@@ -34555,26 +34413,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6046",
@@ -35395,6 +35234,13 @@
                   "orgSigla": "CDN",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4531",
@@ -37835,7 +37681,6 @@
           "cadNomeCompleto": "TIAGO BARBOSA RIBEIRO",
           "cadDtNascimento": "1983-09-19",
           "cadSexo": "M",
-          "cadProfissao": "Sociólogo",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Tiago Barbosa Ribeiro",
@@ -37850,13 +37695,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26289",
+                "habId": "26640",
                 "habDes": "Sociologia com especialização (seminário de investigação) em Trabalho e Organizações (Universidade do Porto)",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26290",
+                "habId": "26641",
                 "habDes": "Pós-Graduação em Gestão (Curso Geral de Gestão, PBS, Universidade do Porto)",
                 "habTipoId": "16"
               }
@@ -37865,75 +37710,81 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29980",
+                "funId": "30336",
                 "funDes": "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica ",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29981",
+                "funId": "30337",
                 "funDes": "Presidente da Mesa da Comissão Política Concelhia do PS Porto",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "29982",
+                "funId": "30338",
                 "funDes": "Membro da Comissão Política Nacional do PS",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "29983",
+                "funId": "30339",
                 "funDes": "Coordenador dos deputados do PS para as Áreas do Trabalho e Segurança Social na XIII Legislatura (desde 2015)",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "29984",
+                "funId": "30340",
                 "funDes": "Membro do PS na Assembleia Municipal do Porto (2017-2021)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "29985",
+                "funId": "30341",
                 "funDes": "Presidente do PS Porto (2015-2018)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "29986",
+                "funId": "30342",
                 "funDes": "Membro da Comissão Nacional do PS (2014-2018)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "29987",
+                "funId": "30343",
                 "funDes": "Vereador do PS na Câmara Municipal do Porto (2013-2017)",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "29988",
+                "funId": "30344",
                 "funDes": "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)\n",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "29989",
+                "funId": "30345",
                 "funDes": "Membro da Assembleia de Freguesia do Bonfim (2009-2013)\n\n ",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "29990",
-                "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
+                "funId": "30346",
+                "funDes": "Presidente da Concelhia e da Federação Distrital do Porto da JS (2008-2013)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "29991",
-                "funDes": "Dirigente associativo universitário (2005-2006)",
+                "funId": "30347",
+                "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
                 "funOrdem": "12",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30348",
+                "funDes": "Dirigente associativo universitário (2005-2006)",
+                "funOrdem": "13",
                 "funAntiga": "S"
               }
             ]
@@ -37941,42 +37792,42 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7312",
+                "pubId": "7471",
                 "pubDes": "«Trabalho Igual, Salário Diferente». Vários autores. Plataforma \"Ganhem Vergonha\". 2017 ",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7313",
+                "pubId": "7472",
                 "pubDes": "«Saídas Profissionais – O que é ser sociólogo hoje? Narrativas breves sobre experiências profissionais em construção (II)», N.º 11 dos IS Working Papers, Instituto de Sociologia da FLUP. Porto: 2014",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7314",
+                "pubId": "7473",
                 "pubDes": "Estudo de caso publicado na revista Ingenium nº 135 (Maio/Junho) em edição dedicada à internacionalização da engenharia portuguesa. Lisboa: 2013",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7315",
+                "pubId": "7474",
                 "pubDes": "Vários artigos publicados na revista da Associação Portuguesa das\nEmpresas do Sector Eléctrico e Electrónico desde 2012",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7316",
+                "pubId": "7475",
                 "pubDes": "«Onde pára o Estado? Políticas públicas em tempo de crise». Vários autores. Edições Nélson de Matos. Lisboa: 2009",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7317",
+                "pubId": "7476",
                 "pubDes": "«A mudança como constante: interrogações e problemáticas entre os processos de globalização e a internacionalização das organizações. Estudo de caso num grupo empresarial do sector electromecânico», (Vol. I e II). Biblioteca do Departamento de Sociologia da Universidade do Porto. Porto, 2008",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7318",
+                "pubId": "7477",
                 "pubDes": "«Pesquisar e filmar: o registo documental e as ciências sociais», revista da\nFaculdade de Letras da UP, 341-366. Porto: 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7319",
+                "pubId": "7478",
                 "pubDes": "Vários artigos em publicações periódicas e revistas especializadas",
                 "pubOrdem": "8"
               }
@@ -38114,13 +37965,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "25540",
+                "habId": "26660",
                 "habDes": "FINANÇAS",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "25541",
+                "habId": "26661",
                 "habDes": "INOVAÇÃO E POLÍTICAS DE DESENVOLVIMENTO",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -38129,7 +37980,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "29256",
+              "funId": "30356",
               "funDes": "Auditor Interno da IHF (International Handball Federation)\nVogal da Comissão Executiva do Comité Olímpico de Portugal",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -42670,6 +42521,11 @@
               "rgiCadId": "5932"
             }
           }
+        },
+        {
+          "cadId": "5609",
+          "cadNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "4129",
@@ -56052,7 +55908,6 @@
         {
           "cadId": "2445",
           "cadNomeCompleto": "TIAGO BARBOSA RIBEIRO",
-          "cadActividadeProfissional": "Sociólogo",
           "cadEstadoCivilCod": "2",
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
