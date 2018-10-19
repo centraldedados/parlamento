@@ -6284,18 +6284,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5044",
-                "orgDes": "Grupo de Trabalho - Mercado Único Digital",
-                "orgSigla": "GT-MUD",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5044",
+                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                  "orgSigla": "GT-MUD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "6484",
+                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
+                  "orgSigla": "GT-ARJBP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -11925,7 +11934,7 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "6384",
@@ -24986,7 +24995,17 @@
               "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MANUEL_CALDEIRA_CABRAL.mp4"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4528",
+                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                "orgSigla": "COFMA",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "1434",
@@ -25301,7 +25320,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "17640",
+              "habId": "26680",
               "habDes": "DIREITO",
               "habTipoId": "13",
               "habEstado": "C"
@@ -25310,62 +25329,62 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "21956",
+                "funId": "30376",
                 "funDes": "Deputado na XIII Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "21957",
-                "funDes": "Presidente da Federação de Lisboa do Partido Socialista; ",
+                "funId": "30377",
+                "funDes": "Secretário Nacional do Partido Socialista; ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "21958",
-                "funDes": "Advogado; Gestor",
+                "funId": "30378",
+                "funDes": "Adjunto do Ministro dos Assuntos Parlamentares;",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "21959",
-                "funDes": "Adjunto do Ministro dos Assuntos Parlamentares;",
+                "funId": "30379",
+                "funDes": "Chefe de Gabinete do Secretário de Estado da Administração Interna;",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "21960",
-                "funDes": "Chefe de Gabinete do Secretário de Estado da Administração Interna;",
+                "funId": "30380",
+                "funDes": "Deputado nas X e XII Legislaturas;",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "21961",
-                "funDes": "Deputado nas X e XII Legislaturas;",
+                "funId": "30381",
+                "funDes": "Vice-Presidente da Câmara Municipal de Lisboa;",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "21962",
-                "funDes": "Vice-Presidente da Câmara Municipal de Lisboa;",
+                "funId": "30382",
+                "funDes": "Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, no XVIII Governo Constitucional;",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "21963",
-                "funDes": "Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, no XVIII Governo Constitucional;",
+                "funId": "30383",
+                "funDes": "Administrador da Finertec - Serviços de Consultoria e Participações Financeiras, SA",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "21964",
-                "funDes": "Administrador da Finertec - Serviços de Consultoria e Participações Financeiras, SA",
+                "funId": "30384",
+                "funDes": "Advogado;",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "21965",
-                "funDes": "Advogado;",
+                "funId": "30385",
+                "funDes": "Secretário de Estado da Defesa Nacional, no XXI Governo Constitucional",
                 "funOrdem": "10",
                 "funAntiga": "S"
               }
@@ -37695,13 +37714,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26640",
+                "habId": "26700",
                 "habDes": "Sociologia com especialização (seminário de investigação) em Trabalho e Organizações (Universidade do Porto)",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26641",
+                "habId": "26701",
                 "habDes": "Pós-Graduação em Gestão (Curso Geral de Gestão, PBS, Universidade do Porto)",
                 "habTipoId": "16"
               }
@@ -37710,79 +37729,79 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30336",
-                "funDes": "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica ",
+                "funId": "30396",
+                "funDes": "Coordenador dos deputados do PS para as Áreas do Trabalho e Segurança Social na XIII Legislatura ",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30337",
-                "funDes": "Presidente da Mesa da Comissão Política Concelhia do PS Porto",
+                "funId": "30397",
+                "funDes": "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30338",
-                "funDes": "Membro da Comissão Política Nacional do PS",
+                "funId": "30398",
+                "funDes": "Presidente da Mesa da Comissão Política Concelhia do PS Porto",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30339",
-                "funDes": "Coordenador dos deputados do PS para as Áreas do Trabalho e Segurança Social na XIII Legislatura (desde 2015)",
+                "funId": "30399",
+                "funDes": "Membro da Comissão Política Nacional do PS",
                 "funOrdem": "4",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "30340",
+                "funId": "30400",
                 "funDes": "Membro do PS na Assembleia Municipal do Porto (2017-2021)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "30341",
+                "funId": "30401",
                 "funDes": "Presidente do PS Porto (2015-2018)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "30342",
+                "funId": "30402",
                 "funDes": "Membro da Comissão Nacional do PS (2014-2018)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "30343",
+                "funId": "30403",
                 "funDes": "Vereador do PS na Câmara Municipal do Porto (2013-2017)",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "30344",
+                "funId": "30404",
                 "funDes": "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)\n",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "30345",
+                "funId": "30405",
                 "funDes": "Membro da Assembleia de Freguesia do Bonfim (2009-2013)\n\n ",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "30346",
+                "funId": "30406",
                 "funDes": "Presidente da Concelhia e da Federação Distrital do Porto da JS (2008-2013)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "30347",
+                "funId": "30407",
                 "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "30348",
+                "funId": "30408",
                 "funDes": "Dirigente associativo universitário (2005-2006)",
                 "funOrdem": "13",
                 "funAntiga": "S"
@@ -37792,42 +37811,42 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7471",
+                "pubId": "7491",
                 "pubDes": "«Trabalho Igual, Salário Diferente». Vários autores. Plataforma \"Ganhem Vergonha\". 2017 ",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7472",
+                "pubId": "7492",
                 "pubDes": "«Saídas Profissionais – O que é ser sociólogo hoje? Narrativas breves sobre experiências profissionais em construção (II)», N.º 11 dos IS Working Papers, Instituto de Sociologia da FLUP. Porto: 2014",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7473",
+                "pubId": "7493",
                 "pubDes": "Estudo de caso publicado na revista Ingenium nº 135 (Maio/Junho) em edição dedicada à internacionalização da engenharia portuguesa. Lisboa: 2013",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7474",
+                "pubId": "7494",
                 "pubDes": "Vários artigos publicados na revista da Associação Portuguesa das\nEmpresas do Sector Eléctrico e Electrónico desde 2012",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7475",
+                "pubId": "7495",
                 "pubDes": "«Onde pára o Estado? Políticas públicas em tempo de crise». Vários autores. Edições Nélson de Matos. Lisboa: 2009",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7476",
+                "pubId": "7496",
                 "pubDes": "«A mudança como constante: interrogações e problemáticas entre os processos de globalização e a internacionalização das organizações. Estudo de caso num grupo empresarial do sector electromecânico», (Vol. I e II). Biblioteca do Departamento de Sociologia da Universidade do Porto. Porto, 2008",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7477",
+                "pubId": "7497",
                 "pubDes": "«Pesquisar e filmar: o registo documental e as ciências sociais», revista da\nFaculdade de Letras da UP, 341-366. Porto: 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7478",
+                "pubId": "7498",
                 "pubDes": "Vários artigos em publicações periódicas e revistas especializadas",
                 "pubOrdem": "8"
               }

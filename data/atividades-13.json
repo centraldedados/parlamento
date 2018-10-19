@@ -5851,6 +5851,20 @@
         {
           "tipo": "VOT",
           "descTipo": "Voto",
+          "assunto": "De Solidariedade ás populações afetadas pela Tempestade Leslie",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-10-18",
+          "numero": "639",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PSD"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369387a4f5752694d575a6a4d7931685a6d5a6c4c5451345a54417459544e6d4d533030595441345954466a5932566c4e6a59755a47396a65413d3d&fich=39db1fc3-affe-48e0-a3f1-4a08a1ccee66.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
           "assunto": "De saudação em memória da tripulação do NRP Augusto de Castilho e do seu Comandante Carvalho Araújo",
           "legislatura": "XIII",
           "sessao": "4",
@@ -57551,6 +57565,33 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110525",
+              "numeroAudicao": "84-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Senhora Presidente da Comissão de Avaliação Bipartida da Agricultura, Florestas, Desenvolvimento Rural e do Mar, Paula Agapito, a Requerimento do BE",
+              "entidades": "Comissão de Avaliação Bipartida da Agricultura, Florestas, Desenvolvimento Rural e do Mar",
+              "data": "2018-10-17"
+            },
+            {
+              "IDAudicao": "110523",
+              "numeroAudicao": "83-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Senhor Presidente do Conselho de Gestão do Fundo Revita, Rui Fiolhais, a Requerimento do CDS-PP",
+              "entidades": "Fundo Revita",
+              "data": "2018-10-16"
+            },
+            {
+              "IDAudicao": "110522",
+              "numeroAudicao": "82-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Senhora Ministra do Mar, Ana Paula Vitorino, a Requerimentos do PSD e do CDS-PP",
+              "entidades": "MIN. DO MAR;S.E.  DAS  PESCAS",
+              "data": "2018-10-16"
+            },
+            {
               "IDAudicao": "110415",
               "numeroAudicao": "81-CAM-XIII",
               "legislatura": "XIII",
@@ -69258,7 +69299,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Petição n.º  521/XIII/3.ª - Contabilização da formação e obtenção de graus académicos para efeitos de progressão da carreira docente",
-              "entidades": "Peticionários",
+              "entidades": "Doutor Márcio Domingos Alves Ribeiro Martins",
               "data": "2018-10-18"
             },
             {
@@ -74141,6 +74182,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110529",
+              "numeroAudiencia": "138-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Visita de cortesia",
+              "entidades": "Embaixador da República da Indonésia, Ibnu Wahyutomo",
+              "data": "2018-10-18",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "110484",
               "numeroAudiencia": "137-CNECP-XIII",
