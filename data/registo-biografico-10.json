@@ -7680,12 +7680,7 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Suplente",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33478,7 +33473,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "17640",
+              "habId": "26680",
               "habDes": "DIREITO",
               "habTipoId": "13",
               "habEstado": "C"
@@ -33487,62 +33482,62 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "21956",
+                "funId": "30376",
                 "funDes": "Deputado na XIII Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "21957",
-                "funDes": "Presidente da Federação de Lisboa do Partido Socialista; ",
+                "funId": "30377",
+                "funDes": "Secretário Nacional do Partido Socialista; ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "21958",
-                "funDes": "Advogado; Gestor",
+                "funId": "30378",
+                "funDes": "Adjunto do Ministro dos Assuntos Parlamentares;",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "21959",
-                "funDes": "Adjunto do Ministro dos Assuntos Parlamentares;",
+                "funId": "30379",
+                "funDes": "Chefe de Gabinete do Secretário de Estado da Administração Interna;",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "21960",
-                "funDes": "Chefe de Gabinete do Secretário de Estado da Administração Interna;",
+                "funId": "30380",
+                "funDes": "Deputado nas X e XII Legislaturas;",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "21961",
-                "funDes": "Deputado nas X e XII Legislaturas;",
+                "funId": "30381",
+                "funDes": "Vice-Presidente da Câmara Municipal de Lisboa;",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "21962",
-                "funDes": "Vice-Presidente da Câmara Municipal de Lisboa;",
+                "funId": "30382",
+                "funDes": "Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, no XVIII Governo Constitucional;",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "21963",
-                "funDes": "Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, no XVIII Governo Constitucional;",
+                "funId": "30383",
+                "funDes": "Administrador da Finertec - Serviços de Consultoria e Participações Financeiras, SA",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "21964",
-                "funDes": "Administrador da Finertec - Serviços de Consultoria e Participações Financeiras, SA",
+                "funId": "30384",
+                "funDes": "Advogado;",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "21965",
-                "funDes": "Advogado;",
+                "funId": "30385",
+                "funDes": "Secretário de Estado da Defesa Nacional, no XXI Governo Constitucional",
                 "funOrdem": "10",
                 "funAntiga": "S"
               }

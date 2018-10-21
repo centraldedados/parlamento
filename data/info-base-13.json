@@ -5838,8 +5838,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-19"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2018-10-05"
+                "sioDtInicio": "2018-10-05",
+                "sioDtFim": "2018-10-19"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -7303,8 +7308,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-19"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-10-15"
+                "sioDtInicio": "2018-10-15",
+                "sioDtFim": "2018-10-19"
               },
               {
                 "sioDes": "Efetivo Temporário",

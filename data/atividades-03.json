@@ -1446,6 +1446,544 @@
         {
           "tipo": "VOT",
           "descTipo": "Voto",
+          "assunto": "Voto de solidariedade com os trabalhadores vidreiros da Marinha Grande",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-17",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": "1566-1566"
+              },
+              "idPag": "819371",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1566?pgs=1566&org=PLC",
+              "idDeb": null
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80182",
+              "resultado": "Rejeitado",
+              "reuniao": "36",
+              "detalhe": "A Favor: <I>PCP</I>, <I>UEDS</I><BR>Contra: <I>PS</I>, <I>PSD</I>, <I>CDS</I>, <I>ASDI</I>",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "14",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PCP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d54526653556c4a4c6e426b5a673d3d&fich=14_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto pelo compromisso assumido por representantes do poder político nas audiências do Comité Sakharov",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-17",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": null
+              },
+              "idPag": "819369",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80181",
+              "resultado": "Rejeitado",
+              "reuniao": "36",
+              "detalhe": "Contra: <I>PS</I>, <I>PSD</I>, <I>PCP</I>, <I>CDS</I>, <I>UEDS</I>, <I>ASDI</I>",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "13",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "MDP/CDE"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d544e6653556c4a4c6e426b5a673d3d&fich=13_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de congratulação pela atribuição do Prémio Nobel da Paz a Lech Walesa",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-17",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": "1566-1567"
+              },
+              "idPag": "819363",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1566?pgs=1566-1567&org=PLC",
+              "idDeb": null
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80180",
+              "resultado": "Rejeitado",
+              "reuniao": "36",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "12",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "MDP/CDE"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d544a6653556c4a4c6e426b5a673d3d&fich=12_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de congratulação pela atribuição do Prémio Nobel da Paz a Lech Valesa",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-17",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": "1566-1567"
+              },
+              "idPag": "819343",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1566?pgs=1566-1567&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-10-20",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80179",
+              "resultado": "Aprovado",
+              "reuniao": "36",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "11",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PS; PSD"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d54466653556c4a4c6e426b5a673d3d&fich=11_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de congratulação pela atribuição do Prémio Nobel da Paz a Lech Walesa",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-20",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": "1567-1568"
+              },
+              "idPag": "819315",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1567?pgs=1567-1568&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-10-20",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80156",
+              "resultado": "Aprovado",
+              "reuniao": "36",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "10",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d54426653556c4a4c6e426b5a673d3d&fich=10_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de congratulação sobre as realização em Lisboa, das audiências Sakharov",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-10-13",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": "1566-1566"
+              },
+              "idPag": "819328",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1566?pgs=1566&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-10-20",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80173",
+              "resultado": "Aprovado",
+              "reuniao": "36",
+              "data": "1983-10-20"
+            }
+          },
+          "observacoes": "Voto registado com o número 10-A",
+          "numero": "10",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764d54426653556c4a4c6e426b5a673d3d&fich=10_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de pesar pelo falecimento do Cardeal D. Humberto Medeiros",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-09-23",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "36",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-10-21",
+              "pag": {
+                "string": null
+              },
+              "idPag": "819268",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-09-23",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80154",
+              "resultado": "Aprovado",
+              "reuniao": "36",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>PCP</I>, <I>CDS</I>, <I>UEDS</I>, <I>ASDI</I>",
+              "data": "1983-10-20"
+            }
+          },
+          "numero": "9",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PSD; PS"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764f56394a53556b756347526d&fich=9_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto e de pesar pelo genocídio indonésio praticado em Timorenses",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-09-20",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "30",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-23",
+              "pag": {
+                "string": "1310-1310"
+              },
+              "idPag": "819267",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/030/1983-09-23/1310?pgs=1310&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-09-22",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80153",
+              "resultado": "Aprovado",
+              "reuniao": "30",
+              "data": "1983-09-22"
+            }
+          },
+          "numero": "8",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PSD; PCP; ASDI; MDP/CDE; UEDS; PS"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764f46394a53556b756347526d&fich=8_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto contra factos ocorridos na conferência de imprensa pelo vice-Presidente dos E.U.A. George Bush, nas Lages - Açores",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-09-20",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "30",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-23",
+              "pag": {
+                "string": "1310-1310"
+              },
+              "idPag": "819266",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/030/1983-09-23/1310?pgs=1310&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "28",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-21",
+              "pag": {
+                "string": [
+                  "1241-1242",
+                  "1242-1245"
+                ]
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/028/1983-09-21/1241?pgs=1241-1242,1242-1245&org=PLC",
+              "debateDtReu": "1983-09-20",
+              "idDeb": "33453"
+            }
+          },
+          "numero": "7",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PCP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764e31394a53556b756347526d&fich=7_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto sobre a situação no Chile",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-09-14",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "28",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-21",
+              "pag": {
+                "string": "1243-1243"
+              },
+              "idPag": "818967",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/028/1983-09-21/1243?pgs=1243&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-09-20",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": [
+              {
+                "pubNr": "26",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-09-15",
+                "pag": {
+                  "string": "1192-1192"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/026/1983-09-15/1192?pgs=1192&org=PLC",
+                "debateDtReu": "1983-09-14",
+                "idDeb": "33414"
+              },
+              {
+                "pubNr": "28",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "III",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1983-09-21",
+                "pag": {
+                  "string": "1242-1245"
+                },
+                "idPag": null,
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/028/1983-09-21/1242?pgs=1242-1245&org=PLC",
+                "debateDtReu": "1983-09-20",
+                "idDeb": "33454"
+              }
+            ]
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80149",
+              "resultado": "Aprovado",
+              "reuniao": "28",
+              "data": "1983-09-20"
+            }
+          },
+          "numero": "6",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PS"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764e6c394a53556b756347526d&fich=6_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto sobre o caso do avião sul-coreano abatiado pela aviação soviética",
+          "legislatura": "III",
+          "sessao": "1",
+          "dataEntrada": "1983-09-14",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "30",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-23",
+              "pag": {
+                "string": "1309-1310"
+              },
+              "idPag": "818756",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/030/1983-09-23/1309?pgs=1309-1310&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "1983-09-22",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "26",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "III",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1983-09-15",
+              "pag": {
+                "string": "1192-1192"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/03/01/026/1983-09-15/1192?pgs=1192&org=PLC",
+              "debateDtReu": "1983-09-14",
+              "idDeb": "33412"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "80148",
+              "resultado": "Aprovado",
+              "reuniao": "30",
+              "data": "1983-09-22"
+            }
+          },
+          "numero": "5",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PS; PSD"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331394a53556b764e56394a53556b756347526d&fich=5_III.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
           "assunto": "Voto de Saudação sobre o 4º aniversário do derrube da ditadura Somozista",
           "legislatura": "III",
           "sessao": "1",

@@ -8428,7 +8428,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26460",
+              "habId": "26720",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "F"
@@ -8436,7 +8436,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "30196",
+              "funId": "30416",
               "funDes": "Deputado  a Assembleia da Republica na XIII Legislatura",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -22908,28 +22908,16 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4564",
-                  "orgDes": "Grupo de Trabalho Parlamento dos Jovens",
-                  "orgSigla": "GT-PJ",
+                  "orgId": "4704",
+                  "orgDes": "Grupo de Trabalho da Educação Especial",
+                  "orgSigla": "GT-EE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "5164",
                   "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites",
                   "orgSigla": "GT-APSH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4704",
-                  "orgDes": "Grupo de Trabalho da Educação Especial",
-                  "orgSigla": "GT-EE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -24500,51 +24488,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4533",
-                  "orgDes": "Comissão de Trabalho e Segurança Social",
-                  "orgSigla": "CTSS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5804",
-                  "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
-                  "orgSigla": "GT-SP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6604",
-                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
-                  "orgSigla": "GT-ECI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4148",
@@ -25528,13 +25472,27 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5864",
-                "orgDes": "Grupo de Trabalho - Regime Jurídico do Associativismo Jovem",
-                "orgSigla": "GT-RJAJ",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4564",
+                  "orgDes": "Grupo de Trabalho Parlamento dos Jovens",
+                  "orgSigla": "GT-PJ",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                },
+                {
+                  "orgId": "5864",
+                  "orgDes": "Grupo de Trabalho - Regime Jurídico do Associativismo Jovem",
+                  "orgSigla": "GT-RJAJ",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -42684,14 +42642,15 @@
           "cadId": "4393",
           "cadNomeCompleto": "CRISTÓVÃO SIMÃO OLIVEIRA DE RIBEIRO",
           "cadActividadeProfissional": "Estudante Universitario",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "3875",
               "rgiLegDes": "XIII",
               "rgiDataVersao": "2016-02-04",
-              "rgiRegimeBensId": "0",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
               "rgiApoiosBeneficios": "senhas de presença auferidas na Assembleia Municipal de Lousada",
