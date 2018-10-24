@@ -24698,13 +24698,6 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4529",
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
                   "orgSigla": "CEIOP",
@@ -25378,7 +25371,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4528",
+                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                "orgSigla": "COFMA",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
+            }
+          }
         },
         {
           "cadId": "6207",

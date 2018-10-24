@@ -1051,6 +1051,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação Eleitoral",
+              "tipo": "REN",
+              "local": "Tbilisi",
+              "dataInicio": "26-10-2018",
+              "dataFim": "29-10-2018",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Subcomissão para as Relações Transatlânticas",
               "tipo": "REN",
               "local": "Boston e Nova Iorque",
@@ -1621,6 +1629,22 @@
               }
             },
             {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
+            },
+            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1643,22 +1667,6 @@
                     "id": "193"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
               }
             },
             {
@@ -1717,14 +1725,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
-              "tipo": "REN",
-              "local": "Berlim e Bremen",
-              "dataInicio": "13-11-2017",
-              "dataFim": "17-11-2017",
-              "participantes": null
-            },
-            {
               "nome": "Visita da Comissão para a Dimensão Civil da Segurança da APNATO",
               "tipo": "REN",
               "local": "Kwait",
@@ -1748,6 +1748,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
+              "tipo": "REN",
+              "local": "Berlim e Bremen",
+              "dataInicio": "13-11-2017",
+              "dataFim": "17-11-2017",
+              "participantes": null
             },
             {
               "nome": "96º Seminário Rose-Roth",
