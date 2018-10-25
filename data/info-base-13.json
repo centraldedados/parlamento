@@ -3968,8 +3968,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-10-24"
+              },
+              {
                 "sioDes": "Efetivo Definitivo",
-                "sioDtInicio": "2018-10-11"
+                "sioDtInicio": "2018-10-11",
+                "sioDtFim": "2018-10-24"
               },
               {
                 "sioDes": "Suspenso(Efet Def)",
@@ -4083,6 +4088,35 @@
             ]
           },
           "depNomeCompleto": "JOÃO MANUEL ILDEFONSO DIAS"
+        },
+        {
+          "depId": "8860",
+          "depCadId": "5936",
+          "depNomeParlamentar": "JOÃO FONSECA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-24"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-24"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA"
         },
         {
           "depId": "8447",

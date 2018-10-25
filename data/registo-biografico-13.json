@@ -1360,7 +1360,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "21333",
+              "habId": "26820",
               "habDes": "Arqueologia e História",
               "habTipoId": "13",
               "habEstado": "C"
@@ -8109,7 +8109,9 @@
         {
           "cadId": "5609",
           "cadNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS",
+          "cadDtNascimento": "1971-08-07",
           "cadSexo": "F",
+          "cadProfissao": "Gestora",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Cristina Jesus",
@@ -8119,6 +8121,14 @@
               "parDes": "Partido Socialista",
               "gpSigla": "PS",
               "gpDes": "Partido Socialista"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "26801",
+              "habDes": "Turismo",
+              "habTipoId": "15",
+              "habEstado": "F"
             }
           },
           "cadActividadeOrgaos": null
@@ -16124,40 +16134,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                "orgSigla": "GT-RP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6063",
@@ -16538,6 +16515,23 @@
               ]
             }
           }
+        },
+        {
+          "cadId": "5936",
+          "cadNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA",
+          "cadSexo": "M",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "João Fonseca",
+              "legDes": "XIII",
+              "ceDes": "PORTO",
+              "parSigla": "PS",
+              "parDes": "Partido Socialista",
+              "gpSigla": "PS",
+              "gpDes": "Partido Socialista"
+            }
+          },
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4166",
@@ -26171,11 +26165,35 @@
             ]
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "10668",
-              "habDes": "A frequentar o Curso de Ciência Politica e Estudos Eleitorais na Universidade Lusófona do Porto",
-              "habTipoId": "16"
-            }
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26780",
+                "habDes": "Ciência Politica",
+                "habTipoId": "13",
+                "habEstado": "F"
+              },
+              {
+                "habId": "26781",
+                "habDes": "Ciência Politica e Estudos Eleitorais",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "30476",
+                "funDes": "Vogal do Executivo da Junta de Freguesia de Rio Tinto",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "30477",
+                "funDes": "Diretora da Universidade Sénior de Rio Tinto",
+                "funOrdem": "2",
+                "funAntiga": "N"
+              }
+            ]
           },
           "cadActividadeOrgaos": null
         },
@@ -42549,7 +42567,9 @@
         {
           "cadId": "5609",
           "cadNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Gestora",
+          "cadEstadoCivilCod": "4",
+          "cadEstadoCivilDes": "Solteiro(a)"
         },
         {
           "cadId": "4129",
@@ -46502,6 +46522,11 @@
               "rgiCadId": "5524"
             }
           }
+        },
+        {
+          "cadId": "5936",
+          "cadNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "4166",
@@ -51002,8 +51027,8 @@
           "cadId": "4136",
           "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO",
           "cadActividadeProfissional": "Aposentada",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilCod": "6",
+          "cadEstadoCivilDes": "Viúvo(a)"
         },
         {
           "cadId": "4051",
