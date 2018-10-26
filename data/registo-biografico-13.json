@@ -3332,13 +3332,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "6384",
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
@@ -16134,7 +16127,40 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4534",
+                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+                  "orgSigla": "CAOTDPLH",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6684",
+                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                "orgSigla": "GT-RP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
+            }
+          }
         },
         {
           "cadId": "6063",
@@ -16519,7 +16545,9 @@
         {
           "cadId": "5936",
           "cadNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA",
+          "cadDtNascimento": "1979-09-18",
           "cadSexo": "M",
+          "cadProfissao": "Bancário",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "João Fonseca",
@@ -16529,6 +16557,22 @@
               "parDes": "Partido Socialista",
               "gpSigla": "PS",
               "gpDes": "Partido Socialista"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "26840",
+              "habDes": "Economia",
+              "habTipoId": "13",
+              "habEstado": "C"
+            }
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
+              "funId": "30496",
+              "funDes": "Membro Assembleia Municipal de Vila do Conde",
+              "funOrdem": "1",
+              "funAntiga": "N"
             }
           },
           "cadActividadeOrgaos": null
@@ -23025,6 +23069,13 @@
                   "orgId": "4528",
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -46526,7 +46577,9 @@
         {
           "cadId": "5936",
           "cadNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Bancário",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "4166",
