@@ -2504,23 +2504,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "68",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2000-05-19",
-                    "pag": {
-                      "string": "2706-2706"
-                    },
-                    "idPag": "285082",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "69",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2535,6 +2518,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2712?pgs=2712&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "68",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2000-05-19",
+                    "pag": {
+                      "string": "2706-2706"
+                    },
+                    "idPag": "285082",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/01/068/2000-05-19/2706?pgs=2706&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3234,6 +3234,7 @@
         {
           "tipo": "OEX",
           "descTipo": "Eleições e composições de órgãos",
+          "assunto": "RESULTADOS DE ELEICAO PARA O CONSELHO SUPERIOR DE MAGISTRATURA",
           "legislatura": "VIII",
           "sessao": "1",
           "dataEntrada": "2000-06-16",
@@ -3257,6 +3258,7 @@
               "idDeb": "6284"
             }
           },
+          "orgaoExterior": "Conselho Superior da Magistratura",
           "numero": "6091",
           "tipoAutor": "Deputados",
           "autoresGP": {

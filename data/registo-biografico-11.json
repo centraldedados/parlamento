@@ -23459,11 +23459,35 @@
             ]
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "10668",
-              "habDes": "A frequentar o Curso de Ciência Politica e Estudos Eleitorais na Universidade Lusófona do Porto",
-              "habTipoId": "16"
-            }
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26780",
+                "habDes": "Ciência Politica",
+                "habTipoId": "13",
+                "habEstado": "F"
+              },
+              {
+                "habId": "26781",
+                "habDes": "Ciência Politica e Estudos Eleitorais",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "30476",
+                "funDes": "Vogal do Executivo da Junta de Freguesia de Rio Tinto",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "30477",
+                "funDes": "Diretora da Universidade Sénior de Rio Tinto",
+                "funOrdem": "2",
+                "funAntiga": "N"
+              }
+            ]
           },
           "cadActividadeOrgaos": null
         },
@@ -41165,8 +41189,8 @@
           "cadId": "4136",
           "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO",
           "cadActividadeProfissional": "Aposentada",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilCod": "6",
+          "cadEstadoCivilDes": "Viúvo(a)"
         },
         {
           "cadId": "4051",

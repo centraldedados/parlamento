@@ -376,7 +376,7 @@
               "pag": {
                 "string": null
               },
-              "idPag": "348811",
+              "idPag": "348809",
               "idInt": null,
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/04/01/005/1985-11-20?pgs=&org=PLC",
@@ -393,22 +393,25 @@
               "supl": ".",
               "pubdt": "1985-11-21",
               "pag": {
-                "string": "243-243"
+                "string": [
+                  "242-242",
+                  "244-244"
+                ]
               },
               "idPag": null,
               "idInt": null,
               "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21/243?pgs=243&org=PLC",
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21/242,244?pgs=242,244&org=PLC",
               "debateDtReu": "1985-11-20",
-              "idDeb": "33568"
+              "idDeb": "33567"
             }
           },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "48572",
+              "id": "48571",
               "resultado": "Rejeitado",
               "reuniao": "7",
-              "detalhe": "A Favor: <I>PCP</I>, <I>MDP/CDE</I>, Lopes Cardoso (INDEP), Maria Santos (INDEP)<BR>Contra: <I>PSD</I>, <I>CDS</I>, Gonçalo Ribeiro Telles (INDEP)<BR>Abstenção: <I>PS</I>, <I>PRD</I>",
+              "detalhe": "A Favor: <I>PS</I>, <I>PCP</I>, <I>MDP/CDE</I>, Lopes Cardoso (INDEP), Gonçalo Ribeiro Telles (INDEP), Maria Santos (INDEP)<BR>Contra: <I>PSD</I><BR>Abstenção: <I>PRD</I>, <I>CDS</I>",
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": {
                   "pubNr": "7",
@@ -421,7 +424,7 @@
                   "pag": {
                     "string": null
                   },
-                  "idPag": "348812",
+                  "idPag": "348810",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21?pgs=&org=PLC",
@@ -431,10 +434,10 @@
               "data": "1985-11-20"
             }
           },
-          "numero": "2",
+          "numero": "1",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "MDP/CDE"
+            "string": "PS"
           }
         },
         {
@@ -536,7 +539,7 @@
               "pag": {
                 "string": null
               },
-              "idPag": "348809",
+              "idPag": "348811",
               "idInt": null,
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2/04/01/005/1985-11-20?pgs=&org=PLC",
@@ -553,25 +556,22 @@
               "supl": ".",
               "pubdt": "1985-11-21",
               "pag": {
-                "string": [
-                  "242-242",
-                  "244-244"
-                ]
+                "string": "243-243"
               },
               "idPag": null,
               "idInt": null,
               "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21/242,244?pgs=242,244&org=PLC",
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21/243?pgs=243&org=PLC",
               "debateDtReu": "1985-11-20",
-              "idDeb": "33567"
+              "idDeb": "33568"
             }
           },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "48571",
+              "id": "48572",
               "resultado": "Rejeitado",
               "reuniao": "7",
-              "detalhe": "A Favor: <I>PS</I>, <I>PCP</I>, <I>MDP/CDE</I>, Lopes Cardoso (INDEP), Gonçalo Ribeiro Telles (INDEP), Maria Santos (INDEP)<BR>Contra: <I>PSD</I><BR>Abstenção: <I>PRD</I>, <I>CDS</I>",
+              "detalhe": "A Favor: <I>PCP</I>, <I>MDP/CDE</I>, Lopes Cardoso (INDEP), Maria Santos (INDEP)<BR>Contra: <I>PSD</I>, <I>CDS</I>, Gonçalo Ribeiro Telles (INDEP)<BR>Abstenção: <I>PS</I>, <I>PRD</I>",
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": {
                   "pubNr": "7",
@@ -584,7 +584,7 @@
                   "pag": {
                     "string": null
                   },
-                  "idPag": "348810",
+                  "idPag": "348812",
                   "idInt": null,
                   "idAct": null,
                   "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/007/1985-11-21?pgs=&org=PLC",
@@ -594,10 +594,10 @@
               "data": "1985-11-20"
             }
           },
-          "numero": "1",
+          "numero": "2",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS"
+            "string": "MDP/CDE"
           }
         },
         {
@@ -1159,23 +1159,6 @@
                     "idDeb": null
                   },
                   {
-                    "pubNr": "53",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "IV",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1986-04-09",
-                    "pag": {
-                      "string": "2030-2030"
-                    },
-                    "idPag": "573323",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/053/1986-04-09/2030?pgs=2030&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "26",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1190,6 +1173,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/026/1986-01-23/851?pgs=851-852&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "53",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "IV",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1986-04-09",
+                    "pag": {
+                      "string": "2030-2030"
+                    },
+                    "idPag": "573323",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/053/1986-04-09/2030?pgs=2030&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -1505,6 +1505,58 @@
           },
           "numero": "178794",
           "tipoAutor": "Governo",
+          "autoresGP": {
+            "string": null
+          }
+        },
+        {
+          "tipo": "SES",
+          "descTipo": "Cerimónia",
+          "assunto": "Reunião Solene Comemorativa do 10.º Aniversário da Constituição de 1976",
+          "legislatura": "IV",
+          "sessao": "1",
+          "dataEntrada": "1986-04-02",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "50",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "IV",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1986-04-03",
+              "pag": {
+                "string": "1793-1804"
+              },
+              "idPag": "826971",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/050/1986-04-03/1793?pgs=1793-1804&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "50",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "IV",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1986-04-03",
+              "pag": {
+                "string": "1793-1804"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/050/1986-04-03/1793?pgs=1793-1804&org=PLC",
+              "debateDtReu": "1986-04-02",
+              "idDeb": "34087"
+            }
+          },
+          "numero": "179448",
+          "tipoAutor": "Mesa da Assembleia",
           "autoresGP": {
             "string": null
           }
@@ -4675,23 +4727,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "8",
-                "pubTipo": "DAR I série",
-                "pubTp": "D",
-                "pubLeg": "IV",
-                "pubSL": "1",
-                "supl": ".",
-                "pubdt": "1985-11-22",
-                "pag": {
-                  "string": "270-271"
-                },
-                "idPag": "348643",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/270?pgs=270-271&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "10",
                 "pubTipo": "DAR I série",
                 "pubTp": "D",
@@ -4706,6 +4741,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/010/1985-11-29/323?pgs=323&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "8",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "IV",
+                "pubSL": "1",
+                "supl": ".",
+                "pubdt": "1985-11-22",
+                "pag": {
+                  "string": "270-271"
+                },
+                "idPag": "348643",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/04/01/008/1985-11-22/270?pgs=270-271&org=PLC",
                 "idDeb": null
               }
             ]

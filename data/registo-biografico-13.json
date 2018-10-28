@@ -15524,13 +15524,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "23100",
+                "habId": "26860",
                 "habDes": "Ciências da Engenharia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "23101",
+                "habId": "26861",
                 "habDes": "Engenharia",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -15540,14 +15540,14 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "26816",
-                "funDes": "Vereador em Regime de Substituição da Câmara Municipal de Almada",
+                "funId": "30516",
+                "funDes": "Membro da Assembleia Municipal de Almada",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "26817",
-                "funDes": "Presidente da Associação dos Estudantes do Instituto Superior Técnico",
+                "funId": "30517",
+                "funDes": "Presidente da Associação dos Estudantes do Instituto Superior Técnico\nVereador em Regime de Substituição da Câmara Municipal de Almada",
                 "funOrdem": "2",
                 "funAntiga": "S"
               }
@@ -25019,6 +25019,36 @@
               "gpSigla": "PS",
               "gpDes": "Partido Socialista",
               "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MANUEL_CALDEIRA_CABRAL.mp4"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26880",
+                "habDes": "Economia",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26881",
+                "habDes": "Economia",
+                "habTipoId": "14",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26882",
+                "habDes": "Economia Internacional",
+                "habTipoId": "15",
+                "habEstado": "C"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
+              "funId": "30536",
+              "funDes": "Ministro Da Economia",
+              "funOrdem": "1",
+              "funAntiga": "S"
             }
           },
           "cadActividadeOrgaos": {
