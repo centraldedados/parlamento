@@ -7,42 +7,47 @@
     "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
     "genBI2_Seccao": [
       {
+        "ID": "-1",
+        "Titulo": "Plenário - Agenda do Dia",
+        "nOrdem": "10",
+        "Conteudos": {
+          "genBI2_Conteudo": {
+            "ID": "0",
+            "ID_Tema": "0",
+            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+            "nOrdem": "0",
+            "Data_Inicio": "2018-10-29T15:00:00",
+            "Data_Fim": "2018-10-29T16:00:00",
+            "Titulo": "Reunião Plenária",
+            "Subtitulo": "DIA: 29 outubro (segunda-feira) | HORA: 15:00 | TIPO: Ordinária",
+            "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTexto\" colspan=\"2\" vAlign=\"top\">15:00 Horas</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" colspan=\"2\" vAlign=\"top\"><p>ORDEM DO DIA</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">1-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43116\" target=\"_BLANK\"><strong>Proposta de Lei n.º 155/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova as Grandes Opções do Plano para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43117\" target=\"_BLANK\"><strong>Proposta de Lei n.º 156/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova o Orçamento do Estado para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\">\n<p><strong>APRECIAÇÃO NA GENERALIDADE</strong></p>\n<p>1.º Dia</p>\n</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">Governo</td>\n<td align=\"center\">80 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">55 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">50 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">32 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">31 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">29 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">10 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">5 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">292 m</td>\n</tr>\n</tbody>\n</table><span class=\"ConteudoPlenarioObservacoes\">Governo, o PSD e o PS podem transferir para o dia seguinte até ao máximo de 30% do tempo que lhes foi atribuído. Os restantes partidos podem gerir livremente os seus tempos</span></td></tr></table>",
+            "Seccao": null,
+            "Tema": null,
+            "Local": null
+          }
+        }
+      },
+      {
         "ID": "-2",
         "Titulo": "Plenário - Agendamentos Futuros",
         "nOrdem": "15",
         "Conteudos": {
-          "genBI2_Conteudo": [
-            {
-              "ID": "0",
-              "ID_Tema": "0",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
-              "Data_Inicio": "2018-10-29T15:00:00",
-              "Data_Fim": "2018-10-29T16:00:00",
-              "Titulo": "Reunião Plenária",
-              "Subtitulo": "DIA: 29 outubro (segunda-feira) | HORA: 15:00 | TIPO: Ordinária",
-              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTexto\" colspan=\"2\" vAlign=\"top\">15:00 Horas</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" colspan=\"2\" vAlign=\"top\"><p>ORDEM DO DIA</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">1-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43116\" target=\"_BLANK\"><strong>Proposta de Lei n.º 155/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova as Grandes Opções do Plano para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43117\" target=\"_BLANK\"><strong>Proposta de Lei n.º 156/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova o Orçamento do Estado para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\">\n<p><strong>APRECIAÇÃO NA GENERALIDADE</strong></p>\n<p>1.º Dia</p>\n</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">Governo</td>\n<td align=\"center\">80 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">55 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">50 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">32 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">31 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">29 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">10 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">5 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">292 m</td>\n</tr>\n</tbody>\n</table><span class=\"ConteudoPlenarioObservacoes\">Governo, o PSD e o PS podem transferir para o dia seguinte até ao máximo de 30% do tempo que lhes foi atribuído. Os restantes partidos podem gerir livremente os seus tempos</span></td></tr></table>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "0",
-              "ID_Tema": "0",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
-              "Data_Inicio": "2018-10-30T10:00:00",
-              "Data_Fim": "2018-10-30T11:00:00",
-              "Titulo": "Reunião Plenária",
-              "Subtitulo": "DIA: 30 outubro (terça-feira) | HORA: 10:00 | TIPO: Ordinária",
-              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTexto\" colspan=\"2\" vAlign=\"top\">10:00/15:00 Horas</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" colspan=\"2\" vAlign=\"top\"><p>ORDEM DO DIA</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">1-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43116\" target=\"_BLANK\"><strong>Proposta de Lei n.º 155/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova as Grandes Opções do Plano para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43117\" target=\"_BLANK\"><strong>Proposta de Lei n.º 156/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova o Orçamento do Estado para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\">\n<p><strong>APRECIAÇÃO NA GENERALIDADE</strong></p>\n<p>2.º Dia</p>\n</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">Governo</td>\n<td align=\"center\">80 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">55 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">50 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">32 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">31 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">29 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">10 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">5 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">292 m</td>\n</tr>\n</tbody>\n</table><span class=\"ConteudoPlenarioObservacoes\">Os tempos serão acrescidos ou descontados consoante a sua utilização no dia anterior</span></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">2-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><strong>Encerramento do Debate na Generalidade</strong></p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\"><strong>ENCERRAMENTO</strong></td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">3 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">6 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">9 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">10 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">11 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">16 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">17 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">GOVERNO</td>\n<td align=\"center\">30 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">102 m</td>\n</tr>\n</tbody>\n</table></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">3-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><strong>Votações regimentais no final do debate</strong></p></td></tr></table>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            }
-          ]
+          "genBI2_Conteudo": {
+            "ID": "0",
+            "ID_Tema": "0",
+            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+            "nOrdem": "0",
+            "Data_Inicio": "2018-10-30T10:00:00",
+            "Data_Fim": "2018-10-30T11:00:00",
+            "Titulo": "Reunião Plenária",
+            "Subtitulo": "DIA: 30 outubro (terça-feira) | HORA: 10:00 | TIPO: Ordinária",
+            "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTexto\" colspan=\"2\" vAlign=\"top\">10:00/15:00 Horas</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" colspan=\"2\" vAlign=\"top\"><p>ORDEM DO DIA</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">1-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43116\" target=\"_BLANK\"><strong>Proposta de Lei n.º 155/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova as Grandes Opções do Plano para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><a href=\"http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=43117\" target=\"_BLANK\"><strong>Proposta de Lei n.º 156/XIII/4.ª (GOV)</strong></a></p>\n<p>Aprova o Orçamento do Estado para 2019</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\">\n<p><strong>APRECIAÇÃO NA GENERALIDADE</strong></p>\n<p>2.º Dia</p>\n</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">Governo</td>\n<td align=\"center\">79 m 31 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">42 m 11 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">62 m 39 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">37 m 36 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">16 m 34 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">32 m 42 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">4 m 02 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">5 m 31 s</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">280 m 46 s</td>\n</tr>\n</tbody>\n</table></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">2-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><strong>Encerramento do Debate na Generalidade</strong></p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td></td><td class=\"ConteudoPlenarioTextoTitulo\"><table>\n<tbody>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td colspan=\"2\" align=\"center\"><strong>ENCERRAMENTO</strong></td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PAN</td>\n<td align=\"center\">3 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PEV</td>\n<td align=\"center\">6 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PCP</td>\n<td align=\"center\">9 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">CDS-PP</td>\n<td align=\"center\">10 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">BE</td>\n<td align=\"center\">11 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">PS</td>\n<td align=\"center\">16 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">PSD</td>\n<td align=\"center\">17 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaImpar\">\n<td align=\"center\">GOVERNO</td>\n<td align=\"center\">30 m</td>\n</tr>\n<tr class=\"ARTabResultadosLinhaPar\">\n<td align=\"center\">TOTAL</td>\n<td align=\"center\">102 m</td>\n</tr>\n</tbody>\n</table></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\">3-</td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><strong>Votações regimentais no final do debate</strong></p></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTextoTitulo\">&nbsp;</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\">DOCUMENTOS ANEXOS:</td></tr><tr><td class=\"ConteudoPlenarioTexto\"><a href=\"http://ARNet/sites/XIIILEG/MESA/AnexosAgendasArquivo/4ª Sessão Legislativa/XIII_4_19_2018-10-30_2018-10-30.pdf\" target=\"new\"><b>Guião de Votações</b></a></td></tr></table>",
+            "Seccao": null,
+            "Tema": null,
+            "Local": null
+          }
         }
       },
       {
@@ -87,10 +92,10 @@
               "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
               "Data_Fim_Publicacao": "0001-01-01T00:00:00",
               "nOrdem": "0",
-              "Data_Inicio": "2018-11-02T15:00:00",
-              "Data_Fim": "2018-11-02T16:00:00",
+              "Data_Inicio": "2018-11-02T14:00:00",
+              "Data_Fim": "2018-11-02T15:00:00",
               "Titulo": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-              "Subtitulo": "DIA: 2 novembro | HORA: 15:00 | LOCAL: Plenário | TIPO: Ordinária",
+              "Subtitulo": "DIA: 2 novembro | HORA: 14:00 | LOCAL: Plenário | TIPO: Ordinária",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Audição do Ministro da Educação, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 155/XIII/4.ª (GOV) - \"Aprova as Grandes Opções do Plano para 2019\" - e da Proposta de Lei n.º 156/XIII/4.ª (GOV) - \"Aprova o Orçamento do Estado para 2019\".</td></tr></table>",
               "Seccao": null,
               "Tema": null,
@@ -105,8 +110,23 @@
               "Data_Inicio": "2018-10-31T10:00:00",
               "Data_Fim": "2018-10-31T11:00:00",
               "Titulo": "Comissão de Economia, Inovação e Obras Públicas",
-              "Subtitulo": "DIA: 31 outubro | HORA: 10:00 | TIPO: Ordinária",
+              "Subtitulo": "DIA: 31 outubro | HORA: 10:00 | LOCAL: sala 2 | TIPO: Ordinária",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Apreciação e votação da ata n.º 213/XIII/4.ª, relativa à reunião de 24 de outubro de 2018\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Apreciação e votação do relatório final da Petição n.º 238/XIII/2.ª - \"Solicita a reavaliação do PENSE 2020, no que concerne à obrigação de atualização de conhecimentos na revalidação da carta de condução aos 65 anos\".\n- Relator: Deputado Fernando Jesus (PS)\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">3 - Apreciação e votação do relatório final da Petição n.º 469/XIII/3.ª - \"Por um melhor serviço público, reivindicando renovação e reforço da frota TransTejo/Soflusa\"\n- Relator: Deputado Brun Dias (PCP)\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">4 - Apreciação e votação do Parecer sobre o Plano de Desenvolvimento e Investimento da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminal de GNL - PDIRGN 2017 (Período 2018-2027)\n - Relator: Dep. António Topa (PSD)\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">5 - Fixação da redação final relativa à Proposta de Lei n.º 132/XIII/3.ª (GOV) - Autoriza o Governo a aprovar o novo Código da Propriedade Industrial, transpondo as Diretivas (UE) 2015/2436 e (UE) 2016/943\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">6 - Apreciação e votação dos relatórios finais das Petições n.os 478/XIII/3.ª - \"Solicita a realização de obras de requalificação no IP3\", 495/XIII/3.ª - \"Intervenção urgente no IP3, pela segurança, acessibilidade e desenvolvimento\" e 504/XIII/3.ª - \"Solicitam a adoção de medidas com vista à requalificação completa e adequada do IP3\"\n- Relator: Deputado Pedro Coimbra (PS)\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">7 - Apreciação e votação dos relatórios finais das Petições n.os 155/XIII/1.ª - \"Solicita que sejam discutidos em plenário os efeitos negativos da publicidade na sociedade portuguesa\" e 197/XIII/2.ª - \"Solicita que seja elaborado um estudo sobre o impacto da publicidade e dos meios de comunicação social na súde e na educação durante a infância\"\n- Relator: Deputado André Pinotes Baptista (PS)\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">8 - Outros assuntos</td></tr></table>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "1",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-10-31T11:00:00",
+              "Data_Fim": "2018-10-31T12:00:00",
+              "Titulo": "Comissão de Economia, Inovação e Obras Públicas",
+              "Subtitulo": "DIA: 31 outubro | HORA: 11:00 | LOCAL: sala 2 | TIPO: Mesa e Coordenadores",
+              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Audiência com a ANAon - Associação Nacional de Apostadores online</td></tr></table>",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -150,7 +170,7 @@
               "Data_Inicio": "2018-10-29T14:30:00",
               "Data_Fim": "2018-10-29T15:30:00",
               "Titulo": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-              "Subtitulo": "DIA: 29 outubro | HORA: 14:30 | TIPO: Mesa e Coordenadores",
+              "Subtitulo": "DIA: 29 outubro | HORA: 14:30 | LOCAL: sala 5 | TIPO: Mesa e Coordenadores",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Acerto do calendário das próximas reuniões;\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Outros assuntos.</td></tr></table>",
               "Seccao": null,
               "Tema": null,
@@ -190,28 +210,6 @@
             "Titulo": "Reúne a Conferência de Líderes",
             "Subtitulo": "DIA: 6 novembro | HORA: 11:00",
             "Texto": null,
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
-        }
-      },
-      {
-        "ID": "-8",
-        "Titulo": "Eventos",
-        "nOrdem": "65",
-        "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "9336",
-            "ID_Tema": "2",
-            "Data_Inicio_Publicacao": "2018-10-24T00:00:00",
-            "Data_Fim_Publicacao": "2018-10-28T00:00:00",
-            "nOrdem": "1",
-            "Data_Inicio": "2018-10-24T11:00:00",
-            "Data_Fim": "2018-10-28T16:30:00",
-            "Titulo": "Visita oficial do Presidente da Câmara dos Representantes do Reino de Marrocos | 24 a 28 outubro",
-            "Subtitulo": null,
-            "Texto": "<p style=\"margin: 0cm 0cm 8pt;\"><span style=\"font-family: calibri; color: black;\">A convite do Presidente da Assembleia da República, Eduardo Ferro Rodrigues, visita o nosso País, entre os dias 24 e 28 de outubro, o Presidente da Câmara dos Representantes do Reino de Marrocos, Habib El Malki. O Presidente da Assembleia da República recebe o Presidente da Câmara dos Representantes do Reino de Marrocos, em Cerimónia de Boas-Vindas, no dia 25 de outubro, pelas 11.30h.</span></p>\n",
             "Seccao": null,
             "Tema": null,
             "Local": null
@@ -263,21 +261,6 @@
         "nOrdem": "80",
         "Conteudos": {
           "genBI2_Conteudo": [
-            {
-              "ID": "0",
-              "ID_Tema": "2",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
-              "Data_Inicio": "2018-10-26T14:00:00",
-              "Data_Fim": "2018-10-27T19:00:00",
-              "Titulo": "Centenário do Armistício da Primeira Grande Guerra Mundial",
-              "Subtitulo": "DIA 26 outubro | HORA 14:00",
-              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, desloca-se a Paris, França, nos dias 26 e 27 de</font> <font size=\"2\" face=\"Tahoma\">outubro</font><font size=\"2\" face=\"Tahoma\">, a fim de presidir à Cerimónia de Inauguração da Exposição</font><i></i><i></i><i> <font size=\"2\" face=\"Tahoma\">Portugal e a Grande Guerra</font></i><font size=\"2\" face=\"Tahoma\">, alusiva ao Centenário da I Grande Guerra Mundial, através da qual a Assembleia da República se associa às Comemorações do Centenário do Armistício.</font> </div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">A inauguração terá lugar pelas 19H00 de 26 de outubro, no Consulado-Geral de Portugal em Paris, onde ficará patente ao público até 11 de novembro, data em que se cumprem 100 anos sobre o Armistício da Primeira Grande Guerra Mundial.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Na sua deslocação a Paris, o Presidente da Assembleia da República será acompanhado pelos Presidentes das Comissões de Negócios Estrangeiros e Comunidades Portuguesas e de Defesa Nacional, Deputados Sérgio Sousa Pinto e Marco António Costa, pelos Deputados Carlos Alberto Gonçalves e Paulo Pisco, eleitos pelo Círculo da Europa, e pela Comissária e Coordenadora Científica da Exposição, Maria Fernanda Rollo (Investigadora do Instituto de História Contemporânea da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa).</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Coincidindo com a sua passagem por Paris, o Presidente Eduardo Ferro Rodrigues e Delegação visitarão a Exposição</font><i></i><i></i><i> <font size=\"2\" face=\"Tahoma\">Les contes cruels de Paula Rego</font></i><font size=\"2\" face=\"Tahoma\">, patente no</font><i></i><i></i><i> <font size=\"2\" face=\"Tahoma\">Musée de l’Orangerie</font></i><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58; Paris, França.</font></div>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
             {
               "ID": "0",
               "ID_Tema": "2",
