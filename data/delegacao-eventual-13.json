@@ -8440,16 +8440,6 @@
         }
       },
       {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
-      },
-      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8475,6 +8465,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
       },
       {
         "id": "1871",
@@ -8505,24 +8505,6 @@
         }
       },
       {
-        "id": "1869",
-        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-05",
-        "dataFim": "2018-10-05",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOSÉ CESÁRIO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "77"
-          }
-        }
-      },
-      {
         "id": "1870",
         "nome": "Conferência interparlamentar \"Transformação da região dos Balcãs Ocidentais - perspetiva parlamentar sobre o papel e futuro do processo de adesão à UE\"",
         "local": "Sófia",
@@ -8547,6 +8529,24 @@
               "id": "1700"
             }
           ]
+        }
+      },
+      {
+        "id": "1869",
+        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-05",
+        "dataFim": "2018-10-05",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ CESÁRIO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "77"
+          }
         }
       },
       {
@@ -8595,24 +8595,6 @@
         }
       },
       {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
-      },
-      {
         "id": "1875",
         "nome": "Conferência de Alto Nível sobre o futuro das Missões de Observação Eleitoral",
         "local": "Bruxelas",
@@ -8637,6 +8619,24 @@
               "id": "1974"
             }
           ]
+        }
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
         }
       },
       {
@@ -8851,6 +8851,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "1743"
+          }
+        }
+      },
+      {
+        "id": "1887",
+        "nome": "Jornada Privada da Google sobre Inteligência Artificial",
+        "local": "Amesterdão",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-06",
+        "dataFim": "2018-11-07",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDITE ESTRELA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "162"
           }
         }
       }
