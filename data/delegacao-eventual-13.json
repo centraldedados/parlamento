@@ -8440,6 +8440,16 @@
         }
       },
       {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8465,16 +8475,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
       },
       {
         "id": "1871",
@@ -8595,6 +8595,24 @@
         }
       },
       {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
         "id": "1875",
         "nome": "Conferência de Alto Nível sobre o futuro das Missões de Observação Eleitoral",
         "local": "Bruxelas",
@@ -8619,24 +8637,6 @@
               "id": "1974"
             }
           ]
-        }
-      },
-      {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
         }
       },
       {
@@ -8715,6 +8715,16 @@
         }
       },
       {
+        "id": "1880",
+        "nome": "Conferência Anual dos Correspondentes do CERDP",
+        "local": "Helsínquia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-18",
+        "dataFim": "2018-10-20",
+        "participantes": null
+      },
+      {
         "id": "1881",
         "nome": "Reunião LIBE sobre os direitos fundamentais na integração dos ciganos e no combate contra o antagonismo face ao povo cigano.",
         "local": "Bruxelas",
@@ -8731,16 +8741,6 @@
             "id": "2522"
           }
         }
-      },
-      {
-        "id": "1880",
-        "nome": "Conferência Anual dos Correspondentes do CERDP",
-        "local": "Helsínquia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-18",
-        "dataFim": "2018-10-20",
-        "participantes": null
       },
       {
         "id": "1882",
@@ -8853,6 +8853,16 @@
             "id": "1743"
           }
         }
+      },
+      {
+        "id": "1888",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-01",
+        "dataFim": "2018-11-30",
+        "participantes": null
       },
       {
         "id": "1887",
