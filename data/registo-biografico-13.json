@@ -8110,12 +8110,71 @@
             }
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26801",
-              "habDes": "Turismo",
-              "habTipoId": "15",
-              "habEstado": "F"
-            }
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "26900",
+                "habDes": "1º Ciclo",
+                "habTipoId": "9",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26901",
+                "habDes": "2º Ciclo",
+                "habTipoId": "10",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26902",
+                "habDes": "3º Ciclo",
+                "habTipoId": "11",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26903",
+                "habDes": "Ensino Secundário",
+                "habTipoId": "12",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26904",
+                "habDes": "Organização e Gestão de Empresas - Faculdade Economia Universidade de Coimbra",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "26905",
+                "habDes": "Gestão e Economia da Sáude (parte letiva concluída) - Faculdade de Economia da Universidade de Coimbra",
+                "habTipoId": "14",
+                "habEstado": "F"
+              },
+              {
+                "habId": "26906",
+                "habDes": "Turismo - Universidade de Aveiro. ",
+                "habTipoId": "15",
+                "habEstado": "F"
+              },
+              {
+                "habId": "26907",
+                "habDes": "Curso Avançado de Gestão em Turismo. Universidade de Aveiro\nDigital Marketing and Social Media - London School of Business & Finance London\nPAGE - Programa Avançado de Gestão para Executivos. Universidade Católica Portuguesa\nFlag Professional Web Marketing\nMaster of Sales and Marketing Management",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "30556",
+                "funDes": "Membro da Comissão Politica Distrital",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "30557",
+                "funDes": "Administradora não Executiva nas Águas do Centro Litoral.\nVereadora na Câmara Municipal de Cantanhede\nPresidente da Junta de Freguesia de Corticeiro de Cima\nConsultora na área de projetos\nGerente de Loja Online\nGestora de Produto na empresa Abbott Laboratórios\nPresidente da Comissão Politica Concelhia de Cantanhede\nMembro da Comissão Politica Distrital\nMembro da Comissão Nacional",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              }
+            ]
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -16476,9 +16535,9 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4904",
-                  "orgDes": "Grupo de Trabalho - Turismo",
-                  "orgSigla": "GT-T",
+                  "orgId": "5084",
+                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
+                  "orgSigla": "GT-SL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -16486,6 +16545,13 @@
                   "orgId": "5364",
                   "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
                   "orgSigla": "GT-ATFPI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4904",
+                  "orgDes": "Grupo de Trabalho - Turismo",
+                  "orgSigla": "GT-T",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },

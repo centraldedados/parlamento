@@ -8440,16 +8440,6 @@
         }
       },
       {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
-      },
-      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8475,6 +8465,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
       },
       {
         "id": "1871",
@@ -8577,6 +8577,43 @@
         }
       },
       {
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": null
+      },
+      {
+        "id": "1875",
+        "nome": "Conferência de Alto Nível sobre o futuro das Missões de Observação Eleitoral",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "PEDRO ALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1738"
+            },
+            {
+              "tipo": "D",
+              "nome": "RICARDO BEXIGA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1974"
+            }
+          ]
+        }
+      },
+      {
         "id": "1878",
         "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
         "local": "Bruxelas",
@@ -8611,53 +8648,6 @@
             "id": "1738"
           }
         }
-      },
-      {
-        "id": "1875",
-        "nome": "Conferência de Alto Nível sobre o futuro das Missões de Observação Eleitoral",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "PEDRO ALVES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "1738"
-            },
-            {
-              "tipo": "D",
-              "nome": "RICARDO BEXIGA",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "1974"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1873",
-        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": null
-      },
-      {
-        "id": "1872",
-        "nome": "Reunião do conselho do IPEX - IPEX Board",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-11",
-        "dataFim": "2018-10-11",
-        "participantes": null
       },
       {
         "id": "1876",
@@ -8715,6 +8705,16 @@
         }
       },
       {
+        "id": "1872",
+        "nome": "Reunião do conselho do IPEX - IPEX Board",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-11",
+        "dataFim": "2018-10-11",
+        "participantes": null
+      },
+      {
         "id": "1880",
         "nome": "Conferência Anual dos Correspondentes do CERDP",
         "local": "Helsínquia",
@@ -8761,6 +8761,16 @@
         }
       },
       {
+        "id": "1884",
+        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-23",
+        "dataFim": "2018-10-27",
+        "participantes": null
+      },
+      {
         "id": "1883",
         "nome": "Conferência \"The national life of the EU Charter of fundamental rights\"",
         "local": "Viena",
@@ -8777,16 +8787,6 @@
             "id": "1030"
           }
         }
-      },
-      {
-        "id": "1884",
-        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-23",
-        "dataFim": "2018-10-27",
-        "participantes": null
       },
       {
         "id": "1886",
@@ -8880,6 +8880,178 @@
             "leg": "XIII",
             "id": "162"
           }
+        }
+      },
+      {
+        "id": "1889",
+        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1891",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "REGINA BASTOS",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "2106"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOSÉ DE MATOS ROSA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1951"
+            },
+            {
+              "tipo": "D",
+              "nome": "FELICIANO BARREIRAS DUARTE",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1619"
+            },
+            {
+              "tipo": "D",
+              "nome": "NILZA DE SENA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4326"
+            },
+            {
+              "tipo": "D",
+              "nome": "FERNANDO VIRGÍLIO MACEDO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4152"
+            },
+            {
+              "tipo": "D",
+              "nome": "LUÍS MOREIRA TESTA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "4126"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA ANTÓNIA DE ALMEIDA SANTOS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1594"
+            },
+            {
+              "tipo": "D",
+              "nome": "SÉRGIO SOUSA PINTO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1264"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            },
+            {
+              "tipo": "D",
+              "nome": "ALEXANDRE QUINTANILHA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5930"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDITE ESTRELA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "162"
+            },
+            {
+              "tipo": "D",
+              "nome": "JORGE CAMPOS",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "3387"
+            },
+            {
+              "tipo": "D",
+              "nome": "HELDER AMARAL",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1450"
+            },
+            {
+              "tipo": "D",
+              "nome": "RITA RATO",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "4104"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1890",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE PACHECO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "42"
+            },
+            {
+              "tipo": "D",
+              "nome": "IDÁLIA SALVADOR SERRÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2132"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            }
+          ]
         }
       }
     ]
