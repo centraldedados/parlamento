@@ -7686,6 +7686,46 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "64ª Sessão Anual AP-NATO e 8º Fórum da Aliança das Civilizações das Nações Unidas",
+              "tipo": "REN",
+              "local": "Halifax e Nova Iorque",
+              "dataInicio": "16-11-2018",
+              "dataFim": "20-11-2018",
+              "participantes": null
+            },
+            {
+              "nome": "35º Encontro do Bureau",
+              "tipo": "RNI",
+              "local": "Assembleia da Republica",
+              "dataInicio": "04-11-2018",
+              "dataFim": "05-11-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MARIA DA LUZ ROSINHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "695"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PEDRO ROQUE",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1992"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "RENATO SAMPAIO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1679"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "139.ª Sessão Anual da UIP",
               "tipo": "REN",
               "local": "Genebra",
@@ -8255,22 +8295,6 @@
               }
             },
             {
-              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
-              "tipo": "REN",
-              "local": "São Petersburgo e Roma",
-              "dataInicio": "27-03-2017",
-              "dataFim": "31-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO ROQUE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1992"
-                }
-              }
-            },
-            {
               "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -8283,6 +8307,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1679"
+                }
+              }
+            },
+            {
+              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
+              "tipo": "REN",
+              "local": "São Petersburgo e Roma",
+              "dataInicio": "27-03-2017",
+              "dataFim": "31-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
                 }
               }
             },
