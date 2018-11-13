@@ -360,7 +360,7 @@
               "Data_Inicio": "2018-11-15T15:00:00",
               "Data_Fim": "2018-11-15T16:00:00",
               "Titulo": "Comissão de Agricultura e Mar",
-              "Subtitulo": "DIA: 15 novembro | HORA: 15:00 | TIPO: Ordinária",
+              "Subtitulo": "DIA: 15 novembro | HORA: 15:00 | LOCAL: sala 1 | TIPO: Ordinária",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\">Audiência com a CNA - Confederação Nacional da Agricultura no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 155/XIII/4.ª (GOV) - \"Aprova as Grandes Opções do Plano para 2019\" e da Proposta de Lei n.º 156/XIII/4.ª (GOV) - \"Aprova o Orçamento do Estado para 2019\"</td></tr></table><table class=\"TabTitulBolInf\"></table>",
               "Seccao": null,
               "Tema": null,
@@ -542,6 +542,28 @@
         }
       },
       {
+        "ID": "-7",
+        "Titulo": "Conselho de Administração",
+        "nOrdem": "60",
+        "Conteudos": {
+          "genBI2_Conteudo": {
+            "ID": "0",
+            "ID_Tema": "1",
+            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+            "nOrdem": "0",
+            "Data_Inicio": "2018-11-13T18:00:00",
+            "Data_Fim": "2018-11-13T19:00:00",
+            "Titulo": "Reúne o Conselho de Administração",
+            "Subtitulo": "DIA: 13 novembro | HORA: 18:00",
+            "Texto": null,
+            "Seccao": null,
+            "Tema": null,
+            "Local": null
+          }
+        }
+      },
+      {
         "ID": "-8",
         "Titulo": "Eventos",
         "nOrdem": "65",
@@ -618,11 +640,125 @@
         }
       },
       {
+        "ID": "-4",
+        "Titulo": "Agenda do Presidente da Assembleia da República",
+        "nOrdem": "80",
+        "Conteudos": {
+          "genBI2_Conteudo": [
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-14T12:30:00",
+              "Data_Fim": "2018-11-14T13:00:00",
+              "Titulo": "Audiência ao Presidente do Conselho Regulador da Entidade Reguladora para a Comunicação Social, Sebastião Póvoas",
+              "Subtitulo": "DIA 14 novembro | HORA 12:30",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, recebe, em audiência, o</font> <font size=\"2\" face=\"Tahoma\">Presidente do</font><font size=\"2\" face=\"Tahoma\"></font> <font size=\"2\" face=\"Tahoma\">Conselho Regulador da Entidade Reguladora para a Comunicação Social</font><font size=\"2\" face=\"Tahoma\">, Sebasti</font><font size=\"2\" face=\"Tahoma\">ão Póvoas.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58; Sala de Visitas da Presidência, Palácio de São Bento.</font></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-14T15:30:00",
+              "Data_Fim": "2018-11-14T16:00:00",
+              "Titulo": "Audiência ao Presidente do Supremo Tribunal de Justiça, Juiz Conselheiro António Joaquim Piçarra",
+              "Subtitulo": "DIA 14 novembro | HORA 15:30",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, recebe, em audiência, o</font> <font size=\"2\" face=\"Tahoma\">P</font><font size=\"2\" face=\"Tahoma\">residente do Supremo Tribunal de Justiça</font><font size=\"2\" face=\"Tahoma\">,</font> <font size=\"2\" face=\"Tahoma\">Juiz Conselheiro António Joaquim Piçarra</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58; Sala de Visitas da Presidência, Palácio de São Bento.</font></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-14T16:00:00",
+              "Data_Fim": "2018-11-14T16:30:00",
+              "Titulo": "Audiência ao Chefe do Estado-Maior do Exército, Tenente-General José Nunes da Fonseca",
+              "Subtitulo": "DIA 14 novembro | HORA 16:00",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, recebe, em audiência,</font> <font size=\"2\" face=\"Tahoma\">o Chefe do Estado-Maior do Exército, Tenente-General José Nunes da Fonseca</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58; Sala de Visitas da Presidência, Palácio de São Bento.</font></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-14T17:00:00",
+              "Data_Fim": "2018-11-14T17:30:00",
+              "Titulo": "Posse da Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
+              "Subtitulo": "DIA 14 novembro | HORA 17:00",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O</font><font size=\"2\" face=\"Tahoma\">&#160;</font><font size=\"2\" face=\"Tahoma\">Presidente da Assembleia da República</font><font size=\"2\" face=\"Tahoma\">, Eduardo Ferro Rodrigues, confere posse à Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">A Comissão Parlamentar de Inquérito, constituída nos termos do disposto no n.º</font><font size=\"2\" face=\"Tahoma\">&#160;</font><font size=\"2\" face=\"Tahoma\">4 do artigo 178.º da Constituição</font><font size=\"2\" face=\"Tahoma\">&#160;e da alínea a) do n.º 1 do artigo 2.º da</font><font size=\"2\" face=\"Tahoma\">&#160;</font><font size=\"2\" face=\"Tahoma\">Lei n.º 5/93, de 1 de março</font><font size=\"2\" face=\"Tahoma\">, alterada pela</font><font size=\"2\" face=\"Tahoma\">&#160;</font><font size=\"2\" face=\"Tahoma\">Lei n.º 126/97, de 10 de dezembro</font><font size=\"2\" face=\"Tahoma\">, e alterada e republicada pela</font><font size=\"2\" face=\"Tahoma\">&#160;</font><font size=\"2\" face=\"Tahoma\">Lei n.º 15/2007, de 3 de abril</font><font size=\"2\" face=\"Tahoma\">, tem como objeto identificar e avaliar os factos, os atos e as omissões do XXI Governo Constitucional relacionados direta ou indiretamente com o furto de armas em Tancos, no período compreendido entre junho de 2017 e o presente, bem como apurar as responsabilidades políticas daí decorrentes</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">A Resolução da Assembleia da República que determinou a constituição da Comissão Parlamentar de Inquérito, publicada n</font><font size=\"2\" face=\"Tahoma\">o</font><font size=\"2\" face=\"Tahoma\"></font> <font size=\"2\" face=\"Tahoma\">Diário da Assembleia da República II Série A, n.º 23, de 5 de novembro de 2018</font><font size=\"2\" face=\"Tahoma\">, determinou que esta funcionará pelo período de 120 dias</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58;</font> <font size=\"2\" face=\"Tahoma\">Sala 6 das Comissões, Palácio de São Bento</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-14T18:00:00",
+              "Data_Fim": "2018-11-14T19:00:00",
+              "Titulo": "Apresentação Pública da obra \"A Grande Guerra no Parlamento\", de Ana Paula Pires e Fernanda Rollo",
+              "Subtitulo": "DIA 14 novembro | HORA 18:00",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, preside</font> <font size=\"2\" face=\"Tahoma\">à Cerimónia de Apresentação Pública da obra</font><i></i><i> <font size=\"2\" face=\"Tahoma\">A Grande Guerra no Parlamento</font></i><font size=\"2\" face=\"Tahoma\">, d</font><font size=\"2\" face=\"Tahoma\">a autoria de Ana Paula Pires e Fernanda Rollo</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">A</font> <font size=\"2\" face=\"Tahoma\">obra, integrada na Coleção Parlamento, analisa e interpreta os debates que ocorreram no Parlamento português, entre agosto de 1914, data da eclosão da Grande Guerra na Europa, e 1921, ano em que se realizou a cerimónia de trasladação para o Mosteiro de Santa Maria da Vitória, na Batalha, dos corpos de dois soldados desconhecidos portugueses, mortos em África e na Flandres</font><font size=\"2\" face=\"Tahoma\">.</font><font size=\"2\" face=\"Tahoma\"></font> <font size=\"2\" face=\"Tahoma\">A</font> <font size=\"2\" face=\"Tahoma\">apresentação</font> <font size=\"2\" face=\"Tahoma\">está a ca</font><font size=\"2\" face=\"Tahoma\">rgo</font> <font size=\"2\" face=\"Tahoma\">de Fernando Rosas,</font> <font size=\"2\" face=\"Tahoma\">historiador</font> <font size=\"2\" face=\"Tahoma\">e antigo Deputado à Assembleia da República.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58;</font> <font size=\"2\" face=\"Tahoma\">Biblioteca Passos Manuel</font><font size=\"2\" face=\"Tahoma\"> da Assembleia da República, Palácio de São Bento.</font></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "2",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-15T13:00:00",
+              "Data_Fim": "2018-11-15T15:00:00",
+              "Titulo": "Almoço com o Embaixador da República Popular da China em Lisboa",
+              "Subtitulo": "DIA 15 novembro | HORA 13:00",
+              "Texto": "<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, almoça com o Embaixador da República Popular da China em Lisboa, Cai Run, a seu convite. O P</font><font size=\"2\" face=\"Tahoma\">r</font><font size=\"2\" face=\"Tahoma\">esidente</font><font size=\"2\" face=\"Tahoma\"> Eduardo Ferro Rodrigues faz-se acompanhar pelos Deputados à Assembleia da República que integram a sua Delegação na Visita Oficial que fará à República Popular da China, nos próximos dias 19 e 20 de novembro</font><font size=\"2\" face=\"Tahoma\">.</font></div>\n\n<div dir=\"LTR\"><font size=\"2\" face=\"Tahoma\">Local&#58;</font> <font size=\"2\" face=\"Tahoma\">Residência do Embaixador da República Popular da China em Lisboa, Lisboa</font><font size=\"2\" face=\"Tahoma\">.</font></div>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            }
+          ]
+        }
+      },
+      {
         "ID": "20",
         "Titulo": "Grupos Parlamentares",
         "nOrdem": "110",
         "Conteudos": {
           "genBI2_Conteudo": [
+            {
+              "ID": "9395",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2213",
+              "Data_Inicio": "2018-11-12T00:00:00",
+              "Data_Fim": "2018-11-12T23:59:00",
+              "Titulo": "Drupo Parlamentar do PSD",
+              "Subtitulo": "Dia 12 de novembro de 2018",
+              "Texto": "12:00 - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal<br />\n14:00 - Funcionários da Administração Tributária e Aduaneira<br />\n14:30 - Associação Ibérica do Gás Natural para a Mobilidade (GASNAM)<br />\n15:00 - Defesa do Consumidor (DECO)<br />\n15:00 - Centro de Recuperação e Integração de Abrantes (CRIA) \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
             {
               "ID": "9355",
               "ID_Tema": "4",
@@ -654,6 +790,21 @@
               "Local": null
             },
             {
+              "ID": "9396",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2220",
+              "Data_Inicio": "2018-11-13T00:00:00",
+              "Data_Fim": "2018-11-13T23:59:00",
+              "Titulo": "Grupo Parlamentar do PSD",
+              "Subtitulo": "Dia 13 de novembro de 2018",
+              "Texto": "10:30 - Confederação dos Agricultores de Portugal (CAP)<br />\n15:00 - Ordem dos Psicólogos (MURPI)<br />\n15:00 - Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas (STCDE)\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
               "ID": "9314",
               "ID_Tema": "4",
               "Data_Inicio_Publicacao": "2018-10-12T00:00:00",
@@ -669,6 +820,36 @@
               "Local": null
             },
             {
+              "ID": "9393",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-13T00:00:00",
+              "nOrdem": "2224",
+              "Data_Inicio": "2018-11-13T00:00:00",
+              "Data_Fim": "2018-11-13T23:59:00",
+              "Titulo": "Grupo Parlamentar do PCP",
+              "Subtitulo": "Dia 13 de novembro de 2018",
+              "Texto": "14:30 - Associação Portuguesa das Bebidas Refrescantes Não Alcoólicas (PROBEB)<br />\n16:00 - Diretor do Departamento Económico-Estatístico da Associação Automóvel de Portugal (ACAP) \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9397",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2227",
+              "Data_Inicio": "2018-11-14T00:00:00",
+              "Data_Fim": "2018-11-14T23:59:00",
+              "Titulo": "Grupo Parlamentar do PSD",
+              "Subtitulo": "Dia 14 de novembro de 2018",
+              "Texto": "14:00 - Movimento PORTUGAL ACTIVO (AGAP)<br />\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
               "ID": "9381",
               "ID_Tema": "4",
               "Data_Inicio_Publicacao": "2018-11-06T00:00:00",
@@ -678,7 +859,22 @@
               "Data_Fim": "2018-11-14T23:59:00",
               "Titulo": "Grupo Parlamentar do PS",
               "Subtitulo": "Dia 14 de novembro de 2018",
-              "Texto": "11:00 - Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas (STCDE) <br />\n11:45 - Confederação Portuguesa das Micro, Pequenas e Médias Empresas (CPPME) \n",
+              "Texto": "11:00 - Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas (STCDE) <br />\n11:45 - Confederação Portuguesa das Micro, Pequenas e Médias Empresas (CPPME) <br />\n15:00 - Cervejeiros de Portugal (APCV)\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9399",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2230",
+              "Data_Inicio": "2018-11-14T00:00:00",
+              "Data_Fim": "2018-11-14T23:59:00",
+              "Titulo": "Grupo Parlamentar do CDS-PP",
+              "Subtitulo": "Dia 14 de novembro de 2018",
+              "Texto": "11:30 - Sindicato Independente dos Técnicos Auxiliares de Saúde (SITAS)<br />\n16:30 - Associação Nacional de Transportes de Passageiros (ANTROP)<br />\n",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -699,6 +895,21 @@
               "Local": null
             },
             {
+              "ID": "9398",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2234",
+              "Data_Inicio": "2018-11-15T00:00:00",
+              "Data_Fim": "2018-11-15T23:59:00",
+              "Titulo": "Grupo Parlamentar do PSD",
+              "Subtitulo": "Dia 15 de novembro de 2018",
+              "Texto": "15:00 - Comissão de Trabalhadores da CGD \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
               "ID": "9391",
               "ID_Tema": "4",
               "Data_Inicio_Publicacao": "2018-11-09T00:00:00",
@@ -708,7 +919,22 @@
               "Data_Fim": "2018-11-15T23:59:00",
               "Titulo": "Grupo Parlamentar do PS",
               "Subtitulo": "Dia 15 de novembro de 2018",
-              "Texto": "09:30 - Confederação Geral dos Trabalhadores Portugueses (CGTP-IN) \n",
+              "Texto": "09:30 - Confederação Geral dos Trabalhadores Portugueses (CGTP-IN)<br />\n15:00 - Trabalhadores do Programa Polis \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9394",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-12T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-12T00:00:00",
+              "nOrdem": "2245",
+              "Data_Inicio": "2018-11-16T00:00:00",
+              "Data_Fim": "2018-11-16T23:59:00",
+              "Titulo": "Grupo Parlamentar do PCP",
+              "Subtitulo": "Dia 16 de novembro de 2018",
+              "Texto": "14:00 - Sindicato dos Motoristas TVDE \n",
               "Seccao": null,
               "Tema": null,
               "Local": null
