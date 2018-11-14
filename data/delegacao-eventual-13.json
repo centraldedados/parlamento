@@ -8761,6 +8761,16 @@
         }
       },
       {
+        "id": "1884",
+        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-23",
+        "dataFim": "2018-10-27",
+        "participantes": null
+      },
+      {
         "id": "1883",
         "nome": "Conferência \"The national life of the EU Charter of fundamental rights\"",
         "local": "Viena",
@@ -8777,16 +8787,6 @@
             "id": "1030"
           }
         }
-      },
-      {
-        "id": "1884",
-        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-23",
-        "dataFim": "2018-10-27",
-        "participantes": null
       },
       {
         "id": "1886",
@@ -8865,24 +8865,6 @@
         "participantes": null
       },
       {
-        "id": "1892",
-        "nome": "Congresso do PPE",
-        "local": "Helsínquia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-06",
-        "dataFim": "2018-11-09",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "LUÍS LEITE RAMOS",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4364"
-          }
-        }
-      },
-      {
         "id": "1887",
         "nome": "Jornada Privada da Google sobre Inteligência Artificial",
         "local": "Amesterdão",
@@ -8901,64 +8883,21 @@
         }
       },
       {
-        "id": "1889",
-        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
-        "local": "Paris",
+        "id": "1892",
+        "nome": "Congresso do PPE",
+        "local": "Helsínquia",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
+        "dataInicio": "2018-11-06",
+        "dataFim": "2018-11-09",
         "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "CARLOS ALBERTO GONÇALVES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "1458"
-            },
-            {
-              "tipo": "D",
-              "nome": "VITALINO CANAS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "1700"
-            }
-          ]
-        }
-      },
-      {
-        "id": "1890",
-        "nome": "VII Fórum Parlamentar Luso-Espanhol",
-        "local": "Madrid",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "DUARTE PACHECO",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "42"
-            },
-            {
-              "tipo": "D",
-              "nome": "IDÁLIA SALVADOR SERRÃO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "2132"
-            },
-            {
-              "tipo": "D",
-              "nome": "EDUARDO FERRO RODRIGUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "163"
-            }
-          ]
+          "Participante": {
+            "tipo": "D",
+            "nome": "LUÍS LEITE RAMOS",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4364"
+          }
         }
       },
       {
@@ -9071,6 +9010,160 @@
             }
           ]
         }
+      },
+      {
+        "id": "1889",
+        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1890",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE PACHECO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "42"
+            },
+            {
+              "tipo": "D",
+              "nome": "IDÁLIA SALVADOR SERRÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2132"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1893",
+        "nome": "Representação na II sessão do IPTP - International Parliament for Tolerance an Peace",
+        "local": "Albânia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-14",
+        "dataFim": "2018-11-16",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "FERNANDO ANASTÁCIO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "4012"
+          }
+        }
+      },
+      {
+        "id": "1894",
+        "nome": "Participação no \"Curso Trabalhar\" com avaliação de impacto ao nível da União Eurpeia",
+        "local": "Maastricht",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-16",
+        "participantes": null
+      },
+      {
+        "id": "1896",
+        "nome": "Visita oficial de SEXA o PAR à República Popular da China",
+        "local": "Pequim",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-17",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO LEITÃO AMARO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4086"
+            },
+            {
+              "tipo": "D",
+              "nome": "SÉRGIO SOUSA PINTO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1264"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANA CATARINA MENDONÇA MENDES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1212"
+            },
+            {
+              "tipo": "D",
+              "nome": "HELDER AMARAL",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1450"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO FILIPE",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "209"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1895",
+        "nome": "Conferência de Girona sobre Image and Research\"",
+        "local": "Girona",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-21",
+        "dataFim": "2018-11-24",
+        "participantes": null
       }
     ]
   }
