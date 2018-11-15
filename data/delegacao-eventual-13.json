@@ -8577,6 +8577,34 @@
         }
       },
       {
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": null
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
         "id": "1878",
         "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
         "local": "Bruxelas",
@@ -8620,34 +8648,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
-      },
-      {
-        "id": "1873",
-        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": null
       },
       {
         "id": "1872",
@@ -8715,16 +8715,6 @@
         }
       },
       {
-        "id": "1880",
-        "nome": "Conferência Anual dos Correspondentes do CERDP",
-        "local": "Helsínquia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-18",
-        "dataFim": "2018-10-20",
-        "participantes": null
-      },
-      {
         "id": "1881",
         "nome": "Reunião LIBE sobre os direitos fundamentais na integração dos ciganos e no combate contra o antagonismo face ao povo cigano.",
         "local": "Bruxelas",
@@ -8741,6 +8731,16 @@
             "id": "2522"
           }
         }
+      },
+      {
+        "id": "1880",
+        "nome": "Conferência Anual dos Correspondentes do CERDP",
+        "local": "Helsínquia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-18",
+        "dataFim": "2018-10-20",
+        "participantes": null
       },
       {
         "id": "1882",
@@ -8901,6 +8901,40 @@
         }
       },
       {
+        "id": "1890",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE PACHECO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "42"
+            },
+            {
+              "tipo": "D",
+              "nome": "IDÁLIA SALVADOR SERRÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2132"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            }
+          ]
+        }
+      },
+      {
         "id": "1891",
         "nome": "VII Fórum Parlamentar Luso-Espanhol",
         "local": "Madrid",
@@ -9039,40 +9073,6 @@
         }
       },
       {
-        "id": "1890",
-        "nome": "VII Fórum Parlamentar Luso-Espanhol",
-        "local": "Madrid",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "DUARTE PACHECO",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "42"
-            },
-            {
-              "tipo": "D",
-              "nome": "IDÁLIA SALVADOR SERRÃO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "2132"
-            },
-            {
-              "tipo": "D",
-              "nome": "EDUARDO FERRO RODRIGUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "163"
-            }
-          ]
-        }
-      },
-      {
         "id": "1893",
         "nome": "Representação na II sessão do IPTP - International Parliament for Tolerance an Peace",
         "local": "Albânia",
@@ -9088,6 +9088,33 @@
             "leg": "XIII",
             "id": "4012"
           }
+        }
+      },
+      {
+        "id": "1899",
+        "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\"",
+        "local": "Bregenz",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-16",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            },
+            {
+              "tipo": "D",
+              "nome": "BERTA CABRAL",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "6147"
+            }
+          ]
         }
       },
       {
@@ -9153,6 +9180,60 @@
               "id": "209"
             }
           ]
+        }
+      },
+      {
+        "id": "1897",
+        "nome": "Reunião Interparlamentar: \"Human rights and the external actions of the E.U. and Member States\"  e Acompanhamento Interparlamentar sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-19",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "BACELAR DE VASCONCELOS",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1030"
+          }
+        }
+      },
+      {
+        "id": "1898",
+        "nome": "Reunião Interparlamentar sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural - Comissão de Educação e Ciência e Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-19",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MARGARIDA MANO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "5617"
+          }
+        }
+      },
+      {
+        "id": "1900",
+        "nome": "Comissão - Reunião Interparlametar sobre \"Human rights and the external actions of the E.U. and Member States\", e \"Sessão de alto nível evocativa do septuagésimo aniversário da Declaração Universal dos Direitos do Homem\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-20",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÂNGELA GUERRA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4031"
+          }
         }
       },
       {
