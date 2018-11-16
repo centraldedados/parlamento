@@ -12475,7 +12475,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Presidente"
+                    }
+                  }
                 }
               ]
             },
@@ -16273,40 +16278,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                "orgSigla": "GT-RP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6063",
@@ -18519,7 +18491,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Vice-Presidente"
+                    }
+                  }
                 }
               ]
             },
@@ -21026,7 +21003,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Vice-Presidente"
+                    }
+                  }
                 }
               ]
             }

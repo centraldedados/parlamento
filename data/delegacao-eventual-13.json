@@ -8901,6 +8901,33 @@
         }
       },
       {
+        "id": "1889",
+        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
+      },
+      {
         "id": "1890",
         "nome": "VII Fórum Parlamentar Luso-Espanhol",
         "local": "Madrid",
@@ -9046,33 +9073,6 @@
         }
       },
       {
-        "id": "1889",
-        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "CARLOS ALBERTO GONÇALVES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "1458"
-            },
-            {
-              "tipo": "D",
-              "nome": "VITALINO CANAS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "1700"
-            }
-          ]
-        }
-      },
-      {
         "id": "1893",
         "nome": "Representação na II sessão do IPTP - International Parliament for Tolerance an Peace",
         "local": "Albânia",
@@ -9091,7 +9091,7 @@
         }
       },
       {
-        "id": "1899",
+        "id": "1902",
         "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\"",
         "local": "Bregenz",
         "legislatura": "XIII",
@@ -9099,22 +9099,31 @@
         "dataInicio": "2018-11-15",
         "dataFim": "2018-11-16",
         "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARGARIDA MARQUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "3339"
-            },
-            {
-              "tipo": "D",
-              "nome": "BERTA CABRAL",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "6147"
-            }
-          ]
+          "Participante": {
+            "tipo": "D",
+            "nome": "BERTA CABRAL",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "6147"
+          }
+        }
+      },
+      {
+        "id": "1899",
+        "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\" - LX COSAC - Comissão de Assuntos Europeus",
+        "local": "Bregenz",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MARGARIDA MARQUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "3339"
+          }
         }
       },
       {
@@ -9184,7 +9193,7 @@
       },
       {
         "id": "1897",
-        "nome": "Reunião Interparlamentar: \"Human rights and the external actions of the E.U. and Member States\"  e Acompanhamento Interparlamentar sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
+        "nome": "Reunião Interpar: \"Human rights and the external actions of the EU and Member States\" e Acompanhamento Interpar. sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
@@ -9209,12 +9218,39 @@
         "dataInicio": "2018-11-19",
         "dataFim": "2018-11-20",
         "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MANO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5617"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA AUGUSTA SANTOS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5530"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1901",
+        "nome": "Reunião Interparlametar sobre \" Direitos Humanos e a acção externa na U.E.  Estados membros\",",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-20",
+        "dataFim": "2018-11-20",
+        "participantes": {
           "Participante": {
             "tipo": "D",
-            "nome": "MARGARIDA MANO",
+            "nome": "ÂNGELA GUERRA",
             "gp": "PSD",
             "leg": "XIII",
-            "id": "5617"
+            "id": "4031"
           }
         }
       },
