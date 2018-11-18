@@ -2396,23 +2396,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "89",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VI",
-                    "pubSL": "4",
-                    "supl": ".",
-                    "pubdt": "1995-06-21",
-                    "pag": {
-                      "string": null
-                    },
-                    "idPag": "287264",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/089/1995-06-21?pgs=&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "90",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2427,6 +2410,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/090/1995-06-22?pgs=&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "89",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VI",
+                    "pubSL": "4",
+                    "supl": ".",
+                    "pubdt": "1995-06-21",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "287264",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/089/1995-06-21?pgs=&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -4490,124 +4490,6 @@
               "pag": {
                 "string": null
               },
-              "idPag": "287164",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/06/04/013/1995-01-14?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "18",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VI",
-              "pubSL": "1",
-              "supl": ".",
-              "pubdt": "1992-01-08",
-              "pag": {
-                "string": "401-402"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/01/018/1992-01-08/401?pgs=401-402&org=PLC",
-              "debateDtReu": "1992-01-07",
-              "idDeb": "3226"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": [
-              {
-                "id": "31872",
-                "resultado": "Aprovado",
-                "descricao": "Votação do artigo 1º.",
-                "reuniao": "29",
-                "unanime": "unanime",
-                "ausencias": {
-                  "string": [
-                    "MANUEL SÉRGIO (INDEP)",
-                    "RAÚL CASTRO (INDEP)"
-                  ]
-                },
-                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>CDS-PP</I>, <I>PEV</I>, <I>PSN</I>, Mário Tomé (INDEP)<BR>Ausência: Manuel Sérgio (INDEP), Raúl Castro (INDEP)",
-                "publicacao": {
-                  "pt_gov_ar_objectos_PublicacoesOut": {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VI",
-                    "pubSL": "4",
-                    "supl": ".",
-                    "pubdt": "1995-01-12",
-                    "pag": {
-                      "string": null
-                    },
-                    "idPag": "287165",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/029/1995-01-12?pgs=&org=PLC",
-                    "idDeb": null
-                  }
-                },
-                "data": "1995-01-11"
-              },
-              {
-                "id": "31873",
-                "resultado": "Aprovado",
-                "descricao": "Votação do artigo 2º.",
-                "reuniao": "29",
-                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>PCP</I>, <I>PEV</I>, Mário Tomé (INDEP)",
-                "publicacao": {
-                  "pt_gov_ar_objectos_PublicacoesOut": {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VI",
-                    "pubSL": "4",
-                    "supl": ".",
-                    "pubdt": "1995-01-12",
-                    "pag": {
-                      "string": null
-                    },
-                    "idPag": "287166",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/029/1995-01-12?pgs=&org=PLC",
-                    "idDeb": null
-                  }
-                },
-                "data": "1995-01-11"
-              }
-            ]
-          },
-          "numero": "126",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c626939326233527663313957535338784d6a5a66566b6b756347526d&fich=126_VI.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Protesto pela intervenção militar russa na Tchetchénia e de pesar pelas vítimas civis provocados por essa intervenção.",
-          "legislatura": "VI",
-          "sessao": "4",
-          "dataEntrada": "1995-01-11",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "13",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VI",
-              "pubSL": "4",
-              "supl": ".",
-              "pubdt": "1995-01-14",
-              "pag": {
-                "string": null
-              },
               "idPag": "287167",
               "idInt": null,
               "idAct": null,
@@ -4690,6 +4572,124 @@
                       "string": null
                     },
                     "idPag": "287169",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/029/1995-01-12?pgs=&org=PLC",
+                    "idDeb": null
+                  }
+                },
+                "data": "1995-01-11"
+              }
+            ]
+          },
+          "numero": "126",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": null
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c626939326233527663313957535338784d6a5a66566b6b756347526d&fich=126_VI.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Protesto pela intervenção militar russa na Tchetchénia e de pesar pelas vítimas civis provocados por essa intervenção.",
+          "legislatura": "VI",
+          "sessao": "4",
+          "dataEntrada": "1995-01-11",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "13",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VI",
+              "pubSL": "4",
+              "supl": ".",
+              "pubdt": "1995-01-14",
+              "pag": {
+                "string": null
+              },
+              "idPag": "287164",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/06/04/013/1995-01-14?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "18",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VI",
+              "pubSL": "1",
+              "supl": ".",
+              "pubdt": "1992-01-08",
+              "pag": {
+                "string": "401-402"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/01/018/1992-01-08/401?pgs=401-402&org=PLC",
+              "debateDtReu": "1992-01-07",
+              "idDeb": "3226"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": [
+              {
+                "id": "31872",
+                "resultado": "Aprovado",
+                "descricao": "Votação do artigo 1º.",
+                "reuniao": "29",
+                "unanime": "unanime",
+                "ausencias": {
+                  "string": [
+                    "MANUEL SÉRGIO (INDEP)",
+                    "RAÚL CASTRO (INDEP)"
+                  ]
+                },
+                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>PCP</I>, <I>CDS-PP</I>, <I>PEV</I>, <I>PSN</I>, Mário Tomé (INDEP)<BR>Ausência: Manuel Sérgio (INDEP), Raúl Castro (INDEP)",
+                "publicacao": {
+                  "pt_gov_ar_objectos_PublicacoesOut": {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VI",
+                    "pubSL": "4",
+                    "supl": ".",
+                    "pubdt": "1995-01-12",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "287165",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/029/1995-01-12?pgs=&org=PLC",
+                    "idDeb": null
+                  }
+                },
+                "data": "1995-01-11"
+              },
+              {
+                "id": "31873",
+                "resultado": "Aprovado",
+                "descricao": "Votação do artigo 2º.",
+                "reuniao": "29",
+                "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>PCP</I>, <I>PEV</I>, Mário Tomé (INDEP)",
+                "publicacao": {
+                  "pt_gov_ar_objectos_PublicacoesOut": {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VI",
+                    "pubSL": "4",
+                    "supl": ".",
+                    "pubdt": "1995-01-12",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "287166",
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/04/029/1995-01-12?pgs=&org=PLC",
@@ -5983,23 +5983,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "79",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "VI",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "pubdt": "1994-06-16",
-                    "pag": {
-                      "string": null
-                    },
-                    "idPag": "287079",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/03/079/1994-06-16?pgs=&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "80",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -6014,6 +5997,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/03/080/1994-06-17?pgs=&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "79",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "VI",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "pubdt": "1994-06-16",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "287079",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/06/03/079/1994-06-16?pgs=&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -9207,7 +9207,7 @@
           "numero": "68",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; PSD; PCP; INDEP; PAR"
+            "string": "PAR; PCP; PSD; INDEP; PS; PEV"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c626939326233527663313957535338324f463957535335775a47593d&fich=68_VI.pdf&Inline=true"
         },
@@ -9357,7 +9357,7 @@
           "numero": "66",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PEV; PS; INDEP; CDS-PP; PSD; PCP"
+            "string": "PEV; CDS-PP; INDEP; PSD; PS; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c626939326233527663313957535338324e6c3957535335775a47593d&fich=66_VI.pdf&Inline=true"
         },
