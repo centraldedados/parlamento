@@ -16719,19 +16719,27 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26840",
-              "habDes": "Economia",
+              "habId": "26920",
+              "habDes": "Economia (pela Faculdade Economia do Porto)",
               "habTipoId": "13",
               "habEstado": "C"
             }
           },
           "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "30496",
-              "funDes": "Membro Assembleia Municipal de Vila do Conde",
-              "funOrdem": "1",
-              "funAntiga": "N"
-            }
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "30576",
+                "funDes": "Membro da Assembleia Municipal de Vila do Conde (mandato de 2017 a 2021 - em curso)",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "30577",
+                "funDes": "- Membro da Assembleia Municipal de Vila do Conde (mandato de 2005 a 2009, 2009 a 2013, de 2013 a 2017)\n- Membro da Assembleia de Freguesia de Azurara (mandato de 2013 a 2017)\n- Membro da Assembleia Metropolitana da Área Metropolitana do Porto (mandato de 2005 a 2009 e 2009 a 2013)\n- Membro da Assembleia de Freguesia de Vila do Conde (mandato de 2001 a 2005);\n",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              }
+            ]
           },
           "cadActividadeOrgaos": null
         },
@@ -38100,14 +38108,14 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26700",
-                "habDes": "Sociologia com especialização (seminário de investigação) em Trabalho e Organizações (Universidade do Porto)",
+                "habId": "26940",
+                "habDes": "Sociologia com seminário de investigação em Trabalho e Organizações (Universidade do Porto, pré-Bolonha)",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26701",
-                "habDes": "Pós-Graduação em Gestão (Curso Geral de Gestão, PBS, Universidade do Porto)",
+                "habId": "26941",
+                "habDes": "Curso Geral de Gestão, formação pós-graduada da Porto Business School, Universidade do Porto",
                 "habTipoId": "16"
               }
             ]
@@ -38115,79 +38123,79 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30396",
+                "funId": "30596",
                 "funDes": "Coordenador dos deputados do PS para as Áreas do Trabalho e Segurança Social na XIII Legislatura ",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30397",
+                "funId": "30597",
                 "funDes": "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30398",
+                "funId": "30598",
                 "funDes": "Presidente da Mesa da Comissão Política Concelhia do PS Porto",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30399",
+                "funId": "30599",
                 "funDes": "Membro da Comissão Política Nacional do PS",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "30400",
+                "funId": "30600",
                 "funDes": "Membro do PS na Assembleia Municipal do Porto (2017-2021)",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "30401",
+                "funId": "30601",
                 "funDes": "Presidente do PS Porto (2015-2018)",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "30402",
+                "funId": "30602",
                 "funDes": "Membro da Comissão Nacional do PS (2014-2018)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "30403",
+                "funId": "30603",
                 "funDes": "Vereador do PS na Câmara Municipal do Porto (2013-2017)",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "30404",
+                "funId": "30604",
                 "funDes": "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)\n",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "30405",
+                "funId": "30605",
                 "funDes": "Membro da Assembleia de Freguesia do Bonfim (2009-2013)\n\n ",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "30406",
+                "funId": "30606",
                 "funDes": "Presidente da Concelhia e da Federação Distrital do Porto da JS (2008-2013)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "30407",
+                "funId": "30607",
                 "funDes": "Co-fundador e vice-presidente do Oporto Toastmasters Club (2006-2007)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "30408",
+                "funId": "30608",
                 "funDes": "Dirigente associativo universitário (2005-2006)",
                 "funOrdem": "13",
                 "funAntiga": "S"
@@ -38197,42 +38205,42 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7491",
+                "pubId": "7511",
                 "pubDes": "«Trabalho Igual, Salário Diferente». Vários autores. Plataforma \"Ganhem Vergonha\". 2017 ",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7492",
+                "pubId": "7512",
                 "pubDes": "«Saídas Profissionais – O que é ser sociólogo hoje? Narrativas breves sobre experiências profissionais em construção (II)», N.º 11 dos IS Working Papers, Instituto de Sociologia da FLUP. Porto: 2014",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7493",
+                "pubId": "7513",
                 "pubDes": "Estudo de caso publicado na revista Ingenium nº 135 (Maio/Junho) em edição dedicada à internacionalização da engenharia portuguesa. Lisboa: 2013",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7494",
+                "pubId": "7514",
                 "pubDes": "Vários artigos publicados na revista da Associação Portuguesa das\nEmpresas do Sector Eléctrico e Electrónico desde 2012",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7495",
+                "pubId": "7515",
                 "pubDes": "«Onde pára o Estado? Políticas públicas em tempo de crise». Vários autores. Edições Nélson de Matos. Lisboa: 2009",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7496",
+                "pubId": "7516",
                 "pubDes": "«A mudança como constante: interrogações e problemáticas entre os processos de globalização e a internacionalização das organizações. Estudo de caso num grupo empresarial do sector electromecânico», (Vol. I e II). Biblioteca do Departamento de Sociologia da Universidade do Porto. Porto, 2008",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7497",
+                "pubId": "7517",
                 "pubDes": "«Pesquisar e filmar: o registo documental e as ciências sociais», revista da\nFaculdade de Letras da UP, 341-366. Porto: 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7498",
+                "pubId": "7518",
                 "pubDes": "Vários artigos em publicações periódicas e revistas especializadas",
                 "pubOrdem": "8"
               }
