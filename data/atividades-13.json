@@ -1145,23 +1145,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "15",
-                "pubTipo": "DAR II série A",
-                "pubTp": "A",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2017-10-19",
-                "pag": {
-                  "string": "2-2"
-                },
-                "idPag": "801823",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "12",
                 "pubTipo": "DAR I série",
                 "pubTp": "D",
@@ -1176,6 +1159,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "15",
+                "pubTipo": "DAR II série A",
+                "pubTp": "A",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2017-10-19",
+                "pag": {
+                  "string": "2-2"
+                },
+                "idPag": "801823",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
                 "idDeb": null
               }
             ]
@@ -5838,6 +5838,34 @@
         {
           "tipo": "VOT",
           "descTipo": "Voto",
+          "assunto": "De pesar pelo trágico acidente ocorrido na estrada 255 entre Borba e Vila Viçosa",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-11-22",
+          "numero": "663",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PCP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774e5455334d7a63774d7931694e7a4d304c5451324e446b7459545a6c4e53307759325a6c4e4455774f5442684e6a41755a47396a65413d3d&fich=05573703-b734-4649-a6e5-0cfe45090a60.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De pesar pelas vítimas do aluimento de terras na EN 255 entre Borba e Vila Viçosa",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-11-22",
+          "numero": "662",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS-PP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938305a545a684d47466b4e53316d4d5745784c5451354d7a4574595441785a5330795a574e6b5a6d49314f5755314d4451755a47396a65413d3d&fich=4e6a0ad5-f1a1-4931-a01e-2ecdfb59e504.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
           "assunto": "De saudação à Campeã Eurpeia de Futsal para Jogadores em Síndrome de Down",
           "legislatura": "XIII",
           "sessao": "4",
@@ -5889,7 +5917,7 @@
           "autoresGP": {
             "string": "CDS-PP"
           },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938784d7a4a684e6a49305953307a4e6a5a6b4c54517a4d445174596a67345a4330335954526d4d6a4d304d474a6a4f4441755a47396a65413d3d&fich=132a624a-366d-4304-b88d-7a4f2340bc80.docx&Inline=true"
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938335a5749334d4459305a533030596a55354c54526c595745744f5755785a6930355a4451314f4745335a6a686a5a5451755a47396a65413d3d&fich=7eb7064e-4b59-4eaa-9e1f-9d458a7f8ce4.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -5943,7 +5971,7 @@
           "numero": "654",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS"
+            "string": "PS; PSD; CDS-PP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396b4e47466d5a446b335a5330794d7a417a4c545268597a67744f545269596930314e54566d5a444d775a5451325a4751755a47396a65413d3d&fich=d4afd97e-2303-4ac8-94bb-555fd30e46dd.docx&Inline=true"
         },
@@ -5957,7 +5985,7 @@
           "numero": "653",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS"
+            "string": "PS; PSD; CDS-PP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774e6a4e6a596d4e695a433032593259354c5451325a5451744f544a6c4d7930775a5745335954526d5a445178597a59755a47396a65413d3d&fich=063cbcbd-6cf9-46e4-92e3-0ea7a4fd41c6.docx&Inline=true"
         },
@@ -75177,6 +75205,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "110742",
+              "numeroAudiencia": "45-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência do CONAIR Group",
+              "entidades": "Dr. Antonio Nunes, Consultant to the Conair Group;Barry Marsden; Founder, Chairman and Chief Executive Officer;Thomas Appleton, Member of the Board of Directors;Anne-Marie Parent, Senior Trade Commissioner, Embassy of Canada, Lisbon",
+              "data": "2018-11-20",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "110629",
               "numeroAudiencia": "44-CDN-XIII",
               "legislatura": "XIII",
@@ -79483,7 +79521,7 @@
               "assunto": "Audiência ao Reitor da Universidade  dos Açores",
               "entidades": "Reitor da Universidade  dos Açores – Professor Doutor João Luís Gaspar.",
               "data": "2018-11-15",
-              "concedida": "Em apreciação"
+              "concedida": "Concedida"
             },
             {
               "IDAudiencia": "110590",
