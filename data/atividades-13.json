@@ -2979,23 +2979,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774236",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3011,6 +2994,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774236",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3106,23 +3106,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774235",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3138,6 +3121,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774235",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3179,23 +3179,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774234",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3211,6 +3194,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774234",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5834,6 +5834,20 @@
               "honra": "S"
             }
           }
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De saudação pelo 43.º aniversário do 25 de novembro",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-11-23",
+          "numero": "664",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS-PP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774e7a45785a445a6c4f5330334e7a49344c5451784f5755744f57466d5969316c595463345a44557a4d546c6d4d6a6b755a47396a65413d3d&fich=0711d6e9-7728-419e-9afb-ea78d5319f29.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -73897,6 +73911,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "110752",
+              "numeroAudiencia": "72-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido de Audiência para operacionalizar o tempo e o modo da prestação de apoio científico à Comissão de Agricultura e Mar",
+              "entidades": "Observatório Técnico Independente",
+              "data": "2018-11-22",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "110713",
               "numeroAudiencia": "71-CAM-XIII",
               "legislatura": "XIII",
@@ -81659,6 +81683,36 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110759",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-19",
+              "dataFim": "2018-11-19",
+              "designacao": "1º Encontro Nacional de Incubadoras do Mar",
+              "localEvento": "Salão Nobre da Reitoria da Universidade de Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110757",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-17",
+              "dataFim": "2018-11-17",
+              "designacao": "Sessão Solene de Abertura do XIX Fórum Nacional de Apicultura e XVII Feira Nacional do Mel",
+              "localEvento": "Cine-Teatro de Castelo Branco",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110756",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-15",
+              "dataFim": "2018-11-16",
+              "designacao": "XI Jornadas da FENAREG - ENCONTRO REGADIO 2018",
+              "localEvento": "Montes Velhos (Aljustrel)",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110701",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -81929,16 +81983,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109154",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-18",
-              "dataFim": "2018-05-18",
-              "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
-              "localEvento": "Universidade de Aveiro",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109151",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -81946,6 +81990,16 @@
               "dataFim": "2018-05-18",
               "designacao": "Dia do Agricultor 2018",
               "localEvento": "Elvas",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109154",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-18",
+              "dataFim": "2018-05-18",
+              "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
+              "localEvento": "Universidade de Aveiro",
               "tipo": "Representação"
             },
             {
@@ -81979,23 +82033,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109145",
+              "IDDeslocacao": "109144",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
-              "tipo": "Representação"
-            },
-            {
-              "IDDeslocacao": "109146",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "Cerimónia Comemorativa do 30º Aniversário da Mútua de Basto/Norte",
-              "localEvento": "Cabeceiras de Basto",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
               "tipo": "Representação"
             },
             {
@@ -82009,13 +82053,23 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
+              "IDDeslocacao": "109146",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
+              "designacao": "Cerimónia Comemorativa do 30º Aniversário da Mútua de Basto/Norte",
+              "localEvento": "Cabeceiras de Basto",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109145",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -82379,16 +82433,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "105565",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-06-14",
-              "dataFim": "2017-06-14",
-              "designacao": "Seminário \"A importância da produção nacional de Cereais\"",
-              "localEvento": "CNEMA - Centro Nacional de Exposições (Santarém)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "105566",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -82406,6 +82450,16 @@
               "dataFim": "2017-06-14",
               "designacao": "Visita de Trabalho à 54ª Feira Nacional de Agricultura/64ª Feira do Ribatejo",
               "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "105565",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-06-14",
+              "dataFim": "2017-06-14",
+              "designacao": "Seminário \"A importância da produção nacional de Cereais\"",
+              "localEvento": "CNEMA - Centro Nacional de Exposições (Santarém)",
               "tipo": "Representação"
             },
             {
@@ -82539,16 +82593,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "104838",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-03-23",
-              "dataFim": "2017-03-23",
-              "designacao": "Inauguração da 50ª edição da AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Parque de Exposições de Braga",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "104638",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -82556,6 +82600,16 @@
               "dataFim": "2017-03-23",
               "designacao": "Visita de Trabalho à XI Feira do Porco Alentejano",
               "localEvento": "Ourique",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "104838",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-03-23",
+              "dataFim": "2017-03-23",
+              "designacao": "Inauguração da 50ª edição da AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Parque de Exposições de Braga",
               "tipo": "Representação"
             },
             {
@@ -84201,6 +84255,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110768",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-07",
+              "dataFim": "2018-11-08",
+              "designacao": "VII Fórum Parlamentar Luso-Espanhol",
+              "localEvento": "Madrid",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110225",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -85842,6 +85906,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "110763",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-22",
+              "dataFim": "2018-11-23",
+              "designacao": "A PAC APÓS 2020 - O PAPEL DOS PARLAMENTOS NA DEFINIÇÃO DO FUTURO DA ALIMENTAÇÃO E DA AGRICULTURA",
+              "localEvento": "Zagreb - Croácia",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "110733",
               "legislatura": "XIII",

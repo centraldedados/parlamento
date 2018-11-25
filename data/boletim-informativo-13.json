@@ -7,28 +7,6 @@
     "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
     "genBI2_Seccao": [
       {
-        "ID": "-1",
-        "Titulo": "Plenário - Agenda do Dia",
-        "nOrdem": "10",
-        "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "0",
-            "ID_Tema": "0",
-            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-            "nOrdem": "0",
-            "Data_Inicio": "2018-11-22T14:30:00",
-            "Data_Fim": "2018-11-22T15:30:00",
-            "Titulo": "Reunião Plenária",
-            "Subtitulo": "DIA: 22 novembro (quinta-feira) | HORA: 14:30 | TIPO: Solene",
-            "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoPlenarioTexto\" colspan=\"2\" vAlign=\"top\">14:30 Horas</td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" colspan=\"2\" vAlign=\"top\"><p>ORDEM DO DIA</p></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"></td></tr><tr><td class=\"ConteudoPlenarioTextoTitulo\" nowrap=\"nowrap\" vAlign=\"top\"></td><td class=\"ConteudoPlenarioTexto\" vAlign=\"top\"><p><strong>Sessão Solene de Boas-Vindas ao Presidente da República de Angola, João Manuel Gonçalves Lourenço</strong></p></td></tr></table>",
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
-        }
-      },
-      {
         "ID": "-2",
         "Titulo": "Plenário - Agendamentos Futuros",
         "nOrdem": "15",
@@ -214,21 +192,6 @@
               "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
               "Data_Fim_Publicacao": "0001-01-01T00:00:00",
               "nOrdem": "0",
-              "Data_Inicio": "2018-11-22T17:30:00",
-              "Data_Fim": "2018-11-22T18:30:00",
-              "Titulo": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-              "Subtitulo": "DIA: 22 novembro | HORA: 17:30 | LOCAL: sala 4 | TIPO: Mesa e Coordenadores",
-              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Apreciação dos guiões de votação;\n\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Diversos.</td></tr></table>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "0",
-              "ID_Tema": "1",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
               "Data_Inicio": "2018-11-26T15:00:00",
               "Data_Fim": "2018-11-26T16:00:00",
               "Titulo": "Comissão de Orçamento, Finanças e Modernização Administrativa",
@@ -264,21 +227,6 @@
               "Titulo": "Comissão de Orçamento, Finanças e Modernização Administrativa",
               "Subtitulo": "DIA: 28 novembro | HORA: 15:00 | LOCAL: Plenário | TIPO: Ordinária",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Conclusão da votação, na especialidade, da Proposta de Lei n.º 156/XIII/4.ª - \"Aprova o Orçamento do Estado para 2019\".</td></tr></table>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "0",
-              "ID_Tema": "1",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
-              "Data_Inicio": "2018-11-22T17:00:00",
-              "Data_Fim": "2018-11-22T18:00:00",
-              "Titulo": "Comissão de Agricultura e Mar",
-              "Subtitulo": "DIA: 22 novembro | HORA: 17:00 | LOCAL: sala 5 | TIPO: Mesa e Coordenadores",
-              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\">Audiência com o Observatório Técnico Independente Audiência para operacionalizar o tempo e o modo da prestação de apoio científico à Comissão de Agricultura e Mar</td></tr></table><table class=\"TabTitulBolInf\"></table>",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -334,21 +282,6 @@
               "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
               "Data_Fim_Publicacao": "0001-01-01T00:00:00",
               "nOrdem": "0",
-              "Data_Inicio": "2018-11-22T19:00:00",
-              "Data_Fim": "2018-11-22T20:00:00",
-              "Titulo": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
-              "Subtitulo": "DIA: 22 novembro | HORA Após Plenário: S | LOCAL: sala 6 | TIPO: Ordinária",
-              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Declarações iniciais</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Apreciação e votação do regulamento da Comissão</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">3 - Metodologia dos trabalhos da Comissão</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">4 - Outros assuntos</td></tr></table>",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "0",
-              "ID_Tema": "1",
-              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-              "nOrdem": "0",
               "Data_Inicio": "2018-11-27T09:00:00",
               "Data_Fim": "2018-11-27T10:00:00",
               "Titulo": "Grupo de Trabalho Parlamento dos Jovens",
@@ -369,6 +302,21 @@
               "Titulo": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
               "Subtitulo": "DIA: 27 novembro | HORA: 14:00 | TIPO: Ordinária",
               "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\"> Proposta de Lei n.º 120/XIII/3.º (GOV) - \"Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados\" [nova apreciação na generalidade];\n\nProposta de Lei n.º 125/XIII/3.ª (GOV) - \"Aprova as regras relativas ao tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, transpondo a Diretiva (UE) n.º 2016/680\" [especialidade];\n\nProposta de Lei n.º 126/XIII/3.ª (GOV) - \"Altera o regime jurídico aplicável ao tratamento de dados referentes ao sistema judicial\" [especialidade].</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoObservacoes\">\n\n\nAudição da Comissão Nacional de Proteção de Dados, no âmbito da apreciação das seguintes iniciativas:\n\n</td></tr></table>",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "0",
+              "ID_Tema": "1",
+              "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
+              "Data_Fim_Publicacao": "0001-01-01T00:00:00",
+              "nOrdem": "0",
+              "Data_Inicio": "2018-11-26T14:30:00",
+              "Data_Fim": "2018-11-26T15:30:00",
+              "Titulo": "Subcomissão de Ética",
+              "Subtitulo": "DIA: 26 novembro | HORA: 14:30 | TIPO: Ordinária",
+              "Texto": "<table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoTitulo\" style=\"LINE-HEIGHT: 10px\"> Ordem de Trabalhos:</td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr><tr><td class=\"ConteudoComissaoHoraTexto\"></td></tr></table><table class=\"TabTitulBolInf\"><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">1 - Apreciação e votação de pareceres;\n\n</td></tr><tr><td class=\"paddingLeftLE AlinhaT PaddTopBulletBol BulletWidth\"></td><td class=\"ConteudoComissaoPonto\">2 - Outros assuntos</td></tr></table>",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -395,50 +343,6 @@
             "Seccao": null,
             "Tema": null,
             "Local": null
-          }
-        }
-      },
-      {
-        "ID": "-7",
-        "Titulo": "Conselho de Administração",
-        "nOrdem": "60",
-        "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "0",
-            "ID_Tema": "1",
-            "Data_Inicio_Publicacao": "0001-01-01T00:00:00",
-            "Data_Fim_Publicacao": "0001-01-01T00:00:00",
-            "nOrdem": "0",
-            "Data_Inicio": "2018-11-22T16:00:00",
-            "Data_Fim": "2018-11-22T17:00:00",
-            "Titulo": "Reúne o Conselho de Administração",
-            "Subtitulo": "DIA: 22 novembro | HORA: 16:00",
-            "Texto": null,
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
-        }
-      },
-      {
-        "ID": "-8",
-        "Titulo": "Eventos",
-        "nOrdem": "65",
-        "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "9419",
-            "ID_Tema": "4",
-            "Data_Inicio_Publicacao": "2018-11-15T00:00:00",
-            "Data_Fim_Publicacao": "2018-11-22T00:00:00",
-            "nOrdem": "1",
-            "Data_Inicio": "2018-11-22T15:00:00",
-            "Data_Fim": "2018-11-22T23:59:00",
-            "Titulo": "Sessão Solene de Boas Vindas a Sua Excelência o Presidente da República de Angola",
-            "Subtitulo": "22 de novembro | 15:00 | Sala das Sessões",
-            "Texto": "O Presidente da Assembleia da República, Eduardo Ferro Rodrigues, recebe, em Sessão Solene de Boas-Vindas, o Presidente da República de Angola, João Lourenço, no quadro da Visita de Estado a Portugal.\n",
-            "Seccao": null,
-            "Tema": null,
-            "Local": "Sala das Sessões"
           }
         }
       },
@@ -503,61 +407,16 @@
         "Conteudos": {
           "genBI2_Conteudo": [
             {
-              "ID": "9417",
+              "ID": "9426",
               "ID_Tema": "4",
-              "Data_Inicio_Publicacao": "2018-11-19T00:00:00",
-              "Data_Fim_Publicacao": "2018-11-22T00:00:00",
-              "nOrdem": "2283",
-              "Data_Inicio": "2018-11-22T00:00:00",
-              "Data_Fim": "2018-11-22T23:59:00",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-26T00:00:00",
+              "nOrdem": "2311",
+              "Data_Inicio": "2018-11-26T00:00:00",
+              "Data_Fim": "2018-11-26T23:59:00",
               "Titulo": "Grupo Parlamentar do PSD",
-              "Subtitulo": "Dia 22 de novembro de 2018",
-              "Texto": "11:00 - British American Tobacco<br />\n12:00 - Associação Portuguesa de Sinalização e Segurança Rodoviária (AFESP)<br />\n12:00 - Associação Sindical dos Funcionários da ASAE<br />\n12:30 - União Geral de Trabalhadores (UGT)<br />\n13:30 - Sindicato Democrático dos Enfermeiros de Portugal (SINDEPOR)<br />\n16:30 - Associação Portugal T<br />\n",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "9403",
-              "ID_Tema": "4",
-              "Data_Inicio_Publicacao": "2018-11-15T00:00:00",
-              "Data_Fim_Publicacao": "2018-11-22T00:00:00",
-              "nOrdem": "2284",
-              "Data_Inicio": "2018-11-22T00:00:00",
-              "Data_Fim": "2018-11-22T23:59:00",
-              "Titulo": "Grupo Parlamentar do PS",
-              "Subtitulo": "Dia 22 de novembro de 2018",
-              "Texto": "11:30 - Plataforma para o Desenvolvimento da Península de Setúbal<br />\n12:00 - União Geral de Trabalhadores (UGT)<br />\n17:00 - Hermetismo - Associação Portuguesa de Unidades de Diálise \n",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "9421",
-              "ID_Tema": "4",
-              "Data_Inicio_Publicacao": "2018-11-21T00:00:00",
-              "Data_Fim_Publicacao": "2018-11-22T00:00:00",
-              "nOrdem": "2287",
-              "Data_Inicio": "2018-11-22T00:00:00",
-              "Data_Fim": "2018-11-22T23:59:00",
-              "Titulo": "Grupo Parlamentar do PCP",
-              "Subtitulo": "Dia 22 de novembro de 2019",
-              "Texto": "11:00 - FENPROF<br />\n16:00 - Associação Sindical dos Funcionários da ASAE \n",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "9423",
-              "ID_Tema": "4",
-              "Data_Inicio_Publicacao": "2018-11-22T00:00:00",
-              "Data_Fim_Publicacao": "2018-11-23T00:00:00",
-              "nOrdem": "2290",
-              "Data_Inicio": "2018-11-23T00:00:00",
-              "Data_Fim": "2018-11-23T23:59:00",
-              "Titulo": "Grupo Parlamentar do PSD",
-              "Subtitulo": "Dia 23 de novembro de 2018",
-              "Texto": "15:00 - Sindicato independente dos Técnicos Auxiliares de Saúde (SITAS)\n",
+              "Subtitulo": "Dia 26 de novembro de 2018",
+              "Texto": "12:00 - Sindicato Nacional do Corpo da Guarda Prisional\n",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -572,7 +431,22 @@
               "Data_Fim": "2018-11-26T00:00:00",
               "Titulo": "Grupo Parlamentar do PCP",
               "Subtitulo": "Dia 26 de novembro de 2018",
-              "Texto": "17:30 - Maria Luísa Freitas e outras alunas do ISCTE\n",
+              "Texto": "14:00 - Sindicato dos Trabalhadores do Município de Lisboa (STML)<br />\n15:30 - Associação Profissional dos Licenciados em Optometria (APLO)<br />\n17:30 - Maria Luísa Freitas e outras alunas do ISCTE \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9427",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-27T00:00:00",
+              "nOrdem": "2318",
+              "Data_Inicio": "2018-11-27T00:00:00",
+              "Data_Fim": "2018-11-27T23:59:00",
+              "Titulo": "Grupo Parlamentar do PSD",
+              "Subtitulo": "Dia 27 de novembro de 2018",
+              "Texto": "12:00 - Associação Portuguesa de Coleccionadores de Armas (APCA)\n",
               "Seccao": null,
               "Tema": null,
               "Local": null
@@ -675,21 +549,92 @@
         "Titulo": "Visitas ao Palácio de S. Bento",
         "nOrdem": "120",
         "Conteudos": {
-          "genBI2_Conteudo": {
-            "ID": "9414",
-            "ID_Tema": "4",
-            "Data_Inicio_Publicacao": "2018-11-16T00:00:00",
-            "Data_Fim_Publicacao": "2018-11-23T00:00:00",
-            "nOrdem": "156",
-            "Data_Inicio": "2018-11-23T00:00:00",
-            "Data_Fim": "2018-11-23T23:59:00",
-            "Titulo": "Dia 23 de novembro de 2018",
-            "Subtitulo": null,
-            "Texto": "10:30 - Um grupo de 38 alunos e professores do Agrupamento de Escolas Coelho e Castro - Santa Maria da Feira   <br />\n11:00 - Um grupo de 38 alunos e professores do Agrupamento de Escolas Coelho e Castro - Santa Maria da Feira \n",
-            "Seccao": null,
-            "Tema": null,
-            "Local": null
-          }
+          "genBI2_Conteudo": [
+            {
+              "ID": "9428",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-28T00:00:00",
+              "nOrdem": "157",
+              "Data_Inicio": "2018-11-28T00:00:00",
+              "Data_Fim": "2018-11-28T23:59:00",
+              "Titulo": "Dia 28 de novembro de 2018",
+              "Subtitulo": null,
+              "Texto": "15:00 - Um grupo de 30 alunos e professores da Escola Secundária Maria Amália Vaz de Carvalho - Lisboa \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9429",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-29T00:00:00",
+              "nOrdem": "158",
+              "Data_Inicio": "2018-11-29T00:00:00",
+              "Data_Fim": "2018-11-29T23:59:00",
+              "Titulo": "Dia 29 de novembro de 2018",
+              "Subtitulo": null,
+              "Texto": "15:00 - Um grupo de 28 alunos e professores do Agrupamento de Escolas Anselmo de Andrade - Almada<br />\n15:30:<br />\n- Um grupo de 28 alunos e professores do Agrupamento de Escolas Anselmo de Andrade - Almada <br />\n- Um grupo de 12 formandos e formadores do Centro de Formação Dual - Lisboa\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            }
+          ]
+        }
+      },
+      {
+        "ID": "19",
+        "Titulo": " Assistências ao Plenário",
+        "nOrdem": "130",
+        "Conteudos": {
+          "genBI2_Conteudo": [
+            {
+              "ID": "9432",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-27T00:00:00",
+              "nOrdem": "87",
+              "Data_Inicio": "2018-11-27T00:00:00",
+              "Data_Fim": "2018-11-27T23:59:00",
+              "Titulo": "Dia 27 de novembro de 2018",
+              "Subtitulo": null,
+              "Texto": "10:00 - Um grupo de 40 alunos e professores da Escola  Secundária Frei Gonçalo de Azevedo - São Domingos de Rana\n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9430",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-28T00:00:00",
+              "nOrdem": "88",
+              "Data_Inicio": "2018-11-28T00:00:00",
+              "Data_Fim": "2018-11-28T23:59:00",
+              "Titulo": "Dia 28 de novembro de 2018",
+              "Subtitulo": null,
+              "Texto": "10:00:<br />\n- Um grupo de 30 alunos e professores da Escola Secundária Maria Amália Vaz de Carvalho - Lisboa<br />\n- Um grupo de 11 alunos e professores da Escola Secundaria de Silves<br />\n- Um grupo de 17 alunos e professores da Escola Secundária D. Pedro V - Lisboa<br />\n- Um grupo de 59 alunos e professores da Colégio Militar - Lisboa<br />\n- Um grupo de 24 alunos e professores da Escola Superior de Educação - Instituto Politécnico de Setúbal \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            },
+            {
+              "ID": "9431",
+              "ID_Tema": "4",
+              "Data_Inicio_Publicacao": "2018-11-23T00:00:00",
+              "Data_Fim_Publicacao": "2018-11-29T00:00:00",
+              "nOrdem": "89",
+              "Data_Inicio": "2018-11-29T00:00:00",
+              "Data_Fim": "2018-11-29T23:59:00",
+              "Titulo": "Dia 29 de novembro de 2018",
+              "Subtitulo": null,
+              "Texto": "10:00:<br />\n- Um grupo de 56 alunos e professores do Agrupamento de Escolas Anselmo de Andrade - Almada<br />\n- Um grupo de 50 alunos e professores da Escola Secundária da Portela<br />\n- Um grupo de 26 alunos e professores da Escola Secundária D. Dinis - Lisboa<br />\n- Um grupo de 50 alunos e professores da Universidade de Trás os Montes e Alto Douro (UTAD) - Vila Real<br />\n- Um grupo de 39 alunos e professores da Escola Profissional de Rio Maior<br />\n- Um grupo de 55 alunos e professores da Escola Universitária de Ciências Empresariais, Saúde, Tecnologias e Engenharia - Barcarena<br />\n- Um grupo de 27 alunos e professores da Escola Secundária da Ramada<br />\n- Um grupo de 12 formandos e formadores do Centro de Formação Dual - Lisboa<br />\n- Um grupo de 60 alunos e professores da Universidade Nova de Lisboa<br />\n- Um grupo de 60 alunos e professores do Colégio Guadalupe - Seixal \n",
+              "Seccao": null,
+              "Tema": null,
+              "Local": null
+            }
+          ]
         }
       },
       {

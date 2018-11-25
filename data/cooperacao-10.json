@@ -1457,6 +1457,104 @@
         "documentos": null
       },
       {
+        "id": "83",
+        "tipo": "ACR",
+        "nome": "Encontro Parlamentar Luso-Espanhol",
+        "legislatura": "X",
+        "sessao": "4",
+        "data": "2009-01-15",
+        "local": "Zamora",
+        "programas": null,
+        "atividades": {
+          "Atividade": {
+            "id": "106",
+            "tipoAtividade": "RNI",
+            "tipo": null,
+            "nome": "Encontro Parlamentar Luso-Espanhol",
+            "dataInicio": "2009-01-14",
+            "dataFim": "2009-01-15",
+            "local": "Zamora",
+            "participantes": {
+              "Participante": [
+                {
+                  "nome": "Guilherme Silva (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "618"
+                },
+                {
+                  "nome": "Hélder Amaral (CDS-PP)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1450"
+                },
+                {
+                  "nome": "Henrique Rocha de Freitas (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1641"
+                },
+                {
+                  "nome": "Isabel Jorge (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1571"
+                },
+                {
+                  "nome": "Joana Lima (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2885"
+                },
+                {
+                  "nome": "Jorge Seguro Sanches (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2227"
+                },
+                {
+                  "nome": "José Cesário (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "77"
+                },
+                {
+                  "nome": "Miguel Frasquilho (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1990"
+                },
+                {
+                  "nome": "Miguel Ginestal (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "733"
+                },
+                {
+                  "nome": "Miguel Tiago (PCP)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2184"
+                },
+                {
+                  "nome": "Renato Leal (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2197"
+                },
+                {
+                  "nome": "Rui Vieira (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "206"
+                }
+              ]
+            }
+          }
+        },
+        "documentos": null
+      },
+      {
         "id": "62",
         "tipo": "ACR",
         "nome": "ARP/PNTL -2008- Protocolo de Cooperação Parlamentar entre a Assembleia da República de Portugal e o Parlamento Nacional de Timor-Leste",
