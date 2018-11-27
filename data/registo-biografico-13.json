@@ -5033,7 +5033,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -6787,7 +6792,12 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             }
@@ -18534,9 +18544,14 @@
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Vice-Presidente"
-                    }
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
                   }
                 }
               ]
@@ -19684,7 +19699,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -30822,7 +30842,17 @@
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 },
                 {
                   "orgId": "4534",
@@ -37388,7 +37418,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
