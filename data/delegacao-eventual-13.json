@@ -8440,16 +8440,6 @@
         }
       },
       {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
-      },
-      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8477,6 +8467,16 @@
         }
       },
       {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
         "id": "1871",
         "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
         "local": "Bruxelas",
@@ -8501,24 +8501,6 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4441"
-          }
-        }
-      },
-      {
-        "id": "1869",
-        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-05",
-        "dataFim": "2018-10-05",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOSÉ CESÁRIO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "77"
           }
         }
       },
@@ -8550,6 +8532,24 @@
         }
       },
       {
+        "id": "1869",
+        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-05",
+        "dataFim": "2018-10-05",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ CESÁRIO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "77"
+          }
+        }
+      },
+      {
         "id": "1874",
         "nome": "Reunião Interparlamentar, organizada pela Comissão ECON do Parlamento Europeu",
         "local": "Bruxelas",
@@ -8574,6 +8574,42 @@
               "id": "3339"
             }
           ]
+        }
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
+        "id": "1878",
+        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÁLVARO CASTELLO-BRANCO",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "1290"
+          }
         }
       },
       {
@@ -8612,42 +8648,6 @@
         "dataInicio": "2018-10-10",
         "dataFim": "2018-10-10",
         "participantes": null
-      },
-      {
-        "id": "1878",
-        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "ÁLVARO CASTELLO-BRANCO",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "1290"
-          }
-        }
-      },
-      {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
       },
       {
         "id": "1872",
@@ -8901,40 +8901,6 @@
         }
       },
       {
-        "id": "1890",
-        "nome": "VII Fórum Parlamentar Luso-Espanhol",
-        "local": "Madrid",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "DUARTE PACHECO",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "42"
-            },
-            {
-              "tipo": "D",
-              "nome": "IDÁLIA SALVADOR SERRÃO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "2132"
-            },
-            {
-              "tipo": "D",
-              "nome": "EDUARDO FERRO RODRIGUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "163"
-            }
-          ]
-        }
-      },
-      {
         "id": "1889",
         "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
         "local": "Paris",
@@ -9073,6 +9039,40 @@
         }
       },
       {
+        "id": "1890",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE PACHECO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "42"
+            },
+            {
+              "tipo": "D",
+              "nome": "IDÁLIA SALVADOR SERRÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2132"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            }
+          ]
+        }
+      },
+      {
         "id": "1893",
         "nome": "Representação na II sessão do IPTP - International Parliament for Tolerance an Peace",
         "local": "Albânia",
@@ -9101,24 +9101,6 @@
         "participantes": null
       },
       {
-        "id": "1902",
-        "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\"",
-        "local": "Bregenz",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-15",
-        "dataFim": "2018-11-16",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "BERTA CABRAL",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "6147"
-          }
-        }
-      },
-      {
         "id": "1899",
         "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\" - LX COSAC - Comissão de Assuntos Europeus",
         "local": "Bregenz",
@@ -9133,6 +9115,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "3339"
+          }
+        }
+      },
+      {
+        "id": "1902",
+        "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\"",
+        "local": "Bregenz",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-16",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "BERTA CABRAL",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "6147"
           }
         }
       },
@@ -9402,6 +9402,26 @@
         "sessao": "4",
         "dataInicio": "2018-11-22",
         "dataFim": "2018-11-23",
+        "participantes": null
+      },
+      {
+        "id": "1908",
+        "nome": "\"International Intelligence Oversight Forum\"",
+        "local": "La Valletta",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-29",
+        "dataFim": "2018-11-30",
+        "participantes": null
+      },
+      {
+        "id": "1909",
+        "nome": "\"European Conference of intelligence oversight bodies\"",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-07",
         "participantes": null
       }
     ]

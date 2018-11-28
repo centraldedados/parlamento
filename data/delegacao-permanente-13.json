@@ -5002,6 +5002,38 @@
               }
             },
             {
+              "nome": "reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "06-12-2018",
+              "dataFim": "07-12-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Reuniões da Comissão de Assuntos Sociais, Saúde e desenvolvimento Sustentável e da Comissão de Cultura, ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "04-12-2018",
+              "dataFim": "07-12-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Reuniões da Comissão sobre a Igualdade e a Não Discriminação e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "03-12-2018",
+              "dataFim": "04-12-2018",
+              "participantes": null
+            },
+            {
+              "nome": "Comissão de Assuntos Políticos e Democracia - Visita de estudo e reunião da Subcomissão de Relações Externas",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "03-12-2018",
+              "dataFim": "06-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Migrações, refugiados e pessoas Deslocadas - Visita à Zona de transito de Roszke",
               "tipo": "REN",
               "local": "Budapeste",
@@ -6187,22 +6219,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-03-2017",
-              "dataFim": "23-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -6215,6 +6231,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-03-2017",
+              "dataFim": "23-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
@@ -7423,22 +7455,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "14-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -7451,6 +7467,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "14-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
