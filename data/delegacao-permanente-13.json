@@ -2939,6 +2939,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação das Eleições na Arménia",
+              "tipo": "REN",
+              "local": "Arménia",
+              "dataInicio": "05-12-2018",
+              "dataFim": "10-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "Conferência sobre \"Vítimas de terrorismo na área da OSCE\"",
               "tipo": "REN",
               "local": "Madrid",
@@ -5010,6 +5018,14 @@
               "participantes": null
             },
             {
+              "nome": "Raunião da Comissão de Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "05-12-2018",
+              "dataFim": "05-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reuniões da Comissão de Assuntos Sociais, Saúde e desenvolvimento Sustentável e da Comissão de Cultura, ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -6023,6 +6039,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -6037,14 +6061,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
