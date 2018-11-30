@@ -2947,6 +2947,14 @@
               "participantes": null
             },
             {
+              "nome": "Reunião do Bureau",
+              "tipo": "REN",
+              "local": "Milão",
+              "dataInicio": "05-12-2018",
+              "dataFim": "07-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "Conferência sobre \"Vítimas de terrorismo na área da OSCE\"",
               "tipo": "REN",
               "local": "Madrid",
@@ -5008,6 +5016,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Reunião da Comissão para o Respeito das Obrigações e Compromissos dos Estados-Membros do CE",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "12-12-2018",
+              "dataFim": "12-12-2018",
+              "participantes": null
             },
             {
               "nome": "reunião da Comissão de Cultura, Ciência, Educação e Media",
@@ -10020,7 +10036,16 @@
           }
         },
         "comissoes": null,
-        "reunioes": null,
+        "reunioes": {
+          "Reuniao": {
+            "nome": "25º. Conselho Ministerial da Organização para a Segurança e Cooperação na Europa (OSCE)",
+            "tipo": "REN",
+            "local": "Milão",
+            "dataInicio": "06-12-2018",
+            "dataFim": "07-12-2018",
+            "participantes": null
+          }
+        },
         "publicacoes": {
           "paginas": null
         },

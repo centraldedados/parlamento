@@ -8440,6 +8440,16 @@
         }
       },
       {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8465,16 +8475,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
       },
       {
         "id": "1871",
@@ -8577,24 +8577,6 @@
         }
       },
       {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
-      },
-      {
         "id": "1878",
         "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
         "local": "Bruxelas",
@@ -8609,6 +8591,34 @@
             "gp": "CDS-PP",
             "leg": "XIII",
             "id": "1290"
+          }
+        }
+      },
+      {
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": null
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
           }
         }
       },
@@ -8638,26 +8648,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1873",
-        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": null
-      },
-      {
-        "id": "1872",
-        "nome": "Reunião do conselho do IPEX - IPEX Board",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-11",
-        "dataFim": "2018-10-11",
-        "participantes": null
       },
       {
         "id": "1876",
@@ -8715,13 +8705,13 @@
         }
       },
       {
-        "id": "1880",
-        "nome": "Conferência Anual dos Correspondentes do CERDP",
-        "local": "Helsínquia",
+        "id": "1872",
+        "nome": "Reunião do conselho do IPEX - IPEX Board",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-10-18",
-        "dataFim": "2018-10-20",
+        "dataInicio": "2018-10-11",
+        "dataFim": "2018-10-11",
         "participantes": null
       },
       {
@@ -8741,6 +8731,16 @@
             "id": "2522"
           }
         }
+      },
+      {
+        "id": "1880",
+        "nome": "Conferência Anual dos Correspondentes do CERDP",
+        "local": "Helsínquia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-18",
+        "dataFim": "2018-10-20",
+        "participantes": null
       },
       {
         "id": "1882",
@@ -8901,33 +8901,6 @@
         }
       },
       {
-        "id": "1889",
-        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "CARLOS ALBERTO GONÇALVES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "1458"
-            },
-            {
-              "tipo": "D",
-              "nome": "VITALINO CANAS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "1700"
-            }
-          ]
-        }
-      },
-      {
         "id": "1891",
         "nome": "VII Fórum Parlamentar Luso-Espanhol",
         "local": "Madrid",
@@ -9068,6 +9041,33 @@
               "gp": "PS",
               "leg": "XIII",
               "id": "163"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1889",
+        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
             }
           ]
         }
@@ -9361,6 +9361,16 @@
         }
       },
       {
+        "id": "1901",
+        "nome": "Working Group the Launch of the 2019 European Semester Cycle - Reunião dos Correspondentes do IPEX.",
+        "local": "Bruxelas e Tallin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-22",
+        "dataFim": "2018-11-23",
+        "participantes": null
+      },
+      {
         "id": "1907",
         "nome": "Visita a Dhaka, para monitorizar as acções de desenvolvimento que têm sido levadas a cabo pelo actual Governo",
         "local": "Dhaka",
@@ -9395,16 +9405,6 @@
         }
       },
       {
-        "id": "1901",
-        "nome": "Working Group the Launch of the 2019 European Semester Cycle - Reunião dos Correspondentes do IPEX.",
-        "local": "Bruxelas e Tallin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-22",
-        "dataFim": "2018-11-23",
-        "participantes": null
-      },
-      {
         "id": "1908",
         "nome": "\"International Intelligence Oversight Forum\"",
         "local": "La Valletta",
@@ -9412,6 +9412,16 @@
         "sessao": "4",
         "dataInicio": "2018-11-29",
         "dataFim": "2018-11-30",
+        "participantes": null
+      },
+      {
+        "id": "1910",
+        "nome": "\"World e-Parliamment Conference",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-03",
+        "dataFim": "2018-12-05",
         "participantes": null
       },
       {
