@@ -10,6 +10,20 @@
         {
           "tipo": "ITG",
           "descTipo": "Interpelação ao Governo",
+          "assunto": "Sobre \"Infraestruturas públicas\"",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-11-05",
+          "dataAgendamentoDebate": "2018-12-12",
+          "numero": "23",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS-PP"
+          }
+        },
+        {
+          "tipo": "ITG",
+          "descTipo": "Interpelação ao Governo",
           "assunto": "Sobre \"Defesa do Serviço Nacional de Saúde\"",
           "legislatura": "XIII",
           "sessao": "3",
@@ -1145,23 +1159,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "15",
-                "pubTipo": "DAR II série A",
-                "pubTp": "A",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2017-10-19",
-                "pag": {
-                  "string": "2-2"
-                },
-                "idPag": "801823",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "12",
                 "pubTipo": "DAR I série",
                 "pubTp": "D",
@@ -1176,6 +1173,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "15",
+                "pubTipo": "DAR II série A",
+                "pubTp": "A",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2017-10-19",
+                "pag": {
+                  "string": "2-2"
+                },
+                "idPag": "801823",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
                 "idDeb": null
               }
             ]
@@ -1541,24 +1555,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "90",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Anúncio",
-                    "pubdt": "2018-05-30",
-                    "pag": {
-                      "string": "37-37"
-                    },
-                    "idPag": "820105",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/37?pgs=37&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "89",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1574,6 +1570,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/089/2018-05-25/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "90",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Anúncio",
+                    "pubdt": "2018-05-30",
+                    "pag": {
+                      "string": "37-37"
+                    },
+                    "idPag": "820105",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/37?pgs=37&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2738,24 +2752,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "94",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-06-08",
-                    "pag": {
-                      "string": "35-35"
-                    },
-                    "idPag": "793985",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/094/2017-06-08/35?pgs=35&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "95",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2771,6 +2767,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/095/2017-06-09/2?pgs=2&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "94",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-06-08",
+                    "pag": {
+                      "string": "35-35"
+                    },
+                    "idPag": "793985",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/094/2017-06-08/35?pgs=35&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5855,6 +5869,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-28",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81385",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "681",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5869,6 +5894,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81405",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "680",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5883,6 +5919,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81403",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PSD</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PS</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "679",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5897,6 +5943,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81404",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: 1-<I>CDS-PP</I><BR>Abstenção: <I>PSD</I>, 1-<I>PS</I>, <I>CDS-PP</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "678",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5911,6 +5967,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81402",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: <I>PSD</I>, <I>CDS-PP</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "677",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5939,6 +6005,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81401",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I><BR>Abstenção: <I>CDS-PP</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "675",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5953,6 +6029,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81387",
+              "resultado": "Rejeitado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Contra: <I>PSD</I>, <I>CDS-PP</I><BR>Abstenção: <I>PS</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "674",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5967,6 +6053,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81400",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "673",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5981,6 +6078,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81398",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "672",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -5995,6 +6103,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81394",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PS</I>, <I>PAN</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PSD</I>, <I>CDS-PP</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "671",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6009,6 +6127,16 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-27",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81399",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Contra: <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>BE</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "670",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6024,6 +6152,16 @@
           "sessao": "4",
           "dataEntrada": "2018-11-26",
           "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81397",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "669",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6053,6 +6191,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-26",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81396",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "667",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6067,6 +6216,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-26",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81395",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "666",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6081,6 +6241,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-26",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81386",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "665",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6095,10 +6266,20 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-23",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81393",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PSD</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PS</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "664",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "CDS-PP"
+            "string": "CDS-PP; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369387a4d4751354d7a566d5a5330774e324d774c54513159545174596a4e6b4e6930784e4441344e474931597a49794d4467755a47396a65413d3d&fich=30d935fe-07c0-45a4-b3d6-14084b5c2208.docx&Inline=true"
         },
@@ -6139,10 +6320,21 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-21",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81392",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "661",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PAR"
+            "string": "PAR; PS; PSD; CDS-PP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369387a5a6a517a596d4e6d5a5330794d4455304c5451314d6d5974596a59334e7930784e474a6c4f4459794d325931595445755a47396a65413d3d&fich=3f43bcfe-2054-452f-b677-14be8623f5a1.docx&Inline=true"
         },
@@ -6153,10 +6345,21 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-21",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81384",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "660",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PAR"
+            "string": "PAR; PS; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938334d6a63784e324d324d69316b4d4449784c5452685a6a5174596a4d784e7930324d4445335a5451795932566b596a45755a47396a65413d3d&fich=72717c62-d021-4af4-b317-6017e42cedb1.docx&Inline=true"
         },
@@ -6167,6 +6370,7 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-21",
+          "dataAgendamentoDebate": "2018-11-29",
           "observacoes": "Substituído pelo voto n.º 681/XIII",
           "numero": "659",
           "tipoAutor": "Grupos Parlamentares",
@@ -6182,10 +6386,21 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-19",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81391",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "658",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "CDS-PP"
+            "string": "CDS-PP; PS; PSD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938335a5749334d4459305a533030596a55354c54526c595745744f5755785a6930355a4451314f4745335a6a686a5a5451755a47396a65413d3d&fich=7eb7064e-4b59-4eaa-9e1f-9d458a7f8ce4.docx&Inline=true"
         },
@@ -6196,6 +6411,7 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-19",
+          "dataAgendamentoDebate": "2018-11-29",
           "observacoes": "Substituído pelo voto n.º 661/XIII",
           "numero": "657",
           "tipoAutor": "Grupos Parlamentares",
@@ -6211,6 +6427,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-13",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81383",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "656",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6225,10 +6452,21 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-13",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81382",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "655",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PAR"
+            "string": "PAR; PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774e7a67795a6a41335a5330324e4441314c5451314d32557459574a6a4e5330784e7a63345a445531596a63784e4755755a47396a65413d3d&fich=0782f07e-6405-453e-abc5-1778d55b714e.docx&Inline=true"
         },
@@ -6239,6 +6477,17 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-12",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81390",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "unanime": "unanime",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "654",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -6253,12 +6502,22 @@
           "legislatura": "XIII",
           "sessao": "4",
           "dataEntrada": "2018-11-09",
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81389",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Abstenção: <I>BE</I>, <I>PCP</I>, <I>PEV</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "653",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PS; PSD; CDS-PP"
+            "string": "PS; CDS-PP; PSD"
           },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774e6a4e6a596d4e695a433032593259354c5451325a5451744f544a6c4d7930775a5745335954526d5a445178597a59755a47396a65413d3d&fich=063cbcbd-6cf9-46e4-92e3-0ea7a4fd41c6.docx&Inline=true"
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938335a5752694f544d795a4330354d47597a4c5451335a4755744f544a6a4e4331684d44646b4e7a45335a6a67334e5745755a47396a65413d3d&fich=7edb932d-90f3-47de-92c4-a07d717f875a.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -6286,10 +6545,20 @@
               "idDeb": null
             }
           },
+          "dataAgendamentoDebate": "2018-11-29",
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "81388",
+              "resultado": "Aprovado",
+              "reuniao": "24",
+              "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "data": "2018-11-29"
+            }
+          },
           "numero": "652",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "CDS-PP"
+            "string": "CDS-PP; PSD; BE"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e526863693835596d5a684d5445304d43316d5932557a4c5451354f546b744f444532597931684e4755355a546b305a444a6b4e7a63755a47396a65413d3d&fich=9bfa1140-fce3-4999-816c-a4e9e94d2d77.docx&Inline=true"
         },
@@ -8487,6 +8756,23 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
+                "pubNr": "62",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2018-08-17",
+                "pag": {
+                  "string": "3-3"
+                },
+                "idPag": "823789",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/062/2018-08-17/3?pgs=3&org=PLC",
+                "idDeb": null
+              },
+              {
                 "pubNr": "63",
                 "pubTipo": "DAR II série B",
                 "pubTp": "B",
@@ -8502,23 +8788,6 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/063/2018-08-27/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
-                "pubNr": "62",
-                "pubTipo": "DAR II série B",
-                "pubTp": "B",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2018-08-17",
-                "pag": {
-                  "string": "3-3"
-                },
-                "idPag": "823789",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/062/2018-08-17/3?pgs=3&org=PLC",
                 "idDeb": null
               }
             ]
@@ -63682,12 +63951,21 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110806",
+              "numeroAudicao": "119-CTSS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da FEVICCOM - Federação Portuguesa dos Sindicatos da Construção, Cerâmica e Vidro, na sequência de requerimento apresentado pelo GP do PCP",
+              "entidades": null,
+              "data": "2018-12-05"
+            },
+            {
               "IDAudicao": "110660",
               "numeroAudicao": "118-CTSS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição do Ministro das Finanças, no âmbito da apreciação, na especialidade, da Proposta de Lei n.º 155/XIII/4.ª (GOV) - Aprova as Grandes Opções do Plano para 2019 e da Proposta de Lei n.º 156/XIII/4.ª (GOV) - Aprova o Orçamento do Estado para 2019",
-              "entidades": "MIN.  DAS   FINANÇAS;S.E. ADJUNTO E DAS FINANÇAS;S.E. DOS  ASSUNTOS FISCAIS;S.E. DO ORÇAMENTO;S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO;S.E. DO TESOURO",
+              "entidades": "MIN.  DAS   FINANÇAS;S.E. ADJUNTO E DAS FINANÇAS;S.E. DOS  ASSUNTOS FISCAIS;S.E. DO ORÇAMENTO;S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO;S.E. DO TESOURO;FEVICCOM - Federação Portuguesa dos Sindicatos da Construção, Ceramica e Vidro",
               "data": "2018-11-16"
             },
             {
@@ -82197,6 +82475,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110800",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-22",
+              "dataFim": "2018-11-23",
+              "designacao": "“Interparliamentary Conference on \"The Role of Parliaments in Shaping the Future of Food and Farming\"",
+              "localEvento": "Parlamento Croata (Zagreb)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110799",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-20",
+              "dataFim": "2018-11-20",
+              "designacao": "Sessão Regional Comemorativa do Centenário do Ministério da Agricultura",
+              "localEvento": "Cine-Teatro de Castelo Branco",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110759",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -82397,16 +82695,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109655",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-07-05",
-              "dataFim": "2018-07-05",
-              "designacao": "Seminário \"Do Capital Natural ao Valor Estratégico das Áreas Marinhas Protegidas\"",
-              "localEvento": "Auditório da Casa das Histórias no Museu Paula Rego (Cascais)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109656",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -82414,6 +82702,16 @@
               "dataFim": "2018-07-05",
               "designacao": "Sunset With Wine",
               "localEvento": "Sede da ACIBEV (Lisboa)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109655",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-07-05",
+              "dataFim": "2018-07-05",
+              "designacao": "Seminário \"Do Capital Natural ao Valor Estratégico das Áreas Marinhas Protegidas\"",
+              "localEvento": "Auditório da Casa das Histórias no Museu Paula Rego (Cascais)",
               "tipo": "Representação"
             },
             {
@@ -82467,16 +82765,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109158",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-06-06",
-              "dataFim": "2018-06-06",
-              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
-              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109157",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -82484,6 +82772,16 @@
               "dataFim": "2018-06-06",
               "designacao": "Seminário \"A IMPORTÂNCIA DOS JOVENS AGRICULTORES NO FUTURO DA AGRICULTURA EUROPEIA\"",
               "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109158",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-06-06",
+              "dataFim": "2018-06-06",
+              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
+              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
               "tipo": "Representação"
             },
             {
@@ -82497,16 +82795,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109151",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-18",
-              "dataFim": "2018-05-18",
-              "designacao": "Dia do Agricultor 2018",
-              "localEvento": "Elvas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109154",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -82514,6 +82802,16 @@
               "dataFim": "2018-05-18",
               "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
               "localEvento": "Universidade de Aveiro",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109151",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-18",
+              "dataFim": "2018-05-18",
+              "designacao": "Dia do Agricultor 2018",
+              "localEvento": "Elvas",
               "tipo": "Representação"
             },
             {
@@ -82557,13 +82855,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109148",
+              "IDDeslocacao": "109145",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
-              "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -82577,13 +82875,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109145",
+              "IDDeslocacao": "109148",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
+              "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
+              "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
               "tipo": "Representação"
             },
             {
@@ -82597,16 +82895,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109009",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-04-27",
-              "dataFim": "2018-04-27",
-              "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
-              "localEvento": "Parque de Feiras e Exposições de Beja",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109028",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -82614,6 +82902,16 @@
               "dataFim": "2018-04-27",
               "designacao": "FIAPE - Feira Internacional de Agropecuária de Estremoz/2018",
               "localEvento": "Parque de Feiras de Estremoz",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109009",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-27",
+              "dataFim": "2018-04-27",
+              "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
+              "localEvento": "Parque de Feiras e Exposições de Beja",
               "tipo": "Representação"
             },
             {
@@ -88601,6 +88899,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110798",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-27",
+              "dataFim": "2018-11-27",
+              "designacao": "Conferência Comemorativa dos 70.º Aniversário da Declaração Universal dos Direitos Humanos",
+              "localEvento": "Biblioteca da Raínha - Ministério do Negócios Estrangeiros",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110789",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -89001,16 +89309,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "106579",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2017-10-03",
-              "dataFim": "2017-10-03",
-              "designacao": "Receção Dia da Unidade Alemã",
-              "localEvento": "Rua D. Constantino de Bragança, 29, em Lisboa (Restelo)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "106578",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -89018,6 +89316,16 @@
               "dataFim": "2017-10-03",
               "designacao": "Cerimónia de tomada de posse dos novos membros da Entidade das Contas e Financiamentos Políticos",
               "localEvento": "Sala de Atos do Tribunal Constitucional",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "106579",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2017-10-03",
+              "dataFim": "2017-10-03",
+              "designacao": "Receção Dia da Unidade Alemã",
+              "localEvento": "Rua D. Constantino de Bragança, 29, em Lisboa (Restelo)",
               "tipo": "Representação"
             },
             {
