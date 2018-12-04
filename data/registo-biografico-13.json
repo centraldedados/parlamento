@@ -5885,13 +5885,6 @@
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6804",
-                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
-                  "orgSigla": "CPITANCOS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -6193,7 +6186,7 @@
                   "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
                   "orgSigla": "CNECP",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4532",
@@ -6568,6 +6561,13 @@
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6804",
+                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
+                  "orgSigla": "CPITANCOS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -11877,6 +11877,23 @@
               ]
             }
           }
+        },
+        {
+          "cadId": "5954",
+          "cadNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA",
+          "cadSexo": "M",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Fernando Manuel Barbosa",
+              "legDes": "XIII",
+              "ceDes": "PORTO",
+              "parSigla": "BE",
+              "parDes": "Bloco De Esquerda",
+              "gpSigla": "BE",
+              "gpDes": "Bloco De Esquerda"
+            }
+          },
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1905",
@@ -17348,22 +17365,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4525",
-                "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                "orgSigla": "CNECP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "CGP"
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2129",
@@ -18969,52 +18971,7 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4535",
-                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                "orgSigla": "CCCJD",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": [
-                    {
-                      "tiaDes": "CGP"
-                    },
-                    {
-                      "tiaDes": "Vice-Presidente"
-                    }
-                  ]
-                }
-              }
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5044",
-                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
-                  "orgSigla": "GT-MUD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5604",
-                  "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
-                  "orgSigla": "GT-AIAAO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4194",
@@ -38461,6 +38418,33 @@
           }
         },
         {
+          "cadId": "5641",
+          "cadNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS",
+          "cadSexo": "M",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Valter Loios",
+              "legDes": "XIII",
+              "ceDes": "ÉVORA",
+              "parSigla": "CDU",
+              "parDes": "Coligação Democrática Unitária",
+              "gpSigla": "PCP",
+              "gpDes": "Partido Comunista Português"
+            }
+          },
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4525",
+                "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                "orgSigla": "CNECP",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
+            }
+          }
+        },
+        {
           "cadId": "4402",
           "cadNomeCompleto": "VÂNIA CARVALHO DIAS DA SILVA DE ANTAS DE BARROS",
           "cadDtNascimento": "1977-07-12",
@@ -44624,6 +44608,11 @@
               "rgiCadId": "487"
             }
           }
+        },
+        {
+          "cadId": "5954",
+          "cadNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "1905",
@@ -56520,6 +56509,11 @@
               "rgiCadId": "1743"
             }
           }
+        },
+        {
+          "cadId": "5641",
+          "cadNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "4402",

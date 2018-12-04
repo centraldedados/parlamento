@@ -2779,6 +2779,35 @@
           "depNomeCompleto": "FERNANDO MANUEL DE JESUS"
         },
         {
+          "depId": "9087",
+          "depCadId": "5954",
+          "depNomeParlamentar": "FERNANDO MANUEL BARBOSA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4466",
+              "gpSigla": "BE",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA"
+        },
+        {
           "depId": "8350",
           "depCadId": "1905",
           "depNomeParlamentar": "FERNANDO NEGRÃO",
@@ -4284,10 +4313,17 @@
           "depCPDes": "ÉVORA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO GUILHERME RAMOS ROSA DE OLIVEIRA"
         },
@@ -4652,10 +4688,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
           },
           "depNomeCompleto": "JORGE MANUEL COSTA CAMPOS"
         },
@@ -9075,6 +9118,35 @@
             }
           },
           "depNomeCompleto": "ULISSES MANUEL BRANDÃO PEREIRA"
+        },
+        {
+          "depId": "9239",
+          "depCadId": "5641",
+          "depNomeParlamentar": "VALTER LOIOS",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4468",
+              "gpSigla": "PCP",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "7",
+          "depCPDes": "ÉVORA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS"
         },
         {
           "depId": "8537",
