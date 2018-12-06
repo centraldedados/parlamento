@@ -7354,18 +7354,6 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Vice-Presidente"
-                    }
-                  }
                 }
               ]
             },
@@ -11881,7 +11869,9 @@
         {
           "cadId": "5954",
           "cadNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA",
+          "cadDtNascimento": "1972-05-14",
           "cadSexo": "M",
+          "cadProfissao": "Regulador",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Fernando Manuel Barbosa",
@@ -11893,7 +11883,17 @@
               "gpDes": "Bloco De Esquerda"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4529",
+                "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                "orgSigla": "CEIOP",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
+            }
+          }
         },
         {
           "cadId": "1905",
@@ -14255,7 +14255,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
                   "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -17247,7 +17252,7 @@
                   "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
                   "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -24163,7 +24168,17 @@
                   "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 },
                 {
                   "orgId": "6384",
@@ -24524,7 +24539,7 @@
                   "timDes": "Efetivo",
                   "cargoDes": {
                     "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
+                      "tiaDes": "Vice-Presidente"
                     }
                   }
                 }
@@ -42970,7 +42985,61 @@
           "cadNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS",
           "cadActividadeProfissional": "Gestora",
           "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
+          "cadEstadoCivilDes": "Solteiro(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9028",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-12-05",
+              "rgiRegimeBensId": "0",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8913",
+                    "rgaActividade": "Empresária ",
+                    "rgaDataInicio": "2014-12-02",
+                    "rgaDataFim": "2017-12-30",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8914",
+                    "rgaActividade": "Consultora ",
+                    "rgaDataInicio": "2018-01-10",
+                    "rgaDataFim": "2018-05-30",
+                    "rgaRemunerada": "S"
+                  }
+                ]
+              },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
+                  {
+                    "rgcId": "7218",
+                    "rgcCargo": "Administradora Não Executiva ",
+                    "rgcEntidade": "Águas do Centro Litoral",
+                    "rgcAreaActividade": "Empresa Pública",
+                    "rgcLocalSede": "Coimbra",
+                    "rgcDataInicio": "2017-03-23",
+                    "rgcDataFim": "2018-10-16"
+                  },
+                  {
+                    "rgcId": "7219",
+                    "rgcCargo": "Gerente",
+                    "rgcEntidade": "Cristina Jesus Unipessoal Lda.",
+                    "rgcAreaActividade": "Empresa privada",
+                    "rgcLocalSede": "Corticeiro de Cima",
+                    "rgcDataInicio": "2014-12-02",
+                    "rgcDataFim": "2017-12-30"
+                  }
+                ]
+              },
+              "rgiCadId": "5609"
+            }
+          }
         },
         {
           "cadId": "4129",
@@ -44623,7 +44692,9 @@
         {
           "cadId": "5954",
           "cadNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Regulador",
+          "cadEstadoCivilCod": "2",
+          "cadEstadoCivilDes": "Divorciado(a)"
         },
         {
           "cadId": "1905",
@@ -46934,7 +47005,70 @@
           "cadNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA",
           "cadActividadeProfissional": "Bancário",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9030",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-12-05",
+              "rgiRegimeBensId": "1",
+              "rgiRegimeBensDes": "Comunhão de adquiridos",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Recebimento de senhas de presença nas Assembleias de Freguesia, Municipal e Metropolitana ao abrigo do Estatuto dos Eleitos Locais.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8935",
+                    "rgaActividade": "Bancário (atual)",
+                    "rgaDataInicio": "2002",
+                    "rgaDataFim": "2018",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8936",
+                    "rgaActividade": "Membro da Assembleia de Freguesia de Vila do Conde",
+                    "rgaDataInicio": "2001",
+                    "rgaDataFim": "2005",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8937",
+                    "rgaActividade": "Membro da Assembleia Municipal de Vila do Conde (mandatos de 2005 a 2009, 2009 a 2013, 2013 a 2017 e mandato iniciado em 2017 (em curso)",
+                    "rgaDataInicio": "2005",
+                    "rgaDataFim": "2018",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8938",
+                    "rgaActividade": "Membro da Assembleia Metropolitana da Grande Área Metropolitana do Porto (mandatos de 2005 a 2009 e 2009 a 2013)",
+                    "rgaDataInicio": "2005",
+                    "rgaDataFim": "2013",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8939",
+                    "rgaActividade": "Membro da Assembleia de Freguesia de Azurara",
+                    "rgaDataInicio": "2013",
+                    "rgaDataFim": "2017",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiSociedades": {
+                "pt_ar_wsgode_objectos_DadosRgiSociedades": {
+                  "rgsId": "4535",
+                  "rgsEntidade": "Edições Linear, Cooperativa editorial de responsabilidade limitada, Lda",
+                  "rgsAreaActividade": "Difusão do valioso património cultural vila-condense, quer através da atividade de radiodifusão, de publicação ou de outras iniciativas",
+                  "rgsLocalSede": "Vila do Conde",
+                  "rgsPartiSocial": "Quota de 1 / 90 avos (um noventa avos) do Capital Social."
+                }
+              },
+              "rgiCadId": "5936"
+            }
+          }
         },
         {
           "cadId": "4166",
@@ -46989,77 +47123,87 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8728",
+              "rgiId": "8988",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-05-29",
+              "rgiDataVersao": "2018-12-05",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado XIII Legislatura",
               "rgiCargoData": "2018",
-              "rgiApoiosBeneficios": " Câmara Municipal de Lisboa (Senhas de Presença)",
+              "rgiApoiosBeneficios": "Câmara Municipal de Lisboa (Senhas de Presença)\nConselho Fiscal - IM Gestão de Ativos (Senhas de Presença)",
               "rgiServicosPrestados": "Consultor na Sociedade \"Intermoney Valores, S.V., S.A. - Sucursal em Portugal",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8593",
+                    "rgaId": "8873",
                     "rgaActividade": "Vereador na Câmara Municipal de Lisboa ",
                     "rgaDataInicio": "2013-10-24",
                     "rgaDataFim": "2017-10-26",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8594",
+                    "rgaId": "8874",
                     "rgaActividade": "Conselheiro Leonino - Sporting Clube de Portugal",
                     "rgaDataInicio": "2013-03-24",
                     "rgaDataFim": "2018-05-17",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8595",
+                    "rgaId": "8875",
                     "rgaActividade": "Responsável de Comunicação e Imagem, na SIMTEJO,SA",
                     "rgaDataInicio": "2005-01-01",
                     "rgaDataFim": "2011-06-20",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8596",
+                    "rgaId": "8876",
                     "rgaActividade": "Coordenador Gabinete de Vereação do CDS-PP na Câmara Municipal de Lisboa",
                     "rgaDataInicio": "2009-11-01",
                     "rgaDataFim": "2011-06-20",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8597",
+                    "rgaId": "8877",
                     "rgaActividade": "Consultor na Sociedade \"Intermoney Valores, S.V., S.A. - Sucursal em Portugal",
                     "rgaDataInicio": "2013-12-01",
                     "rgaDataFim": "2017-03-01",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8598",
+                    "rgaId": "8878",
                     "rgaActividade": "Gerente da ATTRIBUTEQUATION,Lda",
                     "rgaDataInicio": "2014-04-09",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8599",
+                    "rgaId": "8879",
                     "rgaActividade": "Aguas do Tejo Atlântico - Direcção de Comunicação e  Desenvolvimento",
                     "rgaDataInicio": "2017-06-01",
                     "rgaDataFim": "2018-03-24",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8600",
+                    "rgaId": "8880",
                     "rgaActividade": "Vereador na Câmara Municipal de Lisboa ",
                     "rgaDataInicio": "2017-10-26",
                     "rgaRemunerada": "N"
                   }
                 ]
               },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
+                  "rgcId": "7205",
+                  "rgcCargo": "Vogal do Conselho Fiscal",
+                  "rgcEntidade": "IM Gestão de Ativos, Sociedade Gestora de Fundos de Investimento, S.A.",
+                  "rgcAreaActividade": "Sociedade Gestora de Fundos de Investimento",
+                  "rgcLocalSede": "Lisboa",
+                  "rgcDataInicio": "2018-10-08"
+                }
+              },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "4395",
+                  "rgsId": "4516",
                   "rgsEntidade": "ATTRIBUTEQUATION, Lda",
                   "rgsAreaActividade": "Consultadoria",
                   "rgsLocalSede": "Lisboa",
@@ -50981,7 +51125,40 @@
           "cadNomeCompleto": "MARCOS DA CUNHA E LORENA PERESTRELLO DE VASCONCELLOS",
           "cadActividadeProfissional": "Advogado",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9008",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2018-12-05",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Nada a declarar",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "8893",
+                    "rgaActividade": "Advogado",
+                    "rgaDataInicio": "2014-12-05",
+                    "rgaDataFim": "2015-11-25",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8894",
+                    "rgaActividade": "Secretário de Estado da Defesa Nacional do XXI Governo Constitucional",
+                    "rgaDataInicio": "2015-11-26",
+                    "rgaDataFim": "2018-10-15",
+                    "rgaRemunerada": "S"
+                  }
+                ]
+              },
+              "rgiCadId": "2209"
+            }
+          }
         },
         {
           "cadId": "6207",
@@ -53993,9 +54170,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8968",
+              "rgiId": "9029",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-10-11",
+              "rgiDataVersao": "2018-12-05",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à Assembleia da República (XIII Legislatura)",
@@ -54006,129 +54183,135 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8853",
+                    "rgaId": "8933",
+                    "rgaActividade": "Membro da Secção de Arquivos do Conselho Nacional de Cultura, em representação da Comissão de Acesso aos Documentos Administrativos",
+                    "rgaDataInicio": "2018-10-29",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8934",
+                    "rgaActividade": "Participação semanal no programa \"Sem Moderação\" do Canal Q e da TSF",
+                    "rgaDataInicio": "2018-10-17",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8915",
                     "rgaActividade": "Deputado à Assembleia da República (XII Legislatura)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-23",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8854",
+                    "rgaId": "8916",
                     "rgaActividade": "Assistente universitário (Faculdade de Direito da Universidade de Lisboa)",
                     "rgaDataInicio": "2011-06-20",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8855",
+                    "rgaId": "8917",
                     "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XIII Legislatura)",
                     "rgaDataInicio": "2017-03-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8856",
+                    "rgaId": "8918",
                     "rgaActividade": "Membro da Comissão de Acesso aos Documentos Administrativos (CADA), na qualidade de Deputado eleito pela Assembleia da República (na XII Legislatura)",
                     "rgaDataInicio": "2012-06-14",
                     "rgaDataFim": "2017-03-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8857",
+                    "rgaId": "8919",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8858",
+                    "rgaId": "8920",
                     "rgaActividade": "Presidente da Junta de Freguesia do Lumiar (mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-22",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8859",
+                    "rgaId": "8921",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2017-2021)",
                     "rgaDataInicio": "2017-10-26",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8860",
+                    "rgaId": "8922",
                     "rgaActividade": "Membro da Assembleia Municipal de Lisboa (inerência - mandato 2013-2017)",
                     "rgaDataInicio": "2013-10-24",
                     "rgaDataFim": "2017-10-24",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8861",
+                    "rgaId": "8923",
                     "rgaActividade": "Membro da Assembleia de Freguesia de Alvalade (mandato 2009-2013)",
                     "rgaDataInicio": "2011-12",
                     "rgaDataFim": "2013-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8862",
+                    "rgaId": "8924",
                     "rgaActividade": "Membro do Conselho Geral do Centro de Estudos Judiciários, eleito pela AR",
                     "rgaDataInicio": "2012-07-18",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8863",
+                    "rgaId": "8925",
                     "rgaActividade": "Membro do Conselho Pedagógico do Centro de Estudos Judiciários, designado pelo respetivo Conselho Geral ",
                     "rgaDataInicio": "2012-12-19",
                     "rgaDataFim": "2016-03-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8864",
+                    "rgaId": "8926",
                     "rgaActividade": "Participações regulares nos Programas Em Foco e Hora Económico, do canal Económico TV",
                     "rgaDataInicio": "2010",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8865",
+                    "rgaId": "8927",
                     "rgaActividade": "Membro dos Conselhos Gerais dos Agrupamentos de Escolas Vergílio Ferreira, Lindley Cintra e Alto do Lumiar, designado pelo Município de Lisboa ",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2018",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8866",
+                    "rgaId": "8928",
                     "rgaActividade": "Participações regulares em programas de debate na SIC Notícias",
                     "rgaDataInicio": "2016",
                     "rgaDataFim": "2016",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8867",
+                    "rgaId": "8929",
                     "rgaActividade": "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa) ",
                     "rgaDataInicio": "2016-11-02",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8868",
+                    "rgaId": "8930",
                     "rgaActividade": "Membro suplente do Conselho de Escola da Faculdade de Direito da Universidade de Lisboa (substituição pontual de membros efetivos)",
                     "rgaDataInicio": "2016-11-21",
                     "rgaDataFim": "2017-11-29",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8869",
+                    "rgaId": "8931",
                     "rgaActividade": "Coluna semanal de opinião no jornal Sol",
                     "rgaDataInicio": "2017",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8870",
+                    "rgaId": "8932",
                     "rgaActividade": "Lecionação de aulas e seminários pontuais de curta duração em cursos de pós-graduação e cursos de verão organizados pelo Instituto de Ciências Jurídico-Políticas da Faculdade de Direito da Universidade de Lisboa, pelo Instituto de Direito Privado da Faculdade de Direito da Universidade de Lisboa e pelo Instituto de Direito Económico, Financeiro e Fiscal da Faculdade de Direito da Universidade de Lisboa",
                     "rgaDataInicio": "2017",
-                    "rgaRemunerada": "N"
-                  },
-                  {
-                    "rgaId": "8871",
-                    "rgaActividade": "Membro da Secção de Arquivos do Conselho Nacional de Cultura, em representação da Comissão de Acesso aos Documentos Administrativos",
-                    "rgaDataInicio": "2018-10-29",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -54136,7 +54319,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "7178",
+                    "rgcId": "7220",
                     "rgcCargo": "Membro da Direcção",
                     "rgcEntidade": "English Speaking Union - Portugal",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -54144,7 +54327,7 @@
                     "rgcDataInicio": "2000"
                   },
                   {
-                    "rgcId": "7179",
+                    "rgcId": "7221",
                     "rgcCargo": "Presidente da mesa da Assembleia-Geral ",
                     "rgcEntidade": "Legística - Associação para a Qualidade da Legislação",
                     "rgcAreaActividade": "Associação de direito privado",
@@ -54152,7 +54335,7 @@
                     "rgcDataInicio": "2013-05"
                   },
                   {
-                    "rgcId": "7180",
+                    "rgcId": "7222",
                     "rgcCargo": "Membro do Conselho Geral (órgão consultivo)",
                     "rgcEntidade": "Sindicato de Professores da Grande Lisboa",
                     "rgcAreaActividade": "Sindicato",
@@ -54500,73 +54683,87 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3873",
+              "rgiId": "9031",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2018-12-05",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado à Assembleia da República",
               "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Senhas de Presença nos termos legais.",
+              "rgiApoiosBeneficios": "Senhas de Presença, Despesas de Representação e Compensação para encargos nos termos legais.",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3784",
+                    "rgaId": "8940",
                     "rgaActividade": "Vereador da Câmara Municipal de Pombal em regime de não permanência",
                     "rgaDataInicio": "2009-10",
                     "rgaDataFim": "2013-10",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3785",
+                    "rgaId": "8941",
                     "rgaActividade": "Advogado, com inscrição na Ordem dos Advogados",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2009",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3786",
+                    "rgaId": "8942",
                     "rgaActividade": "Formador de cursos de educação e formação de adultos, certificado pelo Instituto de Emprego e Formação Profissional",
                     "rgaDataInicio": "2006",
                     "rgaDataFim": "2009",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3787",
+                    "rgaId": "8943",
                     "rgaActividade": "Membro da Assembleia Municipal de Pombal",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2009",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3788",
+                    "rgaId": "8944",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral",
                     "rgaDataInicio": "2007",
                     "rgaDataFim": "2009",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3789",
+                    "rgaId": "8945",
                     "rgaActividade": "Membro da Comissão de Protecção de Crianças e Jovens de Pombal",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2011",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "3790",
+                    "rgaId": "8946",
                     "rgaActividade": "Deputado à AR na XII legislatura",
                     "rgaDataInicio": "2011",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8947",
+                    "rgaActividade": "Presidente da Junta de Freguesia de Pombal",
+                    "rgaDataInicio": "2017-10-24",
+                    "rgaDataFim": "2021",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8948",
+                    "rgaActividade": "Coordenador Distrital Leiria da ANAFRE",
+                    "rgaDataInicio": "2018",
+                    "rgaDataFim": "2021",
+                    "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "3697",
+                    "rgcId": "7223",
                     "rgcCargo": "Membro da Mesa da Assembleia Geral ",
                     "rgcEntidade": "Sporting Clube de Pombal",
                     "rgcAreaActividade": "Associação sem fins lucrativos - Desporto",
@@ -54575,13 +54772,31 @@
                     "rgcDataFim": "2013"
                   },
                   {
-                    "rgcId": "3698",
+                    "rgcId": "7224",
                     "rgcCargo": "Dirigente do Agrupamento 674-Pombal",
                     "rgcEntidade": "Copro Nacional de Escutas",
                     "rgcAreaActividade": "Associação sem fins lucrativos - Educação não formal",
                     "rgcLocalSede": "Pombal",
                     "rgcDataInicio": "2004",
                     "rgcDataFim": "2009"
+                  },
+                  {
+                    "rgcId": "7225",
+                    "rgcCargo": "Membro da Direção ",
+                    "rgcEntidade": "Lions Clube de Pombal",
+                    "rgcAreaActividade": "Social",
+                    "rgcLocalSede": "Pombal",
+                    "rgcDataInicio": "2017",
+                    "rgcDataFim": "2018"
+                  },
+                  {
+                    "rgcId": "7226",
+                    "rgcCargo": "Membro do Conselho Fiscal",
+                    "rgcEntidade": "Clube de Ténis de Pombal",
+                    "rgcAreaActividade": "Desporto",
+                    "rgcLocalSede": "Pombal",
+                    "rgcDataInicio": "2016",
+                    "rgcDataFim": "2019"
                   }
                 ]
               },

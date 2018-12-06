@@ -13,8 +13,9 @@
           "assunto": "Sobre \"Infraestruturas públicas\"",
           "legislatura": "XIII",
           "sessao": "4",
-          "dataEntrada": "2018-11-05",
+          "dataEntrada": "2018-11-29",
           "dataAgendamentoDebate": "2018-12-12",
+          "observacoes": "Requerimento de marcação feita em 5-11-2018",
           "numero": "23",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -1555,24 +1556,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "89",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2018-05-25",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "820104",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/089/2018-05-25/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "90",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1588,6 +1571,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/37?pgs=37&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "89",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2018-05-25",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "820104",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/089/2018-05-25/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -1996,24 +1997,6 @@
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
                     {
-                      "pubNr": "11",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "XIII",
-                      "pubSL": "3",
-                      "supl": ".",
-                      "obs": "Eleição",
-                      "pubdt": "2017-10-21",
-                      "pag": {
-                        "string": "3-3"
-                      },
-                      "idPag": "804260",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                      "idDeb": null
-                    },
-                    {
                       "pubNr": "12",
                       "pubTipo": "DAR I série",
                       "pubTp": "D",
@@ -2029,6 +2012,24 @@
                       "idInt": null,
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/2?pgs=2&org=PLC",
+                      "idDeb": null
+                    },
+                    {
+                      "pubNr": "11",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "XIII",
+                      "pubSL": "3",
+                      "supl": ".",
+                      "obs": "Eleição",
+                      "pubdt": "2017-10-21",
+                      "pag": {
+                        "string": "3-3"
+                      },
+                      "idPag": "804260",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                       "idDeb": null
                     }
                   ]
@@ -2072,24 +2073,6 @@
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
                     {
-                      "pubNr": "11",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "XIII",
-                      "pubSL": "3",
-                      "supl": ".",
-                      "obs": "Eleição",
-                      "pubdt": "2017-10-21",
-                      "pag": {
-                        "string": "3-3"
-                      },
-                      "idPag": "804258",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                      "idDeb": null
-                    },
-                    {
                       "pubNr": "12",
                       "pubTipo": "DAR I série",
                       "pubTp": "D",
@@ -2105,6 +2088,24 @@
                       "idInt": null,
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/2?pgs=2&org=PLC",
+                      "idDeb": null
+                    },
+                    {
+                      "pubNr": "11",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "XIII",
+                      "pubSL": "3",
+                      "supl": ".",
+                      "obs": "Eleição",
+                      "pubdt": "2017-10-21",
+                      "pag": {
+                        "string": "3-3"
+                      },
+                      "idPag": "804258",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                       "idDeb": null
                     }
                   ]
@@ -2160,24 +2161,6 @@
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
                     {
-                      "pubNr": "11",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "XIII",
-                      "pubSL": "3",
-                      "supl": ".",
-                      "obs": "Eleição",
-                      "pubdt": "2017-10-21",
-                      "pag": {
-                        "string": "3-3"
-                      },
-                      "idPag": "804256",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                      "idDeb": null
-                    },
-                    {
                       "pubNr": "12",
                       "pubTipo": "DAR I série",
                       "pubTp": "D",
@@ -2194,6 +2177,24 @@
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/2?pgs=2&org=PLC",
                       "idDeb": null
+                    },
+                    {
+                      "pubNr": "11",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "XIII",
+                      "pubSL": "3",
+                      "supl": ".",
+                      "obs": "Eleição",
+                      "pubdt": "2017-10-21",
+                      "pag": {
+                        "string": "3-3"
+                      },
+                      "idPag": "804256",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
+                      "idDeb": null
                     }
                   ]
                 },
@@ -2205,24 +2206,6 @@
                 "reuniao": "20",
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
-                    {
-                      "pubNr": "21",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "XIII",
-                      "pubSL": "3",
-                      "supl": ".",
-                      "obs": "Anúncio",
-                      "pubdt": "2017-11-29",
-                      "pag": {
-                        "string": "3-4"
-                      },
-                      "idPag": "805803",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/021/2017-11-29/3?pgs=3-4&org=PLC",
-                      "idDeb": null
-                    },
                     {
                       "pubNr": "20",
                       "pubTipo": "DAR I série",
@@ -2239,6 +2222,24 @@
                       "idInt": null,
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/020/2017-11-28/3?pgs=3&org=PLC",
+                      "idDeb": null
+                    },
+                    {
+                      "pubNr": "21",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "XIII",
+                      "pubSL": "3",
+                      "supl": ".",
+                      "obs": "Anúncio",
+                      "pubdt": "2017-11-29",
+                      "pag": {
+                        "string": "3-4"
+                      },
+                      "idPag": "805803",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/021/2017-11-29/3?pgs=3-4&org=PLC",
                       "idDeb": null
                     }
                   ]
@@ -2274,24 +2275,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "11",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-10-21",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "804268",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "12",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2307,6 +2290,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "11",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-10-21",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "804268",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2394,24 +2395,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "11",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-10-21",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "804266",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "12",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2427,6 +2410,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "11",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-10-21",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "804266",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2478,24 +2479,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "11",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-10-21",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "804264",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "12",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2511,6 +2494,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "11",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-10-21",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "804264",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2558,24 +2559,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "11",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-10-21",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "804254",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "12",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2591,6 +2574,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "11",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-10-21",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "804254",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2632,24 +2633,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "11",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "3",
-                    "supl": ".",
-                    "obs": "Eleição",
-                    "pubdt": "2017-10-21",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "804262",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "12",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2665,6 +2648,24 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/2?pgs=2&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "11",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "3",
+                    "supl": ".",
+                    "obs": "Eleição",
+                    "pubdt": "2017-10-21",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "804262",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2993,23 +2994,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774236",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3025,6 +3009,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774236",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3120,23 +3121,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774235",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3152,6 +3136,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774235",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3193,23 +3194,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "2",
-                    "supl": ".",
-                    "pubdt": "2016-10-15",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "774234",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "14",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3225,6 +3209,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/014/2016-10-20/4?pgs=4&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "2",
+                    "supl": ".",
+                    "pubdt": "2016-10-15",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "774234",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/02/013/2016-10-15/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -3559,23 +3560,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "52",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2016-04-09",
-                    "pag": {
-                      "string": "3-3"
-                    },
-                    "idPag": "760771",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/052/2016-04-09/3?pgs=3&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "53",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -3590,6 +3574,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/053/2016-04-14/44?pgs=44-45&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "52",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2016-04-09",
+                    "pag": {
+                      "string": "3-3"
+                    },
+                    "idPag": "760771",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/052/2016-04-09/3?pgs=3&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5889,7 +5890,7 @@
           "autoresGP": {
             "string": "CDS-PP"
           },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396c4d324e6d4d446b7759793030597a64694c54526d4f444d745954646a5a43316d4e54497a5a6a457a4d474d774f5451755a47396a65413d3d&fich=e3cf090c-4c7b-4f83-a7cd-f523f130c094.docx&Inline=true"
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396d4d6a5a6b5a5745324f4331694e7a64684c5451324e6a63744f546b784e4330775a57526c5a5755344d6a6c6a5a4445755a47396a65413d3d&fich=f26dea68-b77a-4667-9914-0edeee829cd1.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -59840,6 +59841,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110832",
+              "numeroAudicao": "89-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audições no âmbito da discussão na especialidade do Projeto de Lei n.º 558/XIII/2.ª (CDS-PP) - \"Estabelece os princípios gerais da carreira de médico veterinário municipal, revogando o Decreto-Lei n.º 116/98, de 5 de maio\", do Projeto de Lei n.º 764/XIII/3.ª (PAN) - \"Visa reformular os princípios da carreira de médico veterinário municipal\" e do Projeto de Lei n.º 767/XIII/3.ª (PCP) - \"Estabelece os princípios gerais da carreira de médico veterinário municipal (Primeira alteração ao Decreto-Lei n.º 116/98, de 5 de maio)\"",
+              "entidades": "DGAV - Direção-Geral de Alimentação e Veterinária;ASAE - Autoridade de Segurança Alimentar e Económica;Ordem dos Médicos Veterinários;Clube Português de Canicultura;ACPA - Associação de Criadores de Porco Alentejano;APA - Associação Portuguesa de Aquacultores;APAAE - Associação de Proteção e Apoio ao Animal Errante",
+              "data": "2018-12-05"
+            },
+            {
               "IDAudicao": "110675",
               "numeroAudicao": "88-CAM-XIII",
               "legislatura": "XIII",
@@ -67949,6 +67959,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110837",
+              "numeroAudicao": "113-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "As consequências económicas do Brexit para a economia e as empresas portuguesa”",
+              "entidades": "Antonio Saraiva - Presidente da CIP;Dr. Pedro Capucho - Dep.Assuntos Ecnómicos;Dr. João Almeida - Vice Presidente da CIP",
+              "data": "2018-12-04"
+            },
+            {
               "IDAudicao": "110592",
               "numeroAudicao": "112-CAE-XIII",
               "legislatura": "XIII",
@@ -74738,6 +74757,36 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "110831",
+              "numeroAudiencia": "75-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido de Audiência no âmbito da Anteproposta de Lei n.º 3/XI (BE) - \"Altera a Lei de Bases da Política de Ordenamento e de Gestão do Espaço Marítimo Nacional\" e da Anteproposta de Lei n.º 4/XI (GOV) - \"Altera a Lei n.º 17/2014, de 10 de abril, que Estabelece as Bases da Política de Ordenamento e de Gestão do Espaço Marítimo Nacional\"",
+              "entidades": "Comissão Permanente de Assuntos Parlamentares, Ambiente e Trabalho da Assembleia Legislativa da Região Autónoma dos Açores",
+              "data": "2018-12-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110828",
+              "numeroAudiencia": "74-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido de Audiência para esclarecimento de todo o processo das primeiras habitações dos incêndios de Outubro de 2017",
+              "entidades": "MAAVIM - Movimento Associativo de Apoio às Vitimas dos Incêndios de Midões",
+              "data": "2018-12-04",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110827",
+              "numeroAudiencia": "73-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Pedido de Audiência para a apresentação da Plataforma Alentejo",
+              "entidades": "Plataforma Alentejo",
+              "data": "2018-12-04",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "110752",
               "numeroAudiencia": "72-CAM-XIII",
               "legislatura": "XIII",
@@ -76693,6 +76742,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110838",
+              "numeroAudiencia": "54-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Atual situação laboral nos Portos de Setúbal, Figueira da Foz e Lisboa",
+              "entidades": "CPC - Conselho Português de Carregadores",
+              "data": "2018-12-04",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110836",
+              "numeroAudiencia": "53-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "O futuro sistema de Alcanena: A competitividade da indústria de curtumes em risco",
+              "entidades": "APIC - Associação Portuguesa dos Industriais de Curtumes;AUSTRA - Associação de Utilizadores do Sistema de Tratamento de Águas Residuais de Alcanena;CIP - Confederação Empresarial de Portugal",
+              "data": "2018-12-04",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "110641",
               "numeroAudiencia": "52-CEIOP-XIII",
@@ -79621,6 +79690,36 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "110835",
+              "numeroAudiencia": "78-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "No âmbito da Estratégia Nacional para a Saúde da Visão",
+              "entidades": "Presidente do Conselho Diretivo do Colégio de Oftalmologia da Ordem dos Médicos e Presidente da Comissão de Estratégia Nacional da Saúde da Visão.",
+              "data": "2018-12-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110834",
+              "numeroAudiencia": "77-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Estratégia Nacional para a Saúde da Visão e reposição da verdade, relativamente a declarações proferidas pela Associação de Licenciados em Optometria (APLO)",
+              "entidades": "Associação Portuguesa de Ortoptistas (APOR)",
+              "data": "2018-12-05",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110779",
+              "numeroAudiencia": "76-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Abordagem sobre o SNS",
+              "entidades": "BIAL",
+              "data": "2018-11-15",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "110436",
               "numeroAudiencia": "75-CS-XIII",
               "legislatura": "XIII",
@@ -80374,6 +80473,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110833",
+              "numeroAudiencia": "125-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência com o objetivo de expor as preocupações relacionadas com o estado atual do Ensino Profissional.",
+              "entidades": "Fundação Monsenhor Alves Brás:Dra. Maria do Céu Simões (diretora geral), Dra. Elisabete Puga (diretora executiva), Dra. Odete Martins (Coordenadora Pedagógica) e Dr. Carlos Campos (assessor da direção).",
+              "data": "2018-12-05",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "110709",
               "numeroAudiencia": "124-CEC-XIII",
@@ -88519,6 +88628,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "110830",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-05",
+              "dataFim": "2018-12-05",
+              "designacao": "Convite para a moderação da “mesa redonda: risco e decisão”",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110829",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-05",
+              "dataFim": "2018-12-05",
+              "designacao": "2º Fórum do Conselho Nacional de Saúde (CNS)",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "110738",
               "legislatura": "XIII",
