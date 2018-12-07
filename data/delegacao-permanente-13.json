@@ -1051,6 +1051,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Fórum Parlamentar Transatlântico",
+              "tipo": "REN",
+              "local": "Washington",
+              "dataInicio": "10-12-2018",
+              "dataFim": "12-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "64ª Sessão Anual da APNATO",
               "tipo": "REN",
               "local": "Halifax",
@@ -1343,31 +1351,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
-              "tipo": "REN",
-              "local": "Sarajevo e Belgrado",
-              "dataInicio": "16-04-2018",
-              "dataFim": "19-04-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOÃO REBELO",
-                    "gp": "CDS-PP",
-                    "leg": "XIII",
-                    "id": "1654"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LARA MARTINHO",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "6157"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Arábia Saudita",
@@ -1395,6 +1378,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Sarajevo e Belgrado",
+              "dataInicio": "16-04-2018",
+              "dataFim": "19-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
                   }
                 ]
               }
@@ -2617,22 +2625,6 @@
               }
             },
             {
-              "nome": "Reunião Conjunta da Subcomissão para as Relações Transatlânticas e da Subcomissão para as Relações Económicas Transatlânticas",
-              "tipo": "REN",
-              "local": "Washington",
-              "dataInicio": "09-05-2016",
-              "dataFim": "13-05-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "JORGE MOREIRA DA SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1012"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão para o Futuro das Capacidades de Segurança e Defesa",
               "tipo": "REN",
               "local": "Vilnius,Riga e Talin",
@@ -2645,6 +2637,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "6157"
+                }
+              }
+            },
+            {
+              "nome": "Reunião Conjunta da Subcomissão para as Relações Transatlânticas e da Subcomissão para as Relações Económicas Transatlânticas",
+              "tipo": "REN",
+              "local": "Washington",
+              "dataInicio": "09-05-2016",
+              "dataFim": "13-05-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "JORGE MOREIRA DA SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1012"
                 }
               }
             },
@@ -7766,6 +7774,14 @@
               "participantes": null
             },
             {
+              "nome": "25º. Conselho Ministerial da Organização para a Segurança e Cooperação na Europa (OSCE)",
+              "tipo": "REN",
+              "local": "Milão",
+              "dataInicio": "06-12-2018",
+              "dataFim": "07-12-2018",
+              "participantes": null
+            },
+            {
               "nome": "64ª Sessão Anual AP-NATO e 8º Fórum da Aliança das Civilizações das Nações Unidas",
               "tipo": "REN",
               "local": "Halifax e Nova Iorque",
@@ -10061,38 +10077,6 @@
               }
             }
           ]
-        },
-        "publicacoes": {
-          "paginas": null
-        },
-        "textoAprovado": null
-      },
-      {
-        "id": "91",
-        "nome": "Assembleia Parlamentar do Mediterrâneo",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataEleicao": null,
-        "composicao": {
-          "Membro": {
-            "nome": "PEDRO ROQUE",
-            "gp": "PSD",
-            "cargo": "Vice-Presidente",
-            "dataInicio": null,
-            "dataFim": null,
-            "id": "1992"
-          }
-        },
-        "comissoes": null,
-        "reunioes": {
-          "Reuniao": {
-            "nome": "25º. Conselho Ministerial da Organização para a Segurança e Cooperação na Europa (OSCE)",
-            "tipo": "REN",
-            "local": "Milão",
-            "dataInicio": "06-12-2018",
-            "dataFim": "07-12-2018",
-            "participantes": null
-          }
         },
         "publicacoes": {
           "paginas": null

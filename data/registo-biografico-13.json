@@ -4461,7 +4461,7 @@
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
                   "orgSigla": "CEIOP",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4532",
@@ -10527,7 +10527,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
                   "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Presidente"
+                    }
+                  }
                 }
               ]
             }
@@ -23573,7 +23578,7 @@
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
                   "orgSigla": "CEIOP",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "5024",
@@ -25258,6 +25263,15 @@
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5824",
+                "orgDes": "Grupo de Trabalho - Supervisão Bancária",
+                "orgSigla": "GT-SB",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -26867,18 +26881,6 @@
                   "cargoDes": {
                     "pt_ar_wsgode_objectos_DadosCargosOrgao": {
                       "tiaDes": "CGP"
-                    }
-                  }
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Presidente"
                     }
                   }
                 }
@@ -38729,7 +38731,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "25060",
+              "habId": "27020",
               "habDes": "Direito",
               "habTipoId": "15",
               "habEstado": "C"
@@ -38738,310 +38740,323 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "28796",
+                "funId": "30736",
                 "funDes": "Deputado na XIII Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "28797",
+                "funId": "30737",
                 "funDes": "Membro da Comissão Nacional do PS;",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "28798",
+                "funId": "30738",
                 "funDes": "Advogado;",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "28799",
+                "funId": "30739",
                 "funDes": "Consultor Jurídico da Rede Aga Khan para o Desenvolvimento",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "28800",
-                "funDes": "Adquiriu em 1986 a categoria de ASSISTENTE da Faculdade de Direito de Lisboa",
+                "funId": "30740",
+                "funDes": "Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa",
                 "funOrdem": "5",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "28801",
-                "funDes": "Professor nas Faculdades de Direito das Universidades de Macau e de Moçambique",
+                "funId": "30741",
+                "funDes": "Adquiriu em 1986 a categoria de ASSISTENTE da Faculdade de Direito de Lisboa",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "28802",
-                "funDes": "Chefe de Gabinete do Governador de Macau",
+                "funId": "30742",
+                "funDes": "Professor nas Faculdades de Direito das Universidades de Macau e de Moçambique",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "28803",
-                "funDes": "Secretário de Estado da Presidência do Conselho de Ministros entre out. 1995 a Abril de 2002",
+                "funId": "30743",
+                "funDes": "Chefe de Gabinete do Governador de Macau",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "28804",
-                "funDes": "Presidente da Comissão Nacional Jurisdição da JS e do PS",
+                "funId": "30744",
+                "funDes": "Secretário de Estado da Presidência do Conselho de Ministros entre out. 1995 a Abril de 2002",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "28805",
-                "funDes": "Consultor do Banco Mundial em Moçambique",
+                "funId": "30745",
+                "funDes": "Presidente da Comissão Nacional Jurisdição da JS e do PS",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "28806",
-                "funDes": "Participou como consultor do programa SIGMA da OCDE (Support for Improvement in Governance and Management in Central and Eastern European Countries) em actividades relacionadas com o desenvolvimento institucional na Polónia;",
+                "funId": "30746",
+                "funDes": "Consultor do Banco Mundial em Moçambique",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "28807",
-                "funDes": "A partir de 1994, até Outubro de 1995, prestou ocasionalmente consultoria a uma empresa, em projectos na àrea do direito do ambiente;",
+                "funId": "30747",
+                "funDes": "Participou como consultor do programa SIGMA da OCDE (Support for Improvement in Governance and Management in Central and Eastern European Countries) em actividades relacionadas com o desenvolvimento institucional na Polónia;",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "28808",
-                "funDes": "É consultor da Fundação Aga Khan desde 2002;",
+                "funId": "30748",
+                "funDes": "A partir de 1994, até Outubro de 1995, prestou ocasionalmente consultoria a uma empresa, em projectos na àrea do direito do ambiente;",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "28809",
-                "funDes": "Foi consultor da Fundação Oriente desde 2002;",
+                "funId": "30749",
+                "funDes": "É consultor da Fundação Aga Khan desde 2002;",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "28810",
-                "funDes": "Foi consultor da Fundação Stanley Ho desde 2002;",
+                "funId": "30750",
+                "funDes": "Foi consultor da Fundação Oriente desde 2002;",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "28811",
-                "funDes": "É consultor do Governo de Cabo Verde, desde 2004;",
+                "funId": "30751",
+                "funDes": "Foi consultor da Fundação Stanley Ho desde 2002;",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "28812",
-                "funDes": "Exerceu desde Outubro de 1995 até Outubro de 1999 o cargo de Secretário de Estado da Presidência do Conselho de Ministros do XIII Governo Constitucional;",
+                "funId": "30752",
+                "funDes": "É consultor do Governo de Cabo Verde, desde 2004;",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "28813",
-                "funDes": "Regeu a disciplina de Direito do Mar na Faculdade de Direito de Lisboa no ano lectivo de 1990/91;",
+                "funId": "30753",
+                "funDes": "Exerceu desde Outubro de 1995 até Outubro de 1999 o cargo de Secretário de Estado da Presidência do Conselho de Ministros do XIII Governo Constitucional;",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "28814",
-                "funDes": "Na qualidade de Professor Convidado, regeu as disciplinas de Ciência Política, Direito Constitucional e Direito Administrativo na Faculdade de Direito da Universidade Eduardo Mondlane (Maputo), onde leccionou no ano lectivo de 1991/92 e no primeiro semestre do ano lectivo de 1992/93, ao abrigo de um programa de cooperação entre a FDL a UEM e a DANIDA (Organização Dinamarquesa de Cooperação);",
+                "funId": "30754",
+                "funDes": "Regeu a disciplina de Direito do Mar na Faculdade de Direito de Lisboa no ano lectivo de 1990/91;",
                 "funOrdem": "19",
                 "funAntiga": "S"
               },
               {
-                "funId": "28815",
-                "funDes": "Leccionou a disciplina de Ciência Política e Direito Constitucional na Faculdade de Direito de Lisboa no ano lectivo de 1992/93; em 1993/4 lecionou Direito Constitucional 11 e Direito Internacional Público I na mesma Faculdade;",
+                "funId": "30755",
+                "funDes": "Na qualidade de Professor Convidado, regeu as disciplinas de Ciência Política, Direito Constitucional e Direito Administrativo na Faculdade de Direito da Universidade Eduardo Mondlane (Maputo), onde leccionou no ano lectivo de 1991/92 e no primeiro semestre do ano lectivo de 1992/93, ao abrigo de um programa de cooperação entre a FDL a UEM e a DANIDA (Organização Dinamarquesa de Cooperação);",
                 "funOrdem": "20",
                 "funAntiga": "S"
               },
               {
-                "funId": "28816",
-                "funDes": "Colaborou no Curso de Mestrado da Faculdade de Direito de Lisboa, no ano lectivo de 2002/3, em Ciência Política;",
+                "funId": "30756",
+                "funDes": "Leccionou a disciplina de Ciência Política e Direito Constitucional na Faculdade de Direito de Lisboa no ano lectivo de 1992/93; em 1993/4 lecionou Direito Constitucional 11 e Direito Internacional Público I na mesma Faculdade;",
                 "funOrdem": "21",
                 "funAntiga": "S"
               },
               {
-                "funId": "28817",
-                "funDes": "Colaborou no Curso de Mestrado da Faculdade de Direito de Lisboa, no ano lectivo de 2003/4, em Direito Constitucional;",
+                "funId": "30757",
+                "funDes": "Colaborou no Curso de Mestrado da Faculdade de Direito de Lisboa, no ano lectivo de 2002/3, em Ciência Política;",
                 "funOrdem": "22",
                 "funAntiga": "S"
               },
               {
-                "funId": "28818",
-                "funDes": "Foi membro do Conselho Pedagógico e da Assembleia de Representantes da Faculdade de Direito de Lisboa. Esteve indigitado para ser membro do Conselho Directivo da FDL em 1986, não chegando a tomar posse do lugar por se ter deslocado entretanto para Macau;",
+                "funId": "30758",
+                "funDes": "Colaborou no Curso de Mestrado da Faculdade de Direito de Lisboa, no ano lectivo de 2003/4, em Direito Constitucional;",
                 "funOrdem": "23",
                 "funAntiga": "S"
               },
               {
-                "funId": "28819",
-                "funDes": "Designado para o Senado da Universidade Clássica de Lisboa pelos Assistentes da FDL;",
+                "funId": "30759",
+                "funDes": "Foi membro do Conselho Pedagógico e da Assembleia de Representantes da Faculdade de Direito de Lisboa. Esteve indigitado para ser membro do Conselho Directivo da FDL em 1986, não chegando a tomar posse do lugar por se ter deslocado entretanto para Macau;",
                 "funOrdem": "24",
                 "funAntiga": "S"
               },
               {
-                "funId": "28820",
-                "funDes": "Entre 1983 e 1984 exerceu funções no Tribunal Constitucional, com a categoria de Assessor, no Gabinete dos Juízes, funções que retomou no final de 1993 e desempenhou até Outubro de 1995;",
+                "funId": "30760",
+                "funDes": "Designado para o Senado da Universidade Clássica de Lisboa pelos Assistentes da FDL;",
                 "funOrdem": "25",
                 "funAntiga": "S"
               },
               {
-                "funId": "28821",
-                "funDes": "Exerceu, a partir de 1986, funções de Assessor e de Chefe do Gabinete do Secretário Adjunto para a Administração e Justiça;",
+                "funId": "30761",
+                "funDes": "Entre 1983 e 1984 exerceu funções no Tribunal Constitucional, com a categoria de Assessor, no Gabinete dos Juízes, funções que retomou no final de 1993 e desempenhou até Outubro de 1995;",
                 "funOrdem": "26",
                 "funAntiga": "S"
               },
               {
-                "funId": "28822",
-                "funDes": "Exerceu, a partir de Novembro de 1987, funções de Assessor Jurídico do Governador;",
+                "funId": "30762",
+                "funDes": "Exerceu, a partir de 1986, funções de Assessor e de Chefe do Gabinete do Secretário Adjunto para a Administração e Justiça;",
                 "funOrdem": "27",
                 "funAntiga": "S"
               },
               {
-                "funId": "28823",
-                "funDes": "Foi membro da Comissão de Projecto dos Resíduos Sólidos Urbanos;",
+                "funId": "30763",
+                "funDes": "Exerceu, a partir de Novembro de 1987, funções de Assessor Jurídico do Governador;",
                 "funOrdem": "28",
                 "funAntiga": "S"
               },
               {
-                "funId": "28824",
-                "funDes": "Exerceu, desde Janeiro de 1988, até Setembro de 1989, o cargo de coordenador do Gabinete do Curso de Direito e Administração Pública;",
+                "funId": "30764",
+                "funDes": "Foi membro da Comissão de Projecto dos Resíduos Sólidos Urbanos;",
                 "funOrdem": "29",
                 "funAntiga": "S"
               },
               {
-                "funId": "28825",
-                "funDes": "Foi membro da Comissão Instaladora da Fundação do Oriente;",
+                "funId": "30765",
+                "funDes": "Exerceu, desde Janeiro de 1988, até Setembro de 1989, o cargo de coordenador do Gabinete do Curso de Direito e Administração Pública;",
                 "funOrdem": "30",
                 "funAntiga": "S"
               },
               {
-                "funId": "28826",
-                "funDes": "Foi delegado do Governo junto da Companhia de Corridas de Cavalos de Macau, desde 1986 a 1990;",
+                "funId": "30766",
+                "funDes": "Foi membro da Comissão Instaladora da Fundação do Oriente;",
                 "funOrdem": "31",
                 "funAntiga": "S"
               },
               {
-                "funId": "28827",
-                "funDes": "Foi coordenador residente do curso de Direito da Universidade da Ásia Oriental (actual Faculdade de Direito de Macau ) desde a sua criação até Agosto de 1989 . - Foi Chefe do Gabinete do Governador de Macau desde Dezembro de 1989 a Abril de 1991;",
+                "funId": "30767",
+                "funDes": "Foi delegado do Governo junto da Companhia de Corridas de Cavalos de Macau, desde 1986 a 1990;",
                 "funOrdem": "32",
                 "funAntiga": "S"
               },
               {
-                "funId": "28828",
-                "funDes": "Foi consultor do Banco Mundial na avaliação do Programa de reforma dos orgãos locais de Moçambique ( finais de 1991 ), tendo participado em 1993 nas negociações do mesmo Programa em Washington já como consultor do Governo de Moçambique. Este Programa traduziu-se num crédito de cerca de 21 milhões de USD a favor da República de Moçambique;",
+                "funId": "30768",
+                "funDes": "Foi coordenador residente do curso de Direito da Universidade da Ásia Oriental (actual Faculdade de Direito de Macau ) desde a sua criação até Agosto de 1989 . - Foi Chefe do Gabinete do Governador de Macau desde Dezembro de 1989 a Abril de 1991;",
                 "funOrdem": "33",
                 "funAntiga": "S"
               },
               {
-                "funId": "28829",
-                "funDes": "Foi consultor do Governo de Moçambique no Programa de Reforma dos orgãos locais (municipios), desde Fev. 1992 até Outubro de 1995, encarregando-se da elaboração dos Termos de Referência de toda a parte legal e respectivos consultores, bem como da elaboração do quadro institucional e dos modelos de reforma legal necessários à criação de municipios. A legislação actualmente vigente foi, no essencial, preparada no contexto deste projecto;",
+                "funId": "30769",
+                "funDes": "Foi consultor do Banco Mundial na avaliação do Programa de reforma dos orgãos locais de Moçambique ( finais de 1991 ), tendo participado em 1993 nas negociações do mesmo Programa em Washington já como consultor do Governo de Moçambique. Este Programa traduziu-se num crédito de cerca de 21 milhões de USD a favor da República de Moçambique;",
                 "funOrdem": "34",
                 "funAntiga": "S"
               },
               {
-                "funId": "28830",
-                "funDes": "Exerceu o mesmo cargo no XIV Governo Constitucional desde Outubro de 1999, até Abril de 2002;",
+                "funId": "30770",
+                "funDes": "Foi consultor do Governo de Moçambique no Programa de Reforma dos orgãos locais (municipios), desde Fev. 1992 até Outubro de 1995, encarregando-se da elaboração dos Termos de Referência de toda a parte legal e respectivos consultores, bem como da elaboração do quadro institucional e dos modelos de reforma legal necessários à criação de municipios. A legislação actualmente vigente foi, no essencial, preparada no contexto deste projecto;",
                 "funOrdem": "35",
                 "funAntiga": "S"
               },
               {
-                "funId": "28831",
-                "funDes": "Eleito Deputado à Assembleia da República pelo distrito de Santarém em Outubro de 1999 (VIII Legislatura);",
+                "funId": "30771",
+                "funDes": "Exerceu o mesmo cargo no XIV Governo Constitucional desde Outubro de 1999, até Abril de 2002;",
                 "funOrdem": "36",
                 "funAntiga": "S"
               },
               {
-                "funId": "28832",
-                "funDes": "Reeleito Deputado à Assembleia da República pelo distrito de Santarém em 17 de Março de 2002 (IX Legislatura). Pertenceu às Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias e de Defesa; integrou várias comissões eventuais (Comissão Eventual de Revisão Constitucional, Comissão eventual para a Reforma do Sistema Político, etc.). Presidiu à subcomissão da Administração Interna;",
+                "funId": "30772",
+                "funDes": "Eleito Deputado à Assembleia da República pelo distrito de Santarém em Outubro de 1999 (VIII Legislatura);",
                 "funOrdem": "37",
                 "funAntiga": "S"
               },
               {
-                "funId": "28833",
-                "funDes": "Reeleito Deputado à Assembleia da República pelo distrito de Santarém em 20 de Fevereiro de 2005 (X Legislatura);",
+                "funId": "30773",
+                "funDes": "Reeleito Deputado à Assembleia da República pelo distrito de Santarém em 17 de Março de 2002 (IX Legislatura). Pertenceu às Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias e de Defesa; integrou várias comissões eventuais (Comissão Eventual de Revisão Constitucional, Comissão eventual para a Reforma do Sistema Político, etc.). Presidiu à subcomissão da Administração Interna;",
                 "funOrdem": "38",
                 "funAntiga": "S"
               },
               {
-                "funId": "28834",
-                "funDes": "Deputado Municipal na Assembleia Municipal de Sintra desde Janeiro de 2002;",
+                "funId": "30774",
+                "funDes": "Reeleito Deputado à Assembleia da República pelo distrito de Santarém em 20 de Fevereiro de 2005 (X Legislatura);",
                 "funOrdem": "39",
                 "funAntiga": "S"
               },
               {
-                "funId": "28835",
-                "funDes": "Militou na Juventude Socialista (organização de juventude do Partido Socialista) desde 1980. É militante do Partido Socialista desde 1984;",
+                "funId": "30775",
+                "funDes": "Deputado Municipal na Assembleia Municipal de Sintra desde Janeiro de 2002;",
                 "funOrdem": "40",
                 "funAntiga": "S"
               },
               {
-                "funId": "28836",
-                "funDes": "Foi Presidente do Conselho Nacional de Jurisdição da Juventude Socialista;",
+                "funId": "30776",
+                "funDes": "Militou na Juventude Socialista (organização de juventude do Partido Socialista) desde 1980. É militante do Partido Socialista desde 1984;",
                 "funOrdem": "41",
                 "funAntiga": "S"
               },
               {
-                "funId": "28837",
-                "funDes": "Foi Presidente do Conselho Nacional de Jurisdição do Partido Socialista entre 1996 e Fevereiro de 1999;",
+                "funId": "30777",
+                "funDes": "Foi Presidente do Conselho Nacional de Jurisdição da Juventude Socialista;",
                 "funOrdem": "42",
                 "funAntiga": "S"
               },
               {
-                "funId": "28838",
-                "funDes": "Foi membro do Secretariado Nacional do Partido Socialista desde Fevereiro de 1999 até Novembro de 2002;",
+                "funId": "30778",
+                "funDes": "Foi Presidente do Conselho Nacional de Jurisdição do Partido Socialista entre 1996 e Fevereiro de 1999;",
                 "funOrdem": "43",
                 "funAntiga": "S"
               },
               {
-                "funId": "28839",
-                "funDes": "Membro da Comissão Permanente do Partido Socialista desde o início do ano 2000 até Novembro de 2002;",
+                "funId": "30779",
+                "funDes": "Foi membro do Secretariado Nacional do Partido Socialista desde Fevereiro de 1999 até Novembro de 2002;",
                 "funOrdem": "44",
                 "funAntiga": "S"
               },
               {
-                "funId": "28840",
-                "funDes": "Membro da Comissão Política do Partido Socialista desde Novembro de 2002;",
+                "funId": "30780",
+                "funDes": "Membro da Comissão Permanente do Partido Socialista desde o início do ano 2000 até Novembro de 2002;",
                 "funOrdem": "45",
                 "funAntiga": "S"
               },
               {
-                "funId": "28841",
-                "funDes": "Mandatário Nacional do Partido Socialista nas eleições legislativas de Março de 2002;",
+                "funId": "30781",
+                "funDes": "Membro da Comissão Política do Partido Socialista desde Novembro de 2002;",
                 "funOrdem": "46",
                 "funAntiga": "S"
               },
               {
-                "funId": "28842",
-                "funDes": "Membro da Comissão Organizadora do XIII Congresso do Partido Socialista;",
+                "funId": "30782",
+                "funDes": "Mandatário Nacional do Partido Socialista nas eleições legislativas de Março de 2002;",
                 "funOrdem": "47",
                 "funAntiga": "S"
               },
               {
-                "funId": "28843",
-                "funDes": "Ministrou vários cursos de formação em àreas jurídicas, nomeadamente na àrea do Direito Administrativo, Direito Municipal, Direito Constitucional e da Introdução ao Direito;",
+                "funId": "30783",
+                "funDes": "Membro da Comissão Organizadora do XIII Congresso do Partido Socialista;",
                 "funOrdem": "48",
                 "funAntiga": "S"
               },
               {
-                "funId": "28844",
-                "funDes": "Apresentou comunicações em vários congressos, colóquios, seminários e encontros jurídicos e políticos em Portugal, Brasil, Macau, Moçambique, Polónia, Cabo Verde, Suiça, Reino Unido, França, Espanha, Grécia, Áustria e Alemanha;",
+                "funId": "30784",
+                "funDes": "Ministrou vários cursos de formação em àreas jurídicas, nomeadamente na àrea do Direito Administrativo, Direito Municipal, Direito Constitucional e da Introdução ao Direito;",
                 "funOrdem": "49",
                 "funAntiga": "S"
               },
               {
-                "funId": "28845",
-                "funDes": "Deputado nas VIII, IX, X, XI, XII  Legislaturas",
+                "funId": "30785",
+                "funDes": "Apresentou comunicações em vários congressos, colóquios, seminários e encontros jurídicos e políticos em Portugal, Brasil, Macau, Moçambique, Polónia, Cabo Verde, Suiça, Reino Unido, França, Espanha, Grécia, Áustria e Alemanha;",
                 "funOrdem": "50",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30786",
+                "funDes": "Deputado nas VIII, IX, X, XI, XII  Legislaturas",
+                "funOrdem": "51",
                 "funAntiga": "S"
               }
             ]
           },
+          "cadTitulos": {
+            "pt_ar_wsgode_objectos_DadosTitulos": {
+              "titId": "3451",
+              "titDes": "Professor Doutor",
+              "titOrdem": "1"
+            }
+          },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "4032",
+              "codId": "4392",
               "codDes": "Condecorações do Brasil e da Argentina",
               "codOrdem": "1"
             }
@@ -39049,227 +39064,227 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "6991",
+                "pubId": "7571",
                 "pubDes": "\"A Problemática das delegações de poder em Macau\", in Adminístração, n.º 7, 1990",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "6992",
+                "pubId": "7572",
                 "pubDes": "\"Relações entre o Ordenamento Constitucional Português e o Ordenamento Jurídico do Território de Macau.\" in Boletim do Ministério da Justiça nO 365, de 1987 e Revista Jurídica de Macau, Vol. 1, 1988",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "6993",
+                "pubId": "7573",
                 "pubDes": "\"Vias de participação política das diferentes comunidades de Macau\", in Population and city growth in Macau, Macau, 1990",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "6994",
+                "pubId": "7574",
                 "pubDes": "\"Princípio da proporcional idade\" , separata do vol. VI do Dicionário Jurídico da Administração Pública, Lisboa, 1994",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "6995",
+                "pubId": "7575",
                 "pubDes": "\"Staat und Kirche in Portugal\", in Gerhard Robbers (org), Staat und Kirche in der Europaischen Union, Baden-Baden, 1995 (com versões em inglês, italiano, castelhano, francês e checo)",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "6996",
+                "pubId": "7576",
                 "pubDes": "\"A Lei 3/94, de 13 de Setembro, da República de Moçambique, sobre o quadro institucional dos distritos municipais\", in Revista da Faculdade de Direito de Lisboa, vol. XXXVI (1995)",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "6997",
+                "pubId": "7577",
                 "pubDes": "\"Relação Jurídico-Pública\", separata do vol. VII do Dicionário Jurídico da Administração Pública, Lisboa, 1996",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "6998",
+                "pubId": "7578",
                 "pubDes": "\"Tribunal Constitucional: órgão de estratégia legislativa?\", in Revista da Faculdade de Direito de Lisboa, vol. XXXVIII, 1996",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "6999",
+                "pubId": "7579",
                 "pubDes": "\"A Lei Básica e a evolução política de Macau\", in Política Internacional, nOs 15/16, Outono-Inverno 1997",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "7000",
+                "pubId": "7580",
                 "pubDes": "\" O princípio da proibição do excesso na Constituição: arqueologia e aplicações\", in Perspectivas Constitucionais, org. Jorge Miranda, vol. 11, Coimbra, 1997",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "7001",
+                "pubId": "7581",
                 "pubDes": "\"O sistema de governo moçambicano na Constituição de 1990\", in Revista Luso¬Africana de Direito, nO 1, 1997",
                 "pubOrdem": "11"
               },
               {
-                "pubId": "7002",
+                "pubId": "7582",
                 "pubDes": "\"Macau\", separata do 1 ° suplemento do Dicionário Jurídico da Administração Pública, Lisboa, 1998",
                 "pubOrdem": "12"
               },
               {
-                "pubId": "7003",
+                "pubId": "7583",
                 "pubDes": "\"Sistema semi-presidencial\", separata do 1° suplemento do Dicionário Jurídico da Administração Pública, Lisboa, 1998",
                 "pubOrdem": "13"
               },
               {
-                "pubId": "7004",
+                "pubId": "7584",
                 "pubDes": "\"A fiscalização da constitucional idade em Portugal e em Cabo Verde: em especial a fiscalização preventiva\", in Revista Direito e Cidadania (Cabo Verde), número especial, ano 111. Maio de 1999",
                 "pubOrdem": "14"
               },
               {
-                "pubId": "7005",
+                "pubId": "7585",
                 "pubDes": "\"Um passo mais na qualidade da democracia\", Revista Paraná Eleitoral (Brasil), n.o 32, Abr./Jun., 1999",
                 "pubOrdem": "15"
               },
               {
-                "pubId": "7006",
+                "pubId": "7586",
                 "pubDes": "\"O n. ° 9 do artigo 112° da Constituição: transposição de directivas\", separata à Revista Polis, ano VI, nO 7/8, Jan.-Dez. 1999",
                 "pubOrdem": "16"
               },
               {
-                "pubId": "7007",
+                "pubId": "7587",
                 "pubDes": "\"Notas sobre alguns aspectos restritivos da \"nova\" lei dos estrangeiros\", in Vida Judiciária, n.O 71, Jul./Agosto de 2003.",
                 "pubOrdem": "17"
               },
               {
-                "pubId": "7008",
+                "pubId": "7588",
                 "pubDes": "\"Os efeitos das decisões do Tribunal Constitucional: a garantia da segurança jurídica, da equidade e do interesse público\", in Revista Brasileira de Direito Constitucional, n.o 2, Jul./Dez. 2003",
                 "pubOrdem": "18"
               },
               {
-                "pubId": "7009",
+                "pubId": "7589",
                 "pubDes": "\"Partidos Políticos: um balanço do estudo do tema\", in Estudos em Homenagem ao Conselheiro José Manuel Cardodso da Costa, Coimbra, 2003",
                 "pubOrdem": "19"
               },
               {
-                "pubId": "7010",
+                "pubId": "7590",
                 "pubDes": "\"Dilemas da comunicação política\", in Comunicação para os Cidadãos no estado da sociedade em que vivemos, Comunicações da Conferência Internacional realizada em Oeiras em 9 e 10 de Outubro de 2003",
                 "pubOrdem": "20"
               },
               {
-                "pubId": "7011",
+                "pubId": "7591",
                 "pubDes": "\"The semi-presidential system\", in Zeitschrift für auslãndisches offentliches Recht und VO/kerrecht (Heidelberg Journal of International Law), Band 64 (2004), n.O 1",
                 "pubOrdem": "21"
               },
               {
-                "pubId": "7012",
+                "pubId": "7592",
                 "pubDes": "\"O Tribunal Constitucional: órgão de garantia da segurança jurídica, da equidade e do interesse público de excepcional relevo\", Estudos em Homenagem ao Prof. Doutor Armando Marques Guedes, Coimbra, 2004",
                 "pubOrdem": "22"
               },
               {
-                "pubId": "7013",
+                "pubId": "7593",
                 "pubDes": "Recensão a André Freire, Marina Costa Lobo e Pedro Magalhães (orgs.), Portugal a votos. As eleições legislativas de 2002, in Análise Social n.O 172, vol. XXXIX, Outono de 2004",
                 "pubOrdem": "23"
               },
               {
-                "pubId": "7014",
+                "pubId": "7594",
                 "pubDes": "\"«Branqueamento de capitais»: noções elementares do regime jurídico de prevenção e repressão e evolução previsível\", separata da Revista da Faculdade de Direito da Universidade de Lisboa, suplemento, 2004",
                 "pubOrdem": "24"
               },
               {
-                "pubId": "7015",
+                "pubId": "7595",
                 "pubDes": "\"Constituição da República Portuguesa. Textos e Comentários à Lei Constituicional nO 1/82, Lisboa 1983",
                 "pubOrdem": "25"
               },
               {
-                "pubId": "7016",
+                "pubId": "7596",
                 "pubDes": "\"Lei sobre Organização, Funcionamento e Processo do Tribunal Constitucional\", Lisboa,1984.",
                 "pubOrdem": "26"
               },
               {
-                "pubId": "7017",
+                "pubId": "7597",
                 "pubDes": "Código de Justiça Militar anotado, 1.a ed., Coimbra, 2004",
                 "pubOrdem": "27"
               },
               {
-                "pubId": "7018",
+                "pubId": "7598",
                 "pubDes": "\"Autarquias Locais em Moçambique. Antecedentes e Regime Jurídico\", Lisboa¬Maputo, 1998",
                 "pubOrdem": "28"
               },
               {
-                "pubId": "7019",
+                "pubId": "7599",
                 "pubDes": "\"Democracia com mais cidadania. A questão da igualdade de participação política\", Lisboa, 1998",
                 "pubOrdem": "29"
               },
               {
-                "pubId": "7020",
+                "pubId": "7600",
                 "pubDes": "10 Milhões de Razões, Lisboa, 2002",
                 "pubOrdem": "30"
               },
               {
-                "pubId": "7021",
+                "pubId": "7601",
                 "pubDes": "Publica com regularidade artigos de opinião em jornais e revistas",
                 "pubOrdem": "31"
               },
               {
-                "pubId": "7022",
+                "pubId": "7602",
                 "pubDes": "As Decisões de Provimento do Tribunal Constitucional. Os seus efeitos em particular, Lisboa, 1984",
                 "pubOrdem": "32"
               },
               {
-                "pubId": "7023",
+                "pubId": "7603",
                 "pubDes": "Os Processos de Fiscalização da Constitucionalidade e da Legalidade pelo Tribunal Constitucional, Coimbra, 1986",
                 "pubOrdem": "33"
               },
               {
-                "pubId": "7024",
+                "pubId": "7604",
                 "pubDes": "Preliminares do Estudo da Ciência Política (Manual Universitário), Macau, 1992",
                 "pubOrdem": "34"
               },
               {
-                "pubId": "7025",
+                "pubId": "7605",
                 "pubDes": "Introdução às Decisões de Provimento do Tribunal Constitucional, Lisboa, 1994",
                 "pubOrdem": "35"
               },
               {
-                "pubId": "7026",
+                "pubId": "7606",
                 "pubDes": "Preliminares do Estudo da Ciência Política (Manual Universitário), tradução chinesa, Macau, 1997",
                 "pubOrdem": "36"
               },
               {
-                "pubId": "7027",
+                "pubId": "7607",
                 "pubDes": "Referendo Nacional. Introdução e Regime, Lisboa, 1998",
                 "pubOrdem": "37"
               },
               {
-                "pubId": "7028",
+                "pubId": "7608",
                 "pubDes": "O Crime de Branqueamento. Regime de prevenção e de repressão, Lisboa, 2004",
                 "pubOrdem": "38"
               },
               {
-                "pubId": "7029",
+                "pubId": "7609",
                 "pubDes": "Constituição da República Portuguesa - Comentários e notas, Lisboa, 2004",
                 "pubOrdem": "39"
               },
               {
-                "pubId": "7030",
+                "pubId": "7610",
                 "pubDes": "\" A Forma de Governo Semipresidencial. Alguns aspectos\" , in Revista jurídica, 1982, n.º 1",
                 "pubOrdem": "40"
               },
               {
-                "pubId": "7031",
+                "pubId": "7611",
                 "pubDes": "\"O Ministério Público e a Defesa da Constituição\", in Revista do Ministério Público, ano 5, n.º 20 (1984)",
                 "pubOrdem": "41"
               },
               {
-                "pubId": "7032",
+                "pubId": "7612",
                 "pubDes": "\"O Orçamento Comunitário, principais problemas\", in Revísta Jurídica, 1985, n.º 4",
                 "pubOrdem": "42"
               },
               {
-                "pubId": "7033",
+                "pubId": "7613",
                 "pubDes": "\"Os Efeitos das Decisões do Tribunal Constitucional\", Revista Progresso do Direito, nOs 3/4,1986",
                 "pubOrdem": "43"
               },
               {
-                "pubId": "7034",
+                "pubId": "7614",
                 "pubDes": "\"O Vício de forma do acto administrativo\", in Revista Jurídica n.º 9/10 (Jan.lJul., 1987)",
                 "pubOrdem": "44"
               },
               {
-                "pubId": "7035",
+                "pubId": "7615",
                 "pubDes": "\"Vias de participação política das diferentes comunidades de Macau\", in Population and city growth in Macau, Macau, 1990",
                 "pubOrdem": "45"
               }
@@ -41848,9 +41863,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8670",
+              "rgiId": "9048",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-05-09",
+              "rgiDataVersao": "2018-12-06",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputada XIII Legislatura",
@@ -41861,23 +41876,24 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8538",
+                    "rgaId": "8953",
                     "rgaActividade": "Diretora do Centro de Emprego de Matosinhos ",
                     "rgaDataInicio": "2015-05-25",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8539",
+                    "rgaId": "8954",
                     "rgaActividade": "Deputada XI Legislatura ",
                     "rgaDataInicio": "2009-10-15",
                     "rgaDataFim": "2011",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8540",
-                    "rgaActividade": "Profissional Liberal",
+                    "rgaId": "8955",
+                    "rgaActividade": "Profissional Liberal\nArrendamento Turístico",
                     "rgaDataInicio": "2018-05-03",
+                    "rgaDataFim": "2018-11-10",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -41885,7 +41901,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6902",
+                    "rgcId": "7238",
                     "rgcCargo": "Secretária da Assembleia Geral",
                     "rgcEntidade": "Centro Social Bonitos de Amorim",
                     "rgcAreaActividade": "Instituição Particular de Solidariedade Social",
@@ -41893,7 +41909,7 @@
                     "rgcDataInicio": "2012-12-05"
                   },
                   {
-                    "rgcId": "6903",
+                    "rgcId": "7239",
                     "rgcCargo": "Dirigente Nacional ",
                     "rgcEntidade": "SINTAP ",
                     "rgcAreaActividade": "Sindicato",
@@ -41904,7 +41920,7 @@
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "4335",
+                  "rgsId": "4555",
                   "rgsEntidade": "Não se aplica.",
                   "rgsAreaActividade": "Não se aplica.",
                   "rgsLocalSede": "Não se aplica.",
@@ -42887,63 +42903,69 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8348",
+              "rgiId": "9068",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-27",
+              "rgiDataVersao": "2018-12-06",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputada",
               "rgiCargoData": "2017",
-              "rgiApoiosBeneficios": "Bolsa de Estudos (Pós-Graduação/Mestrado e Doutoramento)",
+              "rgiApoiosBeneficios": "Bolsa de Estudos (Pós-Graduação/Mestrado e Doutoramento) da JNICT (Junta Nacional de Investigação Científica), entidade pública, entre 1993 e 1997. ",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8213",
+                    "rgaId": "8973",
                     "rgaActividade": "Ministra da Administração Interna",
                     "rgaDataInicio": "2015-11-26",
                     "rgaDataFim": "2017-10-18",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8214",
+                    "rgaId": "8974",
                     "rgaActividade": "Professora Universitária e membro do Conselho Científico (UAL e ISCPSI), Investigadora, Diretora do Departamento de Direito da UAL (2012-2015); perita nas áreas do direito de imigração e asilo",
                     "rgaDataInicio": "1998",
                     "rgaDataFim": "2015-11-25",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8215",
+                    "rgaId": "8975",
                     "rgaActividade": "Advogada com inscrição suspensa a seu pedido, nunca tendo exercido",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2014",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8216",
+                    "rgaId": "8976",
                     "rgaActividade": "Consultora jurídica da Fundação Calouste Gulbenkian",
                     "rgaDataInicio": "2012-09-01",
                     "rgaDataFim": "2015-11-25",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8217",
+                    "rgaId": "8977",
                     "rgaActividade": "Consultora da André e Miranda Advogados, nunca tendo exercido atividade remunerada",
                     "rgaDataInicio": "2014",
                     "rgaDataFim": "2015-09-01",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8218",
+                    "rgaId": "8978",
                     "rgaActividade": "Professora Associada e Investigadora da Universidade Autónoma de Lisboa",
                     "rgaDataInicio": "2018-02-01",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8219",
+                    "rgaId": "8979",
                     "rgaActividade": "Membro do Conselho Científico do Observatório da Emigração - CIES-IUL / ISCTE",
                     "rgaDataInicio": "2018-02",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "8980",
+                    "rgaActividade": "Professora Associada Convidada da Faculdade de Direito da Universidade Nova de Lisboa ",
+                    "rgaDataInicio": "2018-09",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -42951,7 +42973,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6678",
+                    "rgcId": "7258",
                     "rgcCargo": "Membro da Comissão Nacional / Política do PS (sem remuneração) / Membro da Comissão Política da FAUL (PS)",
                     "rgcEntidade": "Partido Socialista",
                     "rgcAreaActividade": "Partido Político ",
@@ -42959,7 +42981,7 @@
                     "rgcDataInicio": "2014"
                   },
                   {
-                    "rgcId": "6679",
+                    "rgcId": "7259",
                     "rgcCargo": "Membro da Assembleia Geral (sem remuneração)",
                     "rgcEntidade": "Observatório da Concorrência",
                     "rgcAreaActividade": "Associação sem fins lucrativos (de natureza académica/científica)",
@@ -42967,7 +42989,7 @@
                     "rgcDataInicio": "2014"
                   },
                   {
-                    "rgcId": "6680",
+                    "rgcId": "7260",
                     "rgcCargo": "Membro (sem remuneração)",
                     "rgcEntidade": "Rede Odysseus -Rede Académica de Especialistas em Direito Europeu de Imigração e Asilo",
                     "rgcAreaActividade": "Associação académica e científica sem fins lucrativos ",
@@ -42975,6 +42997,15 @@
                     "rgcDataInicio": "1999"
                   }
                 ]
+              },
+              "rgiSociedades": {
+                "pt_ar_wsgode_objectos_DadosRgiSociedades": {
+                  "rgsId": "4575",
+                  "rgsEntidade": "SimFlight GmbH (sociedade por quotas de direito alemão e com sede na Alemanha)",
+                  "rgsAreaActividade": "Comercialização de software de simulação de voo",
+                  "rgsLocalSede": "Werner-von-Siemens Str. 28, 24568 Kaltenkirchen, Alemanha ",
+                  "rgsPartiSocial": "A declarante não tem participação. Sociedade detida a 100% pelo cônjuge. "
+                }
               },
               "rgiCadId": "5932"
             }
@@ -52989,34 +53020,71 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4988",
+              "rgiId": "9088",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-03-14",
+              "rgiDataVersao": "2018-12-06",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputada",
-              "rgiCargoData": "2015",
-              "rgiApoiosBeneficios": "Recebo as senhas de presença da Assembleia Municipal de Leiria e da Assembleia da Comunidade Intermunicipal da Região de Leiria; recebi as senhas de presença da Assembleia da Comunidade Intermunicipal do Pinha Litoral",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "Recebi as senhas de presença da Assembleia Municipal de Leiria e da Assembleia da Comunidade Intermunicipal da Região de Leiria e da Assembleia da Comunidade Intermunicipal do Pinhal Litoral, até à cessação de funções em 2017.",
               "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "4993",
-                    "rgaActividade": "Deputada à Assembleia da República na X, XI e XII legislatura",
-                    "rgaDataInicio": "2005-03-10",
+                    "rgaId": "8993",
+                    "rgaActividade": "Deputada à Assembleia da República na  XIII legislatura",
+                    "rgaDataInicio": "2018-07-24",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8994",
+                    "rgaActividade": "Professora requisitada na Direção Geral de Educação",
+                    "rgaDataInicio": "2017-09-01",
+                    "rgaDataFim": "2018-07-23",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8995",
+                    "rgaActividade": "Professora ensino secundário na Escola Francisco Rodrigues Lobo",
+                    "rgaDataInicio": "2017-07-15",
+                    "rgaDataFim": "2017-08-31",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8996",
+                    "rgaActividade": "Deputada à Assembleia da República na  XIII legislatura",
+                    "rgaDataInicio": "2015-11-27",
+                    "rgaDataFim": "2017-07-14",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8997",
+                    "rgaActividade": "Professora ensino secundário na Escola Francisco Rodrigues Lobo",
+                    "rgaDataInicio": "2015-10-23",
+                    "rgaDataFim": "2015-11-26",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "8998",
+                    "rgaActividade": "Deputada à Assembleia da República na  XII legislatura",
+                    "rgaDataInicio": "2011-06-20",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "4994",
+                    "rgaId": "8999",
                     "rgaActividade": "Membro da Assembleia Municipal de Leiria",
                     "rgaDataInicio": "2009-10-27",
+                    "rgaDataFim": "2017-10-06",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "4995",
+                    "rgaId": "9000",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunicipal do Pinhal Litoral até à sua extinção e depois membro da Comunidade Intermunicipal da Região de Leiria",
                     "rgaDataInicio": "2010-02-03",
+                    "rgaDataFim": "2017-10-06",
                     "rgaRemunerada": "N"
                   }
                 ]
