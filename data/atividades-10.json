@@ -2317,6 +2317,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "103",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "X",
+                    "pubSL": "4",
+                    "supl": ".",
+                    "pubdt": "2009-07-11",
+                    "pag": {
+                      "string": "8-8"
+                    },
+                    "idPag": "493243",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/103/2009-07-11/8?pgs=8&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "104",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -2332,23 +2349,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/104/2009-07-23/10?pgs=10&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "103",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "X",
-                    "pubSL": "4",
-                    "supl": ".",
-                    "pubdt": "2009-07-11",
-                    "pag": {
-                      "string": "8-8"
-                    },
-                    "idPag": "493243",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/103/2009-07-11/8?pgs=8&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -2560,6 +2560,24 @@
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
                     {
+                      "pubNr": "76",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "X",
+                      "pubSL": "4",
+                      "supl": ".",
+                      "obs": "Anúncio",
+                      "pubdt": "2009-05-07",
+                      "pag": {
+                        "string": "8-9"
+                      },
+                      "idPag": "504263",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/8?pgs=8-9&org=PLC",
+                      "idDeb": null
+                    },
+                    {
                       "pubNr": "75",
                       "pubTipo": "DAR I série",
                       "pubTp": "D",
@@ -2578,24 +2596,6 @@
                       "idInt": null,
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/075/2009-05-02/7,62?pgs=7,62&org=PLC",
-                      "idDeb": null
-                    },
-                    {
-                      "pubNr": "76",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "X",
-                      "pubSL": "4",
-                      "supl": ".",
-                      "obs": "Anúncio",
-                      "pubdt": "2009-05-07",
-                      "pag": {
-                        "string": "8-9"
-                      },
-                      "idPag": "504263",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/076/2009-05-07/8?pgs=8-9&org=PLC",
                       "idDeb": null
                     }
                   ]
@@ -2731,24 +2731,6 @@
                 "publicacao": {
                   "pt_gov_ar_objectos_PublicacoesOut": [
                     {
-                      "pubNr": "85",
-                      "pubTipo": "DAR I série",
-                      "pubTp": "D",
-                      "pubLeg": "X",
-                      "pubSL": "4",
-                      "supl": ".",
-                      "obs": "Anúncio",
-                      "pubdt": "2009-05-28",
-                      "pag": {
-                        "string": "42-42"
-                      },
-                      "idPag": "504269",
-                      "idInt": null,
-                      "idAct": null,
-                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/085/2009-05-28/42?pgs=42&org=PLC",
-                      "idDeb": null
-                    },
-                    {
                       "pubNr": "84",
                       "pubTipo": "DAR I série",
                       "pubTp": "D",
@@ -2767,6 +2749,24 @@
                       "idInt": null,
                       "idAct": null,
                       "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/084/2009-05-23/8,84?pgs=8,84&org=PLC",
+                      "idDeb": null
+                    },
+                    {
+                      "pubNr": "85",
+                      "pubTipo": "DAR I série",
+                      "pubTp": "D",
+                      "pubLeg": "X",
+                      "pubSL": "4",
+                      "supl": ".",
+                      "obs": "Anúncio",
+                      "pubdt": "2009-05-28",
+                      "pag": {
+                        "string": "42-42"
+                      },
+                      "idPag": "504269",
+                      "idInt": null,
+                      "idAct": null,
+                      "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/04/085/2009-05-28/42?pgs=42&org=PLC",
                       "idDeb": null
                     }
                   ]
@@ -3642,24 +3642,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "8",
-                "pubTipo": "DAR II série E",
-                "pubTp": "H",
-                "pubLeg": "X",
-                "pubSL": "3",
-                "supl": ".",
-                "obs": "Acta da eleição",
-                "pubdt": "2007-11-30",
-                "pag": {
-                  "string": "2-2"
-                },
-                "idPag": "421533",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2e/10/03/008/2007-11-30/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "239",
                 "pubTipo": "DR I série",
                 "pubTp": "M",
@@ -3675,6 +3657,24 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/03/239/2007-12-12?pgs=&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "8",
+                "pubTipo": "DAR II série E",
+                "pubTp": "H",
+                "pubLeg": "X",
+                "pubSL": "3",
+                "supl": ".",
+                "obs": "Acta da eleição",
+                "pubdt": "2007-11-30",
+                "pag": {
+                  "string": "2-2"
+                },
+                "idPag": "421533",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2e/10/03/008/2007-11-30/2?pgs=2&org=PLC",
                 "idDeb": null
               }
             ]
@@ -4965,24 +4965,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "1",
-                "pubTipo": "DAR II série C",
-                "pubTp": "C",
-                "pubLeg": "X",
-                "pubSL": "2",
-                "supl": ".",
-                "obs": " Ofício da Ordem dos Advogados relativo à designação de membro efectivo desta Comissão em substituição de Bernardo Dinis de Ayala",
-                "pubdt": "2006-09-23",
-                "pag": {
-                  "string": "2-2"
-                },
-                "idPag": "374316",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2c/10/02/001/2006-09-23/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "188",
                 "pubTipo": "DR I série",
                 "pubTp": "M",
@@ -4998,6 +4980,24 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar//10/02/188/2006-09-28?pgs=&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "1",
+                "pubTipo": "DAR II série C",
+                "pubTp": "C",
+                "pubLeg": "X",
+                "pubSL": "2",
+                "supl": ".",
+                "obs": " Ofício da Ordem dos Advogados relativo à designação de membro efectivo desta Comissão em substituição de Bernardo Dinis de Ayala",
+                "pubdt": "2006-09-23",
+                "pag": {
+                  "string": "2-2"
+                },
+                "idPag": "374316",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2c/10/02/001/2006-09-23/2?pgs=2&org=PLC",
                 "idDeb": null
               }
             ]
@@ -6781,6 +6781,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "17",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "X",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2005-05-06",
+                    "pag": {
+                      "string": null
+                    },
+                    "idPag": "299106",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06?pgs=&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "18",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -6796,23 +6813,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/018/2005-05-07/698?pgs=698&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "17",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "X",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2005-05-06",
-                    "pag": {
-                      "string": null
-                    },
-                    "idPag": "299106",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/10/01/017/2005-05-06?pgs=&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -20166,7 +20166,7 @@
           "numero": "90",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PCP; PEV; PSD; BE; PS; CDS-PP"
+            "string": "PEV; PS; PSD; BE; CDS-PP; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139594c7a6b77583167756347526d&fich=90_X.pdf&Inline=true"
         },

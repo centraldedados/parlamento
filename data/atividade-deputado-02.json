@@ -822,7 +822,67 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30731",
+                  "iniNr": "352",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Elevação da vila de Oliveira de Azemeis à categoria de cidade."
+                },
+                {
+                  "iniId": "30682",
+                  "iniNr": "344",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Alteração da actual divisão administrativa entre os concelhos de Oliveira de Azemeis e Vale de Cambra, no lugar das Baralhas."
+                },
+                {
+                  "iniId": "30380",
+                  "iniNr": "87",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação da freguesia de São João no concelho de Ovar"
+                },
+                {
+                  "iniId": "30379",
+                  "iniNr": "86",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Elevação de Cortegaça a categoria de vila"
+                },
+                {
+                  "iniId": "30378",
+                  "iniNr": "85",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação da freguesia da Borralha, no concelho de Águeda"
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ADÉRITO CAMPOS",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3239",
           "depCadId": "4",
@@ -982,7 +1042,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ADRIANO PINTO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4835",
           "depCadId": "5",
@@ -3231,7 +3302,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ALFREDO AZEVEDO SOARES",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3296",
           "depCadId": "3425",
@@ -4638,7 +4720,29 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "36066",
+                "iniNr": "3",
+                "iniTp": "C",
+                "iniTpdesc": "Projeto de Revisão Constitucional",
+                "iniSelLg": "II",
+                "iniSelNr": "1",
+                "iniTi": "Projecto de Revisão Constitucional"
+              }
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ÁLVARO CUNHAL",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3449",
           "depCadId": "2916",
@@ -7378,7 +7482,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ANTÓNIO BARBOSA DE AZEVEDO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4768",
           "depCadId": "2926",
@@ -8377,7 +8492,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ANTÓNIO DE OLIVEIRA SANTOS",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4834",
           "depCadId": "3600",
@@ -11852,7 +11978,29 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "30566",
+                "iniNr": "195",
+                "iniTp": "J",
+                "iniTpdesc": "Projeto de Lei",
+                "iniSelLg": "II",
+                "iniSelNr": "1",
+                "iniTi": "Criação do município da Ericeira."
+              }
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ANTÓNIO OURIQUE MENDES",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3354",
           "depCadId": "2937",
@@ -12631,7 +12779,40 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30680",
+                  "iniNr": "343",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Determina que aguardem o julgamento em liberdade provisória os arguidos de certas classes de crimes em prisão preventiva excessiva."
+                },
+                {
+                  "iniId": "30679",
+                  "iniNr": "342",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Concede perdão genérico de penas por crimes de fim exclusiva ou predominantemente político."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ANTÓNIO TABORDA",
+                "dpl_lg": "II",
+                "dpl_grpar": "MDP/CDE"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4943",
           "depCadId": "3202",
@@ -15553,7 +15734,67 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30747",
+                  "iniNr": "373",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Proibição de comercialização de cervejas e refregirantes em embalagens não recuperáveis"
+                },
+                {
+                  "iniId": "33135",
+                  "iniNr": "11",
+                  "iniTp": "R",
+                  "iniTpdesc": "Projeto de Resolução",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
+                },
+                {
+                  "iniId": "30727",
+                  "iniNr": "365",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Mudança de designação e sede da freguesia de Insua para Penalva do Castelo"
+                },
+                {
+                  "iniId": "30677",
+                  "iniNr": "341",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Recuperação das zonas degradadas históricas da Ribeira-Douro."
+                },
+                {
+                  "iniId": "30348",
+                  "iniNr": "49",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Impacto ambiental"
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "AUGUSTO FERREIRA DO AMARAL",
+                "dpl_lg": "II",
+                "dpl_grpar": "PPM"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3291",
           "depCadId": "3264",
@@ -16807,7 +17048,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "CABRITA NETO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3266",
           "depCadId": "72",
@@ -17077,7 +17329,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "CARLOS ALBERTO GOMES",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4939",
           "depCadId": "3630",
@@ -17973,7 +18236,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "CARLOS DA COSTA",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3463",
           "depCadId": "2954",
@@ -24096,7 +24370,40 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "31072",
+                  "iniNr": "104",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 272-A/81, de 30 de Setembro (Aprova o Código do Processo de Trabalho)"
+                },
+                {
+                  "iniId": "30639",
+                  "iniNr": "321",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Criação do município de Canas de Senhorim."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "EMÍDIO PINHEIRO",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3301",
           "depCadId": "3573",
@@ -31078,7 +31385,40 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30587",
+                  "iniNr": "254",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Condicionamento da plantação de eucaliptos."
+                },
+                {
+                  "iniId": "30569",
+                  "iniNr": "198",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Liberalização dos sectores económicos não nacionalizados."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "GONÇALO RIBEIRO TELLES",
+                "dpl_lg": "II",
+                "dpl_grpar": "PPM"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3281",
           "depCadId": "3199",
@@ -31976,7 +32316,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "HELENA MOURA",
+                "dpl_lg": "II",
+                "dpl_grpar": "MDP/CDE"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "9941",
           "depCadId": "4773",
@@ -39803,7 +40154,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "JOAQUIM SEABRA FERREIRA",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4858",
           "depCadId": "3605",
@@ -45634,7 +45996,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "JOSÉ SOEIRO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4911",
           "depCadId": "1339",
@@ -52406,7 +52779,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MANUEL ANDRADE",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4844",
           "depCadId": "3589",
@@ -54887,7 +55271,49 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30597",
+                  "iniNr": "263",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Criação da freguesia de Gens no concelho de Gondomar."
+                },
+                {
+                  "iniId": "30473",
+                  "iniNr": "168",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Elevação de Trofa à categoria de vila."
+                },
+                {
+                  "iniId": "30439",
+                  "iniNr": "142",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Elevação à categoria de vila da freguesia de Rio Tinto."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MANUEL MARTINS",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3316",
           "depCadId": "1695",
@@ -54972,7 +55398,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MANUEL MELO SANTOS",
+                "dpl_lg": "II",
+                "dpl_grpar": "PS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "9947",
           "depCadId": "3642",
@@ -55769,7 +56206,49 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "31072",
+                  "iniNr": "104",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 272-A/81, de 30 de Setembro (Aprova o Código do Processo de Trabalho)"
+                },
+                {
+                  "iniId": "30639",
+                  "iniNr": "321",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Criação do município de Canas de Senhorim."
+                },
+                {
+                  "iniId": "30630",
+                  "iniNr": "296",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Discussão pública dos diplomas sobre poder local."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MANUEL VASCONCELOS",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3348",
           "depCadId": "3442",
@@ -56212,7 +56691,49 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "31145",
+                  "iniNr": "188",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 293/82, de 27de Julho, que aprova a Lei Orgânica do Ministério da Agricultura, Comércio e Pescas."
+                },
+                {
+                  "iniId": "31142",
+                  "iniNr": "185",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 283/82, de 22 de Agosto, que aprova a orgânica dos centros regionais da Rádio Difusão Portuguesa, E.P., e da Radiotelevisão Portuguesa, E.P."
+                },
+                {
+                  "iniId": "31127",
+                  "iniNr": "170",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 232/82, de 17 de Junho, que estabelece medidas tendentes a melhorar o funcionamento dos Serviços de Notariado."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MARIA AIRES ALELUIA",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4923",
           "depCadId": "3626",
@@ -56395,7 +56916,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MARIA DO CÉU BARRADAS",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4829",
           "depCadId": "3584",
@@ -56433,7 +56965,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MARIA HELENA PIMENTA DE CASTRO",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4784",
           "depCadId": "3636",
@@ -56466,7 +57009,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MARIA JOSÉ PONTES DE GOUVEIA",
+                "dpl_lg": "II",
+                "dpl_grpar": "PPM"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4767",
           "depCadId": "3554",
@@ -58103,7 +58657,49 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30425",
+                  "iniNr": "131",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação da freguesia de Seixo no concelho de Mira."
+                },
+                {
+                  "iniId": "30424",
+                  "iniNr": "130",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação da freguesia de Carapelhos no concelho de Mira."
+                },
+                {
+                  "iniId": "30419",
+                  "iniNr": "127",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação da freguesia de Santana, no concelho de Figueira da Foz."
+                }
+              ]
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MÁRIO MADURO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3262",
           "depCadId": "3464",
@@ -58708,7 +59304,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "MESQUITA MACHADO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3374",
           "depCadId": "1568",
@@ -59348,7 +59955,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "NICOLAU DE FREITAS",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3358",
           "depCadId": "3258",
@@ -61664,7 +62282,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "PARCIDIO SOARES",
+                "dpl_lg": "II",
+                "dpl_grpar": "PS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3372",
           "depCadId": "3511",
@@ -61697,7 +62326,29 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "31072",
+                "iniNr": "104",
+                "iniTp": "F",
+                "iniTpdesc": "Ratificação",
+                "iniSelLg": "II",
+                "iniSelNr": "2",
+                "iniTi": "Decreto-lei nº 272-A/81, de 30 de Setembro (Aprova o Código do Processo de Trabalho)"
+              }
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "PAULO ASCENSÃO",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4820",
           "depCadId": "3579",
@@ -61770,7 +62421,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "PEDRO PINTO",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4808",
           "depCadId": "629",
@@ -62000,7 +62662,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "PEDRO SANTANA LOPES",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4809",
           "depCadId": "315",
@@ -63990,7 +64663,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "ROSA BRANDÃO REPRESAS",
+                "dpl_lg": "II",
+                "dpl_grpar": "PCP"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4925",
           "depCadId": "3621",
@@ -64681,7 +65365,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "RUY OLIVEIRA",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "3346",
           "depCadId": "3608",
@@ -66286,7 +66981,29 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "30639",
+                "iniNr": "321",
+                "iniTp": "J",
+                "iniTpdesc": "Projeto de Lei",
+                "iniSelLg": "II",
+                "iniSelNr": "2",
+                "iniTi": "Criação do município de Canas de Senhorim."
+              }
+            },
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "VICTOR PINTO DA CRUZ",
+                "dpl_lg": "II",
+                "dpl_grpar": "CDS"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "4823",
           "depCadId": "3429",
@@ -67484,7 +68201,18 @@
         }
       },
       {
-        "AtividadeDeputadoList": null,
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null,
+            "dadosLegisDeputado": {
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
+                "nome": "Vilhena de Carvalho",
+                "dpl_lg": "II",
+                "dpl_grpar": "PSD"
+              }
+            }
+          }
+        },
         "deputado": {
           "depId": "9946",
           "depCadId": "4821",

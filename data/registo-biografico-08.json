@@ -5254,13 +5254,6 @@
                   "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6804",
-                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
-                  "orgSigla": "CPITANCOS",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33024,7 +33017,12 @@
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },

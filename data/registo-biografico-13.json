@@ -38448,7 +38448,9 @@
         {
           "cadId": "5641",
           "cadNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS",
+          "cadDtNascimento": "1980-11-02",
           "cadSexo": "M",
+          "cadProfissao": "Assistente Operacional",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Valter Loios",
@@ -38459,6 +38461,22 @@
               "gpSigla": "PCP",
               "gpDes": "Partido Comunista Português"
             }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "27042",
+                "habDes": "2º Ciclo",
+                "habTipoId": "10",
+                "habEstado": "C"
+              },
+              {
+                "habId": "27043",
+                "habDes": "Ensino Secundário",
+                "habTipoId": "12",
+                "habEstado": "C"
+              }
+            ]
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -56807,7 +56825,9 @@
         {
           "cadId": "5641",
           "cadNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Assistente Operacional",
+          "cadEstadoCivilCod": "5",
+          "cadEstadoCivilDes": "União de Facto"
         },
         {
           "cadId": "4402",
