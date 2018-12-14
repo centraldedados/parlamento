@@ -14985,6 +14985,33 @@
           }
         },
         {
+          "cadId": "5610",
+          "cadNomeCompleto": "ROSA ISABEL CRUZ",
+          "cadDtNascimento": "1970-07-08",
+          "cadSexo": "F",
+          "cadProfissao": "Professora",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Isabel Cruz",
+              "legDes": "XIII",
+              "ceDes": "COIMBRA",
+              "parSigla": "PS",
+              "parDes": "Partido Socialista",
+              "gpSigla": "PS",
+              "gpDes": "Partido Socialista"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "27121",
+              "habDes": "Ensino da Física e da Química para o Ensino Básico e Secundário",
+              "habTipoId": "14",
+              "habEstado": "C"
+            }
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
           "cadId": "4096",
           "cadNomeCompleto": "ISABEL MARIA MOUSINHO DE ALMEIDA GALRIÇA NETO",
           "cadDtNascimento": "1961-07-10",
@@ -34668,23 +34695,6 @@
           }
         },
         {
-          "cadId": "5610",
-          "cadNomeCompleto": "ROSA ISABEL CRUZ",
-          "cadSexo": "F",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Rosa Cruz",
-              "legDes": "XIII",
-              "ceDes": "COIMBRA",
-              "parSigla": "PS",
-              "parDes": "Partido Socialista",
-              "gpSigla": "PS",
-              "gpDes": "Partido Socialista"
-            }
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "6149",
           "cadNomeCompleto": "ROSA MARIA BRASIL DART",
           "cadDtNascimento": "1975-12-09",
@@ -46223,6 +46233,13 @@
           }
         },
         {
+          "cadId": "5610",
+          "cadNomeCompleto": "ROSA ISABEL CRUZ",
+          "cadActividadeProfissional": "Professora",
+          "cadEstadoCivilCod": "4",
+          "cadEstadoCivilDes": "Solteiro(a)"
+        },
+        {
           "cadId": "4096",
           "cadNomeCompleto": "ISABEL MARIA MOUSINHO DE ALMEIDA GALRIÇA NETO",
           "cadActividadeProfissional": "Médica",
@@ -55239,11 +55256,6 @@
               "rgiCadId": "4104"
             }
           }
-        },
-        {
-          "cadId": "5610",
-          "cadNomeCompleto": "ROSA ISABEL CRUZ",
-          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "6149",

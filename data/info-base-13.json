@@ -3746,6 +3746,35 @@
           }
         },
         {
+          "depId": "8775",
+          "depCadId": "5610",
+          "depNomeParlamentar": "ISABEL CRUZ",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-10"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-10"
+              }
+            ]
+          },
+          "depNomeCompleto": "ROSA ISABEL CRUZ"
+        },
+        {
           "depId": "8543",
           "depCadId": "4096",
           "depNomeParlamentar": "ISABEL GALRIÇA NETO",
@@ -8410,35 +8439,6 @@
             }
           },
           "depNomeCompleto": "RITA RATO ARAÚJO FONSECA"
-        },
-        {
-          "depId": "8775",
-          "depCadId": "5610",
-          "depNomeParlamentar": "ROSA CRUZ",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "4465",
-              "gpSigla": "PS",
-              "gpDtInicio": "2015-10-23"
-            }
-          },
-          "depCPId": "6",
-          "depCPDes": "COIMBRA",
-          "legDes": "XIII",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
-              {
-                "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-12-10"
-              },
-              {
-                "sioDes": "Suplente",
-                "sioDtInicio": "2015-10-23",
-                "sioDtFim": "2018-12-10"
-              }
-            ]
-          },
-          "depNomeCompleto": "ROSA ISABEL CRUZ"
         },
         {
           "depId": "8704",
