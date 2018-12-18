@@ -13997,7 +13997,12 @@
                 "orgDes": "Grupo de Trabalho Desporto",
                 "orgSigla": "GT-D",
                 "legDes": "XIII",
-                "timDes": "Efetivo"
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
               }
             }
           }
