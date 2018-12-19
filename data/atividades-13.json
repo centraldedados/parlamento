@@ -1179,23 +1179,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "12",
-                "pubTipo": "DAR I série",
-                "pubTp": "D",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2017-10-25",
-                "pag": {
-                  "string": "3-52"
-                },
-                "idPag": "804322",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "15",
                 "pubTipo": "DAR II série A",
                 "pubTp": "A",
@@ -1210,6 +1193,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "12",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2017-10-25",
+                "pag": {
+                  "string": "3-52"
+                },
+                "idPag": "804322",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
                 "idDeb": null
               }
             ]
@@ -1329,23 +1329,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2015-12-04",
-                    "pag": {
-                      "string": "67-67"
-                    },
-                    "idPag": "755822",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "19",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1361,6 +1344,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/019/2015-12-19/55?pgs=55&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2015-12-04",
+                    "pag": {
+                      "string": "67-67"
+                    },
+                    "idPag": "755822",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -7516,6 +7516,25 @@
               "reuniao": "19",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "109-109"
+                  },
+                  "idPag": "833243",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/109?pgs=109&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7560,6 +7579,25 @@
               "reuniao": "19",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "109-110"
+                  },
+                  "idPag": "833244",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/109?pgs=109-110&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7604,6 +7642,25 @@
               "reuniao": "19",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "110-111"
+                  },
+                  "idPag": "833248",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/110?pgs=110-111&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7647,6 +7704,25 @@
               "resultado": "Aprovado",
               "reuniao": "19",
               "detalhe": "A Favor: <I>PSD</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Contra: <I>BE</I>, <I>PCP</I>, <I>PEV</I><BR>Abstenção: <I>PS</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "108-109"
+                  },
+                  "idPag": "833242",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/108?pgs=108-109&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7690,6 +7766,25 @@
               "resultado": "Rejeitado",
               "reuniao": "19",
               "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, Miranda Calha (PS), <I>CDS-PP</I>, Sérgio Sousa Pinto (PS)<BR>Abstenção: <I>PS</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "110-110"
+                  },
+                  "idPag": "833246",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/110?pgs=110&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7743,6 +7838,25 @@
                 "descricao": "Ponto 2",
                 "reuniao": "19",
                 "detalhe": "A Favor: <I>BE</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, <I>CDS-PP</I><BR>Abstenção: <I>PS</I>, João Rebelo (CDS-PP)",
+                "publicacao": {
+                  "pt_gov_ar_objectos_PublicacoesOut": {
+                    "pubNr": "19",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "4",
+                    "supl": ".",
+                    "pubdt": "2018-10-31",
+                    "pag": {
+                      "string": "111-111"
+                    },
+                    "idPag": "833249",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/111?pgs=111&org=PLC",
+                    "idDeb": null
+                  }
+                },
                 "data": "2018-10-30"
               }
             ]
@@ -7787,6 +7901,25 @@
               "resultado": "Aprovado",
               "reuniao": "17",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>CDS-PP</I>, <I>PAN</I><BR>Abstenção: <I>BE</I>, <I>PCP</I>, <I>PEV</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "17",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-27",
+                  "pag": {
+                    "string": "40-41"
+                  },
+                  "idPag": "832278",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/017/2018-10-27/40?pgs=40-41&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-26"
             }
           },
@@ -7830,6 +7963,25 @@
               "resultado": "Aprovado",
               "reuniao": "19",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I><BR>Abstenção: Miguel Morgado (PSD), João Rebelo (CDS-PP)",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "110-110"
+                  },
+                  "idPag": "833247",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/110?pgs=110&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7874,6 +8026,25 @@
               "resultado": "Rejeitado",
               "reuniao": "19",
               "detalhe": "A Favor: <I>PS</I>, <I>BE</I>, <I>PEV</I>, <I>PAN</I><BR>Contra: <I>PSD</I>, Miranda Calha (PS), <I>CDS-PP</I><BR>Abstenção: Sérgio Sousa Pinto (PS), <I>PCP</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "19",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-31",
+                  "pag": {
+                    "string": "110-110"
+                  },
+                  "idPag": "833245",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/019/2018-10-31/110?pgs=110&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-30"
             }
           },
@@ -7919,6 +8090,25 @@
               "reuniao": "17",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "17",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-27",
+                  "pag": {
+                    "string": "40-40"
+                  },
+                  "idPag": "832277",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/017/2018-10-27/40?pgs=40&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-26"
             }
           },
@@ -7963,6 +8153,25 @@
               "reuniao": "17",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "17",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-27",
+                  "pag": {
+                    "string": "39-40"
+                  },
+                  "idPag": "832276",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/017/2018-10-27/39?pgs=39-40&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-26"
             }
           },
@@ -8007,6 +8216,25 @@
               "reuniao": "17",
               "unanime": "unanime",
               "detalhe": "A Favor: <I>PSD</I>, <I>PS</I>, <I>BE</I>, <I>CDS-PP</I>, <I>PCP</I>, <I>PEV</I>, <I>PAN</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "17",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "XIII",
+                  "pubSL": "4",
+                  "supl": ".",
+                  "pubdt": "2018-10-27",
+                  "pag": {
+                    "string": "39-39"
+                  },
+                  "idPag": "832275",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/04/017/2018-10-27/39?pgs=39&org=PLC",
+                  "idDeb": null
+                }
+              },
               "data": "2018-10-26"
             }
           },
@@ -68791,6 +69019,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110939",
+              "numeroAudicao": "33-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição Dr. Manuel Pinho",
+              "entidades": "Dr. Manuel Pinho",
+              "data": "2018-12-20"
+            },
+            {
+              "IDAudicao": "110938",
+              "numeroAudicao": "32-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Dr. João Manso Neto",
+              "entidades": "Dr. João Manso Neto",
+              "data": "2018-12-18"
+            },
+            {
               "IDAudicao": "110878",
               "numeroAudicao": "31-CPIPREPE-XIII",
               "legislatura": "XIII",
@@ -83669,13 +83915,13 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
-              "IDDeslocacao": "110678",
+              "IDDeslocacao": "110936",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "dataIni": "2019-11-09",
-              "dataFim": "2019-11-09",
-              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
-              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
+              "dataIni": "2018-12-17",
+              "dataFim": "2018-12-17",
+              "designacao": "Concerto Solidário das Bandas das Forças Armadas",
+              "localEvento": "Casa da Música, no Porto",
               "tipo": "Representação"
             },
             {
@@ -83706,6 +83952,16 @@
               "dataFim": "2018-11-14",
               "designacao": "Tomada de Posse dos Vogais do Instituto de Ação Social das Forças Armadas",
               "localEvento": "Ministério da Defesa Nacional, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110678",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-09",
+              "dataFim": "2018-11-09",
+              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
+              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
               "tipo": "Representação"
             },
             {
@@ -84269,16 +84525,6 @@
               "tipo": "Deslocação"
             },
             {
-              "IDDeslocacao": "105287",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-05-23",
-              "dataFim": "2017-05-23",
-              "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy” (NCI Academy)",
-              "localEvento": "Reduto Gomes Freire, Estrada da Medrosa, em Oeiras",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "105252",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -84286,6 +84532,16 @@
               "dataFim": "2017-05-23",
               "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy”",
               "localEvento": "Estrada da Medrosa, em Oeiras.",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "105287",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-05-23",
+              "dataFim": "2017-05-23",
+              "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy” (NCI Academy)",
+              "localEvento": "Reduto Gomes Freire, Estrada da Medrosa, em Oeiras",
               "tipo": "Representação"
             },
             {
@@ -92133,6 +92389,15 @@
         {
           "pt_gov_ar_objectos_DadosEventosComissaoOut": [
             {
+              "IDEvento": "110941",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "data": "2018-12-10",
+              "designacao": "Cerimónia de entrega do Prémio Direitos Humanos 2018",
+              "localEvento": "Sala do Senado da Assembleia da República",
+              "tipoEvento": "Cerimónia"
+            },
+            {
               "IDEvento": "108600",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -92306,6 +92571,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosEventosComissaoOut": [
+            {
+              "IDEvento": "110940",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "data": "2018-12-18",
+              "designacao": "O Próximo Quadro Financeiro Plurianual 2021-2027",
+              "localEvento": "Auditório 1.4 - Edifício 9 - Complexo Pedagógico do Campus da Penha - Universidade do Algarve",
+              "tipoEvento": "Audição Pública"
+            },
             {
               "IDEvento": "110458",
               "legislatura": "XIII",

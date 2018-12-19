@@ -11513,7 +11513,12 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Vice-Presidente"
+                    }
+                  }
                 },
                 {
                   "orgId": "5024",
@@ -31446,12 +31451,7 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Vice-Presidente"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "5024",
