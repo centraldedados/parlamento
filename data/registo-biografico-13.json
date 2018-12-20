@@ -1388,13 +1388,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5404",
-                  "orgDes": "Grupo de Trabalho - Número de Alunos por Turma",
-                  "orgSigla": "GT-NAT",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5604",
                   "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
                   "orgSigla": "GT-AIAAO",
@@ -1886,13 +1879,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5404",
-                  "orgDes": "Grupo de Trabalho - Número de Alunos por Turma",
-                  "orgSigla": "GT-NAT",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5584",
                   "orgDes": "Grupo de Trabalho - Avaliação das PPP-Parcerias Público Privadas da Saúde",
                   "orgSigla": "GT-APPPS",
@@ -2274,12 +2260,7 @@
                   "orgDes": "Comissão de Agricultura e Mar",
                   "orgSigla": "CAM",
                   "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4534",
@@ -16316,13 +16297,6 @@
                   "orgId": "4705",
                   "orgDes": "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação",
                   "orgSigla": "GT-ATCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5404",
-                  "orgDes": "Grupo de Trabalho - Número de Alunos por Turma",
-                  "orgSigla": "GT-NAT",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -31590,15 +31564,6 @@
                   "timDes": "Suplente"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5404",
-                "orgDes": "Grupo de Trabalho - Número de Alunos por Turma",
-                "orgSigla": "GT-NAT",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
             }
           }
         },
@@ -33648,27 +33613,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5404",
-                  "orgDes": "Grupo de Trabalho - Número de Alunos por Turma",
-                  "orgSigla": "GT-NAT",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
-                  "orgId": "5744",
-                  "orgDes": "Grupo de Trabalho - Monitorização dos \"Contratos de Legislatura\"",
-                  "orgSigla": "GT-MCL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5744",
+                "orgDes": "Grupo de Trabalho - Monitorização dos \"Contratos de Legislatura\"",
+                "orgSigla": "GT-MCL",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -35077,40 +35028,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6804",
-                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
-                  "orgSigla": "CPITANCOS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "6177",

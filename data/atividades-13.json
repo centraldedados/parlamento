@@ -1179,23 +1179,6 @@
           "publicacao": {
             "pt_gov_ar_objectos_PublicacoesOut": [
               {
-                "pubNr": "15",
-                "pubTipo": "DAR II série A",
-                "pubTp": "A",
-                "pubLeg": "XIII",
-                "pubSL": "3",
-                "supl": ".",
-                "pubdt": "2017-10-19",
-                "pag": {
-                  "string": "2-2"
-                },
-                "idPag": "801823",
-                "idInt": null,
-                "idAct": null,
-                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
-                "idDeb": null
-              },
-              {
                 "pubNr": "12",
                 "pubTipo": "DAR I série",
                 "pubTp": "D",
@@ -1210,6 +1193,23 @@
                 "idInt": null,
                 "idAct": null,
                 "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/03/012/2017-10-25/3?pgs=3-52&org=PLC",
+                "idDeb": null
+              },
+              {
+                "pubNr": "15",
+                "pubTipo": "DAR II série A",
+                "pubTp": "A",
+                "pubLeg": "XIII",
+                "pubSL": "3",
+                "supl": ".",
+                "pubdt": "2017-10-19",
+                "pag": {
+                  "string": "2-2"
+                },
+                "idPag": "801823",
+                "idInt": null,
+                "idAct": null,
+                "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/015/2017-10-19/2?pgs=2&org=PLC",
                 "idDeb": null
               }
             ]
@@ -1329,6 +1329,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "13",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "XIII",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "2015-12-04",
+                    "pag": {
+                      "string": "67-67"
+                    },
+                    "idPag": "755822",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "19",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1344,23 +1361,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/019/2015-12-19/55?pgs=55&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "13",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "XIII",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "2015-12-04",
-                    "pag": {
-                      "string": "67-67"
-                    },
-                    "idPag": "755822",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/13/01/013/2015-12-04/67?pgs=67&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -5868,6 +5868,34 @@
               "honra": "S"
             }
           }
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De pesar pelo falecimento de João Maria Ferreira Teixeira",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-12-19",
+          "numero": "696",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PSD"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938324d7a51314e7a4d345a69316d4d4455324c545132596d497459546b774e7930315a6a67774e7a646b4e5455314e6a55755a47396a65413d3d&fich=6345738f-f056-46bb-a907-5f8077d55565.docx&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "De pesar pelas vítimas do acidente do helicóptero do INEM",
+          "legislatura": "XIII",
+          "sessao": "4",
+          "dataEntrada": "2018-12-19",
+          "numero": "695",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "PAR"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396a5a574d324d5445794f4330315a6a597a4c54526d4e474574596a6b784f53316c5957517a5a6d4535597a63784e5751755a47396a65413d3d&fich=cec61128-5f63-4f4a-b919-ead3fa9c715d.docx&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -60360,6 +60388,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110945",
+              "numeroAudicao": "281-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Governador do Banco de Portugal, sobre a evolução do endividamento das famílias.",
+              "entidades": "Dr. Carlos Costa - Governador do Banco de Portugal",
+              "data": "2018-12-19"
+            },
+            {
               "IDAudicao": "110906",
               "numeroAudicao": "280-COFMA-XIII",
               "legislatura": "XIII",
@@ -62884,6 +62921,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110943",
+              "numeroAudicao": "91-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição conjunta com entidades representadas na PARCA - Plataforma de Acompanhamento das Relações na Cadeia Alimentar, a Requerimento do PCP",
+              "entidades": "S.E. DA DEFESA DO CONSUMIDOR;DGAE - Direção-Geral das Atividades Económicas;DGC - Direção-Geral do Consumidor;ASAE - Autoridade de Segurança Alimentar e Económica",
+              "data": "2018-12-18"
+            },
+            {
               "IDAudicao": "110901",
               "numeroAudicao": "90-CAM-XIII",
               "legislatura": "XIII",
@@ -65169,6 +65215,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110950",
+              "numeroAudicao": "227-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Conflito laboral no Porto de Setúbal, (requerimento do BE)",
+              "entidades": "SEAL - Sindicato dos Estivadores e da Atividade Logística",
+              "data": "2018-12-19"
+            },
+            {
+              "IDAudicao": "110948",
+              "numeroAudicao": "226-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da personalidade indigitada para o exercício de cargos em entidades administrativas independentes, nos termos do disposto no artigo 17.º da Lei-quadro das entidades reguladoras, aprovada em anexo à Lei n.º 67/2013, de 28 de agosto",
+              "entidades": "Pedro Geraldes Martins Verdelho (Indigitado para Vogal do Conselho de Administração da Entidade Reguladora dos Serviços Energéticos - ERSE)",
+              "data": "2018-12-19"
+            },
+            {
               "IDAudicao": "110850",
               "numeroAudicao": "225-CEIOP-XIII",
               "legislatura": "XIII",
@@ -67203,7 +67267,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição do Ministro das Finanças ao abrigo do disposto no n.º 2 do artigo 104.º do Regimento da Assembleia da República",
-              "entidades": "MIN.  DAS   FINANÇAS;S.E. ADJUNTO E DAS FINANÇAS;S.E. DOS  ASSUNTOS FISCAIS;S.E. DO ORÇAMENTO;S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO;S.E. DO TESOURO",
+              "entidades": "MIN.  DAS   FINANÇAS;S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO",
               "data": "2018-12-19"
             },
             {
@@ -72967,6 +73031,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "110944",
+              "numeroAudicao": "137-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Presidente do Conselho Nacional de Educação sobre o relatório Estado da Educação 2017",
+              "entidades": "Presidente-Maria Emília Brederode dos Santos e Secretário-Geral – Manuel Miguéns",
+              "data": "2018-12-18"
+            },
+            {
               "IDAudicao": "110887",
               "numeroAudicao": "136-CEC-XIII",
               "legislatura": "XIII",
@@ -74194,6 +74267,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "110946",
+              "numeroAudicao": "171-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre o reconhecimento das carreiras profissionais dos técnicos superiores de diagnóstico e terapêutica (TSDT) e o pagamento condigno do trabalho que fazem»,",
+              "entidades": "SFP - Sindicato dos Fisioterapeutas Portugueses;SINDITE - Sindicato dos Técnicos Superiores de Diagnóstico e Terapêutica;STSS - Sindicato Técnicos Superiores de Saúde",
+              "data": "2018-12-19"
+            },
             {
               "IDAudicao": "110910",
               "numeroAudicao": "170-CS-XIII",
@@ -78068,6 +78150,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "110949",
+              "numeroAudiencia": "57-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Futura instalação de um aeroporto complementar na Base Aérea nº 6, no Montijo",
+              "entidades": "Plataforma Civica Aeroporto BA6-Montijo Não",
+              "data": "2018-12-19",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "110942",
+              "numeroAudiencia": "56-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Situação laboral no porto de Setúbal",
+              "entidades": "OPERESTIVA - Empresa de Trabalho Portuário de Setúbal, Lda.;Sadoport - Terminal Marítimo do Sado, S.A.",
+              "data": "2018-12-18",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "110895",
               "numeroAudiencia": "55-CEIOP-XIII",
@@ -89007,6 +89109,46 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "110953",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-18",
+              "dataFim": "2018-12-18",
+              "designacao": "20º Aniversário do Centro Ismaili",
+              "localEvento": "Centro Ismaili",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110952",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-15",
+              "dataFim": "2018-12-15",
+              "designacao": "Convite Inauguração da Exposição \"20 Anos - Vale do Côa Património Mundial\"",
+              "localEvento": "Museu do  Côa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110951",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-11",
+              "dataFim": "2018-12-11",
+              "designacao": "Comemorações dos 50 Anos da RTP2",
+              "localEvento": "Capitólio",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110954",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-22",
+              "dataFim": "2018-11-22",
+              "designacao": "Diálogo XI: Isabel Alçada e Luís Filipe de Castro Mendes - \"A linguagem poética e literária do património\"",
+              "localEvento": "Mosteiro dos Jerónimos",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110741",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -89047,16 +89189,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110468",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-10-05",
-              "dataFim": "2018-10-05",
-              "designacao": "Convite - Arte em S. Bento - 5 de Outubro",
-              "localEvento": "Jardins da Residência Oficial",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110466",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -89064,6 +89196,16 @@
               "dataFim": "2018-10-05",
               "designacao": "Convite - Cerimónia Solene Comemorativa do 108º Aniversário da Implantação da República",
               "localEvento": "Paços do Concelho - Praça do Município",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110468",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-05",
+              "dataFim": "2018-10-05",
+              "designacao": "Convite - Arte em S. Bento - 5 de Outubro",
+              "localEvento": "Jardins da Residência Oficial",
               "tipo": "Representação"
             },
             {
@@ -89127,16 +89269,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "108930",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-25",
-              "dataFim": "2018-05-25",
-              "designacao": "Prémios APOM 2018",
-              "localEvento": "Museu Nacional dos Coches",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "108931",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -89144,6 +89276,16 @@
               "dataFim": "2018-05-25",
               "designacao": "Cerimónia de abertura da 88.ª Feira do Livro de Lisboa - Associação Portuguesa de Editores e Livreiros",
               "localEvento": "Parque Eduardo VII - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "108930",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-25",
+              "dataFim": "2018-05-25",
+              "designacao": "Prémios APOM 2018",
+              "localEvento": "Museu Nacional dos Coches",
               "tipo": "Representação"
             },
             {
@@ -89867,16 +90009,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "103315",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2016-11-10",
-              "dataFim": "2016-11-10",
-              "designacao": "Apresentação da peça \"Dias Felizes\", de Samuel Beckett",
-              "localEvento": "Teatro Nacional D. Maria II, em Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "103313",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -89884,6 +90016,16 @@
               "dataFim": "2016-11-10",
               "designacao": "Representação do Presidente da Assembleia da República na Inauguração  da Exposição \"A Memória das Pedras\", retrospetiva fotográfica de Conimbriga (1930-1970).",
               "localEvento": "Palácio de S.Bento",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "103315",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2016-11-10",
+              "dataFim": "2016-11-10",
+              "designacao": "Apresentação da peça \"Dias Felizes\", de Samuel Beckett",
+              "localEvento": "Teatro Nacional D. Maria II, em Lisboa",
               "tipo": "Representação"
             },
             {
@@ -89977,16 +90119,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "102763",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "1",
-              "dataIni": "2016-08-31",
-              "dataFim": "2016-08-31",
-              "designacao": "Apresentação da Missão aos Jogos Paralímpicos Rio 2016.",
-              "localEvento": "Hotel Dom Pedro Palace - Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "102741",
               "legislatura": "XIII",
               "sessaoLegislativa": "1",
@@ -90004,6 +90136,16 @@
               "dataFim": "2016-08-31",
               "designacao": "Sessão de Apresentação de cumprimentosda Missão Paralímpica ao Presidente da Repúblca, ao Presidente da Assembleia da República e ao Primeiro Ministro",
               "localEvento": "Picadeiro do Antigo Museu dos Coches - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "102763",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "1",
+              "dataIni": "2016-08-31",
+              "dataFim": "2016-08-31",
+              "designacao": "Apresentação da Missão aos Jogos Paralímpicos Rio 2016.",
+              "localEvento": "Hotel Dom Pedro Palace - Lisboa",
               "tipo": "Representação"
             },
             {
