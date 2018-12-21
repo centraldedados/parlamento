@@ -4339,6 +4339,13 @@
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -6131,6 +6138,25 @@
                   "orgId": "6724",
                   "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
                   "orgSigla": "GT-TNC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                },
+                {
+                  "orgId": "6864",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -10948,6 +10974,13 @@
                   "orgSigla": "GT-PD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -15170,6 +15203,20 @@
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6864",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgSigla": "GT-AI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -15775,6 +15822,15 @@
                   "timDes": "Efetivo"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6844",
+                "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                "orgSigla": "GT-NLBS",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -17003,13 +17059,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5584",
-                "orgDes": "Grupo de Trabalho - Avaliação das PPP-Parcerias Público Privadas da Saúde",
-                "orgSigla": "GT-APPPS",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5584",
+                  "orgDes": "Grupo de Trabalho - Avaliação das PPP-Parcerias Público Privadas da Saúde",
+                  "orgSigla": "GT-APPPS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -17113,6 +17178,13 @@
                   "orgId": "6724",
                   "orgDes": "Grupo de Trabalho - Terapêuticas Não Convencionais",
                   "orgSigla": "GT-TNC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6864",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -24672,6 +24744,18 @@
                   "orgSigla": "GT-SP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6864",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgSigla": "GT-AI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -26066,13 +26150,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5184",
-                "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes",
-                "orgSigla": "GT-APD",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5184",
+                  "orgDes": "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes",
+                  "orgSigla": "GT-APD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -29033,6 +29126,20 @@
                   "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6864",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgSigla": "GT-AI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -31392,7 +31499,9 @@
               "parSigla": "PS",
               "parDes": "Partido Socialista",
               "gpSigla": "PS",
-              "gpDes": "Partido Socialista"
+              "gpDes": "Partido Socialista",
+              "indDes": "Não Inscrito",
+              "indData": "2018-12-06"
             }
           },
           "cadHabilitacoes": {
@@ -31410,56 +31519,7 @@
               "titOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5924",
-                  "orgDes": "Grupo de Trabalho - Lei de Enquadramento Orçamental",
-                  "orgSigla": "GT-LEO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
-                  "orgId": "5925",
-                  "orgDes": "Grupo de Trabalho - Avaliação do endividamento público e externo",
-                  "orgSigla": "GT-AEPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1738",

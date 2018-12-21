@@ -7859,11 +7859,20 @@
           "depCadId": "6045",
           "depNomeParlamentar": "PAULO TRIGO PEREIRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "4465",
-              "gpSigla": "PS",
-              "gpDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "20000085",
+                "gpSigla": "Ninsc",
+                "gpDtInicio": "2018-12-06",
+                "gpDtFim": "2018-12-20"
+              },
+              {
+                "gpId": "4465",
+                "gpSigla": "PS",
+                "gpDtInicio": "2015-10-23",
+                "gpDtFim": "2018-12-06"
+              }
+            ]
           },
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
