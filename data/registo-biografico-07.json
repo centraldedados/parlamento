@@ -12199,13 +12199,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5664",
-                  "orgDes": "Grupo de Trabalho - Apreciação dos Projetos de Lei 334/XIII e 338/XIII - Impacto Ambiental - Prospeção de Petróleo",
-                  "orgSigla": "GT-IAPP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5784",
                   "orgDes": "Grupo de Trabalho - Pacote Descentralização",
                   "orgSigla": "GT-PD",
@@ -12216,27 +12209,6 @@
                   "orgId": "6184",
                   "orgDes": "Grupo de Trabalho - Revisão da Convenção de Albufeira",
                   "orgSigla": "GT-RCA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6204",
-                  "orgDes": "Grupo de Trabalho - Temática das Bactérias de Legionella",
-                  "orgSigla": "GT-TBL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6224",
-                  "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
-                  "orgSigla": "GT-RPCFA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6304",
-                  "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
-                  "orgSigla": "GT-TAL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -28241,40 +28213,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6804",
-                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
-                  "orgSigla": "CPITANCOS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1266",
