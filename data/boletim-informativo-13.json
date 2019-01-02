@@ -261,38 +261,21 @@
         "Titulo": "Resumo da Calendarização",
         "nOrdem": "70",
         "Conteudos": {
-          "genBI2_Conteudo": [
-            {
-              "ID": "9390",
-              "ID_Tema": "1",
-              "Data_Inicio_Publicacao": "2018-11-09T00:00:00",
-              "Data_Fim_Publicacao": "2018-12-31T00:00:00",
-              "nOrdem": "12",
-              "Data_Inicio": "2018-12-01T00:00:00",
-              "Data_Fim": "2018-12-31T23:59:00",
-              "Titulo": "DEZEMBRO 2018",
-              "Subtitulo": null,
-              "Texto": "<table>\n    <tbody>\n        <tr>\n            <td><strong> Dia 03</strong></td>\n            <td> </td>\n            <td> Segunda-feira</td>\n            <td> </td>\n            <td> <strong>Contacto com o eleitorado</strong></td>\n            <td>        </td>\n            <td>               </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 04</strong></td>\n            <td> </td>\n            <td> Terça-feira</td>\n            <td> </td>\n            <td> <strong>Comissões Parlamentares</strong></td>\n            <td> </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 05</strong></td>\n            <td> </td>\n            <td> Quarta-feira</td>\n            <td> </td>\n            <td><strong> Conferência de Líderes</strong><br />\n            <strong> Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 12:00 Horas <br />\n             15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 06</strong></td>\n            <td> </td>\n            <td> Quinta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 07</strong></td>\n            <td> </td>\n            <td> Sexta-feira</td>\n            <td> </td>\n            <td><strong><strong> <strong>Reunião Plenária</strong></strong></strong></td>\n            <td> </td>\n            <td> 10:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 10</strong></td>\n            <td> </td>\n            <td> Segunda-feira</td>\n            <td> </td>\n            <td> <strong>Contacto com o eleitorado</strong></td>\n            <td> </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 11</strong></td>\n            <td> </td>\n            <td> Terça-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 12</strong></td>\n            <td> </td>\n            <td> Quarta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 13</strong></td>\n            <td> </td>\n            <td> Quinta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 14</strong></td>\n            <td> </td>\n            <td> Sexta-feira</td>\n            <td> </td>\n            <td> <strong>Comissões Parlamentares</strong></td>\n            <td> </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 17</strong></td>\n            <td> </td>\n            <td> Segunda-feira</td>\n            <td> </td>\n            <td> <strong>Contacto com o eleitorado</strong></td>\n            <td> </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 18</strong></td>\n            <td> </td>\n            <td> Terça-feira</td>\n            <td> </td>\n            <td> <strong>Comissões Parlamentares</strong></td>\n            <td> </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 19</strong></td>\n            <td> </td>\n            <td> Quarta-feira</td>\n            <td> </td>\n            <td><strong> Conferência de Líderes</strong><br />\n            <strong> Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 10:30 Horas<br />\n             15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 20</strong></td>\n            <td> </td>\n            <td> Quinta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 21</strong></td>\n            <td> </td>\n            <td> Sexta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 10:00 Horas</td>\n        </tr>\n    </tbody>\n</table>\n",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            },
-            {
-              "ID": "9392",
-              "ID_Tema": "1",
-              "Data_Inicio_Publicacao": "2018-11-09T00:00:00",
-              "Data_Fim_Publicacao": "2019-01-31T00:00:00",
-              "nOrdem": "13",
-              "Data_Inicio": "2019-01-01T00:00:00",
-              "Data_Fim": "2019-01-31T23:59:00",
-              "Titulo": "JANEIRO 2019",
-              "Subtitulo": null,
-              "Texto": "<table>\n    <tbody>\n        <tr>\n            <td><strong> Dia 02</strong></td>\n            <td> </td>\n            <td> Quarta-feira</td>\n            <td> </td>\n            <td> <strong>Contacto com o eleitorado</strong></td>\n            <td>           </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 03</strong></td>\n            <td> </td>\n            <td> Quinta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 04</strong></td>\n            <td> </td>\n            <td> Sexta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 10:00 Horas</td>\n        </tr>\n    </tbody>\n</table>\n",
-              "Seccao": null,
-              "Tema": null,
-              "Local": null
-            }
-          ]
+          "genBI2_Conteudo": {
+            "ID": "9392",
+            "ID_Tema": "1",
+            "Data_Inicio_Publicacao": "2018-11-09T00:00:00",
+            "Data_Fim_Publicacao": "2019-01-31T00:00:00",
+            "nOrdem": "13",
+            "Data_Inicio": "2019-01-01T00:00:00",
+            "Data_Fim": "2019-01-31T23:59:00",
+            "Titulo": "JANEIRO 2019",
+            "Subtitulo": null,
+            "Texto": "<table>\n    <tbody>\n        <tr>\n            <td><strong> Dia 02</strong></td>\n            <td> </td>\n            <td> Quarta-feira</td>\n            <td> </td>\n            <td> <strong>Contacto com o eleitorado</strong></td>\n            <td>           </td>\n            <td> </td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 03</strong></td>\n            <td> </td>\n            <td> Quinta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 15:00 Horas</td>\n        </tr>\n        <tr>\n            <td> <strong>Dia 04</strong></td>\n            <td> </td>\n            <td> Sexta-feira</td>\n            <td> </td>\n            <td> <strong>Reunião Plenária</strong></td>\n            <td> </td>\n            <td> 10:00 Horas</td>\n        </tr>\n    </tbody>\n</table>\n",
+            "Seccao": null,
+            "Tema": null,
+            "Local": null
+          }
         }
       },
       {
