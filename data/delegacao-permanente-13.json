@@ -188,6 +188,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião com os Chefes de Unidade da Direção-Geral da Cooperação Internacional e do Desenvolvimento (DG DEVCO) da Comissão Europeiia",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "06-01-2019",
+              "dataFim": "08-01-2019",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação Eleitoral da CPLP",
               "tipo": "REN",
               "local": "Maputo",
@@ -415,14 +423,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -446,6 +446,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",

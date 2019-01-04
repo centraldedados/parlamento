@@ -3857,7 +3857,7 @@
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -9094,61 +9094,7 @@
               "pubOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "42",
@@ -17193,6 +17139,36 @@
           }
         },
         {
+          "cadId": "1706",
+          "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
+          "cadDtNascimento": "1971-07-08",
+          "cadSexo": "M",
+          "cadProfissao": "PROFESSOR",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
+              {
+                "depNomeParlamentar": "João Moura",
+                "legDes": "XIII",
+                "ceDes": "SANTARÉM",
+                "parSigla": "PAF",
+                "parDes": "Coligação Portugal À Frente",
+                "gpSigla": "PSD",
+                "gpDes": "Partido Social Democrata"
+              },
+              {
+                "depNomeParlamentar": "João Moura",
+                "legDes": "IX",
+                "ceDes": "SANTARÉM",
+                "parSigla": "PSD",
+                "parDes": "Partido Social Democrata",
+                "gpSigla": "PSD",
+                "gpDes": "Partido Social Democrata"
+              }
+            ]
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
           "cadId": "2234",
           "cadNomeCompleto": "JOÃO GUILHERME RAMOS ROSA DE OLIVEIRA",
           "cadDtNascimento": "1979-07-09",
@@ -17352,6 +17328,13 @@
                   "orgId": "4529",
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
                   "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4534",
+                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+                  "orgSigla": "CAOTDPLH",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 },
@@ -23173,6 +23156,23 @@
           "cadActividadeOrgaos": null
         },
         {
+          "cadId": "6121",
+          "cadNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA",
+          "cadSexo": "F",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Liliana Silva",
+              "legDes": "XIII",
+              "ceDes": "VIANA DO CASTELO",
+              "parSigla": "PAF",
+              "parDes": "Coligação Portugal À Frente",
+              "gpSigla": "PSD",
+              "gpDes": "Partido Social Democrata"
+            }
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
           "cadId": "6129",
           "cadNomeCompleto": "LÚCIA FERNANDA FERREIRA ARAÚJO SILVA",
           "cadDtNascimento": "1964-03-02",
@@ -23424,59 +23424,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Vice-Presidente"
-                    }
-                  }
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4905",
-                "orgDes": "Grupo de Trabalho - Indústria",
-                "orgSigla": "GT-I",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
-                  }
-                }
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "5534",
@@ -31519,7 +31467,26 @@
               "titOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5024",
+                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+                  "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "1738",
@@ -32035,13 +32002,6 @@
                   "orgId": "4924",
                   "orgDes": "Grupo de Trabalho - Registo de Interesses",
                   "orgSigla": "GT-RI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4724",
-                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
-                  "orgSigla": "GT-PACRP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -38206,17 +38166,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4525",
-                "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                "orgSigla": "CNECP",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4402",
@@ -47198,6 +47148,13 @@
           }
         },
         {
+          "cadId": "1706",
+          "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
+          "cadActividadeProfissional": "PROFESSOR",
+          "cadEstadoCivilCod": "4",
+          "cadEstadoCivilDes": "Solteiro(a)"
+        },
+        {
           "cadId": "2234",
           "cadNomeCompleto": "JOÃO GUILHERME RAMOS ROSA DE OLIVEIRA",
           "cadActividadeProfissional": "Advogado",
@@ -49756,6 +49713,11 @@
           "cadActividadeProfissional": "Advogada",
           "cadEstadoCivilCod": "2",
           "cadEstadoCivilDes": "Divorciado(a)"
+        },
+        {
+          "cadId": "6121",
+          "cadNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "6129",

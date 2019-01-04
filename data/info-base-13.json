@@ -1059,8 +1059,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -2307,10 +2312,17 @@
           "depCPDes": "SANTARÉM",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-12-28"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-28"
+              }
+            ]
           },
           "depNomeCompleto": "DUARTE FILIPE BATISTA DE MATOS MARQUES",
           "videos": {
@@ -4343,6 +4355,35 @@
           "depNomeCompleto": "JOÃO CARLOS IZIDORO MARQUES"
         },
         {
+          "depId": "8671",
+          "depCadId": "1706",
+          "depNomeParlamentar": "JOÃO MOURA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4464",
+              "gpSigla": "PSD",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-28"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-28"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES"
+        },
+        {
           "depId": "8554",
           "depCadId": "2234",
           "depNomeParlamentar": "JOÃO OLIVEIRA",
@@ -4359,8 +4400,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2018-12-01"
+                "sioDtInicio": "2018-12-01",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Efetivo",
@@ -5583,6 +5629,35 @@
           "depNomeCompleto": "LÍLIA ANA DA CRUZ OLIVEIRA MARTINS ÁGUAS"
         },
         {
+          "depId": "8690",
+          "depCadId": "6121",
+          "depNomeParlamentar": "LILIANA SILVA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4464",
+              "gpSigla": "PSD",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA"
+        },
+        {
           "depId": "8926",
           "depCadId": "6129",
           "depNomeParlamentar": "LÚCIA  ARAÚJO SILVA",
@@ -5742,8 +5817,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -7864,7 +7944,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-01-01"
+                "gpDtFim": "2019-01-03"
               },
               {
                 "gpId": "4465",
@@ -9196,8 +9276,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-12-01"
+                "sioDtInicio": "2018-12-01",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Suplente",
