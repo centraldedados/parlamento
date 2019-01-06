@@ -1084,6 +1084,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião conjunta da Subcomissão para as Parcerias da NATO, da Comissão Política e do Conselho Interparlamentar Ucrânia-NATO",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-01-2019",
+              "dataFim": "10-01-2019",
+              "participantes": null
+            },
+            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -1308,22 +1316,6 @@
               }
             },
             {
-              "nome": "Reunião da Pré-Cimeira da NATO",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "10-07-2018",
-              "dataFim": "10-07-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS COSTA NEVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3963"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1336,6 +1328,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1700"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Pré-Cimeira da NATO",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-07-2018",
+              "dataFim": "10-07-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS COSTA NEVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3963"
                 }
               }
             },

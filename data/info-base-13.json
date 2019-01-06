@@ -3444,8 +3444,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-04"
               },
               {
                 "sioDes": "Suplente",
@@ -3608,14 +3613,22 @@
             "pt_ar_wsgode_objectos_DadosCargoDeputado": {
               "carId": "5",
               "carDes": "Secretário",
-              "carDtInicio": "2015-10-28"
+              "carDtInicio": "2015-10-28",
+              "carDtFim": "2019-01-04"
             }
           },
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-04"
+              }
+            ]
           },
           "depNomeCompleto": "IDÁLIA MARIA MARQUES SALVADOR SERRÃO"
         },
@@ -6791,6 +6804,35 @@
           "depNomeCompleto": "MARIA JOÃO MACHADO DE ÁVILA"
         },
         {
+          "depId": "8883",
+          "depCadId": "6014",
+          "depNomeParlamentar": "MARIA LOPES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-04"
+              }
+            ]
+          },
+          "depNomeCompleto": "MARIA DA LUZ MARQUES LOPES"
+        },
+        {
           "depId": "8406",
           "depCadId": "4380",
           "depNomeParlamentar": "MARIA LUÍS ALBUQUERQUE",
@@ -7944,7 +7986,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-01-03"
+                "gpDtFim": "2019-01-05"
               },
               {
                 "gpId": "4465",

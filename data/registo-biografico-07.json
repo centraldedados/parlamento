@@ -2289,7 +2289,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4535",
+                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                "orgSigla": "CCCJD",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "156",
@@ -14490,6 +14500,13 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "4533",
                   "orgDes": "Comissão de Trabalho e Segurança Social",

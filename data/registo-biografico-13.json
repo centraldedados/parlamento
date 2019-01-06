@@ -2885,7 +2885,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4535",
+                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                "orgSigla": "CCCJD",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "1656",
@@ -14443,40 +14453,7 @@
               "codOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4532",
-                  "orgDes": "Comissão de Saúde",
-                  "orgSigla": "CS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4533",
-                  "orgDes": "Comissão de Trabalho e Segurança Social",
-                  "orgSigla": "CTSS",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2300",
@@ -16044,13 +16021,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6804",
                   "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
                   "orgSigla": "CPITANCOS",
@@ -17166,7 +17136,26 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "2234",
@@ -18622,6 +18611,13 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "4533",
                   "orgDes": "Comissão de Trabalho e Segurança Social",
@@ -23170,7 +23166,54 @@
               "gpDes": "Partido Social Democrata"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "5024",
+                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+                  "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "6129",
@@ -23192,13 +23235,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26400",
+                "habId": "27160",
                 "habDes": "Humanidades.",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26401",
+                "habId": "27161",
                 "habDes": "Ciências da Educação- Especialização Pedagogia.",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -23208,49 +23251,49 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30116",
+                "funId": "30876",
                 "funDes": "Vereadora na Câmara Municipal de Viseu- 2017-2021",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30117",
+                "funId": "30877",
                 "funDes": "Presidente da Concelhia do PS Viseu",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30118",
+                "funId": "30878",
                 "funDes": "Membro da  Comissão Nacional.",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30119",
+                "funId": "30879",
                 "funDes": "Presidente da Assembleia Geral da Associação Cultural, Recreativa e Desportiva de Marzovelos- Viseu.",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "30120",
+                "funId": "30880",
                 "funDes": "Cabeça de lista  à Câmara Municipal de Viseu ( 2017-2021)\nPresidente do Departamento Federativo das Mulheres Socialistas de Viseu.(2014-2018)\n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "30121",
+                "funId": "30881",
                 "funDes": "Cabeça de lista à Assembleia de Freguesia de Coração de Jesus(atualmente freguesia de Viseu), em 2009.\nPresidente da concelhia do PS - Viseu- dois mandatos.",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "30122",
+                "funId": "30882",
                 "funDes": "Profissionalmente: orientadora de estágio de professores estagiários do Centro Regional das Beiras -  Universidade Católica Portuguesa.\nDelegada de grupo disciplinar.\nDiretora de turma.\nMembro da Assembleia Geral.\nRepresentante dos encarregados de educação, no conselho geral de escola, - na escola secundária Viriato- Viseu.",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "30123",
+                "funId": "30883",
                 "funDes": "Deputada na Assembleia Municipal de Viseu ( 2013-2017);\nDeputada na Comunidade Intermunicipal  Dão Lafões;\nMembro da Comissão Política Nacional.",
                 "funOrdem": "8",
                 "funAntiga": "S"
@@ -23259,7 +23302,7 @@
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "7371",
+              "pubId": "7651",
               "pubDes": "Conto infantil \"A História da Matilde\"",
               "pubOrdem": "1"
             }
@@ -26863,6 +26906,23 @@
               "habDes": "Marketing e Relacoes Publicas",
               "habTipoId": "13",
               "habEstado": "C"
+            }
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
+          "cadId": "6014",
+          "cadNomeCompleto": "MARIA DA LUZ MARQUES LOPES",
+          "cadSexo": "F",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Maria Lopes",
+              "legDes": "XIII",
+              "ceDes": "SANTARÉM",
+              "parSigla": "PS",
+              "parDes": "Partido Socialista",
+              "gpSigla": "PS",
+              "gpDes": "Partido Socialista"
             }
           },
           "cadActividadeOrgaos": null
@@ -31467,26 +31527,7 @@
               "titOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4528",
-                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                  "orgSigla": "COFMA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1738",
@@ -36751,13 +36792,6 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
                 {
                   "orgId": "4533",
                   "orgDes": "Comissão de Trabalho e Segurança Social",
@@ -51580,6 +51614,11 @@
           "cadActividadeProfissional": "Gestora - Relacoes Publicas",
           "cadEstadoCivilCod": "4",
           "cadEstadoCivilDes": "Solteiro(a)"
+        },
+        {
+          "cadId": "6014",
+          "cadNomeCompleto": "MARIA DA LUZ MARQUES LOPES",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "4380",
