@@ -2887,13 +2887,29 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4535",
-                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                "orgSigla": "CCCJD",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
             }
           }
         },
@@ -3093,6 +3109,13 @@
                   "orgId": "6624",
                   "orgDes": "Grupo de Trabalho - Formação e Certificação Profissional (Motoristas de Transportes Públicos de Passageiros)",
                   "orgSigla": "GT-FCPMTPP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -7858,6 +7881,18 @@
                   "orgSigla": "GT-TNC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -11937,11 +11972,11 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4528",
@@ -13964,7 +13999,7 @@
                   "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4535",
@@ -14965,7 +15000,33 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "4096",
@@ -16049,6 +16110,13 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -16146,11 +16214,11 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4525",
-                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                  "orgSigla": "CNECP",
+                  "orgId": "4532",
+                  "orgDes": "Comissão de Saúde",
+                  "orgSigla": "CS",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4534",
@@ -22216,6 +22284,13 @@
                   "orgSigla": "GT-ECI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -25090,13 +25165,22 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4528",
-                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                "orgSigla": "COFMA",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
@@ -25494,13 +25578,22 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4528",
-                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                "orgSigla": "COFMA",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
             }
           }
         },
@@ -26925,7 +27018,26 @@
               "gpDes": "Partido Socialista"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4532",
+                  "orgDes": "Comissão de Saúde",
+                  "orgSigla": "CS",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "4380",
@@ -34706,6 +34818,13 @@
                   "orgSigla": "GT-FCPMTPP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -36837,6 +36956,13 @@
                   "orgSigla": "GT-OP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -38018,6 +38144,15 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6884",
+                "orgDes": "Grupo de Trabalho - Leis Laborais",
+                "orgSigla": "GT-LB",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -39103,13 +39238,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6284",
-                "orgDes": "Grupo de Trabalho - Regime do Trabalho Noturno e por Turnos",
-                "orgSigla": "GT-RTNT",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6284",
+                  "orgDes": "Grupo de Trabalho - Regime do Trabalho Noturno e por Turnos",
+                  "orgSigla": "GT-RTNT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6884",
+                  "orgDes": "Grupo de Trabalho - Leis Laborais",
+                  "orgSigla": "GT-LB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         }
