@@ -9496,16 +9496,6 @@
         "participantes": null
       },
       {
-        "id": "1909",
-        "nome": "\"European Conference of intelligence oversight bodies\"",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-12-06",
-        "dataFim": "2018-12-07",
-        "participantes": null
-      },
-      {
         "id": "1912",
         "nome": "12th Parliamentary Intelligence Security Forum",
         "local": "Washington",
@@ -9522,6 +9512,16 @@
             "id": "1264"
           }
         }
+      },
+      {
+        "id": "1909",
+        "nome": "\"European Conference of intelligence oversight bodies\"",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-07",
+        "participantes": null
       },
       {
         "id": "1915",
@@ -9593,6 +9593,24 @@
         "participantes": null
       },
       {
+        "id": "1920",
+        "nome": "Participação do Vice-Presidente da Comissão de Economia, Inovação e Obras Públicas no 4º IRENA Legislators Forum",
+        "local": "Abu Dhabi",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-10",
+        "dataFim": "2019-01-13",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "FERNANDO VIRGÍLIO MACEDO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4152"
+          }
+        }
+      },
+      {
         "id": "1918",
         "nome": "VIII Assembleia Parlamentar da CPLP",
         "local": "Cidade da Praia",
@@ -9611,20 +9629,20 @@
         }
       },
       {
-        "id": "1920",
-        "nome": "Participação do Vice-Presidente da Comissão de Economia, Inovação e Obras Públicas no 4º IRENA Legislators Forum",
-        "local": "Abu Dhabi",
+        "id": "1921",
+        "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
+        "local": "Bucareste",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2019-01-10",
-        "dataFim": "2019-01-13",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-21",
         "participantes": {
           "Participante": {
             "tipo": "D",
-            "nome": "FERNANDO VIRGÍLIO MACEDO",
+            "nome": "REGINA BASTOS",
             "gp": "PSD",
             "leg": "XIII",
-            "id": "4152"
+            "id": "2106"
           }
         }
       }

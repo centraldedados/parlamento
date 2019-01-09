@@ -993,7 +993,7 @@
           "cadNomeCompleto": "AMADEU ALBERTINO MARQUES SOARES ALBERGARIA",
           "cadDtNascimento": "1977-01-16",
           "cadSexo": "M",
-          "cadProfissao": "Advogado - (inscrição suspensa)",
+          "cadProfissao": "Advogado",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -1027,7 +1027,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "27140",
+              "habId": "27240",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "C"
@@ -1036,135 +1036,141 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30836",
+                "funId": "30956",
                 "funDes": "Deputado na XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30837",
+                "funId": "30957",
                 "funDes": "Membro do Conselho Fiscal de \"O Abrigo\" - IPSS",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30838",
+                "funId": "30958",
                 "funDes": "Membro do Conselho Geral da Comissão de Vigilância do Castelo da Feira",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30839",
+                "funId": "30959",
                 "funDes": "Membro do Conselho Municipal de Segurança de Santa Maria da Feira",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "30840",
+                "funId": "30960",
                 "funDes": "Membro do Conselho Municipal de Educação de Santa Maria da Feira",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "30841",
+                "funId": "30961",
                 "funDes": "Presidente da Assembleia Municipal de Santa Maria da Feira",
                 "funOrdem": "6",
                 "funAntiga": "N"
               },
               {
-                "funId": "30842",
-                "funDes": "Vereador do Pelouro da Cultura, Desporto e Juventude da Câmara Municipal de Santa Maria da Feira",
+                "funId": "30962",
+                "funDes": "Secretário do Conselho Paroquial para os Assuntos Económicos (Fábrica da Igreja), Paróquia de São João de Ver (São João Baptista), Diocese do Porto.",
                 "funOrdem": "7",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "30843",
-                "funDes": "Adjunto do Presidente da Câmara Municipal de Santa Maria da Feira",
+                "funId": "30963",
+                "funDes": "Vereador do Pelouro da Cultura, Desporto e Juventude da Câmara Municipal de Santa Maria da Feira",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "30844",
-                "funDes": "Administrador da \"Feira Viva, Cultura e Desporto, EM\"",
+                "funId": "30964",
+                "funDes": "Adjunto do Presidente da Câmara Municipal de Santa Maria da Feira",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "30845",
-                "funDes": "Administrador da Fundação da Juventude",
+                "funId": "30965",
+                "funDes": "Administrador da \"Feira Viva, Cultura e Desporto, EM\"",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "30846",
-                "funDes": "Membro da Assembleia de Freguesia de São João de Ver",
+                "funId": "30966",
+                "funDes": "Administrador da Fundação da Juventude",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "30847",
-                "funDes": "Secretário da Mesa da Assembleia Intermunicipal da Associação de Municípios de Terras de Santa Maria ",
+                "funId": "30967",
+                "funDes": "Membro da Assembleia de Freguesia de São João de Ver",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "30848",
-                "funDes": "Membro do Conselho Municipal de Educação do Município de Santa Maria da Feira",
+                "funId": "30968",
+                "funDes": "Secretário da Mesa da Assembleia Intermunicipal da Associação de Municípios de Terras de Santa Maria ",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "30849",
-                "funDes": "Membro do Conselho Metropolitano de Vereadores da Educação da Área Metropolitana do Porto",
+                "funId": "30969",
+                "funDes": "Membro do Conselho Municipal de Educação do Município de Santa Maria da Feira",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "30850",
-                "funDes": "Membro do Conselho Metropolitano de Vereadores da Cultura  da Área Metropolitana do Porto",
+                "funId": "30970",
+                "funDes": "Membro do Conselho Metropolitano de Vereadores da Educação da Área Metropolitana do Porto",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "30851",
-                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira na Assembleia de Fundadores do ISPAB - Instituto Superior de Paços de Brandão",
+                "funId": "30971",
+                "funDes": "Membro do Conselho Metropolitano de Vereadores da Cultura  da Área Metropolitana do Porto",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "30852",
-                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira na Rede Nacional das Cidades Educadoras",
+                "funId": "30972",
+                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira na Assembleia de Fundadores do ISPAB - Instituto Superior de Paços de Brandão",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "30853",
-                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira nos Conselhos Gerais das Escolas Secundárias e dos Agrupamentos de Escolas do concelho de Santa Maria da Feira",
+                "funId": "30973",
+                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira na Rede Nacional das Cidades Educadoras",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "30854",
-                "funDes": "Presidente da Direcção da Associação da Orquestra e Banda Sinfónica de Jovens do Concelho de Santa Maria da Feira",
+                "funId": "30974",
+                "funDes": "Representante da Câmara Municipal de Santa Maria da Feira nos Conselhos Gerais das Escolas Secundárias e dos Agrupamentos de Escolas do concelho de Santa Maria da Feira",
                 "funOrdem": "19",
                 "funAntiga": "S"
               },
               {
-                "funId": "30855",
-                "funDes": "Membro da Direcção da Academia de Música de Santa Maria da Feira",
+                "funId": "30975",
+                "funDes": "Presidente da Direcção da Associação da Orquestra e Banda Sinfónica de Jovens do Concelho de Santa Maria da Feira",
                 "funOrdem": "20",
                 "funAntiga": "S"
               },
               {
-                "funId": "30856",
-                "funDes": "Deputado na XI Legislatura",
+                "funId": "30976",
+                "funDes": "Membro da Direcção da Academia de Música de Santa Maria da Feira",
                 "funOrdem": "21",
                 "funAntiga": "S"
               },
               {
-                "funId": "30857",
-                "funDes": "Deputado na XII Legislatura",
+                "funId": "30977",
+                "funDes": "Deputado na XI Legislatura",
                 "funOrdem": "22",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "30978",
+                "funDes": "Deputado na XII Legislatura",
+                "funOrdem": "23",
                 "funAntiga": "S"
               }
             ]
@@ -2484,6 +2490,13 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -2820,13 +2833,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21417",
+                "habId": "27280",
                 "habDes": "Engenharia Mecânica",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21418",
+                "habId": "27281",
                 "habDes": "Engenharia Mecânica",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -2836,49 +2849,49 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25191",
+                "funId": "31016",
                 "funDes": "Presidente da Assembleia Geral do Núcleo Treinadores de Futebol de Aveiro",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25192",
-                "funDes": "Vice-Presidente da Direção da Associação P.dre Osório- Pigeiros\n\n\nMembro do Conselho de Jurisdição da Ordem dos Engenheiros Técnicos",
+                "funId": "31017",
+                "funDes": "Sócio da empresa Proelgás lda- S.Maria da Feira\n\n\nMembro do Conselho de Jurisdição da Ordem dos Engenheiros Técnicos",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "25193",
+                "funId": "31018",
                 "funDes": "Presidente da Junta de Freguesia de Pigeiros",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "25194",
+                "funId": "31019",
                 "funDes": "Vereador da Câmara Municipal de S. M. da Feira",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "25195",
+                "funId": "31020",
                 "funDes": "Deputado na XII Legislatura",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "25196",
+                "funId": "31021",
                 "funDes": "Membro Assembleia de Freguesia de Pigeiros",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "25197",
+                "funId": "31022",
                 "funDes": "Deputado na VII Legislatura",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "25198",
+                "funId": "31023",
                 "funDes": "Membro da Assembleia Municipal S. M. da Feira",
                 "funOrdem": "8",
                 "funAntiga": "S"
@@ -3705,6 +3718,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3904,13 +3924,27 @@
               }
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4744",
-                "orgDes": "Grupo de Trabalho - Audição de Peticionantes",
-                "orgSigla": "GT-AP",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4744",
+                  "orgDes": "Grupo de Trabalho - Audição de Peticionantes",
+                  "orgSigla": "GT-AP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -8721,13 +8755,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "20973",
+                "habId": "27260",
                 "habDes": "História com minor em Ciência Política",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "20974",
+                "habId": "27261",
                 "habDes": "História Contemporânea",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -8737,100 +8771,95 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "24064",
-                "funDes": "Secretário-Geral Adjunto da Juventude Socialista\n",
+                "funId": "30996",
+                "funDes": "Membro da Mesa da Comissão Nacional do Partido Socialista",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "24065",
-                "funDes": "Presidente da Federação da Área Urbana de Lisboa da Juventude Socialista",
+                "funId": "30997",
+                "funDes": "Membro do Secretariado da Federação da Área Urbana de Lisboa do Partido Socialista",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "24066",
+                "funId": "30998",
                 "funDes": "Membro da Assembleia Municipal de Lisboa",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "24067",
-                "funDes": "Membro do Secretariado do Partido Socialista de Lisboa",
+                "funId": "30999",
+                "funDes": "Membro do Conselho Geral do ISCTE-IUL",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "24068",
-                "funDes": "Membro da Comissão Política Nacional do Partido Socialista",
+                "funId": "31000",
+                "funDes": "Secretário-Geral Adjunto da Juventude Socialista",
                 "funOrdem": "5",
-                "funAntiga": "N"
+                "funAntiga": "S"
               },
               {
-                "funId": "24069",
-                "funDes": "Direcção do Conselho Nacional de Juventude",
+                "funId": "31001",
+                "funDes": "Membro da Direcção do Conselho Nacional de Juventude",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "24070",
-                "funDes": "Presidente da Direcção e da Mesa RGA da Associação de Estudantes da FCSH-UNL",
+                "funId": "31002",
+                "funDes": "Presidente da Federação da Área Urbana de Lisboa da Juventude Socialista",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "24071",
-                "funDes": "Presidente do Conselho Fiscal da Federação Académica da Universidade Nova de Lisboa",
+                "funId": "31003",
+                "funDes": "Presidente da Direcção e da Mesa RGA da Associação de Estudantes da FCSH-UNL",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "24072",
-                "funDes": "Membro do Senado da Universidade Nova de Lisboa",
+                "funId": "31004",
+                "funDes": "Presidente do Conselho Fiscal da Federação Académica da Universidade Nova de Lisboa",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "24073",
-                "funDes": "Membro das Assembleias de Representantes da FCSH-UNL e da UNL",
+                "funId": "31005",
+                "funDes": "Membro do Senado da Universidade Nova de Lisboa",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "24074",
-                "funDes": "Membro da Direcção do Grupo Municipal do PS na Assembleia Municipal de Lisboa",
+                "funId": "31006",
+                "funDes": "Membro das Assembleias de Representantes da FCSH-UNL e da UNL",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "24075",
-                "funDes": "Membro do Conselho Municipal de Desporto do Município de Lisboa",
+                "funId": "31007",
+                "funDes": "Membro da Direcção do Grupo Municipal do PS na Assembleia Municipal de Lisboa",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "24076",
-                "funDes": "Presidente da JS Lisboa",
+                "funId": "31008",
+                "funDes": "Membro do Conselho Municipal de Desporto do Município de Lisboa",
                 "funOrdem": "13",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "24077",
-                "funDes": "Membro da Comissão Nacional do PS",
-                "funOrdem": "14",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "24078",
-                "funDes": "Vereador Substituto na CML",
-                "funOrdem": "15",
                 "funAntiga": "S"
               }
             ]
           },
+          "cadCondecoracoes": {
+            "pt_ar_wsgode_objectos_DadosCondecoracoes": {
+              "codId": "4432",
+              "codDes": "Cruz Vermelha de Mérito - ao abrigo do Decreto-Lei nº 169/99, de 19 de Maio",
+              "codOrdem": "1"
+            }
+          },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "5734",
+              "pubId": "7671",
               "pubDes": "Maia Magalhães: um militar «democrático» na Grande Guerra e na resistência ao Sidonismo\nLer História, 65 | 2013 | p. 93-112\n",
               "pubOrdem": "1"
             }
@@ -11972,6 +12001,13 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4527",
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
@@ -15007,13 +15043,6 @@
                   "orgId": "4529",
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
                   "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 },
@@ -21933,6 +21962,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -23229,6 +23265,7 @@
         {
           "cadId": "6121",
           "cadNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA",
+          "cadDtNascimento": "1978-07-07",
           "cadSexo": "F",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
@@ -23239,6 +23276,37 @@
               "parDes": "Coligação Portugal À Frente",
               "gpSigla": "PSD",
               "gpDes": "Partido Social Democrata"
+            }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "27182",
+              "habDes": "ensino de Português e Alemão",
+              "habTipoId": "13",
+              "habEstado": "C"
+            }
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "30900",
+                "funDes": "Vereadora da Câmara Municipal de Caminha\nDeputada da Assembleia da República",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "30901",
+                "funDes": "Vereadora Camara Municipal de Caminha",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              }
+            ]
+          },
+          "cadTitulos": {
+            "pt_ar_wsgode_objectos_DadosTitulos": {
+              "titId": "3473",
+              "titDes": ".",
+              "titOrdem": "1"
             }
           },
           "cadActividadeOrgaos": {
@@ -24375,7 +24443,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "20724",
+              "habId": "27220",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "C"
@@ -24384,31 +24452,31 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "23778",
+                "funId": "30936",
                 "funDes": "Presidente da Federação Distrital de Portalegre do Partido Socialista",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "23779",
+                "funId": "30937",
                 "funDes": "Membro da Assembleia Municipal de Portalegre",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "23780",
+                "funId": "30938",
                 "funDes": "Membro da Assembleia Intermunicipal do Alto Alentejo",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "23781",
+                "funId": "30939",
                 "funDes": "Presidente da Assembleia Intermunicipal do Alto Alentejo",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "23782",
+                "funId": "30940",
                 "funDes": "Presidente da Associação Nacional de Jovens Autarcas Socialistas",
                 "funOrdem": "5",
                 "funAntiga": "S"
@@ -27029,6 +27097,13 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4532",
                   "orgDes": "Comissão de Saúde",
                   "orgSigla": "CS",
@@ -27369,7 +27444,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "24540",
+              "habId": "27300",
               "habDes": "DESIGN GRÁFICO",
               "habTipoId": "13",
               "habEstado": "C"
@@ -35298,7 +35373,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "25960",
+              "habId": "27200",
               "habDes": "DIREITO",
               "habTipoId": "13",
               "habEstado": "C"
@@ -35307,13 +35382,13 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "29676",
-                "funDes": "ADVOCACIA",
+                "funId": "30916",
+                "funDes": "Exerce o mandato de Deputado em regime de exclusividade desde 03.01.2019.",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "29677",
+                "funId": "30917",
                 "funDes": "PRESIDENTE DE CÂMARA MUNICIPAL\nDIRETOR DE SEGURANÇA SOCIAL\nPRESIDENTE DE CONSELHO DE ADMINISTRAÇÃO\nPRESIDENTE DE COMISSÃO DE AVALIAÇÃO COMERCIAL\nPRESIDENTE DE ASSEMBLEIA GERAL DE NÚCLEO EMPRESARIAL\nPRESIDENTE DE ASSEMBLEIA MUNICIPAL\nPRESIDENTE DE ASSEMBLEIA INTERMUNICIPAL\nPRESIDENTE DE ASSEMBLEIA GERAL DE SOCIEDADE\nVOGAL DE COMISSÃO EXECUTIVA DE COMUNIDADE INTERMUNICIPAL\nVOGAL DE COMISSÃO DE VENCIMENTOS\nVOGAL DO CONSELHO DE COMUNIDADE DE AGRUPAMENTOS DE SAÚDE\nVOGAL DE CONSELHO GERAL DE COMARCA",
                 "funOrdem": "2",
                 "funAntiga": "S"
@@ -35322,7 +35397,7 @@
           },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "4312",
+              "codId": "4412",
               "codDes": "MEDALHA DE MÉRITO GRAU OURO POR SERVIÇOS DISTINTOS - LIGA DOS BOMBEIROS PORTUGUESES",
               "codOrdem": "1"
             }
@@ -37275,6 +37350,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -38430,6 +38512,13 @@
                   "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             }
@@ -39704,7 +39793,7 @@
         {
           "cadId": "3919",
           "cadNomeCompleto": "AMADEU ALBERTINO MARQUES SOARES ALBERGARIA",
-          "cadActividadeProfissional": "Advogado - (inscrição suspensa)",
+          "cadActividadeProfissional": "Advogado",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
@@ -49895,7 +49984,8 @@
         {
           "cadId": "6121",
           "cadNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA",
-          "cadEstadoCivilCod": "0"
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "6129",
@@ -51851,8 +51941,8 @@
         {
           "cadId": "5952",
           "cadNomeCompleto": "MARIA MANUEL DE ALMEIDA ROLA",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)",
+          "cadEstadoCivilCod": "2",
+          "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "7888",
