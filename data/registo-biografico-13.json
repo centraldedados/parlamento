@@ -2280,16 +2280,16 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4724",
-                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
-                  "orgSigla": "GT-PACRP",
+                  "orgId": "5084",
+                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
+                  "orgSigla": "GT-SL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5084",
-                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
-                  "orgSigla": "GT-SL",
+                  "orgId": "4724",
+                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
+                  "orgSigla": "GT-PACRP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -2337,7 +2337,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -2346,6 +2346,13 @@
                   "orgId": "6684",
                   "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
                   "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -2608,7 +2615,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -4402,7 +4409,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -6155,7 +6162,7 @@
                   "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
                   "orgSigla": "CNECP",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4532",
@@ -6196,7 +6203,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -7597,7 +7604,7 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
                 "orgId": "6244",
-                "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                 "orgSigla": "GT-DG",
                 "legDes": "XIII",
                 "timDes": "Efetivo"
@@ -8678,6 +8685,13 @@
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -11001,6 +11015,18 @@
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -11130,7 +11156,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -15221,7 +15247,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -15237,6 +15263,13 @@
                   "orgId": "6864",
                   "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
                   "orgSigla": "GT-AI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15591,8 +15624,15 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -16640,6 +16680,13 @@
                   "orgSigla": "GT-ECI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -17210,7 +17257,7 @@
           "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
           "cadDtNascimento": "1971-07-08",
           "cadSexo": "M",
-          "cadProfissao": "PROFESSOR",
+          "cadProfissao": "Administrador de Empresas",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -17232,6 +17279,29 @@
                 "gpDes": "Partido Social Democrata"
               }
             ]
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "27360",
+                "habDes": "Engenharia Agro Pecuária",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "27361",
+                "habDes": "MBA Gestão Empresas",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
+              "funId": "31076",
+              "funDes": "Presidente da Assembleia Municipal de Ourém",
+              "funOrdem": "1",
+              "funAntiga": "N"
+            }
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -17348,7 +17418,22 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4525",
+                "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                "orgSigla": "CNECP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "CGP"
+                  }
+                }
+              }
+            }
+          }
         },
         {
           "cadId": "2129",
@@ -19158,8 +19243,15 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6924",
+                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
+                  "orgSigla": "GT-LPMM6A",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -21374,7 +21466,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -23712,7 +23804,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -25686,13 +25778,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26320",
+                "habId": "27320",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26321",
+                "habId": "27321",
                 "habDes": "Direito e Gestão",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -25702,58 +25794,82 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30036",
+                "funId": "31036",
                 "funDes": "Presidente da Comissão Política Nacional da JSD\n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30037",
-                "funDes": "Conselheira Nacional do PSD\n",
+                "funId": "31037",
+                "funDes": "Membro da Assembleia Municipal da Marinha Grande",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30038",
-                "funDes": "Membro da Assembleia Municipal da Marinha Grande",
+                "funId": "31038",
+                "funDes": "Membro do Conselho Geral do Instituto Francisco Sá Carneiro",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30039",
-                "funDes": "Tesoureira da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
+                "funId": "31039",
+                "funDes": "Presidente de Mesa do Conselho Distrital de Leiria da JSD",
                 "funOrdem": "4",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "30040",
-                "funDes": "Tesoureira da Direção da Associação Europeia de Estudantes de Direito da Faculdade de Direito de Lisboa – ELSA FDL\n",
+                "funId": "31040",
+                "funDes": "Tesoureira da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "30041",
-                "funDes": "Representante dos estudantes no Conselho Académico da Faculdade de Direito de Lisboa\n",
+                "funId": "31041",
+                "funDes": "Tesoureira da Direção da Associação Europeia de Estudantes de Direito da Faculdade de Direito de Lisboa – ELSA FDL\n",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "30042",
-                "funDes": "Vogal da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
+                "funId": "31042",
+                "funDes": "Representante dos estudantes no Conselho Académico da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "30043",
-                "funDes": "Presidente da Associação de Estudantes da Escola Secundária Acácio Calazans Duarte",
+                "funId": "31043",
+                "funDes": "Vogal da Direção da Associação Académica da Faculdade de Direito de Lisboa\n",
                 "funOrdem": "8",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31044",
+                "funDes": "Presidente da Associação de Estudantes da Escola Secundária Acácio Calazans Duarte",
+                "funOrdem": "9",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31045",
+                "funDes": "Presidente de Mesa do Plenário de Militantes do PSD Marinha Grande",
+                "funOrdem": "10",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31046",
+                "funDes": "Presidente da Comissão Política da JSD/Marinha Grande",
+                "funOrdem": "11",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31047",
+                "funDes": "Presidente da Comissão Política Distrital de Leiria da JSD",
+                "funOrdem": "12",
                 "funAntiga": "S"
               }
             ]
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "7351",
+              "pubId": "7691",
               "pubDes": "Colaboração no livro “O Estatuto dos Grandes Contribuintes de Angola”, publicado em 2014 pela Almedina",
               "pubOrdem": "1"
             }
@@ -47417,9 +47533,9 @@
         {
           "cadId": "1706",
           "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
-          "cadActividadeProfissional": "PROFESSOR",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
+          "cadActividadeProfissional": "Administrador de Empresas",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "2234",

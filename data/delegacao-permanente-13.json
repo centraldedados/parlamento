@@ -193,7 +193,52 @@
               "local": "Cidade da Praia",
               "dataInicio": "10-01-2019",
               "dataFim": "11-01-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ÂNGELA GUERRA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4031"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS PÁSCOA GONÇALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "2104"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "ELZA PAIS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4209"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS MOREIRA TESTA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4126"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MARCO ANTÓNIO COSTA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "646"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PORFÍRIO SILVA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "469"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião com os Chefes de Unidade da Direção-Geral da Cooperação Internacional e do Desenvolvimento (DG DEVCO) da Comissão Europeiia",
@@ -201,7 +246,15 @@
               "local": "Bruxelas",
               "dataInicio": "06-01-2019",
               "dataFim": "08-01-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MARCO ANTÓNIO COSTA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "646"
+                }
+              }
             },
             {
               "nome": "Missão de Observação Eleitoral da CPLP",
@@ -1097,7 +1150,24 @@
               "local": "Bruxelas",
               "dataInicio": "10-01-2019",
               "dataFim": "10-01-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Fórum Parlamentar Transatlântico",
@@ -8099,6 +8169,14 @@
         },
         "reunioes": {
           "Reuniao": [
+            {
+              "nome": "5+5 Diálogo do Mediterrâneo Ocidental 2019",
+              "tipo": "REN",
+              "local": "La Valetta",
+              "dataInicio": "17-01-2019",
+              "dataFim": "18-01-2019",
+              "participantes": null
+            },
             {
               "nome": "Conferência Intergovernamental da ONU para Adotar o Pacto Global para uma Migração Segura, Ordenada e Regular",
               "tipo": "REN",
