@@ -1406,13 +1406,6 @@
                   "orgSigla": "GT-MCL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3135,7 +3128,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -6310,27 +6303,18 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5044",
-                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
-                  "orgSigla": "GT-MUD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "5044",
+                "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                "orgSigla": "GT-MUD",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
-              ]
+              }
             }
           }
         },
@@ -6451,27 +6435,13 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "6024",
-                  "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
-                  "orgSigla": "GT-PIG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6024",
+                "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
+                "orgSigla": "GT-PIG",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -7926,7 +7896,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
@@ -16162,13 +16132,6 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6625",
                   "orgDes": "Grupo de Trabalho - Ordens Profissionais",
                   "orgSigla": "GT-OP",
@@ -16183,7 +16146,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -16282,6 +16245,13 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4530",
+                  "orgDes": "Comissão de Agricultura e Mar",
+                  "orgSigla": "CAM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "4532",
                   "orgDes": "Comissão de Saúde",
@@ -17283,25 +17253,39 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "27360",
+                "habId": "27400",
                 "habDes": "Engenharia Agro Pecuária",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "27361",
+                "habId": "27401",
                 "habDes": "MBA Gestão Empresas",
                 "habTipoId": "16"
               }
             ]
           },
           "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "31076",
-              "funDes": "Presidente da Assembleia Municipal de Ourém",
-              "funOrdem": "1",
-              "funAntiga": "N"
-            }
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "31116",
+                "funDes": "Presidente da Assembleia Municipal de Ourém",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "31117",
+                "funDes": "Vereador na Câmara Municipal de Ourém",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31118",
+                "funDes": "Deputado Assembleia da República",
+                "funOrdem": "3",
+                "funAntiga": "S"
+              }
+            ]
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -22400,13 +22384,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6604",
                   "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
                   "orgSigla": "GT-ECI",
@@ -22416,7 +22393,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -27190,7 +27167,9 @@
         {
           "cadId": "6014",
           "cadNomeCompleto": "MARIA DA LUZ MARQUES LOPES",
+          "cadDtNascimento": "1961-03-13",
           "cadSexo": "F",
+          "cadProfissao": "Professora",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Maria Lopes",
@@ -27201,6 +27180,43 @@
               "gpSigla": "PS",
               "gpDes": "Partido Socialista"
             }
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "27392",
+                "habDes": "Ensino Básico",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "27393",
+                "habDes": "Supervisão Pedagógica e Formação de Formadores; Universidade de Coimbra; FPCE",
+                "habTipoId": "14",
+                "habEstado": "C"
+              },
+              {
+                "habId": "27394",
+                "habDes": "2018/2019 - Inscrita no Mestrado Administração Educacional; ISCTE; Universidade Lisboa",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "31104",
+                "funDes": "Deputada\nMembro da Assembleia Municipal de Torres Novas\nMembro da Comunidade Intermunicipal do Médio Tejo",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "31105",
+                "funDes": "Coordenação de Departamento: Educação Especial\nProfessora\nMembro da Assembleia Municipal de Torres Novas\nMembro da Comunidade Intermunicipal do Médio Tejo",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              }
+            ]
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -35013,7 +35029,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -36010,13 +36026,6 @@
                   "orgSigla": "GT-ATCE",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -37151,7 +37160,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -37729,13 +37738,6 @@
                   "orgId": "5604",
                   "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
                   "orgSigla": "GT-AIAAO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -38347,7 +38349,7 @@
               "pt_ar_wsgode_objectos_DadosOrgaos": {
                 "orgId": "6884",
                 "orgDes": "Grupo de Trabalho - Leis Laborais",
-                "orgSigla": "GT-LB",
+                "orgSigla": "GT-LL",
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
@@ -39454,7 +39456,7 @@
                 {
                   "orgId": "6884",
                   "orgDes": "Grupo de Trabalho - Leis Laborais",
-                  "orgSigla": "GT-LB",
+                  "orgSigla": "GT-LL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -51968,7 +51970,9 @@
         {
           "cadId": "6014",
           "cadNomeCompleto": "MARIA DA LUZ MARQUES LOPES",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Professora",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "4380",
