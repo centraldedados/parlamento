@@ -2146,8 +2146,8 @@
               "gpDtInicio": "1986-09-01"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "7",
+          "depCPDes": "ÉVORA",
           "legDes": "IV",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -2558,8 +2558,8 @@
                 "gpDtFim": "1987-08-12"
               },
               {
-                "gpId": "6082",
-                "gpSigla": "DESC",
+                "gpId": "996",
+                "gpSigla": "PS",
                 "gpDtInicio": "1986-05-01",
                 "gpDtFim": "1986-05-14"
               }
@@ -5019,8 +5019,8 @@
                 "gpDtFim": "1987-08-12"
               },
               {
-                "gpId": "6082",
-                "gpSigla": "DESC",
+                "gpId": "996",
+                "gpSigla": "PS",
                 "gpDtInicio": "1985-11-04",
                 "gpDtFim": "1985-11-16"
               }
@@ -5135,8 +5135,8 @@
               "gpDtInicio": "1985-11-04"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
           "legDes": "IV",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -6572,8 +6572,8 @@
               "gpDtInicio": "1985-12-10"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "IV",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -9614,8 +9614,8 @@
               "gpDtInicio": "1985-11-05"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
           "legDes": "IV",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -9625,29 +9625,6 @@
             }
           },
           "depNomeCompleto": "PEDRO AMADEU DE ALBUQUERQUE SANTOS COELHO"
-        },
-        {
-          "depId": "9967",
-          "depCadId": "4854",
-          "depNomeParlamentar": "PEDRO COELHO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "996",
-              "gpSigla": "PS",
-              "gpDtInicio": "1985-11-04"
-            }
-          },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
-          "legDes": "IV",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1985-11-04",
-              "sioDtFim": "1985-11-05"
-            }
-          },
-          "depNomeCompleto": "PEDRO AMADEU DE ALBUQUERQUE COELHO"
         },
         {
           "depId": "4543",

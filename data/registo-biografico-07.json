@@ -55,10 +55,10 @@
                 "depNomeParlamentar": "Acácio Barreiros",
                 "legDes": "III",
                 "ceDes": "LISBOA",
-                "parSigla": "UDP",
-                "parDes": "União Democrática Popular",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Acácio Barreiros",
@@ -2224,13 +2224,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21417",
+                "habId": "27280",
                 "habDes": "Engenharia Mecânica",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21418",
+                "habId": "27281",
                 "habDes": "Engenharia Mecânica",
                 "habTipoId": "14",
                 "habEstado": "C"
@@ -2240,49 +2240,49 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25191",
+                "funId": "31016",
                 "funDes": "Presidente da Assembleia Geral do Núcleo Treinadores de Futebol de Aveiro",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25192",
-                "funDes": "Vice-Presidente da Direção da Associação P.dre Osório- Pigeiros\n\n\nMembro do Conselho de Jurisdição da Ordem dos Engenheiros Técnicos",
+                "funId": "31017",
+                "funDes": "Sócio da empresa Proelgás lda- S.Maria da Feira\n\n\nMembro do Conselho de Jurisdição da Ordem dos Engenheiros Técnicos",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "25193",
+                "funId": "31018",
                 "funDes": "Presidente da Junta de Freguesia de Pigeiros",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "25194",
+                "funId": "31019",
                 "funDes": "Vereador da Câmara Municipal de S. M. da Feira",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "25195",
+                "funId": "31020",
                 "funDes": "Deputado na XII Legislatura",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "25196",
+                "funId": "31021",
                 "funDes": "Membro Assembleia de Freguesia de Pigeiros",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "25197",
+                "funId": "31022",
                 "funDes": "Deputado na VII Legislatura",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "25198",
+                "funId": "31023",
                 "funDes": "Membro da Assembleia Municipal S. M. da Feira",
                 "funOrdem": "8",
                 "funAntiga": "S"
@@ -2291,10 +2291,35 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            },
+            "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4535",
-                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                "orgSigla": "CCCJD",
+                "orgId": "4624",
+                "orgDes": "Grupo de Trabalho Desporto",
+                "orgSigla": "GT-D",
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
@@ -2935,6 +2960,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3314,9 +3346,9 @@
               {
                 "depNomeParlamentar": "António Guterres",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "CASTELO BRANCO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -4797,7 +4829,7 @@
               {
                 "depNomeParlamentar": "Armando Vara",
                 "legDes": "V",
-                "ceDes": "Desconhecido",
+                "ceDes": "BRAGANÇA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -5930,25 +5962,25 @@
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "SETÚBAL",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "SETÚBAL",
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
@@ -6327,9 +6359,9 @@
               {
                 "depNomeParlamentar": "Carlos Coelho",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               }
@@ -12228,6 +12260,27 @@
                   "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6964",
+                  "orgDes": "Grupo de Trabalho - Programa Nacional da Política do Ordenamento do Território",
+                  "orgSigla": "GT-PNPOT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6984",
+                  "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
+                  "orgSigla": "GT-SICI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7004",
+                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                  "orgSigla": "GT-DC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -13149,9 +13202,9 @@
               {
                 "depNomeParlamentar": "Jaime Ramos",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "COIMBRA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
@@ -13467,8 +13520,8 @@
                 "depNomeParlamentar": "João Corregedor Da Fonseca",
                 "legDes": "V",
                 "ceDes": "LISBOA",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
+                "parSigla": "CDU",
+                "parDes": "Coligação Democrática Unitária",
                 "gpSigla": "ID",
                 "gpDes": "Intervenção Democrática",
                 "indDes": "Independente",
@@ -13495,11 +13548,11 @@
               {
                 "depNomeParlamentar": "João Corregedor Da Fonseca",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "ceDes": "LISBOA",
+                "parSigla": "APU",
+                "parDes": "Aliança Povo Unido",
+                "gpSigla": "MDP/CDE",
+                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
               }
             ]
           },
@@ -17417,6 +17470,29 @@
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5044",
+                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                  "orgSigla": "GT-MUD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6944",
+                  "orgDes": "Grupo de Trabalho - Análise das Apreciações Parlamentares nºs. 62, 63, 65 e 66/XIII",
+                  "orgSigla": "GT-AAP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -25226,9 +25302,9 @@
               {
                 "depNomeParlamentar": "Nuno Abecasis",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               },
@@ -25396,7 +25472,7 @@
               {
                 "depNomeParlamentar": "Octávio Teixeira",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -30079,7 +30155,7 @@
               {
                 "depNomeParlamentar": "Vital Moreira",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
+                "ceDes": "AVEIRO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -30088,7 +30164,7 @@
               {
                 "depNomeParlamentar": "Vital Moreira",
                 "legDes": "IB",
-                "ceDes": "LISBOA",
+                "ceDes": "AVEIRO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",

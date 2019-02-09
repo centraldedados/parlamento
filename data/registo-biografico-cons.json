@@ -33,10 +33,10 @@
               "depNomeParlamentar": "Abílio Lourenço",
               "legDes": "Cons",
               "ceDes": "LEIRIA",
-              "parSigla": "Desc",
-              "parDes": "Desconhecido",
-              "gpSigla": "DESC",
-              "gpDes": "Desconhecido"
+              "parSigla": "PPD",
+              "parDes": "Partido Popular Democrático",
+              "gpSigla": "PPD",
+              "gpDes": "Partido Popular Democrata"
             }
           },
           "cadActividadeOrgaos": null
@@ -70,10 +70,10 @@
                 "depNomeParlamentar": "Adelino Amaro Da Costa",
                 "legDes": "Cons",
                 "ceDes": "BRAGA",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "parSigla": "CDS",
+                "parDes": "Centro Democrático Social",
+                "gpSigla": "CDS",
+                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -916,9 +916,9 @@
               {
                 "depNomeParlamentar": "Alberto Oliveira E Silva",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "VIANA DO CASTELO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -1917,9 +1917,9 @@
               {
                 "depNomeParlamentar": "António Campos",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "COIMBRA",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -2427,9 +2427,9 @@
               {
                 "depNomeParlamentar": "António Macedo",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "PORTO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -3496,9 +3496,9 @@
               {
                 "depNomeParlamentar": "Bento Gonçalves",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "PORTO",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
@@ -4624,9 +4624,9 @@
               {
                 "depNomeParlamentar": "Eleutério Alves",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "BEJA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
@@ -4769,9 +4769,9 @@
               {
                 "depNomeParlamentar": "Etelvina Almeida",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "LISBOA",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -4994,20 +4994,11 @@
               {
                 "depNomeParlamentar": "Fernando Amaral",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "VISEU",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Fernando Amaral",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               },
               {
                 "depNomeParlamentar": "Fernando Amaral",
@@ -5676,7 +5667,7 @@
               {
                 "depNomeParlamentar": "Freitas Do Amaral",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "CDS",
                 "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
@@ -5837,15 +5828,6 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Germano Domingos",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               },
               {
                 "depNomeParlamentar": "Germano Domingos",
@@ -8251,7 +8233,7 @@
               {
                 "depNomeParlamentar": "José Tengarrinha",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "MDP/CDE",
@@ -8263,15 +8245,6 @@
                 "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "MDP/CDE",
-                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
-              },
-              {
-                "depNomeParlamentar": "José Tengarrinha",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "MDP/CDE",
-                "parDes": "Movimento Democrático Português / Comissão Democrática Eleitoral",
                 "gpSigla": "MDP/CDE",
                 "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
               },
@@ -8838,15 +8811,6 @@
                 "ceDes": "FARO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "MDP/CDE",
-                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
-              },
-              {
-                "depNomeParlamentar": "Luis Catarino",
-                "legDes": "IA",
-                "ceDes": "FARO",
-                "parSigla": "MDP/CDE",
-                "parDes": "Movimento Democrático Português / Comissão Democrática Eleitoral",
                 "gpSigla": "MDP/CDE",
                 "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
               },
@@ -10210,7 +10174,7 @@
               {
                 "depNomeParlamentar": "Manuel Tito De Morais",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
+                "ceDes": "VIANA DO CASTELO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -10219,7 +10183,7 @@
               {
                 "depNomeParlamentar": "Manuel Tito De Morais",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "VIANA DO CASTELO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -10381,7 +10345,7 @@
               {
                 "depNomeParlamentar": "Maria Élia Câmara",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "FUNCHAL",
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
@@ -11106,7 +11070,7 @@
               {
                 "depNomeParlamentar": "Miguel Urbano Rodrigues",
                 "legDes": "Cons",
-                "ceDes": "Desconhecido",
+                "ceDes": "BEJA",
                 "parSigla": "PCP",
                 "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
@@ -11902,7 +11866,7 @@
               {
                 "depNomeParlamentar": "Nicolau De Freitas",
                 "legDes": "Cons",
-                "ceDes": "Desconhecido",
+                "ceDes": "FUNCHAL",
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
@@ -12103,7 +12067,7 @@
               {
                 "depNomeParlamentar": "Octávio Pato",
                 "legDes": "IB",
-                "ceDes": "SANTARÉM",
+                "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -13183,9 +13147,9 @@
               {
                 "depNomeParlamentar": "Rui Sampaio",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "PORTO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -13496,7 +13460,7 @@
               {
                 "depNomeParlamentar": "Vital Moreira",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
+                "ceDes": "AVEIRO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -13505,7 +13469,7 @@
               {
                 "depNomeParlamentar": "Vital Moreira",
                 "legDes": "IB",
-                "ceDes": "LISBOA",
+                "ceDes": "AVEIRO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",

@@ -67,8 +67,8 @@
               "gpDtInicio": "1982-07-01"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "17",
+          "depCPDes": "VILA REAL",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -416,8 +416,8 @@
               "gpDtInicio": "1982-03-04"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -2415,8 +2415,8 @@
               "gpDtInicio": "1980-11-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -3555,8 +3555,8 @@
               "gpDtInicio": "1980-11-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "10",
+          "depCPDes": "LEIRIA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -7461,8 +7461,8 @@
               "gpDtInicio": "1980-11-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -8081,8 +8081,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -10271,8 +10271,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "5",
+          "depCPDes": "CASTELO BRANCO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -10755,8 +10755,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -15669,8 +15669,8 @@
               "gpDtInicio": "1982-06-14"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -16399,8 +16399,8 @@
               "gpDtInicio": "1982-08-12"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "15",
+          "depCPDes": "SETÚBAL",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -16714,8 +16714,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -17234,8 +17234,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "15",
+          "depCPDes": "SETÚBAL",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -18196,43 +18196,6 @@
             ]
           },
           "depNomeCompleto": "CARLOS MANUEL NATIVIDADE DA COSTA CANDAL"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CARLOS COSTA SOUSA",
-                "dpl_lg": "II",
-                "dpl_grpar": "PS"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "9940",
-          "depCadId": "3648",
-          "depNomeParlamentar": "CARLOS COSTA SOUSA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "980",
-              "gpSigla": "PS",
-              "gpDtInicio": "1982-11-24"
-            }
-          },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1982-11-24",
-              "sioDtFim": "1982-11-27"
-            }
-          },
-          "depNomeCompleto": "CARLOS ALBERTO DA COSTA DE SOUSA"
         }
       },
       {
@@ -21168,8 +21131,8 @@
               "gpDtInicio": "1981-10-22"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -23907,8 +23870,8 @@
               "gpDtInicio": "1981-10-12"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "10",
+          "depCPDes": "LEIRIA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -24356,8 +24319,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "2",
+          "depCPDes": "BEJA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -25591,8 +25554,8 @@
               "gpDtInicio": "1982-07-01"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -26693,8 +26656,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "10",
+          "depCPDes": "LEIRIA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -34473,8 +34436,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -35852,12 +35815,23 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "33135",
+                "iniNr": "11",
+                "iniTp": "R",
+                "iniTpdesc": "Projeto de Resolução",
+                "iniSelLg": "II",
+                "iniSelNr": "3",
+                "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
+              }
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "JOÃO CORREGEDOR DA FONSECA",
                 "dpl_lg": "II",
-                "dpl_grpar": "DESC"
+                "dpl_grpar": "MDP/CDE"
               }
             }
           }
@@ -35868,13 +35842,13 @@
           "depNomeParlamentar": "JOÃO CORREGEDOR DA FONSECA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6079",
-              "gpSigla": "DESC",
+              "gpId": "986",
+              "gpSigla": "MDP/CDE",
               "gpDtInicio": "1982-11-04"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -36234,8 +36208,8 @@
               "gpDtInicio": "1981-10-22"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -37085,66 +37059,6 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "ini": {
               "pt_gov_ar_wsar_objectos_IniciativasOut": {
-                "iniId": "30727",
-                "iniNr": "365",
-                "iniTp": "J",
-                "iniTpdesc": "Projeto de Lei",
-                "iniSelLg": "II",
-                "iniSelNr": "2",
-                "iniTi": "Mudança de designação e sede da freguesia de Insua para Penalva do Castelo"
-              }
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOÃO OSÓRIO MATEUS",
-                "dpl_lg": "II",
-                "dpl_grpar": "PPM"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4864",
-          "depCadId": "3610",
-          "depNomeParlamentar": "JOÃO OSÓRIO MATEUS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "983",
-              "gpSigla": "PPM",
-              "gpDtInicio": "1982-03-23"
-            }
-          },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
-              {
-                "sioDes": "Efetivo",
-                "sioDtInicio": "1982-07-26",
-                "sioDtFim": "1982-07-31"
-              },
-              {
-                "sioDes": "Efetivo",
-                "sioDtInicio": "1982-05-10",
-                "sioDtFim": "1982-05-13"
-              },
-              {
-                "sioDes": "Efetivo",
-                "sioDtInicio": "1982-03-23",
-                "sioDtFim": "1982-03-27"
-              }
-            ]
-          },
-          "depNomeCompleto": "JOÃO CARLOS OSÓRIO DE ALMEIDA MATEUS"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": {
                 "iniId": "31072",
                 "iniNr": "104",
                 "iniTp": "F",
@@ -37468,8 +37382,8 @@
               "gpDtInicio": "1982-07-15"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -43547,8 +43461,8 @@
               "gpDtInicio": "1980-11-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "8",
+          "depCPDes": "FARO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -45243,8 +45157,8 @@
               "gpDtInicio": "1982-07-27"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "7",
+          "depCPDes": "ÉVORA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -45920,43 +45834,6 @@
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ PITA GUERREIRO",
-                "dpl_lg": "II",
-                "dpl_grpar": "PS"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "9945",
-          "depCadId": "3364",
-          "depNomeParlamentar": "JOSÉ PITA GUERREIRO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "980",
-              "gpSigla": "PS",
-              "gpDtInicio": "1982-07-06"
-            }
-          },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1982-07-06",
-              "sioDtFim": "1982-07-09"
-            }
-          },
-          "depNomeCompleto": "JOSÉ JOAQUIM PITA GUERREIRO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "JOSÉ RIBEIRO E CASTRO",
                 "dpl_lg": "II",
                 "dpl_grpar": "CDS"
@@ -46019,8 +45896,8 @@
               "gpDtInicio": "1983-02-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "3",
+          "depCPDes": "BRAGA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -46056,8 +45933,8 @@
               "gpDtInicio": "1980-11-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -53198,8 +53075,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "4",
+          "depCPDes": "BRAGANÇA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -53235,8 +53112,8 @@
               "gpDtInicio": "1981-06-02"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -54888,8 +54765,8 @@
               "gpDtInicio": "1981-12-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -60015,8 +59892,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -63071,7 +62948,7 @@
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "RAUL CASTRO",
                 "dpl_lg": "II",
-                "dpl_grpar": "DESC"
+                "dpl_grpar": "MDP/CDE"
               }
             }
           }
@@ -63082,13 +62959,13 @@
           "depNomeParlamentar": "RAUL CASTRO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6079",
-              "gpSigla": "DESC",
+              "gpId": "986",
+              "gpSigla": "MDP/CDE",
               "gpDtInicio": "1981-03-20"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -63589,7 +63466,7 @@
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "RODOLFO CRESPO",
                 "dpl_lg": "II",
-                "dpl_grpar": "PS"
+                "dpl_grpar": "MDP/CDE"
               }
             }
           }
@@ -63600,13 +63477,13 @@
           "depNomeParlamentar": "RODOLFO CRESPO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "980",
-              "gpSigla": "PS",
+              "gpId": "986",
+              "gpSigla": "MDP/CDE",
               "gpDtInicio": "1982-07-01"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "10",
+          "depCPDes": "LEIRIA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -64686,8 +64563,8 @@
               "gpDtInicio": "1982-03-04"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -65351,8 +65228,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -68865,8 +68742,8 @@
               "gpDtInicio": "1980-11-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
           "legDes": "II",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {

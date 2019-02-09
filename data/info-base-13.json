@@ -1882,8 +1882,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-02-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-02-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -5414,8 +5419,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-02-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-02-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -7986,7 +7996,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-01-10"
+                "gpDtFim": "2019-02-07"
               },
               {
                 "gpId": "4465",
@@ -8836,11 +8846,19 @@
           "depCPDes": "VIANA DO CASTELO",
           "legDes": "XIII",
           "depCargo": {
-            "pt_ar_wsgode_objectos_DadosCargoDeputado": {
-              "carId": "7",
-              "carDes": "Vice-Secretário",
-              "carDtInicio": "2015-12-18"
-            }
+            "pt_ar_wsgode_objectos_DadosCargoDeputado": [
+              {
+                "carId": "5",
+                "carDes": "Secretário",
+                "carDtInicio": "2019-01-11"
+              },
+              {
+                "carId": "7",
+                "carDes": "Vice-Secretário",
+                "carDtInicio": "2015-12-18",
+                "carDtFim": "2019-01-11"
+              }
+            ]
           },
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -8965,6 +8983,13 @@
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
           "legDes": "XIII",
+          "depCargo": {
+            "pt_ar_wsgode_objectos_DadosCargoDeputado": {
+              "carId": "7",
+              "carDes": "Vice-Secretário",
+              "carDtInicio": "2019-01-11"
+            }
+          },
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {

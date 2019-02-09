@@ -55,10 +55,10 @@
                 "depNomeParlamentar": "Acácio Barreiros",
                 "legDes": "III",
                 "ceDes": "LISBOA",
-                "parSigla": "UDP",
-                "parDes": "União Democrática Popular",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Acácio Barreiros",
@@ -3188,6 +3188,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -4083,7 +4090,7 @@
               {
                 "depNomeParlamentar": "Armando Vara",
                 "legDes": "V",
-                "ceDes": "Desconhecido",
+                "ceDes": "BRAGANÇA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -9094,9 +9101,9 @@
               {
                 "depNomeParlamentar": "Fernando Costa",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LEIRIA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
@@ -11678,6 +11685,27 @@
                   "orgId": "6684",
                   "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
                   "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6964",
+                  "orgDes": "Grupo de Trabalho - Programa Nacional da Política do Ordenamento do Território",
+                  "orgSigla": "GT-PNPOT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6984",
+                  "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
+                  "orgSigla": "GT-SICI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7004",
+                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                  "orgSigla": "GT-DC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -18061,7 +18089,7 @@
                 },
                 {
                   "orgId": "6244",
-                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN e PJL 563/XIII/PEV)",
+                  "orgDes": "Grupo de Trabalho - Direito das Grávidas (PJL 555/XIII/PAN, PJL 563/XIII/PEV, 872/XIIIPS e 1034/XIIIPAN)",
                   "orgSigla": "GT-DG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -18348,6 +18376,29 @@
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5044",
+                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                  "orgSigla": "GT-MUD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6944",
+                  "orgDes": "Grupo de Trabalho - Análise das Apreciações Parlamentares nºs. 62, 63, 65 e 66/XIII",
+                  "orgSigla": "GT-AAP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -18806,7 +18857,7 @@
               {
                 "depNomeParlamentar": "José Ribeiro E Castro",
                 "legDes": "IB",
-                "ceDes": "BRAGA",
+                "ceDes": "AVEIRO",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
@@ -27570,7 +27621,7 @@
               {
                 "depNomeParlamentar": "Octávio Teixeira",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -29494,6 +29545,13 @@
                   "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7004",
+                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                  "orgSigla": "GT-DC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -29948,7 +30006,7 @@
               {
                 "depNomeParlamentar": "Pedro Santana Lopes",
                 "legDes": "III",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
@@ -32945,6 +33003,13 @@
                   "orgId": "6764",
                   "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2018",
                   "orgSigla": "GT-JPDH2018",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

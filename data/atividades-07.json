@@ -9962,7 +9962,7 @@
           "numero": "65",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PCP"
+            "string": "PCP; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766331395753556b764e6a5666566b6c4a4c6e426b5a673d3d&fich=65_VII.pdf&Inline=true"
         },
@@ -15948,228 +15948,105 @@
       ]
     },
     "Audicoes": {
-      "ArrayOfPt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": {
-            "IDAudicao": "94091",
-            "numeroAudicao": "62-CACDLG-XII",
-            "legislatura": "XII",
-            "sessaoLegislativa": "2",
-            "assunto": "Audição sobre a atividade desenvolvida pela Inspeção Geral da Administração Interna (a requerimento Grupo Parlamentar do PCP)",
-            "entidades": "Inspetora Geral da Administração Interna, Dr.ª Maria Margarida Blasco Martins Augusto",
-            "data": "2012-12-11"
-          }
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
-              "IDAudicao": "73206",
-              "numeroAudicao": "21-DN-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "ALTERAÇÃO À LEI DE PROGRAMAÇÃO MILITAR",
-              "entidades": "AMPORDEF - Presidente Drº Niguel Morais Leitão",
-              "data": "2003-04-01"
-            },
-            {
-              "IDAudicao": "73169",
-              "numeroAudicao": "9-DN-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "JUSTIÇA E DISCIPLINA MILITAR",
-              "entidades": "Chefe de Estado Maior da Armada - Almirante Francisco António Torres Vidal Abreu",
-              "data": "2003-03-11"
-            },
-            {
-              "IDAudicao": "73164",
-              "numeroAudicao": "4-DN-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": " JUSTIÇA E DISCIPLINA MILITAR",
-              "entidades": "ASMIR - Associação de Militares na Reforma",
-              "data": "2003-02-25"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": {
-            "IDAudicao": "73516",
-            "numeroAudicao": "3-ADRP-IX",
-            "legislatura": "IX",
-            "sessaoLegislativa": "1",
-            "assunto": "Revisão intercalar da Política Agrícola Comum",
-            "entidades": "Ministro da Agricultura e o Secretário de Estado das Pescas",
-            "data": "2002-07-25"
-          }
+      "ArrayOfPt_gov_ar_objectos_DadosAudicoesComissaoOut": {
+        "pt_gov_ar_objectos_DadosAudicoesComissaoOut": {
+          "IDAudicao": "94091",
+          "numeroAudicao": "62-CACDLG-XII",
+          "legislatura": "XII",
+          "sessaoLegislativa": "2",
+          "assunto": "Audição sobre a atividade desenvolvida pela Inspeção Geral da Administração Interna (a requerimento Grupo Parlamentar do PCP)",
+          "entidades": "Inspetora Geral da Administração Interna, Dr.ª Maria Margarida Blasco Martins Augusto",
+          "data": "2012-12-11"
         }
-      ]
+      }
     },
     "Audiencias": {
-      "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "70919",
-              "numeroAudiencia": "19-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Sector Privado de Hospitalização",
-              "entidades": null,
-              "data": "2000-01-18",
-              "concedida": "Não realizada"
-            },
-            {
-              "IDAudiencia": "71856",
-              "numeroAudiencia": "15-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Situação dos Fisioterapeutas em Portugal",
-              "entidades": "Sindicato dos Fisioterapeutas Portugueses",
-              "data": "2000-02-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71849",
-              "numeroAudiencia": "14-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Criação da Ordem dos Fisioterapeutas",
-              "entidades": "Associação Portuguesa de Fisioterapeutas",
-              "data": "2000-02-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70938",
-              "numeroAudiencia": "10-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Comunicado Público resultante da reunião ocorrida entre as Associações parceiras da area da Saude Mental",
-              "entidades": "Sindicato Nacional de Polícia",
-              "data": "2000-02-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70935",
-              "numeroAudiencia": "9-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Conclusoes do Forum Aborto um ano depois do Referendo- Que balanço?",
-              "entidades": "Plataforma Pela Despenalização do Aborto",
-              "data": "2000-02-01",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70933",
-              "numeroAudiencia": "7-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Processo de aprovação das licenciaturas propostas aos Ministérios Saúde e Educação avaliação",
-              "entidades": "Escola Superior de Enfermagem Calouste Gulbenkian de Lisboa",
-              "data": "2001-01-31",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "70923",
-              "numeroAudiencia": "5-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Uniformização da formação dos alunos do Instituto Superior das Tecnologias da Saúde",
-              "entidades": "Associação Nacional dos Tecnicos de Farmacia e Outros",
-              "data": "2000-01-19",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "71537",
-              "numeroAudiencia": "4-ST-VII",
-              "legislatura": "VII",
-              "sessaoLegislativa": "4",
-              "assunto": "Hospitalização privada",
-              "entidades": "Associação Portuguesa de Hospitaliuzação Privada",
-              "data": "2000-01-18",
-              "concedida": "Concedida"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "74979",
-              "numeroAudiencia": "25-ADRP-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "3",
-              "assunto": "APRESENTAÇÃO DOS OBJECTIVOS DE INTERNACIONALIZAÇÃO DA  AVESTRUZ MASTER PORTUGAL E TEMÁTICA ESTRUTIOCULTURA",
-              "entidades": "Avestruz Master Portugal",
-              "data": "2004-10-27",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "74583",
-              "numeroAudiencia": "24-ADRP-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "UNIFORMIZAÇÃO DA TAXA DO IVA SOBRE ALIMENTOS PARA ANIMAIS",
-              "entidades": "Associação dos Produtores de Alimentos para Animais de Companhia - APMVEAC;Associação dos Produtores de Alimentos para Animais de Companhia - ALIAN;Associação Portuguesa dos Industriais de Alimentos Compostos para Animais - IACA",
-              "data": "2204-06-09",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73507",
-              "numeroAudiencia": "13-ADRP-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DE PRINCIPAIS CONCLUSÕES DO IV CONGRESSO DA CNA",
-              "entidades": "Confederação Nacional da Agricultura - CNA",
-              "data": "2003-04-08",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73498",
-              "numeroAudiencia": "11-ADRP-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "DAR CONTA DOS GRAVES PREJUÍZOS NA AGRICULTURA DEVIDO AO MAU TEMPO",
-              "entidades": "Federação dos Agricultores do Distrito de Santarém",
-              "data": "2002-12-18",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73497",
-              "numeroAudiencia": "10-ADRP-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "DAR CONHECIMENTO DE FACTOS QUE ATINGEM O SECTOR DA ALIMENTAÇÃO RACIONAL E DIETÉCTICA",
-              "entidades": "Associação Portuguesa de Alimentação Racional e Dietética - APARD",
-              "data": "2002-12-18",
-              "concedida": "Concedida"
-            }
-          ]
-        }
-      ]
-    },
-    "Deslocacoes": {
-      "ArrayOfPt_gov_ar_objectos_DadosDeslocacoesComissaoOut": {
-        "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+      "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": {
+        "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
           {
-            "IDDeslocacao": "94044",
-            "legislatura": "XII",
-            "sessaoLegislativa": "2",
-            "dataIni": "2012-12-01",
-            "dataFim": "2012-12-04",
-            "designacao": "Conferencia dos Presidentes de Comissões dos Direitos Humanos - Presidência Cipriota do Conselho da União Europeia",
-            "localEvento": "Nicósia - Chipre"
+            "IDAudiencia": "70919",
+            "numeroAudiencia": "19-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Sector Privado de Hospitalização",
+            "entidades": null,
+            "data": "2000-01-18",
+            "concedida": "Não realizada"
           },
           {
-            "IDDeslocacao": "93816",
-            "legislatura": "XII",
-            "sessaoLegislativa": "2",
-            "dataIni": "2012-10-15",
-            "dataFim": "2012-10-18",
-            "designacao": "Conferência sobre o Reforço e Implementação das Instituições Nacionais de Direitos Humanos (INDH) nos Países de Língua Oficial Portuguesa - Painel subordinado ao tema: \"O Papel das Instituições Nacionais de Direitos Humanos face ao Governo, Parlamento e outros atores institucionais\"",
-            "localEvento": "Cabo Verde"
+            "IDAudiencia": "71856",
+            "numeroAudiencia": "15-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Situação dos Fisioterapeutas em Portugal",
+            "entidades": "Sindicato dos Fisioterapeutas Portugueses",
+            "data": "2000-02-02",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "71849",
+            "numeroAudiencia": "14-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Criação da Ordem dos Fisioterapeutas",
+            "entidades": "Associação Portuguesa de Fisioterapeutas",
+            "data": "2000-02-02",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "70938",
+            "numeroAudiencia": "10-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Comunicado Público resultante da reunião ocorrida entre as Associações parceiras da area da Saude Mental",
+            "entidades": "Sindicato Nacional de Polícia",
+            "data": "2000-02-01",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "70935",
+            "numeroAudiencia": "9-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Conclusoes do Forum Aborto um ano depois do Referendo- Que balanço?",
+            "entidades": "Plataforma Pela Despenalização do Aborto",
+            "data": "2000-02-01",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "70933",
+            "numeroAudiencia": "7-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Processo de aprovação das licenciaturas propostas aos Ministérios Saúde e Educação avaliação",
+            "entidades": "Escola Superior de Enfermagem Calouste Gulbenkian de Lisboa",
+            "data": "2001-01-31",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "70923",
+            "numeroAudiencia": "5-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Uniformização da formação dos alunos do Instituto Superior das Tecnologias da Saúde",
+            "entidades": "Associação Nacional dos Tecnicos de Farmacia e Outros",
+            "data": "2000-01-19",
+            "concedida": "Concedida"
+          },
+          {
+            "IDAudiencia": "71537",
+            "numeroAudiencia": "4-ST-VII",
+            "legislatura": "VII",
+            "sessaoLegislativa": "4",
+            "assunto": "Hospitalização privada",
+            "entidades": "Associação Portuguesa de Hospitaliuzação Privada",
+            "data": "2000-01-18",
+            "concedida": "Concedida"
           }
         ]
       }
     },
+    "Deslocacoes": null,
     "Eventos": null
   }
 }

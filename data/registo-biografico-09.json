@@ -193,10 +193,10 @@
                 "depNomeParlamentar": "Acácio Barreiros",
                 "legDes": "III",
                 "ceDes": "LISBOA",
-                "parSigla": "UDP",
-                "parDes": "União Democrática Popular",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Acácio Barreiros",
@@ -3638,6 +3638,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -6263,7 +6270,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "15980",
+              "habId": "27420",
               "habDes": "Licenciatura em Geografia e D.E.A. Pluridisciplinar Geografia, Sociologia e Agronomia (Diplôme d'Études Approfondies - Université Paris X)",
               "habTipoId": "13",
               "habEstado": "C"
@@ -6272,109 +6279,109 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "20696",
+                "funId": "31136",
                 "funDes": "Deputado na XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "20697",
+                "funId": "31137",
                 "funDes": "Membro da Assembleia Parlamentar do Conselho da Europa",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "20698",
+                "funId": "31138",
                 "funDes": "Presidente da Comissão Política do PSD em Paris",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "20699",
+                "funId": "31139",
                 "funDes": "Presidente do Grupo Parlamentar de Amizade Portugal-França ",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "20700",
+                "funId": "31140",
                 "funDes": "Vice-Presidente do Grupo Parlamentar de Amizade Portugal-Luxemburgo",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "20701",
+                "funId": "31141",
                 "funDes": "Membro da Assembleia Parlamentar Euro-Mediterrânica",
                 "funOrdem": "6",
                 "funAntiga": "N"
               },
               {
-                "funId": "20702",
+                "funId": "31142",
                 "funDes": "Secretário de Estado das Comunidades Portuguesas\n(XVI Governo Constitucional)",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "20703",
+                "funId": "31143",
                 "funDes": "Deputado na IX Legislatura",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "20704",
+                "funId": "31144",
                 "funDes": "Deputado na X Legislatura",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "20705",
+                "funId": "31145",
                 "funDes": "Deputado na XI Legislatura",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "20706",
+                "funId": "31146",
                 "funDes": "Deputado na XII Legislatura",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "20707",
+                "funId": "31147",
                 "funDes": "Vice-Presidente da Comissão de Negócios Estrangeiros e das Comunidades Portuguesas na XII Legislatura",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "20708",
+                "funId": "31148",
                 "funDes": "Presidente do Grupo Parlamentar de Amizade Portugal-França",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "20709",
+                "funId": "31149",
                 "funDes": "Secretário-Geral Adjunto e Presidente da Mesa da Assembleia Geral do Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "20710",
+                "funId": "31150",
                 "funDes": "Membro da Assembleia Parlamentar do Mediterrâneo",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "20711",
+                "funId": "31151",
                 "funDes": "Membro da Comissão de Assuntos Europeus e Política Externa",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "20712",
+                "funId": "31152",
                 "funDes": "Membro da Comissão de Defesa Nacional",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "20713",
+                "funId": "31153",
                 "funDes": "Membro da Subcomissão das Comunidades Portuguesas",
                 "funOrdem": "18",
                 "funAntiga": "S"
@@ -6383,7 +6390,7 @@
           },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "2512",
+              "codId": "4452",
               "codDes": "\"Chevalier de la Légion d'Honneur\" - França\nGrã-cruz da Ordem de Mérito do Grão Ducado do Luxemburgo\n",
               "codOrdem": "1"
             }
@@ -13463,6 +13470,27 @@
                   "orgSigla": "GT-RP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6964",
+                  "orgDes": "Grupo de Trabalho - Programa Nacional da Política do Ordenamento do Território",
+                  "orgSigla": "GT-PNPOT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6984",
+                  "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
+                  "orgSigla": "GT-SICI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7004",
+                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                  "orgSigla": "GT-DC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -16173,7 +16201,7 @@
           "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
           "cadDtNascimento": "1971-07-08",
           "cadSexo": "M",
-          "cadProfissao": "PROFESSOR",
+          "cadProfissao": "Administrador de Empresas",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -16193,6 +16221,43 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
+              }
+            ]
+          },
+          "cadHabilitacoes": {
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
+              {
+                "habId": "27400",
+                "habDes": "Engenharia Agro Pecuária",
+                "habTipoId": "13",
+                "habEstado": "C"
+              },
+              {
+                "habId": "27401",
+                "habDes": "MBA Gestão Empresas",
+                "habTipoId": "16"
+              }
+            ]
+          },
+          "cadCargosFuncoes": {
+            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
+              {
+                "funId": "31116",
+                "funDes": "Presidente da Assembleia Municipal de Ourém",
+                "funOrdem": "1",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "31117",
+                "funDes": "Vereador na Câmara Municipal de Ourém",
+                "funOrdem": "2",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31118",
+                "funDes": "Deputado Assembleia da República",
+                "funOrdem": "3",
+                "funAntiga": "S"
               }
             ]
           },
@@ -16564,13 +16629,6 @@
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6784",
-                  "orgDes": "Grupo de Trabalho - Atividade Seguradora e Resseguradora",
-                  "orgSigla": "GT-ASR",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -21147,6 +21205,29 @@
                 "legDes": "XIII",
                 "timDes": "Efetivo"
               }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5044",
+                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                  "orgSigla": "GT-MUD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6944",
+                  "orgDes": "Grupo de Trabalho - Análise das Apreciações Parlamentares nºs. 62, 63, 65 e 66/XIII",
+                  "orgSigla": "GT-AAP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -36013,6 +36094,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -36269,13 +36357,6 @@
                   "orgId": "5604",
                   "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
                   "orgSigla": "GT-AIAAO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6484",
-                  "orgDes": "Grupo de Trabalho - Alteração do Regime Jurídico dos Bailarinos Profissionais",
-                  "orgSigla": "GT-ARJBP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -39692,9 +39773,9 @@
         {
           "cadId": "1706",
           "cadNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES",
-          "cadActividadeProfissional": "PROFESSOR",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
+          "cadActividadeProfissional": "Administrador de Empresas",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "1242",
