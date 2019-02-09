@@ -376,7 +376,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -385,7 +385,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -436,7 +436,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "20",
@@ -451,7 +451,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-06"
               }
             ]
@@ -600,7 +600,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "14",
@@ -609,7 +609,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -840,7 +840,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -849,7 +849,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -870,7 +870,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -879,7 +879,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -993,8 +993,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "2",
+          "depCPDes": "BEJA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -1547,8 +1547,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -1584,8 +1584,8 @@
               "gpDtInicio": "1980-05-21"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "3",
+          "depCPDes": "BRAGA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -2355,8 +2355,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -2505,8 +2505,8 @@
               "gpDtInicio": "1980-05-13"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -2819,8 +2819,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
+          "depCPId": "5",
+          "depCPDes": "CASTELO BRANCO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -3119,8 +3119,8 @@
               "gpDtInicio": "1980-01-15"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -3410,8 +3410,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
+          "depCPId": "15",
+          "depCPDes": "SETÚBAL",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -3542,8 +3542,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "16",
-          "depCPDes": "VIANA DO CASTELO",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -3639,8 +3639,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "18",
+          "depCPDes": "VISEU",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -5731,8 +5731,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -6082,8 +6082,8 @@
               "gpDtInicio": "1980-05-15"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "22",
+          "depCPDes": "FORA DA EUROPA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -6354,13 +6354,13 @@
           "depNomeParlamentar": "JOSÉ MANUEL CASQUEIRO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "971",
-              "gpSigla": "PSD",
+              "gpId": "974",
+              "gpSigla": "CDS",
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
+          "depCPId": "12",
+          "depCPDes": "PORTALEGRE",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -6606,8 +6606,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "3",
-          "depCPDes": "BRAGA",
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -7010,8 +7010,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -7931,8 +7931,8 @@
               "gpDtInicio": "1980-02-06"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -8291,8 +8291,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -9418,8 +9418,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -9455,8 +9455,8 @@
               "gpDtInicio": "1980-02-01"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -9515,8 +9515,8 @@
               "gpDtInicio": "1980-06-28"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "15",
+          "depCPDes": "SETÚBAL",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -9630,13 +9630,13 @@
           "depNomeParlamentar": "RAUL CASTRO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6078",
-              "gpSigla": "ID",
+              "gpId": "976",
+              "gpSigla": "MDP/CDE",
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "13",
+          "depCPDes": "PORTO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -9961,8 +9961,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "10",
-          "depCPDes": "LEIRIA",
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -9991,8 +9991,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
+          "depCPId": "18",
+          "depCPDes": "VISEU",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -10153,8 +10153,8 @@
               "gpDtInicio": "1980-01-03"
             }
           },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
           "legDes": "IB",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {

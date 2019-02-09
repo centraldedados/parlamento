@@ -19,7 +19,12 @@
         },
         {
           "numSessao": "3",
-          "dataInicio": "2017-09-15"
+          "dataInicio": "2017-09-15",
+          "dataFim": "2018-09-14"
+        },
+        {
+          "numSessao": "4",
+          "dataInicio": "2018-09-15"
         }
       ]
     },
@@ -783,8 +788,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-19"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2017-07-14"
+                "sioDtInicio": "2017-07-14",
+                "sioDtFim": "2018-12-19"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -1049,8 +1059,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -1467,8 +1482,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-12-19"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2016-11-25"
+                "sioDtInicio": "2016-11-25",
+                "sioDtFim": "2018-12-19"
               },
               {
                 "sioDes": "Suspenso(Não Eleito)",
@@ -1589,8 +1609,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -1857,8 +1882,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-02-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-02-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -1907,6 +1937,40 @@
             ]
           },
           "depNomeCompleto": "MARIA CONSTANÇA DIAS URBANO DE SOUSA"
+        },
+        {
+          "depId": "8774",
+          "depCadId": "5609",
+          "depNomeParlamentar": "CRISTINA JESUS",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Não Eleito)",
+                "sioDtInicio": "2018-12-10"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-17",
+                "sioDtFim": "2018-12-10"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
+          },
+          "depNomeCompleto": "CRISTINA MARIA DOMINGUES DE JESUS"
         },
         {
           "depId": "8388",
@@ -2019,8 +2083,43 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-05"
+              },
+              {
                 "sioDes": "Impedido",
-                "sioDtInicio": "2018-02-06"
+                "sioDtInicio": "2018-10-04",
+                "sioDtFim": "2018-10-05"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-09-28",
+                "sioDtFim": "2018-10-04"
+              },
+              {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-09-27"
+              },
+              {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-07-11",
+                "sioDtFim": "2018-07-12"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-02-07",
+                "sioDtFim": "2018-07-11"
+              },
+              {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-02-06",
+                "sioDtFim": "2018-02-07"
               },
               {
                 "sioDes": "Suplente",
@@ -2175,6 +2274,35 @@
           }
         },
         {
+          "depId": "9258",
+          "depCadId": "5710",
+          "depNomeParlamentar": "DUARTE ALVES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4468",
+              "gpSigla": "PCP",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-09-15"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-15"
+              }
+            ]
+          },
+          "depNomeCompleto": "DUARTE LE FALHER DE CAMPOS ALVES"
+        },
+        {
           "depId": "8405",
           "depCadId": "4170",
           "depNomeParlamentar": "DUARTE MARQUES",
@@ -2189,10 +2317,17 @@
           "depCPDes": "SANTARÉM",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-12-28"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-28"
+              }
+            ]
           },
           "depNomeCompleto": "DUARTE FILIPE BATISTA DE MATOS MARQUES",
           "videos": {
@@ -2658,8 +2793,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-09-01"
               },
               {
                 "sioDes": "Suplente",
@@ -2669,6 +2809,35 @@
             ]
           },
           "depNomeCompleto": "FERNANDO MANUEL DE JESUS"
+        },
+        {
+          "depId": "9087",
+          "depCadId": "5954",
+          "depNomeParlamentar": "FERNANDO MANUEL BARBOSA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4466",
+              "gpSigla": "BE",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "FERNANDO MANUEL COSTA BARBOSA"
         },
         {
           "depId": "8350",
@@ -3013,10 +3182,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-01"
+              }
+            ]
           },
           "depNomeCompleto": "MARIA GABRIELA DA SILVEIRA FERREIRA CANAVILHAS",
           "videos": {
@@ -3273,8 +3449,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-04"
               },
               {
                 "sioDes": "Suplente",
@@ -3337,7 +3518,17 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2018-02-07"
+                "sioDtInicio": "2018-07-12"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-07-11",
+                "sioDtFim": "2018-07-12"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-02-07",
+                "sioDtFim": "2018-07-11"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -3427,14 +3618,22 @@
             "pt_ar_wsgode_objectos_DadosCargoDeputado": {
               "carId": "5",
               "carDes": "Secretário",
-              "carDtInicio": "2015-10-28"
+              "carDtInicio": "2015-10-28",
+              "carDtFim": "2019-01-04"
             }
           },
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-04"
+              }
+            ]
           },
           "depNomeCompleto": "IDÁLIA MARIA MARQUES SALVADOR SERRÃO"
         },
@@ -3585,6 +3784,35 @@
               "url": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ISABEL_ALVES_MOREIRA.mp4"
             }
           }
+        },
+        {
+          "depId": "8775",
+          "depCadId": "5610",
+          "depNomeParlamentar": "ISABEL CRUZ",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "6",
+          "depCPDes": "COIMBRA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-10"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-10"
+              }
+            ]
+          },
+          "depNomeCompleto": "ROSA ISABEL CRUZ"
         },
         {
           "depId": "8543",
@@ -3844,7 +4072,47 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
                 "sioDes": "Efetivo Definitivo",
-                "sioDtInicio": "2017-07-20"
+                "sioDtInicio": "2018-11-16"
+              },
+              {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-11-15",
+                "sioDtFim": "2018-11-16"
+              },
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-10-25",
+                "sioDtFim": "2018-11-15"
+              },
+              {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-10-24",
+                "sioDtFim": "2018-10-25"
+              },
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-10-11",
+                "sioDtFim": "2018-10-24"
+              },
+              {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-10-10",
+                "sioDtFim": "2018-10-11"
+              },
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-09-20",
+                "sioDtFim": "2018-10-10"
+              },
+              {
+                "sioDes": "Suspenso(Efet Def)",
+                "sioDtInicio": "2018-09-19",
+                "sioDtFim": "2018-09-20"
+              },
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2017-07-20",
+                "sioDtFim": "2018-09-19"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -3940,6 +4208,50 @@
           "depNomeCompleto": "JOÃO MANUEL ILDEFONSO DIAS"
         },
         {
+          "depId": "8860",
+          "depCadId": "5936",
+          "depNomeParlamentar": "JOÃO FONSECA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-11-16"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-11-15",
+                "sioDtFim": "2018-11-16"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-25",
+                "sioDtFim": "2018-11-15"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-24",
+                "sioDtFim": "2018-10-25"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-24"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOÃO MIGUEL CASTRO FONSECA"
+        },
+        {
           "depId": "8447",
           "depCadId": "4166",
           "depNomeParlamentar": "JOÃO GALAMBA",
@@ -3954,10 +4266,17 @@
           "depCPDes": "COIMBRA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO SALDANHA DE AZEVEDO GALAMBA"
         },
@@ -4054,6 +4373,35 @@
           "depNomeCompleto": "JOÃO CARLOS IZIDORO MARQUES"
         },
         {
+          "depId": "8671",
+          "depCadId": "1706",
+          "depNomeParlamentar": "JOÃO MOURA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4464",
+              "gpSigla": "PSD",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-28"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-28"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOÃO MANUEL MOURA RODRIGUES"
+        },
+        {
           "depId": "8554",
           "depCadId": "2234",
           "depNomeParlamentar": "JOÃO OLIVEIRA",
@@ -4068,10 +4416,22 @@
           "depCPDes": "ÉVORA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-12-01",
+                "sioDtFim": "2019-01-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO GUILHERME RAMOS ROSA DE OLIVEIRA"
         },
@@ -4295,10 +4655,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-10-17"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO VELOSO DA SILVA TORRES",
           "videos": {
@@ -4429,10 +4796,17 @@
           "depCPDes": "PORTO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-12-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
           },
           "depNomeCompleto": "JORGE MANUEL COSTA CAMPOS"
         },
@@ -4875,6 +5249,40 @@
           "depNomeCompleto": "JOSÉ LUÍS TEIXEIRA FERREIRA"
         },
         {
+          "depId": "8855",
+          "depCadId": "189",
+          "depNomeParlamentar": "JOSÉ MAGALHÃES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-01"
+              },
+              {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2017-07-20",
+                "sioDtFim": "2018-09-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2017-07-20"
+              }
+            ]
+          },
+          "depNomeCompleto": "JOSÉ MANUEL SANTOS DE MAGALHÃES"
+        },
+        {
           "depId": "8503",
           "depCadId": "1432",
           "depNomeParlamentar": "JOSÉ MANUEL CARPINTEIRA",
@@ -4952,10 +5360,17 @@
           "depCPDes": "LEIRIA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-07-24"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-07-24"
+              }
+            ]
           },
           "depNomeCompleto": "JOSÉ MIGUEL ABREU DE FIGUEIREDO MEDEIROS"
         },
@@ -5004,8 +5419,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-02-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-02-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -5180,8 +5600,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -5225,6 +5650,35 @@
             ]
           },
           "depNomeCompleto": "LÍLIA ANA DA CRUZ OLIVEIRA MARTINS ÁGUAS"
+        },
+        {
+          "depId": "8690",
+          "depCadId": "6121",
+          "depNomeParlamentar": "LILIANA SILVA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4464",
+              "gpSigla": "PSD",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "16",
+          "depCPDes": "VIANA DO CASTELO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA"
         },
         {
           "depId": "8926",
@@ -5273,7 +5727,37 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-02-07"
+                "sioDtInicio": "2018-10-05"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-04",
+                "sioDtFim": "2018-10-05"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-09-28",
+                "sioDtFim": "2018-10-04"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-09-27"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-07-11",
+                "sioDtFim": "2018-07-12"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-02-07",
+                "sioDtFim": "2018-07-11"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -5356,8 +5840,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2019-01-01"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -5386,7 +5875,17 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-02-07"
+                "sioDtInicio": "2018-07-12"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-07-11",
+                "sioDtFim": "2018-07-12"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-02-07",
+                "sioDtFim": "2018-07-11"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -5591,10 +6090,42 @@
           "depCPDes": "BRAGA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-20"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-19",
+                "sioDtFim": "2018-10-20"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-05",
+                "sioDtFim": "2018-10-19"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-10-04",
+                "sioDtFim": "2018-10-05"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-09-28",
+                "sioDtFim": "2018-10-04"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2018-09-27",
+                "sioDtFim": "2018-09-28"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-27"
+              }
+            ]
           },
           "depNomeCompleto": "LUÍS MIGUEL DE FREITAS MARQUES CARVALHO SOARES"
         },
@@ -5730,8 +6261,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Efetivo",
@@ -5872,8 +6408,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Efetivo",
@@ -6094,6 +6635,55 @@
           "depNomeCompleto": "MARIA CELESTE VILELA FERNANDES CARDOSO"
         },
         {
+          "depId": "8857",
+          "depCadId": "4136",
+          "depNomeParlamentar": "MARIA CONCEIÇÃO LOUREIRO",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-17"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-11",
+                "sioDtFim": "2018-10-17"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-10-10",
+                "sioDtFim": "2018-10-11"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-09-20",
+                "sioDtFim": "2018-10-10"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-09-19",
+                "sioDtFim": "2018-09-20"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-19"
+              }
+            ]
+          },
+          "depNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO"
+        },
+        {
           "depId": "8619",
           "depCadId": "4051",
           "depNomeParlamentar": "MARIA CONCEIÇÃO PEREIRA",
@@ -6222,6 +6812,35 @@
             ]
           },
           "depNomeCompleto": "MARIA JOÃO MACHADO DE ÁVILA"
+        },
+        {
+          "depId": "8883",
+          "depCadId": "6014",
+          "depNomeParlamentar": "MARIA LOPES",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "14",
+          "depCPDes": "SANTARÉM",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-01-04"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-01-04"
+              }
+            ]
+          },
+          "depNomeCompleto": "MARIA DA LUZ MARQUES LOPES"
         },
         {
           "depId": "8406",
@@ -6617,10 +7236,17 @@
           "depCPDes": "LISBOA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-09-15"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-09-15"
+              }
+            ]
           },
           "depNomeCompleto": "MIGUEL TIAGO CRISPIM ROSADO"
         },
@@ -6873,8 +7499,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Definitivo",
+                "sioDtInicio": "2018-07-24"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2017-07-14"
+                "sioDtInicio": "2017-07-14",
+                "sioDtFim": "2018-07-24"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -6965,8 +7596,33 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-20"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-02-07"
+                "sioDtInicio": "2018-10-19",
+                "sioDtFim": "2018-10-20"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-15",
+                "sioDtFim": "2018-10-19"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-07-12",
+                "sioDtFim": "2018-10-15"
+              },
+              {
+                "sioDes": "Suspenso(Não Eleito)",
+                "sioDtInicio": "2018-07-11",
+                "sioDtFim": "2018-07-12"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-02-07",
+                "sioDtFim": "2018-07-11"
               },
               {
                 "sioDes": "Suspenso(Não Eleito)",
@@ -7335,11 +7991,20 @@
           "depCadId": "6045",
           "depNomeParlamentar": "PAULO TRIGO PEREIRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "4465",
-              "gpSigla": "PS",
-              "gpDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "20000085",
+                "gpSigla": "Ninsc",
+                "gpDtInicio": "2018-12-06",
+                "gpDtFim": "2019-02-07"
+              },
+              {
+                "gpId": "4465",
+                "gpSigla": "PS",
+                "gpDtInicio": "2015-10-23",
+                "gpDtFim": "2018-12-06"
+              }
+            ]
           },
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
@@ -7858,8 +8523,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2018-10-15"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-15"
               },
               {
                 "sioDes": "Suplente",
@@ -7965,10 +8635,17 @@
           "depCPDes": "AVEIRO",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Renunciou",
+                "sioDtInicio": "2018-12-19"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-19"
+              }
+            ]
           },
           "depNomeCompleto": "ROSA MARIA DA SILVA BASTOS DA HORTA ALBERNAZ",
           "videos": {
@@ -8169,11 +8846,19 @@
           "depCPDes": "VIANA DO CASTELO",
           "legDes": "XIII",
           "depCargo": {
-            "pt_ar_wsgode_objectos_DadosCargoDeputado": {
-              "carId": "7",
-              "carDes": "Vice-Secretário",
-              "carDtInicio": "2015-12-18"
-            }
+            "pt_ar_wsgode_objectos_DadosCargoDeputado": [
+              {
+                "carId": "5",
+                "carDes": "Secretário",
+                "carDtInicio": "2019-01-11"
+              },
+              {
+                "carId": "7",
+                "carDes": "Vice-Secretário",
+                "carDtInicio": "2015-12-18",
+                "carDtFim": "2019-01-11"
+              }
+            ]
           },
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
@@ -8298,6 +8983,13 @@
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
           "legDes": "XIII",
+          "depCargo": {
+            "pt_ar_wsgode_objectos_DadosCargoDeputado": {
+              "carId": "7",
+              "carDes": "Vice-Secretário",
+              "carDtInicio": "2019-01-11"
+            }
+          },
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
@@ -8493,8 +9185,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Impedido",
+                "sioDtInicio": "2018-10-01"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2015-11-27"
+                "sioDtInicio": "2015-11-27",
+                "sioDtFim": "2018-10-01"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -8628,6 +9325,40 @@
             }
           },
           "depNomeCompleto": "ULISSES MANUEL BRANDÃO PEREIRA"
+        },
+        {
+          "depId": "9239",
+          "depCadId": "5641",
+          "depNomeParlamentar": "VALTER LOIOS",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4468",
+              "gpSigla": "PCP",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "7",
+          "depCPDes": "ÉVORA",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2019-01-01"
+              },
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2018-12-01",
+                "sioDtFim": "2019-01-01"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2018-12-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "VALTER RICARDO BORRALHO DOS LOIOS"
         },
         {
           "depId": "8537",

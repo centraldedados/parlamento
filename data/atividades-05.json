@@ -615,12 +615,12 @@
               "supl": ".",
               "pubdt": "1989-06-03",
               "pag": {
-                "string": null
+                "string": "4546-4601"
               },
               "idPag": null,
               "idInt": null,
               "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03?pgs=&org=PLC",
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03/4546?pgs=4546-4601&org=PLC",
               "debateDtReu": "1989-06-02",
               "idDeb": "23294"
             }
@@ -1425,6 +1425,23 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "V",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1987-12-12",
+                    "pag": {
+                      "string": "683-683"
+                    },
+                    "idPag": "573555",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
+                    "idDeb": null
+                  },
+                  {
                     "pubNr": "30",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1440,23 +1457,6 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/030/1987-12-12/718?pgs=718&org=PLC",
-                    "idDeb": null
-                  },
-                  {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "V",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1987-12-12",
-                    "pag": {
-                      "string": "683-683"
-                    },
-                    "idPag": "573555",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -1736,7 +1736,7 @@
         {
           "tipo": "SES",
           "descTipo": "Cerimónia",
-          "assunto": "Tomada de Posse de S. Exa o Presidente da República Mário Soares.",
+          "assunto": "Sessão Solene da Tomada de Posse de Sua Excelência o Presidente da República, Mário Soares",
           "legislatura": "V",
           "sessao": "4",
           "dataEntrada": "1991-03-09",
@@ -3663,7 +3663,7 @@
           "numero": "204",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; PSD; PS; PRD"
+            "string": "PS; PRD; PSD; PCP; CDS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a49774e4639574c6e426b5a673d3d&fich=204_V.pdf&Inline=true"
         },
@@ -3977,7 +3977,7 @@
           "numero": "198",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "CDS; PCP; PRD; INDEP; PSD; PS"
+            "string": "PS; PRD; PSD; PCP; INDEP; CDS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354f4639574c6e426b5a673d3d&fich=198_V.pdf&Inline=true"
         },
@@ -4108,7 +4108,7 @@
           "numero": "195",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PS; INDEP; PRD; PSD"
+            "string": "PS; PRD; INDEP; PSD; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354e5639574c6e426b5a673d3d&fich=195_V.pdf&Inline=true"
         },
@@ -4256,7 +4256,7 @@
           "numero": "192",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PSD"
+            "string": "PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45354d6c39574c6e426b5a673d3d&fich=192_V.pdf&Inline=true"
         },
@@ -7021,7 +7021,7 @@
           "numero": "146",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PSD"
+            "string": "PSD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45304e6c39574c6e426b5a673d3d&fich=146_V.pdf&Inline=true"
         },
@@ -7055,7 +7055,7 @@
           "numero": "145",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PS; PRD; PSD"
+            "string": "PS; PSD; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45304e5639574c6e426b5a673d3d&fich=145_V.pdf&Inline=true"
         },
@@ -7248,7 +7248,7 @@
           "numero": "140",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
-            "string": "PCP; CDS; PS; PRD; PEV"
+            "string": "PEV; PS; CDS; PCP; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a45304d4639574c6e426b5a673d3d&fich=140_V.pdf&Inline=true"
         },
@@ -7343,7 +7343,7 @@
           "numero": "138",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PCP; PSD; PS"
+            "string": "PS; PSD; PCP"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a457a4f4639574c6e426b5a673d3d&fich=138_V.pdf&Inline=true"
         },
@@ -11483,6 +11483,26 @@
               "idDeb": null
             }
           },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "92",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-06-03",
+              "pag": {
+                "string": "4545-4545"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03/4545?pgs=4545&org=PLC",
+              "debateDtReu": "1989-06-02",
+              "idDeb": "34059"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "48417",
@@ -11550,6 +11570,26 @@
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/05/02/028/1989-06-03/171?pgs=171&org=PLC",
               "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "92",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-06-03",
+              "pag": {
+                "string": "4544-4544"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03/4544?pgs=4544&org=PLC",
+              "debateDtReu": "1989-06-02",
+              "idDeb": "34058"
             }
           },
           "votacaoDebate": {
@@ -11622,6 +11662,26 @@
               "idDeb": null
             }
           },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "92",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-06-03",
+              "pag": {
+                "string": "4544-4544"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03/4544?pgs=4544&org=PLC",
+              "debateDtReu": "1989-06-02",
+              "idDeb": "34057"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "48415",
@@ -11692,6 +11752,26 @@
               "idDeb": null
             }
           },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "88",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-05-30",
+              "pag": {
+                "string": "4331-4331"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/088/1989-05-30/4331?pgs=4331&org=PLC",
+              "debateDtReu": "1989-05-29",
+              "idDeb": "33856"
+            }
+          },
           "votacaoDebate": {
             "pt_gov_ar_objectos_VotacaoOut": {
               "id": "48414",
@@ -11752,6 +11832,26 @@
               "idAct": null,
               "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/05/02/028/1989-06-03/170?pgs=170-171&org=PLC",
               "idDeb": null
+            }
+          },
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "92",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "V",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "1989-06-03",
+              "pag": {
+                "string": "4546-4546"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/02/092/1989-06-03/4546?pgs=4546&org=PLC",
+              "debateDtReu": "1989-06-02",
+              "idDeb": "34061"
             }
           },
           "votacaoDebate": {

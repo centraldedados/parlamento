@@ -218,10 +218,10 @@
                 "depNomeParlamentar": "Acácio Barreiros",
                 "legDes": "III",
                 "ceDes": "LISBOA",
-                "parSigla": "UDP",
-                "parDes": "União Democrática Popular",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Acácio Barreiros",
@@ -3793,9 +3793,9 @@
               {
                 "depNomeParlamentar": "António Campos",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "COIMBRA",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -4513,6 +4513,13 @@
                   "orgSigla": "CPIPREPE",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6804",
+                  "orgDes": "Comissão Parlamentar de Inquérito sobre as consequências e responsabilidades políticas do furto do material militar ocorrido em Tancos",
+                  "orgSigla": "CPITANCOS",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -4526,41 +4533,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5624",
-                  "orgDes": "Grupo de Trabalho - Petição n.º 250/XIII/2.ª - Toda a vida tem dignidade",
-                  "orgSigla": "GT-TVTD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6084",
-                  "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2017",
-                  "orgSigla": "GT-JPDH2017",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6124",
-                  "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                  "orgSigla": "GT-ALERJRE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6164",
-                  "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
-                  "orgSigla": "GT-ALN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6405",
                   "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
                   "orgSigla": "GT-IP",
@@ -4568,16 +4540,23 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6704",
-                  "orgDes": "Grupo de Trabalho - Regime do Maior Acompanhado",
-                  "orgSigla": "GT-RMA",
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6705",
-                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
-                  "orgSigla": "GT-RGPD",
+                  "orgId": "6764",
+                  "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2018",
+                  "orgSigla": "GT-JPDH2018",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6904",
+                  "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
+                  "orgSigla": "GT-ARJASM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -4702,9 +4681,9 @@
               {
                 "depNomeParlamentar": "António Guterres",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "CASTELO BRANCO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -6000,7 +5979,7 @@
               {
                 "depNomeParlamentar": "Armando Vara",
                 "legDes": "V",
-                "ceDes": "Desconhecido",
+                "ceDes": "BRAGANÇA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -7205,25 +7184,25 @@
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "SETÚBAL",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Cardoso Ferreira",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "SETÚBAL",
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
@@ -7759,9 +7738,9 @@
               {
                 "depNomeParlamentar": "Carlos Coelho",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               }
@@ -9299,15 +9278,6 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Cecília  Catarino",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -9676,9 +9646,9 @@
               {
                 "depNomeParlamentar": "Chaves Medeiros",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "VIANA DO CASTELO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -11037,9 +11007,9 @@
               {
                 "depNomeParlamentar": "Dinah Alhandra",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               }
@@ -11259,7 +11229,7 @@
               {
                 "depNomeParlamentar": "Domingues Azevedo",
                 "legDes": "III",
-                "ceDes": "Desconhecido",
+                "ceDes": "BRAGA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -13312,20 +13282,11 @@
               {
                 "depNomeParlamentar": "Fernando Amaral",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "VISEU",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Fernando Amaral",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               },
               {
                 "depNomeParlamentar": "Fernando Amaral",
@@ -13891,9 +13852,9 @@
               {
                 "depNomeParlamentar": "Fernando Costa",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LEIRIA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               },
@@ -14891,7 +14852,7 @@
               {
                 "depNomeParlamentar": "Freitas Do Amaral",
                 "legDes": "IA",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "CDS",
                 "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
@@ -16325,13 +16286,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5664",
-                  "orgDes": "Grupo de Trabalho - Apreciação dos Projetos de Lei 334/XIII e 338/XIII - Impacto Ambiental - Prospeção de Petróleo",
-                  "orgSigla": "GT-IAPP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5784",
                   "orgDes": "Grupo de Trabalho - Pacote Descentralização",
                   "orgSigla": "GT-PD",
@@ -16346,30 +16300,30 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "6204",
-                  "orgDes": "Grupo de Trabalho - Temática das Bactérias de Legionella",
-                  "orgSigla": "GT-TBL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6224",
-                  "orgDes": "Grupo de Trabalho - Remoção de Produtos que contêm Fibras de Amianto",
-                  "orgSigla": "GT-RPCFA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6304",
-                  "orgDes": "Grupo de Trabalho - Temática do Alojamento Local",
-                  "orgSigla": "GT-TAL",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6684",
-                  "orgDes": "Grupo de Trabalho - Temática Louça Descartável de Plástico",
-                  "orgSigla": "GT-TLDP",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6964",
+                  "orgDes": "Grupo de Trabalho - Programa Nacional da Política do Ordenamento do Território",
+                  "orgSigla": "GT-PNPOT",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6984",
+                  "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
+                  "orgSigla": "GT-SICI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7004",
+                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                  "orgSigla": "GT-DC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -18236,13 +18190,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5584",
-                "orgDes": "Grupo de Trabalho - Avaliação das PPP-Parcerias Público Privadas da Saúde",
-                "orgSigla": "GT-APPPS",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5584",
+                  "orgDes": "Grupo de Trabalho - Avaliação das PPP-Parcerias Público Privadas da Saúde",
+                  "orgSigla": "GT-APPPS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -19113,9 +19076,9 @@
               {
                 "depNomeParlamentar": "João Salgado",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
+                "ceDes": "LISBOA",
+                "parSigla": "AD",
+                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               }
@@ -20089,41 +20052,18 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "5844",
-                  "orgDes": "Grupo de Trabalho - Financiamento dos Partidos e das Campanhas Eleitorais",
-                  "orgSigla": "GT-FPCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6124",
-                  "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                  "orgSigla": "GT-ALERJRE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6164",
-                  "orgDes": "Grupo de Trabalho - Alteração da Lei da Nacionalidade",
-                  "orgSigla": "GT-ALN",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6405",
-                  "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
-                  "orgSigla": "GT-IP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "6405",
+                "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
+                "orgSigla": "GT-IP",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
                 }
-              ]
+              }
             }
           }
         },
@@ -20734,15 +20674,6 @@
                   "timDes": "Suplente"
                 }
               ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6124",
-                "orgDes": "Grupo de Trabalho - Alteração das Leis eleitorais e do regime jurídico do recenseamento eleitoral",
-                "orgSigla": "GT-ALERJRE",
-                "legDes": "XIII",
-                "timDes": "Suplente"
-              }
             }
           }
         },
@@ -21541,6 +21472,15 @@
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
                 "depNomeParlamentar": "José Magalhães",
+                "legDes": "XIII",
+                "ceDes": "PORTO",
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
+              },
+              {
+                "depNomeParlamentar": "José Magalhães",
                 "legDes": "XII",
                 "ceDes": "PORTO",
                 "parSigla": "PS",
@@ -21634,60 +21574,53 @@
             ]
           },
           "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
-              {
-                "habId": "12280",
-                "habDes": "Ciências Jurídico-Políticas",
-                "habTipoId": "14",
-                "habEstado": "C"
-              },
-              {
-                "habId": "12281",
-                "habDes": "Doutorando em Direito da Sociedade da Informação",
-                "habTipoId": "16"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
+              "habId": "26442",
+              "habDes": "Ciências Jurídico-Políticas",
+              "habTipoId": "14",
+              "habEstado": "C"
+            }
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "16956",
-                "funDes": "Deputado na XI Legislatura",
+                "funId": "30170",
+                "funDes": "Deputado na XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "16957",
-                "funDes": "Deputado à A.R. nas III,IV, V, VI, VII ,VIII, X,X e XI Legislaturas",
+                "funId": "30171",
+                "funDes": "Deputado à A.R. nas III,IV, V, VI, VII ,VIII, X,X, XI, XII Legislaturas",
                 "funOrdem": "2",
                 "funAntiga": "S"
               },
               {
-                "funId": "16958",
+                "funId": "30172",
                 "funDes": "Secretário de Estado dos Assuntos Parlamentares do XIV Governo Constitucional,Secretário de Estado Adjunto e da Administração Interna do XVII Governo Constitucional, Secretário de Estado da Justiça e da Modernização Judiciária do XVIII Governo Constitucional.",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "16959",
+                "funId": "30173",
                 "funDes": "Professor universitário.",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "16960",
+                "funId": "30174",
                 "funDes": "Escritor",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "16961",
+                "funId": "30175",
                 "funDes": "Comentador Político",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "16962",
+                "funId": "30176",
                 "funDes": "Consultor independente em Tecnologias de Informação nas áreas de Modernização e Simplificação Administrativas, Governo Electrónico e Combate ao crime. ",
                 "funOrdem": "7",
                 "funAntiga": "S"
@@ -21697,12 +21630,12 @@
           "cadTitulos": {
             "pt_ar_wsgode_objectos_DadosTitulos": [
               {
-                "titId": "1431",
+                "titId": "3415",
                 "titDes": "Mestre Em Ciências Juridico-Politicas pela Faculdade de Direito de Coimbra",
                 "titOrdem": "1"
               },
               {
-                "titId": "1432",
+                "titId": "3416",
                 "titDes": "Licenciatura em Direito pela Faculdade de Direito de Lisboa",
                 "titOrdem": "2"
               }
@@ -21711,63 +21644,101 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "3434",
+                "pubId": "7415",
                 "pubDes": "Dicionário da Revisão Constitucional, ed. Europa América, 1989",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "3435",
+                "pubId": "7416",
                 "pubDes": "Rumo ao Espaço Comum Informativo?, Coimbra Editora, 1991",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "3436",
+                "pubId": "7417",
                 "pubDes": "Diversos artigos em Revistas Jurídicas e de Ciências Sociais.",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "3437",
+                "pubId": "7418",
                 "pubDes": "O Roteiro Prático da Internet, 1995, 1996 (com CDROM",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "3438",
+                "pubId": "7419",
                 "pubDes": "Estatuto Político-Administrativo da Madeira Comentado, ed. Diário de Notícias da Madeira, 1999",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "3439",
+                "pubId": "7420",
                 "pubDes": "Dicionário da Revisão Constitucional, ed. Notícias, 1999 (Livro e CD Rom)",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "3440",
+                "pubId": "7421",
                 "pubDes": "Homo s@piens- Cenas da vida no ciberespaço, Quetzal, 1998",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "3441",
+                "pubId": "7422",
                 "pubDes": "Parlamentos na Era Digital- Ed. Colibri,2005",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "3442",
+                "pubId": "7423",
                 "pubDes": "Tecnologias   de Segurança na luta contra o crime:caminhos do futuro no espaço Schengen- 2007. ",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "3443",
+                "pubId": "7424",
                 "pubDes": "Plano Tecnológico do MAI percurso e perspectivas: (coord.)- ed. ebook, Julho de 2009- ",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "3444",
+                "pubId": "7425",
                 "pubDes": "Para uma Agenda Digital  da Justiça. passado e futuro - Fev  2011 - ed. ebook.",
                 "pubOrdem": "11"
+              },
+              {
+                "pubId": "7426",
+                "pubDes": "Políticos.pt - Guia Prático das Remunerações de Altos Cargos da República - ed. Aletheia - 2017",
+                "pubOrdem": "12"
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4535",
+                "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                "orgSigla": "CCCJD",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5044",
+                  "orgDes": "Grupo de Trabalho - Mercado Único Digital",
+                  "orgSigla": "GT-MUD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6944",
+                  "orgDes": "Grupo de Trabalho - Análise das Apreciações Parlamentares nºs. 62, 63, 65 e 66/XIII",
+                  "orgSigla": "GT-AAP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "213",
@@ -27965,7 +27936,7 @@
               {
                 "depNomeParlamentar": "Miguel Urbano Rodrigues",
                 "legDes": "Cons",
-                "ceDes": "Desconhecido",
+                "ceDes": "BEJA",
                 "parSigla": "PCP",
                 "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
@@ -29332,7 +29303,7 @@
               {
                 "depNomeParlamentar": "Octávio Teixeira",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
@@ -29605,9 +29576,9 @@
               {
                 "depNomeParlamentar": "Alberto Oliveira E Silva",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
+                "ceDes": "VIANA DO CASTELO",
+                "parSigla": "FRS",
+                "parDes": "Frente Republicana E Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
               },
@@ -30817,7 +30788,7 @@
               {
                 "depNomeParlamentar": "Pedro Santana Lopes",
                 "legDes": "III",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
@@ -31378,8 +31349,8 @@
                 "depNomeParlamentar": "Raul Castro",
                 "legDes": "V",
                 "ceDes": "PORTO",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
+                "parSigla": "CDU",
+                "parDes": "Coligação Democrática Unitária",
                 "gpSigla": "ID",
                 "gpDes": "Intervenção Democrática",
                 "indDes": "Independente",
@@ -31406,29 +31377,20 @@
               {
                 "depNomeParlamentar": "Raul Castro",
                 "legDes": "II",
-                "ceDes": "Desconhecido",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
-                "gpSigla": "DESC",
-                "gpDes": "Desconhecido"
+                "ceDes": "PORTO",
+                "parSigla": "APU",
+                "parDes": "Aliança Povo Unido",
+                "gpSigla": "MDP/CDE",
+                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
               },
               {
                 "depNomeParlamentar": "Raul Castro",
                 "legDes": "IB",
-                "ceDes": "Desconhecido",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
-                "gpSigla": "ID",
-                "gpDes": "Intervenção Democrática"
-              },
-              {
-                "depNomeParlamentar": "Raul Castro",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "Desc",
-                "parDes": "Desconhecido",
-                "gpSigla": "ID",
-                "gpDes": "Intervenção Democrática"
+                "ceDes": "PORTO",
+                "parSigla": "APU",
+                "parDes": "Aliança Povo Unido",
+                "gpSigla": "MDP/CDE",
+                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
               }
             ]
           },
@@ -32331,33 +32293,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "536",
@@ -33934,7 +33870,7 @@
               {
                 "depNomeParlamentar": "Teresa Santa Clara Gomes",
                 "legDes": "V",
-                "ceDes": "Desconhecido",
+                "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
@@ -34335,15 +34271,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Vitor Crespo",
-                "legDes": "IA",
-                "ceDes": "Desconhecido",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },

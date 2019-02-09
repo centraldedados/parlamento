@@ -3234,6 +3234,7 @@
         {
           "tipo": "OEX",
           "descTipo": "Eleições e composições de órgãos",
+          "assunto": "RESULTADOS DE ELEICAO PARA O CONSELHO SUPERIOR DE MAGISTRATURA",
           "legislatura": "VIII",
           "sessao": "1",
           "dataEntrada": "2000-06-16",
@@ -3257,6 +3258,7 @@
               "idDeb": "6284"
             }
           },
+          "orgaoExterior": "Conselho Superior da Magistratura",
           "numero": "6091",
           "tipoAutor": "Deputados",
           "autoresGP": {
@@ -3420,7 +3422,7 @@
         {
           "tipo": "SES",
           "descTipo": "Cerimónia",
-          "assunto": "Presidente da República Jorge Sampaio",
+          "assunto": "Sessão Solene da Tomada de Posse de Sua Excelência o Presidente da República, Jorge Sampaio",
           "legislatura": "VIII",
           "sessao": "2",
           "dataEntrada": "2001-03-09",
@@ -5388,6 +5390,88 @@
             "string": null
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276637938784e544e66566b6c4a535335775a47593d&fich=153_VIII.pdf&Inline=true"
+        },
+        {
+          "tipo": "VOT",
+          "descTipo": "Voto",
+          "assunto": "Voto de protesto o terrorismo e a violencia política da ETA",
+          "legislatura": "VIII",
+          "sessao": "2",
+          "dataEntrada": "2000-11-28",
+          "publicacao": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "8",
+              "pubTipo": "DAR II série B",
+              "pubTp": "B",
+              "pubLeg": "VIII",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "2000-12-02",
+              "pag": {
+                "string": null
+              },
+              "idPag": "261976",
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/008/2000-12-02?pgs=&org=PLC",
+              "idDeb": null
+            }
+          },
+          "dataAgendamentoDebate": "2000-12-13",
+          "publicacaoDebate": {
+            "pt_gov_ar_objectos_PublicacoesOut": {
+              "pubNr": "29",
+              "pubTipo": "DAR I série",
+              "pubTp": "D",
+              "pubLeg": "VIII",
+              "pubSL": "2",
+              "supl": ".",
+              "pubdt": "2000-12-14",
+              "pag": {
+                "string": "1134-1135"
+              },
+              "idPag": null,
+              "idInt": null,
+              "idAct": null,
+              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1134?pgs=1134-1135&org=PLC",
+              "debateDtReu": "2000-12-13",
+              "idDeb": "19177"
+            }
+          },
+          "votacaoDebate": {
+            "pt_gov_ar_objectos_VotacaoOut": {
+              "id": "28148",
+              "resultado": "Aprovado",
+              "reuniao": "29",
+              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>PCP</I>, <I>CDS-PP</I>, <I>PEV</I><BR>Contra: <I>BE</I>",
+              "publicacao": {
+                "pt_gov_ar_objectos_PublicacoesOut": {
+                  "pubNr": "29",
+                  "pubTipo": "DAR I série",
+                  "pubTp": "D",
+                  "pubLeg": "VIII",
+                  "pubSL": "2",
+                  "supl": ".",
+                  "pubdt": "2000-12-14",
+                  "pag": {
+                    "string": null
+                  },
+                  "idPag": "261977",
+                  "idInt": null,
+                  "idAct": null,
+                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14?pgs=&org=PLC",
+                  "idDeb": null
+                }
+              },
+              "data": "2000-12-13"
+            }
+          },
+          "numero": "585",
+          "tipoAutor": "Grupos Parlamentares",
+          "autoresGP": {
+            "string": "CDS-PP"
+          },
+          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276637938314f445666566b6c4a535335775a47593d&fich=585_VIII.pdf&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -9654,88 +9738,6 @@
             "string": null
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276637938784d444666566b6c4a535335775a47593d&fich=101_VIII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "assunto": "Voto de protesto o terrorismo e a violencia política da ETA",
-          "legislatura": "VIII",
-          "sessao": "2",
-          "dataEntrada": "2000-11-28",
-          "publicacao": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "8",
-              "pubTipo": "DAR II série B",
-              "pubTp": "B",
-              "pubLeg": "VIII",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "2000-12-02",
-              "pag": {
-                "string": null
-              },
-              "idPag": "261976",
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/008/2000-12-02?pgs=&org=PLC",
-              "idDeb": null
-            }
-          },
-          "dataAgendamentoDebate": "2000-12-13",
-          "publicacaoDebate": {
-            "pt_gov_ar_objectos_PublicacoesOut": {
-              "pubNr": "29",
-              "pubTipo": "DAR I série",
-              "pubTp": "D",
-              "pubLeg": "VIII",
-              "pubSL": "2",
-              "supl": ".",
-              "pubdt": "2000-12-14",
-              "pag": {
-                "string": "1134-1135"
-              },
-              "idPag": null,
-              "idInt": null,
-              "idAct": null,
-              "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14/1134?pgs=1134-1135&org=PLC",
-              "debateDtReu": "2000-12-13",
-              "idDeb": "19177"
-            }
-          },
-          "votacaoDebate": {
-            "pt_gov_ar_objectos_VotacaoOut": {
-              "id": "28148",
-              "resultado": "Aprovado",
-              "reuniao": "29",
-              "detalhe": "A Favor: <I>PS</I>, <I>PSD</I>, <I>PCP</I>, <I>CDS-PP</I>, <I>PEV</I><BR>Contra: <I>BE</I>",
-              "publicacao": {
-                "pt_gov_ar_objectos_PublicacoesOut": {
-                  "pubNr": "29",
-                  "pubTipo": "DAR I série",
-                  "pubTp": "D",
-                  "pubLeg": "VIII",
-                  "pubSL": "2",
-                  "supl": ".",
-                  "pubdt": "2000-12-14",
-                  "pag": {
-                    "string": null
-                  },
-                  "idPag": "261977",
-                  "idInt": null,
-                  "idAct": null,
-                  "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/08/02/029/2000-12-14?pgs=&org=PLC",
-                  "idDeb": null
-                }
-              },
-              "data": "2000-12-13"
-            }
-          },
-          "numero": "100",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": "CDS-PP"
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276637938784d444266566b6c4a535335775a47593d&fich=100_VIII.pdf&Inline=true"
         },
         {
           "tipo": "VOT",
@@ -14310,19 +14312,6 @@
               "data": "1999-12-22"
             }
           },
-          "numero": "32",
-          "tipoAutor": "Grupos Parlamentares",
-          "autoresGP": {
-            "string": null
-          },
-          "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c62693932623352766379387a4d6c395753556c4a4c6e426b5a673d3d&fich=32_VIII.pdf&Inline=true"
-        },
-        {
-          "tipo": "VOT",
-          "descTipo": "Voto",
-          "legislatura": "VIII",
-          "sessao": "1",
-          "dataEntrada": "1999-12-21",
           "numero": "32",
           "tipoAutor": "Grupos Parlamentares",
           "autoresGP": {
@@ -21521,16 +21510,6 @@
               "concedida": "Concedida"
             },
             {
-              "IDAudiencia": "73126",
-              "numeroAudiencia": "2-ECC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Educação em Fisioterapia",
-              "entidades": "Sindicato dos Fisioterapeutas Portugueses",
-              "data": "2002-07-17",
-              "concedida": "Concedida"
-            },
-            {
               "IDAudiencia": "71095",
               "numeroAudiencia": "2-ECC-VIII",
               "legislatura": "VIII",
@@ -21548,16 +21527,6 @@
               "assunto": "Formação de Fisioterapeutas em Portugal.",
               "entidades": "Sindicato dos Fisioterapeutas Portugueses",
               "data": "2000-01-17",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73122",
-              "numeroAudiencia": "1-ECC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": " Encerramento da Escola David Mourão Ferreira",
-              "entidades": "Comissão de Encarregados de Educação e Corpo Docente da Escola David Mourão-Ferreira",
-              "data": "2002-07-16",
               "concedida": "Concedida"
             }
           ]

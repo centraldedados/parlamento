@@ -40,7 +40,7 @@
               "sioDtFim": "1976-04-03"
             }
           },
-          "depNomeCompleto": "%manuel%franco%"
+          "depNomeCompleto": "ABEL AUGUSTO DE ALMEIDA CARNEIRO"
         }
       },
       {
@@ -51,7 +51,7 @@
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "ABÍLIO LOURENÇO",
                 "dpl_lg": "Cons",
-                "dpl_grpar": "DESC"
+                "dpl_grpar": "PPD"
               }
             }
           }
@@ -62,8 +62,8 @@
           "depNomeParlamentar": "ABÍLIO LOURENÇO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6072",
-              "gpSigla": "DESC",
+              "gpId": "6070",
+              "gpSigla": "PPD",
               "gpDtInicio": "1975-06-02"
             }
           },
@@ -88,7 +88,7 @@
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "ADELINO AMARO DA COSTA",
                 "dpl_lg": "Cons",
-                "dpl_grpar": "DESC"
+                "dpl_grpar": "CDS"
               }
             }
           }
@@ -99,8 +99,8 @@
           "depNomeParlamentar": "ADELINO AMARO DA COSTA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6072",
-              "gpSigla": "DESC",
+              "gpId": "6067",
+              "gpSigla": "CDS",
               "gpDtInicio": "1975-06-02"
             }
           },
@@ -10057,8 +10057,8 @@
               "gpDtInicio": "1975-08-20"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "2",
+          "depCPDes": "BEJA",
           "legDes": "Cons",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
@@ -10205,8 +10205,8 @@
               "gpDtInicio": "1975-08-07"
             }
           },
-          "depCPId": "100",
-          "depCPDes": "Desconhecido",
+          "depCPId": "26",
+          "depCPDes": "FUNCHAL",
           "legDes": "Cons",
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {

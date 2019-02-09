@@ -262,6 +262,98 @@
         "documentos": null
       },
       {
+        "id": "82",
+        "tipo": "ACR",
+        "nome": "Encontro Parlamentar Luso-Espanhol",
+        "legislatura": "XII",
+        "sessao": "2",
+        "data": "2013-05-07",
+        "local": "Madrid",
+        "programas": null,
+        "atividades": {
+          "Atividade": {
+            "id": "105",
+            "tipoAtividade": "RNI",
+            "tipo": null,
+            "nome": "3 Encontro Parlamentar Luso-Espanhol - Comissão de Assuntos Constitucionais, Direiro, Liberdades e Garantias - Comissão de Negócios Estrangeiros e Comunidades Portuguesas - Comissão de Assuntos Europeus - Comissão de Economia e Obras Públicas - Comissão do Ambiente, Ordenamento do Território e Poder Local",
+            "dataInicio": "2013-06-05",
+            "dataFim": "2013-06-07",
+            "local": "Madrid",
+            "participantes": {
+              "Participante": [
+                {
+                  "nome": "Cláudia Monteiro de Aguiar (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4373"
+                },
+                {
+                  "nome": "Fernando Serrasqueiro (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "428"
+                },
+                {
+                  "nome": "Ferro Rodrigues (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "163"
+                },
+                {
+                  "nome": "Guilherme Silva (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "618"
+                },
+                {
+                  "nome": "Jorge Paulo Oliveira (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "2665"
+                },
+                {
+                  "nome": "Luís Pita Ameixa (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "413"
+                },
+                {
+                  "nome": "Maria Helena André (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4290"
+                },
+                {
+                  "nome": "Mário Magalhães (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4395"
+                },
+                {
+                  "nome": "Nuno Filipe Matias (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4382"
+                },
+                {
+                  "nome": "Paulo Simões Ribeiro (PSD)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "4381"
+                },
+                {
+                  "nome": "Renato Sampaio (PS)",
+                  "cargo": null,
+                  "servico": null,
+                  "id": "1679"
+                }
+              ]
+            }
+          }
+        },
+        "documentos": null
+      },
+      {
         "id": "68",
         "tipo": "ACR",
         "nome": "ARP-PNTL/2013 - Protocolo de Cooperação Parlamentar entre a Assembleia da República de Portugal e o Parlamento Nacional de Timor-Leste",
@@ -3377,6 +3469,18 @@
             "participantes": null
           }
         },
+        "documentos": null
+      },
+      {
+        "id": "81",
+        "tipo": "ACR",
+        "nome": "Encontro Parlamentar Luso-Espanhol",
+        "legislatura": "XII",
+        "sessao": "4",
+        "data": "2015-06-09",
+        "local": "Madrid",
+        "programas": null,
+        "atividades": null,
         "documentos": null
       }
     ]
