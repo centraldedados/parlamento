@@ -4183,15 +4183,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Arménio Santos",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -6334,13 +6325,6 @@
                   }
                 },
                 {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4527",
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
@@ -6727,6 +6711,13 @@
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "5024",
@@ -7810,7 +7801,7 @@
                   "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
                   "orgSigla": "CERTEFP",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -7943,7 +7934,26 @@
               "funAntiga": "N"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "397",
@@ -21731,13 +21741,6 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4527",
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
@@ -34446,6 +34449,13 @@
                   "orgId": "5804",
                   "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
                   "orgSigla": "GT-SP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

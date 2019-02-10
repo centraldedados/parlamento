@@ -4248,15 +4248,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Arménio Santos",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -5671,13 +5662,6 @@
                   }
                 },
                 {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
                   "orgId": "4527",
                   "orgDes": "Comissão de Assuntos Europeus",
                   "orgSigla": "CAE",
@@ -5971,6 +5955,13 @@
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "5024",

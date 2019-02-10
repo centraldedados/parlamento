@@ -1425,23 +1425,6 @@
               "publicacao": {
                 "pt_gov_ar_objectos_PublicacoesOut": [
                   {
-                    "pubNr": "29",
-                    "pubTipo": "DAR I série",
-                    "pubTp": "D",
-                    "pubLeg": "V",
-                    "pubSL": "1",
-                    "supl": ".",
-                    "pubdt": "1987-12-12",
-                    "pag": {
-                      "string": "683-683"
-                    },
-                    "idPag": "573555",
-                    "idInt": null,
-                    "idAct": null,
-                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
-                    "idDeb": null
-                  },
-                  {
                     "pubNr": "30",
                     "pubTipo": "DAR I série",
                     "pubTp": "D",
@@ -1457,6 +1440,23 @@
                     "idInt": null,
                     "idAct": null,
                     "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/030/1987-12-12/718?pgs=718&org=PLC",
+                    "idDeb": null
+                  },
+                  {
+                    "pubNr": "29",
+                    "pubTipo": "DAR I série",
+                    "pubTp": "D",
+                    "pubLeg": "V",
+                    "pubSL": "1",
+                    "supl": ".",
+                    "pubdt": "1987-12-12",
+                    "pag": {
+                      "string": "683-683"
+                    },
+                    "idPag": "573555",
+                    "idInt": null,
+                    "idAct": null,
+                    "URLDiario": "http://debates.parlamento.pt/catalogo/r3/dar/01/05/01/029/1987-12-12/683?pgs=683&org=PLC",
                     "idDeb": null
                   }
                 ]
@@ -7590,7 +7590,7 @@
           "numero": "134",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PCP; PRD"
+            "string": "PCP; PRD; PS"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a457a4e4639574c6e426b5a673d3d&fich=134_V.pdf&Inline=true"
         },
@@ -12588,7 +12588,7 @@
           "numero": "54",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PEV; PS; INDEP; PCP; PRD"
+            "string": "PCP; PEV; INDEP; PS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a5530583159756347526d&fich=54_V.pdf&Inline=true"
         },
@@ -12887,7 +12887,7 @@
           "numero": "50",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PCP; PRD"
+            "string": "PCP; PS; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a5577583159756347526d&fich=50_V.pdf&Inline=true"
         },
@@ -15071,7 +15071,7 @@
           "numero": "22",
           "tipoAutor": "Deputados",
           "autoresGP": {
-            "string": "PS; PRD; PSD; CDS; PCP; ID"
+            "string": "CDS; PCP; PS; PSD; ID; PRD"
           },
           "texto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3252686347786c6269393262335276633139574c7a4979583159756347526d&fich=22_V.pdf&Inline=true"
         },
