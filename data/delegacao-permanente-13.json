@@ -3192,6 +3192,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Sessão Plenária de Inverno",
+              "tipo": "REN",
+              "local": "Viena",
+              "dataInicio": "21-02-2019",
+              "dataFim": "22-02-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião do Fórum Económico e Ambiental da OSCE",
               "tipo": "REN",
               "local": "Viena",
@@ -8386,6 +8394,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "13ª Reunião Sessão Plenária",
+              "tipo": "REN",
+              "local": "Belgrado",
+              "dataInicio": "21-02-2019",
+              "dataFim": "22-02-2019",
+              "participantes": null
+            },
+            {
               "nome": "15ª Sessão Plenária da Assembleia Parlamentar da União para o Mediterrâneo",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -8803,22 +8819,6 @@
               }
             },
             {
-              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
-              "tipo": "REN",
-              "local": "Argel e Estrasburgo",
-              "dataInicio": "20-01-2018",
-              "dataFim": "26-01-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO ROQUE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1992"
-                }
-              }
-            },
-            {
               "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
               "tipo": "REN",
               "local": "Argel",
@@ -8831,6 +8831,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1851"
+                }
+              }
+            },
+            {
+              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
+              "tipo": "REN",
+              "local": "Argel e Estrasburgo",
+              "dataInicio": "20-01-2018",
+              "dataFim": "26-01-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
                 }
               }
             },
