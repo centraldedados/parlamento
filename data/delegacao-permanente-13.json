@@ -4539,7 +4539,24 @@
               "local": "Estrasburgo",
               "dataInicio": "13-02-2019",
               "dataFim": "14-02-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MARGARIDA MANO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "5617"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PEDRO ALVES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1738"
+                  }
+                ]
+              }
             },
             {
               "nome": "5ª Cimeira de Presidentes e 14ª Sessão Plenária",

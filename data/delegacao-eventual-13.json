@@ -9586,24 +9586,6 @@
         "participantes": null
       },
       {
-        "id": "1918",
-        "nome": "VIII Assembleia Parlamentar da CPLP",
-        "local": "Cidade da Praia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-10",
-        "dataFim": "2019-01-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1920",
         "nome": "Participação do Vice-Presidente da Comissão de Economia, Inovação e Obras Públicas no 4º IRENA Legislators Forum",
         "local": "Abu Dhabi",
@@ -9618,6 +9600,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4152"
+          }
+        }
+      },
+      {
+        "id": "1918",
+        "nome": "VIII Assembleia Parlamentar da CPLP",
+        "local": "Cidade da Praia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-10",
+        "dataFim": "2019-01-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
           }
         }
       },
@@ -9716,6 +9716,24 @@
         "participantes": null
       },
       {
+        "id": "1929",
+        "nome": "Reunião: \" First Regional Consultation on Viral Hepatitis in the WHO European Region: Progress on the Way to Elimination\"",
+        "local": "Tbilisi",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-12",
+        "dataFim": "2019-02-13",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "RICARDO BAPTISTA LEITE",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4441"
+          }
+        }
+      },
+      {
         "id": "1928",
         "nome": "Reunião da Rede Parlamentar Global OCDE e NATO",
         "local": "Paris",
@@ -9747,6 +9765,79 @@
               "id": "2225"
             }
           ]
+        }
+      },
+      {
+        "id": "1931",
+        "nome": "Participação na Semana Parlamentar Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-18",
+        "dataFim": "2019-02-19",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARGARIDA MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "3339"
+            },
+            {
+              "tipo": "D",
+              "nome": "INÊS DOMINGOS",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "6136"
+            },
+            {
+              "tipo": "D",
+              "nome": "CLARA MARQUES MENDES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4299"
+            },
+            {
+              "tipo": "D",
+              "nome": "MANUEL CALDEIRA CABRAL",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5528"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA TAVARES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5501"
+            },
+            {
+              "tipo": "D",
+              "nome": "FERNANDO MANUEL BARBOSA",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5954"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1930",
+        "nome": "Participação na Semana Parlamentar Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-18",
+        "dataFim": "2019-02-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "DUARTE PACHECO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "42"
+          }
         }
       }
     ]
