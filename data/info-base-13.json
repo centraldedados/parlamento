@@ -1955,8 +1955,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-02-13"
+              },
+              {
                 "sioDes": "Suspenso(Não Eleito)",
-                "sioDtInicio": "2018-12-10"
+                "sioDtInicio": "2018-12-10",
+                "sioDtFim": "2019-02-13"
               },
               {
                 "sioDes": "Efetivo Temporário",
@@ -3807,8 +3812,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2019-02-13"
+              },
+              {
                 "sioDes": "Efetivo Temporário",
-                "sioDtInicio": "2018-12-10"
+                "sioDtInicio": "2018-12-10",
+                "sioDtFim": "2019-02-13"
               },
               {
                 "sioDes": "Suplente",
@@ -8006,7 +8016,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-02-12"
+                "gpDtFim": "2019-02-13"
               },
               {
                 "gpId": "4465",

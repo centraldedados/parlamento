@@ -9697,6 +9697,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Audição Parlamentar da União Europeia na sede das Nações Unidas, Desafios emergentes do multilaterlismo: uma resposta parlamentar",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "21-02-2019",
+              "dataFim": "22-02-2019",
+              "participantes": null
+            },
+            {
               "nome": "Audição dos Parlamentos Árabes",
               "tipo": "REN",
               "local": "Cairo",
@@ -9761,22 +9769,6 @@
               }
             },
             {
-              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
-              "tipo": "REN",
-              "local": "Kracovia e Katowice",
-              "dataInicio": "03-12-2018",
-              "dataFim": "14-12-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "HORTENSE MARTINS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "2225"
-                }
-              }
-            },
-            {
               "nome": "\"Conferência Mundial e-Parliament\" e Conferência Internacional Parlamentar",
               "tipo": "REN",
               "local": "Genebra e Rabat",
@@ -9789,6 +9781,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "42"
+                }
+              }
+            },
+            {
+              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
+              "tipo": "REN",
+              "local": "Kracovia e Katowice",
+              "dataInicio": "03-12-2018",
+              "dataFim": "14-12-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "HORTENSE MARTINS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2225"
                 }
               }
             },
@@ -10975,6 +10983,20 @@
             }
           ]
         },
+        "publicacoes": {
+          "paginas": null
+        },
+        "textoAprovado": null
+      },
+      {
+        "id": "92",
+        "nome": "Assembleia Parlamentar do Mediterrâneo",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataEleicao": null,
+        "composicao": null,
+        "comissoes": null,
+        "reunioes": null,
         "publicacoes": {
           "paginas": null
         },

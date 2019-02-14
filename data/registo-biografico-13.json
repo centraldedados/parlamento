@@ -8267,7 +8267,26 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "4129",
@@ -15204,26 +15223,7 @@
               "habEstado": "C"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "4096",
@@ -44164,9 +44164,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8428",
+              "rgiId": "9228",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-03-16",
+              "rgiDataVersao": "2019-02-13",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado da Assembleia da Republica",
@@ -44177,41 +44177,41 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8293",
+                    "rgaId": "9133",
                     "rgaActividade": "Deputado da Assembleia Municipal de Guimarães",
                     "rgaDataInicio": "2009",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8294",
+                    "rgaId": "9134",
                     "rgaActividade": "Presidente da assembleia geral da Associação \"Justiça para todos\"",
                     "rgaDataInicio": "2009",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8295",
+                    "rgaId": "9135",
                     "rgaActividade": "Deputado da Assembleia Municipal de Guimarães",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8296",
+                    "rgaId": "9136",
                     "rgaActividade": "Deputado Assembleia da Republica",
                     "rgaDataInicio": "2011",
                     "rgaDataFim": "2013",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8297",
+                    "rgaId": "9137",
                     "rgaActividade": "Secretario de Desporto e Juventude dos XIX e XX governos constitucionais",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8298",
+                    "rgaId": "9138",
                     "rgaActividade": "Deputado Assembleia Municipal Guimarães",
                     "rgaDataInicio": "2017",
                     "rgaRemunerada": "N"
@@ -44221,7 +44221,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6738",
+                    "rgcId": "7398",
                     "rgcCargo": "Vogal do Conselho Directivo",
                     "rgcEntidade": "Instituto Luso-Árabe para a Cooperação",
                     "rgcAreaActividade": "Instituição sem fins lucrativos que visa promover o reforço dos laços entre Portugal e o mundo Árabe",
@@ -44230,7 +44230,7 @@
                     "rgcDataFim": "2012"
                   },
                   {
-                    "rgcId": "6739",
+                    "rgcId": "7399",
                     "rgcCargo": "Presidente da assembleia geral",
                     "rgcEntidade": "Associação \"Justiça para todos\"",
                     "rgcAreaActividade": "Instituição sem fins lucrativos que presta apoio juridico a quem não acede ao mesmo e promove debates sobre Justiça",
@@ -44238,7 +44238,7 @@
                     "rgcDataInicio": "2009"
                   },
                   {
-                    "rgcId": "6740",
+                    "rgcId": "7400",
                     "rgcCargo": "Deputado",
                     "rgcEntidade": "Assembleia da Republica",
                     "rgcAreaActividade": "Orgão de Soberania",
@@ -44247,7 +44247,7 @@
                     "rgcDataFim": "2013-04-12"
                   },
                   {
-                    "rgcId": "6741",
+                    "rgcId": "7401",
                     "rgcCargo": "Presidente da Direcção (não remunerado)",
                     "rgcEntidade": "Liga dos Amigos do Museu Académico de Coimbra",
                     "rgcAreaActividade": "Associação sem fins lucrativos com o fim de promover o Museu Académico de Coimbra e as tradições da academia Coimbrã.",
@@ -44256,7 +44256,7 @@
                     "rgcDataFim": "2013"
                   },
                   {
-                    "rgcId": "6742",
+                    "rgcId": "7402",
                     "rgcCargo": "Conselheiro",
                     "rgcEntidade": "Conselho Vitoriano",
                     "rgcAreaActividade": "Orgão de consulta do Vitória Sport Clube",
@@ -44265,7 +44265,7 @@
                     "rgcDataFim": "2013"
                   },
                   {
-                    "rgcId": "6743",
+                    "rgcId": "7403",
                     "rgcCargo": "Vogal do conselho geral e de supervisão",
                     "rgcEntidade": "Garcia, Garcia S.A.\nNIF 501275800",
                     "rgcAreaActividade": "O conselho geral e de supervisão define as linhas estratégicas da empresa e supervisiona a execução das mesmas pela administração. A empresa dedica-se à construção civil e à compra e venda de imoveis.",
@@ -44273,15 +44273,16 @@
                     "rgcDataInicio": "2017-02-01"
                   },
                   {
-                    "rgcId": "6744",
+                    "rgcId": "7404",
                     "rgcCargo": "Vogal do conselho consultivo ",
                     "rgcEntidade": "Flyfordgest - Participações , SGPS, S. A.\nNIF 505336022",
                     "rgcAreaActividade": "O conselho consultivo não sendo um orgão executivo dedica-se à definição, identificação e análise de novos projectos da empresa que se dedica à gestão de participações sociais não financeiras.",
                     "rgcLocalSede": "Rua Fernão de Magalhães, ñº 2/120\n4400-629 Vila Nova de Gaia",
-                    "rgcDataInicio": "2017-02-01"
+                    "rgcDataInicio": "2017-02-01",
+                    "rgcDataFim": "2018-12-31"
                   },
                   {
-                    "rgcId": "6745",
+                    "rgcId": "7405",
                     "rgcCargo": "Membro Conselho Geral do Instituto Politécnico do Porto",
                     "rgcEntidade": "Instituto Politécnico do Porto (IPP)",
                     "rgcAreaActividade": "O Conselho Geral é um órgão de governo do IPP que elege o seu Presidente, designa o Provedor do Estudante, aprecia os atos do Presidente e do Conselho de Gestão do IPP e aprova os planos estratégicos da instituição",
