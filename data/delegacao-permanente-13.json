@@ -10996,7 +10996,16 @@
         "dataEleicao": null,
         "composicao": null,
         "comissoes": null,
-        "reunioes": null,
+        "reunioes": {
+          "Reuniao": {
+            "nome": "Reunião com o Embaixador de Israel",
+            "tipo": "RNI",
+            "local": "Assembleia da República",
+            "dataInicio": "19-02-2019",
+            "dataFim": "19-02-2019",
+            "participantes": null
+          }
+        },
         "publicacoes": {
           "paginas": null
         },
