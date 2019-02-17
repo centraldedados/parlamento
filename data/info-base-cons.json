@@ -156,11 +156,19 @@
           "depCadId": "4702",
           "depNomeParlamentar": "ABEL CARNEIRO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "16",
           "depCPDes": "VIANA DO CASTELO",
@@ -616,11 +624,19 @@
           "depCadId": "4709",
           "depNomeParlamentar": "ALFREDO MORGADO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "5",
           "depCPDes": "CASTELO BRANCO",
@@ -938,11 +954,19 @@
           "depCadId": "3732",
           "depNomeParlamentar": "ANTÍDIO COSTA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -1253,7 +1277,7 @@
               "sioDtFim": "1976-04-03"
             }
           },
-          "depNomeCompleto": "ANTÓNIO COUTINHO MONTEIRO DE FREITAS"
+          "depNomeCompleto": "ANTÓNIO MONTEIRO COUTINHO DE FREITAS"
         },
         {
           "depId": "9542",
@@ -1766,11 +1790,19 @@
           "depCadId": "4739",
           "depNomeParlamentar": "ARTUR SILVA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -1835,11 +1867,19 @@
           "depCadId": "4834",
           "depNomeParlamentar": "AUGUSTA SIMÕES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -2157,11 +2197,19 @@
           "depCadId": "3756",
           "depNomeParlamentar": "CARLOS COELHO SOUSA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -2226,11 +2274,19 @@
           "depCadId": "3273",
           "depNomeParlamentar": "CARLOS MOTA PINTO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "6",
           "depCPDes": "COIMBRA",
@@ -2249,11 +2305,19 @@
           "depCadId": "4743",
           "depNomeParlamentar": "CARLOS SEIÇA NEVES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -2364,11 +2428,19 @@
           "depCadId": "4749",
           "depNomeParlamentar": "CUSTÓDIO MATOS",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-10-18"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-10-18",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -2663,11 +2735,19 @@
           "depCadId": "6255",
           "depNomeParlamentar": "EMIDIO GUERREIRO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -3468,11 +3548,19 @@
           "depCadId": "1383",
           "depNomeParlamentar": "GONÇALVES SAPINHO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "10",
           "depCPDes": "LEIRIA",
@@ -4043,11 +4131,19 @@
           "depCadId": "4785",
           "depNomeParlamentar": "JOAQUIM COELHO SANTOS",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -4365,11 +4461,19 @@
           "depCadId": "3203",
           "depNomeParlamentar": "JOSÉ AUGUSTO SEABRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -4388,11 +4492,19 @@
           "depCadId": "4803",
           "depNomeParlamentar": "JOSÉ BETTENCOURT",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "23",
           "depCPDes": "ANGRA DO HEROISMO",
@@ -4572,11 +4684,19 @@
           "depCadId": "4797",
           "depNomeParlamentar": "JOSÉ COBRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-06-02"
+              }
+            ]
           },
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
@@ -4618,11 +4738,19 @@
           "depCadId": "4799",
           "depNomeParlamentar": "JOSÉ FRANCISCO LOPES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -5170,11 +5298,19 @@
           "depCadId": "4819",
           "depNomeParlamentar": "LUIS BISCAIA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "6",
           "depCPDes": "COIMBRA",
@@ -6550,11 +6686,19 @@
           "depCadId": "4851",
           "depNomeParlamentar": "NUNO GAMA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -6665,11 +6809,19 @@
           "depCadId": "4852",
           "depNomeParlamentar": "ORLANDINO VAREJÃO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "17",
           "depCPDes": "VILA REAL",
@@ -6895,11 +7047,19 @@
           "depCadId": "21",
           "depNomeParlamentar": "ROLEIRA MARINHO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "16",
           "depCPDes": "VIANA DO CASTELO",
@@ -7217,11 +7377,19 @@
           "depCadId": "4869",
           "depNomeParlamentar": "VICTOR BOGA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",

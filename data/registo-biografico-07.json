@@ -2169,15 +2169,6 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "II",
-                "ceDes": "LISBOA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
               }
             ]
           },
@@ -2198,8 +2189,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ANTONIO_CARDOSO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "António Cardoso",
@@ -2956,6 +2946,20 @@
                   "orgId": "6904",
                   "orgDes": "Grupo de Trabalho - Alteração ao Regime Jurídico das Armas e suas Munições",
                   "orgSigla": "GT-ARJASM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7044",
+                  "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                  "orgSigla": "GT-EMJEMP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -5704,15 +5708,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Cabrita Neto",
-                "legDes": "IA",
-                "ceDes": "FARO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -5792,8 +5787,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_CAPOULAS_SANTOS.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Capoulas Santos",
@@ -6160,35 +6154,15 @@
           "cadSexo": "M",
           "cadProfissao": "ENGENHEIRO CIVIL",
           "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Carlos Brito",
-                "legDes": "VII",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Carlos Brito",
-                "legDes": "V",
-                "ceDes": "FARO",
-                "parSigla": "CDU",
-                "parDes": "Coligação Democrática Unitária",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Brito",
-                "legDes": "IB",
-                "ceDes": "LISBOA",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Carlos Brito",
+              "legDes": "VII",
+              "ceDes": "PORTO",
+              "parSigla": "PSD",
+              "parDes": "Partido Social Democrata",
+              "gpSigla": "PSD",
+              "gpDes": "Partido Social Democrata"
+            }
           },
           "cadActividadeOrgaos": null
         },
@@ -8335,8 +8309,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_DUARTE_PACHECO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Duarte Pacheco",
@@ -9738,24 +9711,6 @@
                 "depNomeParlamentar": "Fernando Nogueira",
                 "legDes": "VI",
                 "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Fernando Nogueira",
-                "legDes": "V",
-                "ceDes": "COIMBRA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Fernando Nogueira",
-                "legDes": "IV",
-                "ceDes": "COIMBRA",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
@@ -11175,7 +11130,8 @@
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
+                "gpDes": "Partido Popular Democrata",
+                "indData": "1975-12-12"
               }
             ]
           },
@@ -12253,7 +12209,7 @@
                 {
                   "orgId": "6984",
                   "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
-                  "orgSigla": "GT-SICI",
+                  "orgSigla": "GT-SICS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -13282,15 +13238,6 @@
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "João Amaral",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -13682,15 +13629,6 @@
               {
                 "depNomeParlamentar": "João Cravinho",
                 "legDes": "IB",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "João Cravinho",
-                "legDes": "IA",
                 "ceDes": "SETÚBAL",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
@@ -14705,15 +14643,6 @@
               },
               {
                 "depNomeParlamentar": "Joel Hasse Ferreira",
-                "legDes": "IV",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Joel Hasse Ferreira",
                 "legDes": "III",
                 "ceDes": "SETÚBAL",
                 "parSigla": "PS",
@@ -15090,8 +15019,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_JORGE_LACAO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Jorge Lacão",
@@ -15313,18 +15241,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6405",
-                "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
-                "orgSigla": "GT-IP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6405",
+                  "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
+                  "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "7044",
+                  "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                  "orgSigla": "GT-EMJEMP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -17683,8 +17620,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_JOSE_SILVANO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "José Silvano",
@@ -19541,15 +19477,6 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Luís Marques Mendes",
-                "legDes": "V",
-                "ceDes": "BRAGA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
               }
             ]
           },
@@ -19792,15 +19719,6 @@
                 "parDes": "Coligação Democrática Unitária",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Portugues"
-              },
-              {
-                "depNomeParlamentar": "Luísa Mesquita",
-                "legDes": "V",
-                "ceDes": "SANTARÉM",
-                "parSigla": "CDU",
-                "parDes": "Coligação Democrática Unitária",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               },
               {
                 "depNomeParlamentar": "Luísa Mesquita",
@@ -20705,15 +20623,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Manuel Dos Santos",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -21446,8 +21355,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MARIA_DA_LUZ_ROSINHA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Maria Da Luz Rosinha",
@@ -24026,26 +23934,15 @@
           "cadSexo": "M",
           "cadProfissao": "ENGENHEIRO",
           "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Mira Amaral",
-                "legDes": "VII",
-                "ceDes": "SANTARÉM",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mira Amaral",
-                "legDes": "V",
-                "ceDes": "SANTARÉM",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Mira Amaral",
+              "legDes": "VII",
+              "ceDes": "SANTARÉM",
+              "parSigla": "PSD",
+              "parDes": "Partido Social Democrata",
+              "gpSigla": "PSD",
+              "gpDes": "Partido Social Democrata"
+            }
           },
           "cadActividadeOrgaos": null
         },
@@ -24064,8 +23961,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -24504,51 +24400,6 @@
               {
                 "depNomeParlamentar": "Mota Amaral",
                 "legDes": "VII",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "VI",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "V",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "IV",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "III",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "II",
                 "ceDes": "AÇORES",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
@@ -25262,15 +25113,6 @@
                 "parDes": "Centro Democrático Social - Partido Popular",
                 "gpSigla": "CDS-PP",
                 "gpDes": "Partido Popular"
-              },
-              {
-                "depNomeParlamentar": "Nuno Abecasis",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Nuno Abecasis",
@@ -27818,7 +27660,8 @@
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
+                "gpDes": "Partido Popular Democrata",
+                "indData": "1975-12-12"
               }
             ]
           },
@@ -27981,8 +27824,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",

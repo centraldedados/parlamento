@@ -57,7 +57,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -77,7 +77,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-27"
               }
             ]
@@ -256,7 +256,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -265,7 +265,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -930,7 +930,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -939,7 +939,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-02-06"
             }
           },
@@ -1320,36 +1320,6 @@
           }
         },
         "deputado": {
-          "depId": "4952",
-          "depCadId": "3641",
-          "depNomeParlamentar": "ANTÓNIO FREITAS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "971",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "1",
-          "depCPDes": "AVEIRO",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "ANTÓNIO MONTEIRO DE FREITAS"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9816",
           "depCadId": "4718",
           "depNomeParlamentar": "António Freitas",
@@ -1370,7 +1340,7 @@
               "sioDtFim": "1980-05-30"
             }
           },
-          "depNomeCompleto": "ANTÓNIO COUTINHO MONTEIRO DE FREITAS"
+          "depNomeCompleto": "ANTÓNIO MONTEIRO COUTINHO DE FREITAS"
         }
       },
       {
@@ -1387,7 +1357,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "12",
@@ -1396,7 +1366,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-02-06"
             }
           },
@@ -2001,7 +1971,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "9",
@@ -2010,7 +1980,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -2091,7 +2061,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "14",
@@ -2100,7 +2070,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -2121,7 +2091,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -2130,7 +2100,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -2161,7 +2131,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
+              "sioDtFim": "1980-11-13"
             }
           },
           "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
@@ -2322,7 +2292,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "8",
@@ -2331,7 +2301,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -2396,36 +2366,6 @@
             }
           },
           "depNomeCompleto": "CARLOS ALFREDO DE BRITO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
-          "depId": "3093",
-          "depCadId": "1235",
-          "depNomeParlamentar": "CARLOS BRITO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "973",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "CARLOS EUGÉNIO PEREIRA DE BRITO"
         }
       },
       {
@@ -2756,7 +2696,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -2765,7 +2705,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-05-28"
             }
           },
@@ -2786,7 +2726,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -2795,7 +2735,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -2876,7 +2816,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "4",
@@ -2885,7 +2825,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-01-10"
             }
           },
@@ -2906,7 +2846,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "20",
@@ -2915,7 +2855,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -3026,7 +2966,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "17",
@@ -3035,7 +2975,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -3153,7 +3093,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "2",
@@ -3162,7 +3102,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-05-06"
             }
           },
@@ -3213,7 +3153,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -3228,7 +3168,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-21"
               }
             ]
@@ -3317,7 +3257,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "18",
@@ -3326,7 +3266,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -3377,7 +3317,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "4",
@@ -3386,7 +3326,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -3449,7 +3389,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -3458,7 +3398,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-02-22"
             }
           },
@@ -3479,7 +3419,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -3488,7 +3428,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-01-11"
             }
           },
@@ -3569,36 +3509,6 @@
           }
         },
         "deputado": {
-          "depId": "5006",
-          "depCadId": "3692",
-          "depNomeParlamentar": "FERNANDES ALVES MIRANDA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "972",
-              "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "FERNANDES ALVES DE ALMEIDA MIRANDA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9848",
           "depCadId": "4761",
           "depNomeParlamentar": "FERNANDO ALVES MIRANDA",
@@ -3636,7 +3546,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "18",
@@ -3645,7 +3555,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -3733,7 +3643,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "6",
@@ -3742,41 +3652,11 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
           "depNomeCompleto": "FERNANDO LUÍS DE ALMEIDA TORRES MARINHO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
-          "depId": "2987",
-          "depCadId": "3640",
-          "depNomeParlamentar": "FERNANDO RAIMUNDO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "971",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "1",
-          "depCPDes": "AVEIRO",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "FERNANDO RAIMUNDO RODRIGUES"
         }
       },
       {
@@ -3793,7 +3673,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -3808,7 +3688,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-22"
               }
             ]
@@ -3890,7 +3770,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -3899,7 +3779,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -3957,7 +3837,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "978",
               "gpSigla": "DR",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "7",
@@ -3966,7 +3846,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4077,7 +3957,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -4086,7 +3966,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4107,7 +3987,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -4116,7 +3996,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4167,7 +4047,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "19",
@@ -4176,7 +4056,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4227,7 +4107,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "975",
               "gpSigla": "PPM",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -4236,7 +4116,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4287,7 +4167,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "10",
@@ -4296,7 +4176,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4317,7 +4197,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -4326,7 +4206,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4444,7 +4324,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "975",
               "gpSigla": "PPM",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "16",
@@ -4453,7 +4333,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4474,7 +4354,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "15",
@@ -4483,7 +4363,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4504,7 +4384,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "14",
@@ -4513,7 +4393,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -4534,7 +4414,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "6",
@@ -4543,7 +4423,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-01-10"
             }
           },
@@ -4788,7 +4668,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -4797,7 +4677,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4968,7 +4848,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -4977,7 +4857,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -4998,7 +4878,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "15",
@@ -5007,7 +4887,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -5474,7 +5354,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "3",
@@ -5483,7 +5363,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -5564,7 +5444,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "6",
@@ -5573,7 +5453,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -5661,7 +5541,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "12",
@@ -5670,7 +5550,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -5788,7 +5668,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -5803,7 +5683,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-06-26"
               }
             ]
@@ -5892,7 +5772,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "15",
@@ -5901,7 +5781,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -6012,7 +5892,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "14",
@@ -6027,7 +5907,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-01-31"
               }
             ]
@@ -6049,7 +5929,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "16",
@@ -6058,7 +5938,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-01-10"
             }
           },
@@ -6123,36 +6003,6 @@
             }
           },
           "depNomeCompleto": "JOSÉ ADRIANO GAGO VITORINO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
-          "depId": "5004",
-          "depCadId": "3678",
-          "depNomeParlamentar": "JOSÉ GALVÃO TELES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "972",
-              "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "JOSÉ MANUEL ARCHER GALVÃO TELES"
         }
       },
       {
@@ -6236,7 +6086,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "7",
@@ -6245,7 +6095,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -6356,7 +6206,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "12",
@@ -6371,7 +6221,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-06-23"
               }
             ]
@@ -6423,7 +6273,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1980-06-02"
             }
           },
           "depCPId": "21",
@@ -6432,8 +6282,8 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
+              "sioDtInicio": "1980-06-02",
+              "sioDtFim": "1980-06-04"
             }
           },
           "depNomeCompleto": "JOSÉ MANUEL NUNES"
@@ -6453,7 +6303,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "20",
@@ -6462,7 +6312,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -6633,7 +6483,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -6648,7 +6498,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-06-23"
               }
             ]
@@ -6700,7 +6550,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "976",
               "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -6709,7 +6559,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-03-04"
             }
           },
@@ -6760,7 +6610,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -6769,7 +6619,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -6820,7 +6670,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "7",
@@ -6829,7 +6679,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -6850,7 +6700,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "16",
@@ -6865,7 +6715,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-29"
               }
             ]
@@ -6887,7 +6737,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "17",
@@ -6896,7 +6746,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-02-12"
             }
           },
@@ -6947,7 +6797,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "14",
@@ -6956,7 +6806,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7044,7 +6894,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "975",
               "gpSigla": "PPM",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -7053,7 +6903,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7084,7 +6934,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1980-01-11",
-              "sioDtFim": "1980-11-03"
+              "sioDtFim": "1980-11-13"
             }
           },
           "depNomeCompleto": "LUÍS ABÍLIO DA CONCEIÇÃO CACITO"
@@ -7134,7 +6984,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "9",
@@ -7143,7 +6993,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7164,7 +7014,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -7173,7 +7023,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7194,7 +7044,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "976",
               "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "8",
@@ -7209,7 +7059,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-28"
               }
             ]
@@ -7291,7 +7141,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "18",
@@ -7300,7 +7150,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7381,7 +7231,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -7390,7 +7240,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7411,7 +7261,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "5",
@@ -7420,7 +7270,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7441,7 +7291,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "12",
@@ -7450,7 +7300,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-09-01"
             }
           },
@@ -7531,7 +7381,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -7540,7 +7390,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7621,7 +7471,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "4",
@@ -7630,7 +7480,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7808,7 +7658,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -7817,7 +7667,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -7868,7 +7718,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -7877,7 +7727,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -8048,7 +7898,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -8057,7 +7907,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -8168,7 +8018,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -8177,7 +8027,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -8228,7 +8078,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "6",
@@ -8237,7 +8087,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -8438,7 +8288,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -8447,7 +8297,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -8558,7 +8408,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1980-05-27"
             }
           },
           "depCPId": "6",
@@ -8567,8 +8417,8 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
+              "sioDtInicio": "1980-05-27",
+              "sioDtFim": "1980-06-15"
             }
           },
           "depNomeCompleto": "MARIA DE LURDES MARQUES SIMÕES DA SILVA"
@@ -8752,7 +8602,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -8767,7 +8617,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-27"
               }
             ]
@@ -8789,7 +8639,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "4",
@@ -8798,7 +8648,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -8879,7 +8729,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "9",
@@ -8888,7 +8738,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -8909,7 +8759,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "15",
@@ -8918,7 +8768,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -8939,7 +8789,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -8948,7 +8798,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -9096,7 +8946,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "977",
               "gpSigla": "UDP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9105,7 +8955,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -9126,7 +8976,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "978",
               "gpSigla": "DR",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9135,7 +8985,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -9156,7 +9006,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9171,7 +9021,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-06-17"
               }
             ]
@@ -9223,7 +9073,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9232,7 +9082,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -9253,7 +9103,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9273,7 +9123,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-13"
               }
             ]
@@ -9355,7 +9205,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "978",
               "gpSigla": "DR",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9364,7 +9214,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -9572,7 +9422,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "974",
               "gpSigla": "CDS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9581,7 +9431,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-03-12"
             }
           },
@@ -9602,7 +9452,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "978",
               "gpSigla": "DR",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -9611,7 +9461,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -9632,7 +9482,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "976",
               "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -9647,7 +9497,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-01-10"
               }
             ]
@@ -9699,7 +9549,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "10",
@@ -9708,7 +9558,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -9801,7 +9651,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "973",
               "gpSigla": "PCP",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9810,7 +9660,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -9831,7 +9681,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "10",
@@ -9840,7 +9690,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },
@@ -9861,7 +9711,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "13",
@@ -9876,7 +9726,7 @@
               },
               {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "1980-01-03",
+                "sioDtInicio": "1979-12-24",
                 "sioDtFim": "1980-05-26"
               }
             ]
@@ -9898,7 +9748,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -9907,7 +9757,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -10060,7 +9910,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "971",
               "gpSigla": "PSD",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "1",
@@ -10069,7 +9919,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -10180,7 +10030,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -10189,7 +10039,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-13"
             }
           },
@@ -10270,7 +10120,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "972",
               "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
+              "gpDtInicio": "1979-12-24"
             }
           },
           "depCPId": "11",
@@ -10279,7 +10129,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
+              "sioDtInicio": "1979-12-24",
               "sioDtFim": "1980-11-03"
             }
           },

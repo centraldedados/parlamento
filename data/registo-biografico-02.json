@@ -8,122 +8,6 @@
     "RegistoBiograficoList": {
       "pt_ar_wsgode_objectos_DadosRegistoBiograficoWeb": [
         {
-          "cadId": "141",
-          "cadNomeCompleto": "ABÍLIO ALEIXO CURTO",
-          "cadDtNascimento": "1941-01-01",
-          "cadSexo": "M",
-          "cadProfissao": "BANCARIO",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Abílio Curto",
-                "legDes": "VI",
-                "ceDes": "GUARDA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Abílio Curto",
-                "legDes": "V",
-                "ceDes": "GUARDA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Abílio Curto",
-                "legDes": "IV",
-                "ceDes": "GUARDA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Abílio Curto",
-                "legDes": "III",
-                "ceDes": "GUARDA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Abílio Curto",
-                "legDes": "II",
-                "ceDes": "GUARDA",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              }
-            ]
-          },
-          "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
-              {
-                "funId": "1161",
-                "funDes": "PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "613",
-                "funDes": "BANCARIO",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "617",
-                "funDes": "DEPUTADO - III, IV E V LEGISLATURAS",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "615",
-                "funDes": "MEMBRO",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "616",
-                "funDes": "VICE-PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "614",
-                "funDes": "PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              }
-            ]
-          },
-          "cadCondecoracoes": {
-            "pt_ar_wsgode_objectos_DadosCondecoracoes": [
-              {
-                "codId": "61",
-                "codDes": "COMENDADOR DA ORDEM DO INFANTE DOM HENRIQUE",
-                "codOrdem": "0"
-              },
-              {
-                "codId": "63",
-                "codDes": "HONORARIO DA CIDADE AMERICANA DE NATERBURY (ALEMANHA)",
-                "codOrdem": "0"
-              },
-              {
-                "codId": "62",
-                "codDes": "MEDALHA DE MERITO DA CRUZ VERMELHA PORTUGUESA",
-                "codOrdem": "0"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "2911",
           "cadNomeCompleto": "ABÍLIO DE MESQUITA ARAÚJO GUEDES",
           "cadDtNascimento": "1955-11-18",
@@ -258,15 +142,6 @@
                 "ceDes": "PORTO",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Adalberto Neiva",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               }
@@ -1797,115 +1672,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "338",
-          "cadNomeCompleto": "ALÍPIO BARROSA PEREIRA DIAS",
-          "cadDtNascimento": "1943-03-10",
-          "cadSexo": "M",
-          "cadProfissao": "BANCARIO",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Alípio Dias",
-                "legDes": "VI",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Alípio Dias",
-                "legDes": "V",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Alípio Dias",
-                "legDes": "IV",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Alípio Dias",
-                "legDes": "III",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Alípio Dias",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              }
-            ]
-          },
-          "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
-              {
-                "funId": "64",
-                "funDes": "PROFESSOR",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "65",
-                "funDes": "SECRETARIO",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "66",
-                "funDes": "SECRETARIO",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "1225",
-                "funDes": "PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "68",
-                "funDes": "PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "69",
-                "funDes": "DEPUTADO - II LEGISLATURA",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "1224",
-                "funDes": "VICE-PRESIDENTE",
-                "funOrdem": "0",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "67",
-                "funDes": "VICE GOVERNADOR",
-                "funOrdem": "0",
-                "funAntiga": "S"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "147",
           "cadNomeCompleto": "ANTÓNIO DE ALMEIDA SANTOS",
           "cadDtNascimento": "1926-02-15",
@@ -2366,15 +2132,6 @@
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
                 "depNomeParlamentar": "Álvaro Cunhal",
-                "legDes": "V",
-                "ceDes": "LISBOA",
-                "parSigla": "CDU",
-                "parDes": "Coligação Democrática Unitária",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Álvaro Cunhal",
                 "legDes": "IV",
                 "ceDes": "LISBOA",
                 "parSigla": "APU",
@@ -2659,44 +2416,6 @@
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
                 "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3594",
-          "cadNomeCompleto": "ADELINO MANUEL LOPES AMARO DA COSTA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Amaro Da Costa",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Adelino Amaro Da Costa",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Adelino Amaro Da Costa",
-                "legDes": "Cons",
-                "ceDes": "BRAGA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -3003,15 +2722,6 @@
               {
                 "depNomeParlamentar": "Ângelo Veloso",
                 "legDes": "IV",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Ângelo Veloso",
-                "legDes": "III",
                 "ceDes": "PORTO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
@@ -3412,72 +3122,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "314",
-          "cadNomeCompleto": "ANTÓNIO D'OREY CAPUCHO",
-          "cadDtNascimento": "1945-01-03",
-          "cadSexo": "M",
-          "cadProfissao": "GESTOR",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "VIII",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "VII",
-                "ceDes": "FARO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "V",
-                "ceDes": "FARO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "IV",
-                "ceDes": "FARO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Capucho",
-                "legDes": "II",
-                "ceDes": "LISBOA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "3595",
           "cadNomeCompleto": "ANTÓNIO CARDOSO MONIZ",
           "cadSexo": "M",
@@ -3730,15 +3374,6 @@
                 "ceDes": "PORTALEGRE",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "António Gervásio",
-                "legDes": "IA",
-                "ceDes": "PORTALEGRE",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
               },
@@ -4391,35 +4026,6 @@
                 "ceDes": "AÇORES",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3474",
-          "cadNomeCompleto": "ANTÓNIO PINTO BASTO PATRÍCIO GOUVEIA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "António Patrício Gouveia",
-                "legDes": "II",
-                "ceDes": "LISBOA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "António Patrício Gouveia",
-                "legDes": "IB",
-                "ceDes": "LISBOA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
               }
@@ -5691,15 +5297,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Assunção Marques",
-                "legDes": "IA",
-                "ceDes": "GUARDA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -5778,164 +5375,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "1740",
-          "cadNomeCompleto": "BASÍLIO ADOLFO DE MENDONÇA HORTA DA FRANCA",
-          "cadDtNascimento": "1943-11-16",
-          "cadSexo": "M",
-          "cadProfissao": "ADVOGADO",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "XII",
-                "ceDes": "LEIRIA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "IX",
-                "ceDes": "PORTO",
-                "parSigla": "CDS-PP",
-                "parDes": "Centro Democrático Social - Partido Popular",
-                "gpSigla": "CDS-PP",
-                "gpDes": "Partido Popular"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "VIII",
-                "ceDes": "VISEU",
-                "parSigla": "CDS-PP",
-                "parDes": "Centro Democrático Social - Partido Popular",
-                "gpSigla": "CDS-PP",
-                "gpDes": "Partido Popular"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "V",
-                "ceDes": "PORTO",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "III",
-                "ceDes": "BRAGA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "II",
-                "ceDes": "BRAGA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "IA",
-                "ceDes": "BRAGA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "Cons",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              }
-            ]
-          },
-          "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "11594",
-              "habDes": "Direito",
-              "habTipoId": "13",
-              "habEstado": "C"
-            }
-          },
-          "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
-              {
-                "funId": "15364",
-                "funDes": "Professor Associado no Instituto Superior de Ciências Sociais e Políticas",
-                "funOrdem": "1",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "15365",
-                "funDes": "Ministro do Comércio e Turismo",
-                "funOrdem": "2",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15366",
-                "funDes": "Ministro de Estado",
-                "funOrdem": "3",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15367",
-                "funDes": "Ministro da Agricultura, Comércio e Pescas ",
-                "funOrdem": "4",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15368",
-                "funDes": "Embaixador de Portugal na OCDE",
-                "funOrdem": "5",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15369",
-                "funDes": "Presidente do Conselho de Administração da AICEP",
-                "funOrdem": "6",
-                "funAntiga": "S"
-              }
-            ]
-          },
-          "cadCondecoracoes": {
-            "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "1761",
-              "codDes": "Grã-Cruz da Ordem do Infante Don Henrique",
-              "codOrdem": "1"
-            }
-          },
-          "cadObrasPublicadas": {
-            "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
-              {
-                "pubId": "3164",
-                "pubDes": "\"Reforma da Empresa\"",
-                "pubOrdem": "1"
-              },
-              {
-                "pubId": "3165",
-                "pubDes": "\"Lições de Direito Político\"",
-                "pubOrdem": "2"
-              },
-              {
-                "pubId": "3166",
-                "pubDes": "\"Lições de Economia de Empresa\"",
-                "pubOrdem": "3"
               }
             ]
           },
@@ -6306,15 +5745,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Cabrita Neto",
-                "legDes": "IA",
-                "ceDes": "FARO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -6613,24 +6043,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3630",
-          "cadNomeCompleto": "CARLOS ALBERTO GOMES",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Carlos Alberto Gomes",
-              "legDes": "II",
-              "ceDes": "SANTARÉM",
-              "parSigla": "APU",
-              "parDes": "Aliança Povo Unido",
-              "gpSigla": "PCP",
-              "gpDes": "Partido Comunista Português"
-            }
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "2948",
           "cadNomeCompleto": "CARLOS ALFREDO DE BRITO",
           "cadSexo": "M",
@@ -6857,71 +6269,6 @@
                 "pubId": "127",
                 "pubDes": "PARTICIPAÇAO NO \"IV SEMINARIO INTERNACIONAL DO MEDITERRANEO\"",
                 "pubOrdem": "0"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "2954",
-          "cadNomeCompleto": "CARLOS CAMPOS RODRIGUES DA COSTA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Carlos Costa",
-                "legDes": "V",
-                "ceDes": "PORTO",
-                "parSigla": "CDU",
-                "parDes": "Coligação Democrática Unitária",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Costa",
-                "legDes": "IV",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Da Costa",
-                "legDes": "III",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Da Costa",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Costa",
-                "legDes": "IB",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Carlos Costa",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -7190,15 +6537,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Carlos Macedo",
-                "legDes": "IA",
-                "ceDes": "BRAGA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -7266,15 +6604,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Carlos Pereira Pinho",
-                "legDes": "IA",
-                "ceDes": "BRAGA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -7410,24 +6739,6 @@
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
                 "depNomeParlamentar": "Casimiro Pires",
-                "legDes": "IV",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Casimiro Pires",
-                "legDes": "III",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Casimiro Pires",
                 "legDes": "II",
                 "ceDes": "BRAGANÇA",
                 "parSigla": "AD",
@@ -7439,53 +6750,6 @@
                 "depNomeParlamentar": "Casimiro Pires",
                 "legDes": "IB",
                 "ceDes": "BRAGANÇA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Casimiro Pires",
-                "legDes": "IA",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "312",
-          "cadNomeCompleto": "ANIBAL ANTONIO CAVACO SILVA",
-          "cadSexo": "M",
-          "cadProfissao": "PROFESSOR UNIVERSITARIO",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Cavaco Silva",
-                "legDes": "V",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Aníbal Cavaco Silva",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Cavaco Silva",
-                "legDes": "II",
-                "ceDes": "LISBOA",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
@@ -8501,15 +7765,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Daniel Bastos",
-                "legDes": "IA",
-                "ceDes": "VILA REAL",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -8788,15 +8043,6 @@
                 "ceDes": "BEJA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Dinis Miranda",
-                "legDes": "IA",
-                "ceDes": "BEJA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
               },
@@ -9230,15 +8476,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Eleutério Alves",
-                "legDes": "IA",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               },
               {
                 "depNomeParlamentar": "Eleutério Alves",
@@ -10371,15 +9608,6 @@
               },
               {
                 "depNomeParlamentar": "Fernando Roriz",
-                "legDes": "IA",
-                "ceDes": "BRAGA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              },
-              {
-                "depNomeParlamentar": "Fernando Roriz",
                 "legDes": "Cons",
                 "ceDes": "BRAGA",
                 "parSigla": "PPD",
@@ -10520,15 +9748,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Francisco Cavaleiro Ferreira",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -10615,15 +9834,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "DR",
                 "gpDes": "Deputados Reformadores"
-              },
-              {
-                "depNomeParlamentar": "Francisco De Sousa Tavares",
-                "legDes": "IA",
-                "ceDes": "ÉVORA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -10774,53 +9984,6 @@
                 "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3158",
-          "cadNomeCompleto": "FRANCISCO JOSÉ PEREIRA PINTO BALSEMÃO",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Francisco Pinto Balsemão",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Francisco Pinto Balsemão",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Francisco Pinto Balsemão",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              },
-              {
-                "depNomeParlamentar": "Francisco Pinto Balsemão",
-                "legDes": "Cons",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -11196,15 +10359,6 @@
                 "parDes": "Partido Popular Monárquico",
                 "gpSigla": "PPM",
                 "gpDes": "Partido Popular Monárquico"
-              },
-              {
-                "depNomeParlamentar": "Gonçalo Ribeiro Telles",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPM",
-                "parDes": "Partido Popular Monárquico",
-                "gpSigla": "PPM",
-                "gpDes": "Partido Popular Monárquico"
               }
             ]
           },
@@ -11498,15 +10652,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Guilherme Santos",
-                "legDes": "IA",
-                "ceDes": "LEIRIA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -11534,15 +10679,6 @@
                 "ceDes": "LISBOA",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Helder Pinheiro",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
               }
@@ -11810,15 +10946,6 @@
                 "parDes": "Partido Popular Monárquico",
                 "gpSigla": "PPM",
                 "gpDes": "Partido Popular Monárquico"
-              },
-              {
-                "depNomeParlamentar": "Henrique Barrilaro Ruas",
-                "legDes": "IA",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "PPM",
-                "parDes": "Partido Popular Monárquico",
-                "gpSigla": "PPM",
-                "gpDes": "Partido Popular Monárquico"
               }
             ]
           },
@@ -11864,15 +10991,6 @@
                 "ceDes": "SANTARÉM",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Henrique Cruz",
-                "legDes": "IA",
-                "ceDes": "SANTARÉM",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               }
@@ -12037,44 +11155,6 @@
                 "funDes": "Dirigente Nacional do MDP/CDE desde a sua constituição como partido político (Outubro 1974)",
                 "funOrdem": "0",
                 "funAntiga": "S"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3539",
-          "cadNomeCompleto": "HERCULANO RODRIGUES PIRES",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Herculano Pires",
-                "legDes": "II",
-                "ceDes": "SETÚBAL",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Herculano Pires",
-                "legDes": "IB",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Herculano Pires",
-                "legDes": "IA",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -12280,15 +11360,6 @@
                 "ceDes": "PORTO",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Ilda Figueiredo",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
               }
@@ -13303,15 +12374,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "João Cravinho",
-                "legDes": "IA",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -14114,15 +13176,6 @@
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Joaquim Baptista Sá",
-                "legDes": "IA",
-                "ceDes": "BRAGA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -14338,15 +13391,6 @@
                 "ceDes": "PORTALEGRE",
                 "parSigla": "APU",
                 "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Joaquim Miranda",
-                "legDes": "IA",
-                "ceDes": "PORTALEGRE",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
               }
@@ -14657,15 +13701,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Jorge Sampaio",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -14825,62 +13860,6 @@
                 "parDes": "Partido Comunista Português",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3234",
-          "cadNomeCompleto": "JOSÉ DA SILVA DOMINGOS",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "José Domingos",
-                "legDes": "IV",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "José Domingos",
-                "legDes": "III",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "José Domingos",
-                "legDes": "II",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "José Domingos",
-                "legDes": "IB",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "José Domingos",
-                "legDes": "IA",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -15136,15 +14115,6 @@
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "José Ildefonso Oliveira",
-                "legDes": "IA",
-                "ceDes": "ÉVORA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -15156,26 +14126,15 @@
           "cadSexo": "M",
           "cadProfissao": "",
           "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "José Luís Judas",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "José Judas",
-                "legDes": "II",
-                "ceDes": "LISBOA",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
-              }
-            ]
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "José Judas",
+              "legDes": "II",
+              "ceDes": "LISBOA",
+              "parSigla": "APU",
+              "parDes": "Aliança Povo Unido",
+              "gpSigla": "PCP",
+              "gpDes": "Partido Comunista Português"
+            }
           },
           "cadActividadeOrgaos": null
         },
@@ -15342,15 +14301,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "José Manuel Casqueiro",
-                "legDes": "IA",
-                "ceDes": "SANTARÉM",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -15484,24 +14434,6 @@
                 "gpDes": "Partido Comunista Português"
               }
             ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "3552",
-          "cadNomeCompleto": "JOSÉ MARIA SOARES",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "José Maria Soares",
-              "legDes": "II",
-              "ceDes": "AVEIRO",
-              "parSigla": "AD",
-              "parDes": "Aliança Democrática",
-              "gpSigla": "CDS",
-              "gpDes": "Centro Democrático Social"
-            }
           },
           "cadActividadeOrgaos": null
         },
@@ -16036,15 +14968,6 @@
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Josefina Andrade",
-                "legDes": "IA",
-                "ceDes": "ÉVORA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -16092,15 +15015,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Júlio Castro Caldas",
-                "legDes": "IA",
-                "ceDes": "VIANA DO CASTELO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -16455,15 +15369,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Leonardo Ribeiro De Almeida",
-                "legDes": "IA",
-                "ceDes": "SANTARÉM",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               },
               {
                 "depNomeParlamentar": "Leonardo Ribeiro De Almeida",
@@ -16830,15 +15735,6 @@
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
                 "depNomeParlamentar": "Lucas Pires",
-                "legDes": "V",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Lucas Pires",
                 "legDes": "IV",
                 "ceDes": "LISBOA",
                 "parSigla": "PSD",
@@ -16905,15 +15801,6 @@
               {
                 "depNomeParlamentar": "Luis  Coimbra",
                 "legDes": "IB",
-                "ceDes": "AVEIRO",
-                "parSigla": "PPM",
-                "parDes": "Partido Popular Monárquico",
-                "gpSigla": "PPM",
-                "gpDes": "Partido Popular Monárquico"
-              },
-              {
-                "depNomeParlamentar": "Luis  Coimbra",
-                "legDes": "IA",
                 "ceDes": "AVEIRO",
                 "parSigla": "PPM",
                 "parDes": "Partido Popular Monárquico",
@@ -17013,15 +15900,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Luis Barbosa",
-                "legDes": "IA",
-                "ceDes": "GUARDA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -17067,15 +15945,6 @@
                 "ceDes": "LISBOA",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Luís Beiroco",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               }
@@ -17267,15 +16136,6 @@
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
-                "depNomeParlamentar": "Luís Kalidas Barreto",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
                 "depNomeParlamentar": "Luís Kalidás Barreto",
                 "legDes": "II",
                 "ceDes": "LISBOA",
@@ -17358,15 +16218,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Luís Martins",
-                "legDes": "IA",
-                "ceDes": "VISEU",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -17508,15 +16359,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Luís Saias",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -17544,15 +16386,6 @@
                 "ceDes": "CASTELO BRANCO",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Luis Veloso Sampaio",
-                "legDes": "IA",
-                "ceDes": "CASTELO BRANCO",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               }
@@ -17674,7 +16507,9 @@
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
+                "gpDes": "Partido Popular Democrata",
+                "indDes": "Independente",
+                "indData": "1979-04-18"
               }
             ]
           },
@@ -18435,15 +17270,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Manuel Araújo Dos Santos",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -18515,15 +17341,6 @@
               {
                 "depNomeParlamentar": "Manuel Bragança Tender",
                 "legDes": "IB",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Manuel Bragança Tender",
-                "legDes": "IA",
                 "ceDes": "BRAGANÇA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
@@ -18766,15 +17583,6 @@
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
                 "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Manuel Dos Santos",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
               }
             ]
           },
@@ -18822,15 +17630,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Manuel Fonseca",
-                "legDes": "IA",
-                "ceDes": "AVEIRO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -18983,15 +17782,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Manuel Lopes Ribeiro",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -19110,15 +17900,6 @@
               {
                 "depNomeParlamentar": "Manuel Melo Santos",
                 "legDes": "IB",
-                "ceDes": "AVEIRO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Manuel Melo Santos",
-                "legDes": "IA",
                 "ceDes": "AVEIRO",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
@@ -19337,15 +18118,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Manuel Pereira",
-                "legDes": "IA",
-                "ceDes": "COIMBRA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -19693,15 +18465,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Maria Adelaide Paiva",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -20017,15 +18780,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Maria Tábita Mendes",
-                "legDes": "IA",
-                "ceDes": "BRAGANÇA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -20168,15 +18922,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Marília Raimundo",
-                "legDes": "IA",
-                "ceDes": "GUARDA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -20237,15 +18982,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mário Adegas",
-                "legDes": "IA",
-                "ceDes": "AVEIRO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -20502,15 +19238,6 @@
               },
               {
                 "depNomeParlamentar": "Mário Raposo",
-                "legDes": "IV",
-                "ceDes": "LEIRIA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mário Raposo",
                 "legDes": "II",
                 "ceDes": "COIMBRA",
                 "parSigla": "AD",
@@ -20538,15 +19265,6 @@
           "cadProfissao": "",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Mário Soares",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
               {
                 "depNomeParlamentar": "Mário Soares",
                 "legDes": "III",
@@ -20627,15 +19345,6 @@
               {
                 "depNomeParlamentar": "Mário Tomé",
                 "legDes": "IB",
-                "ceDes": "LISBOA",
-                "parSigla": "UDP",
-                "parDes": "União Democrática Popular",
-                "gpSigla": "UDP",
-                "gpDes": "União Democrática Popular"
-              },
-              {
-                "depNomeParlamentar": "Mário Tomé",
-                "legDes": "IA",
                 "ceDes": "LISBOA",
                 "parSigla": "UDP",
                 "parDes": "União Democrática Popular",
@@ -21074,8 +19783,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -21440,349 +20148,6 @@
           }
         },
         {
-          "cadId": "390",
-          "cadNomeCompleto": "JOÃO BOSCO SOARES MOTA AMARAL",
-          "cadDtNascimento": "1943-04-15",
-          "cadSexo": "M",
-          "cadProfissao": "Advogado",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "XII",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "XI",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "X",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "IX",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "VIII",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "VII",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "VI",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "V",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "IV",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "III",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "II",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "IA",
-                "ceDes": "PONTA DELGADA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "Cons",
-                "ceDes": "PONTA DELGADA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadHabilitacoes": {
-            "pt_ar_wsgode_objectos_DadosHabilitacoes": [
-              {
-                "habId": "11512",
-                "habDes": "1º Ciclo",
-                "habTipoId": "9",
-                "habEstado": "C"
-              },
-              {
-                "habId": "11513",
-                "habDes": "2º Ciclo",
-                "habTipoId": "10",
-                "habEstado": "C"
-              },
-              {
-                "habId": "11514",
-                "habDes": "3º Ciclo",
-                "habTipoId": "11",
-                "habEstado": "C"
-              },
-              {
-                "habId": "11515",
-                "habDes": "Ensino Secundário",
-                "habTipoId": "12",
-                "habEstado": "C"
-              },
-              {
-                "habId": "11516",
-                "habDes": "Direito",
-                "habTipoId": "13",
-                "habEstado": "C"
-              },
-              {
-                "habId": "11517",
-                "habDes": "Direito",
-                "habTipoId": "14",
-                "habEstado": "C"
-              }
-            ]
-          },
-          "cadCargosFuncoes": {
-            "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
-              {
-                "funId": "15051",
-                "funDes": "Deputado à Assembleia da República;",
-                "funOrdem": "1",
-                "funAntiga": "N"
-              },
-              {
-                "funId": "15052",
-                "funDes": "Presidente da Assembleia da República na IX Legislatura;",
-                "funOrdem": "2",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15053",
-                "funDes": "Presidente do Governo da Região Autónoma dos Açores (1976/95);",
-                "funOrdem": "3",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15054",
-                "funDes": "Conselheiro de Estado (1982/95 e 2001/05);",
-                "funOrdem": "4",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15055",
-                "funDes": "Vice-Presidente do Comité das Regiões da União Europeia (1994/95);",
-                "funOrdem": "5",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15056",
-                "funDes": "Membro da Assembleia Parlamentar do Conselho da Europa e da Assembleia Parlamentar da União da Europa Ocidental (1996/2002) e de 2005 em diante;",
-                "funOrdem": "6",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15057",
-                "funDes": "Deputado à Assembleia Constituinte;",
-                "funOrdem": "7",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15058",
-                "funDes": "Deputado à Assembleia da República desde a I Legislatura (com mandato suspenso desde 8 de Setembro de 1976 e até 1995);",
-                "funOrdem": "8",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15059",
-                "funDes": "Vice-Presidente da Assembleia da República nas VII e VIII Legislaturas.",
-                "funOrdem": "9",
-                "funAntiga": "S"
-              },
-              {
-                "funId": "15060",
-                "funDes": "Vice-Presidente da Assembleia Parlamentar do Conselho da Europa, eleito em Outubro de 2011",
-                "funOrdem": "10",
-                "funAntiga": "S"
-              }
-            ]
-          },
-          "cadTitulos": {
-            "pt_ar_wsgode_objectos_DadosTitulos": {
-              "titId": "1305",
-              "titDes": "Doutor Honoris Causa em Ciencias Económicas pela Universidade dos Açores",
-              "titOrdem": "1"
-            }
-          },
-          "cadCondecoracoes": {
-            "pt_ar_wsgode_objectos_DadosCondecoracoes": [
-              {
-                "codId": "1750",
-                "codDes": "Grã-Cruz da Ordem Militar de Cristo;",
-                "codOrdem": "1"
-              },
-              {
-                "codId": "1751",
-                "codDes": "Grã-Cruz da Ordem do Infante Dom Henrique;",
-                "codOrdem": "2"
-              },
-              {
-                "codId": "1752",
-                "codDes": "Grã-Cruz da Ordem do Cruzeiro do Sul, do Brasil;",
-                "codOrdem": "3"
-              },
-              {
-                "codId": "1753",
-                "codDes": "Grã-Cruz da Ordem de Mérito, da Áustria;",
-                "codOrdem": "4"
-              },
-              {
-                "codId": "1754",
-                "codDes": "Grã-Cruz da Ordem de Mérito, da Polónia;",
-                "codOrdem": "5"
-              },
-              {
-                "codId": "1755",
-                "codDes": "Grã-Cruz da Ordem de Mérito, da Hungria;",
-                "codOrdem": "6"
-              },
-              {
-                "codId": "1756",
-                "codDes": "Grã-Cruz da Ordem do Libertador do Chile;",
-                "codOrdem": "7"
-              },
-              {
-                "codId": "1757",
-                "codDes": "Grande-Oficial da Ordem de Mérito, da Alemanha;",
-                "codOrdem": "8"
-              },
-              {
-                "codId": "1758",
-                "codDes": "Grande-Oficial da Ordem de Mérito, da França.",
-                "codOrdem": "9"
-              },
-              {
-                "codId": "1759",
-                "codDes": "Insígnia Autonómica de Valor, da Região Autónoma dos Açores.",
-                "codOrdem": "10"
-              }
-            ]
-          },
-          "cadObrasPublicadas": {
-            "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
-              {
-                "pubId": "3132",
-                "pubDes": "O Desafio Insular, 4.ª ed., 1990;",
-                "pubOrdem": "1"
-              },
-              {
-                "pubId": "3133",
-                "pubDes": "Natal Açoriano, 1993;",
-                "pubOrdem": "2"
-              },
-              {
-                "pubId": "3134",
-                "pubDes": "O Caminho da Vitória, 1994;",
-                "pubOrdem": "3"
-              },
-              {
-                "pubId": "3135",
-                "pubDes": "Autonomia e Desenvolvimento - Um Projecto para os Açores, 1995;",
-                "pubOrdem": "4"
-              },
-              {
-                "pubId": "3136",
-                "pubDes": "Em Louvor de Timor, 2002",
-                "pubOrdem": "5"
-              },
-              {
-                "pubId": "3137",
-                "pubDes": "Reflexões sobre o Parlamento Português, 2003;",
-                "pubOrdem": "6"
-              },
-              {
-                "pubId": "3138",
-                "pubDes": "Portugal na Europa e no Mundo, 2004;",
-                "pubOrdem": "7"
-              },
-              {
-                "pubId": "3139",
-                "pubDes": "Ao Serviço do Parlamento, 2005;",
-                "pubOrdem": "8"
-              },
-              {
-                "pubId": "3140",
-                "pubDes": "Diplomacia Parlamentar, 2005",
-                "pubOrdem": "9"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "3482",
           "cadNomeCompleto": "LUÍS FERNANDO CARDOSO NANDIM DE CARVALHO",
           "cadSexo": "M",
@@ -21928,15 +20293,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Nascimento Rodrigues",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -21975,15 +20331,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Natália Correia",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -22061,15 +20408,6 @@
                 "parDes": "Centro Democrático Social - Partido Popular",
                 "gpSigla": "CDS-PP",
                 "gpDes": "Partido Popular"
-              },
-              {
-                "depNomeParlamentar": "Nuno Abecasis",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               },
               {
                 "depNomeParlamentar": "Nuno Abecasis",
@@ -23664,15 +22002,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Pedro Vasconcelos",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
               }
             ]
           },
@@ -23985,15 +22314,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Reinaldo Gomes",
-                "legDes": "IA",
-                "ceDes": "LEIRIA",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -24257,7 +22577,8 @@
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
+                "gpDes": "Partido Popular Democrata",
+                "indData": "1975-12-12"
               }
             ]
           },
@@ -24429,15 +22750,6 @@
                 "parDes": "Aliança Povo Unido",
                 "gpSigla": "PCP",
                 "gpDes": "Partido Comunista Português"
-              },
-              {
-                "depNomeParlamentar": "Rosa Brandão Represas",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PCP",
-                "parDes": "Partido Comunista Português",
-                "gpSigla": "PCP",
-                "gpDes": "Partido Comunista Português"
               }
             ]
           },
@@ -24458,8 +22770,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",
@@ -24825,15 +23136,6 @@
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
                 "depNomeParlamentar": "Rui Amaral",
-                "legDes": "V",
-                "ceDes": "PORTO",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Rui Amaral",
                 "legDes": "IV",
                 "ceDes": "PORTO",
                 "parSigla": "PSD",
@@ -24867,35 +23169,8 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Rui Amaral",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "929",
-          "cadNomeCompleto": "RUIA FONSO MOIA PEREIRA CERNADAS",
-          "cadSexo": "M",
-          "cadProfissao": "MEDICO",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Rui Cernadas",
-              "legDes": "II",
-              "ceDes": "PORTO",
-              "parSigla": "AD",
-              "parDes": "Aliança Democrática",
-              "gpSigla": "CDS",
-              "gpDes": "Centro Democrático Social"
-            }
           },
           "cadActividadeOrgaos": null
         },
@@ -24954,15 +23229,6 @@
               {
                 "depNomeParlamentar": "Rui Mateus",
                 "legDes": "IB",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Rui Mateus",
-                "legDes": "IA",
                 "ceDes": "LISBOA",
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
@@ -25129,15 +23395,6 @@
                 "ceDes": "LISBOA",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "José Sanches Osório",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "CDS",
-                "parDes": "Centro Democrático Social",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               }
@@ -25487,15 +23744,6 @@
                 "parDes": "Aliança Democrática",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Valdemar Alves",
-                "legDes": "IA",
-                "ceDes": "AVEIRO",
-                "parSigla": "PPD",
-                "parDes": "Partido Popular Democrático",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
               }
             ]
           },
@@ -25931,7 +24179,9 @@
                 "parSigla": "PPD",
                 "parDes": "Partido Popular Democrático",
                 "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
+                "gpDes": "Partido Popular Democrata",
+                "indDes": "Independente",
+                "indData": "1979-04-18"
               }
             ]
           },
@@ -26399,13 +24649,6 @@
     "RegistoInteressesList": {
       "pt_ar_wsgode_objectos_DadosDeputadoRgiWeb": [
         {
-          "cadId": "141",
-          "cadNomeCompleto": "ABÍLIO ALEIXO CURTO",
-          "cadActividadeProfissional": "BANCARIO",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
-        },
-        {
           "cadId": "2911",
           "cadNomeCompleto": "ABÍLIO DE MESQUITA ARAÚJO GUEDES",
           "cadActividadeProfissional": "",
@@ -26540,13 +24783,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "338",
-          "cadNomeCompleto": "ALÍPIO BARROSA PEREIRA DIAS",
-          "cadActividadeProfissional": "BANCARIO",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
-        },
-        {
           "cadId": "147",
           "cadNomeCompleto": "ANTÓNIO DE ALMEIDA SANTOS",
           "cadActividadeProfissional": "JURISTA",
@@ -26611,12 +24847,6 @@
         {
           "cadId": "3239",
           "cadNomeCompleto": "AMÂNDIO ANES DE AZEVEDO",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "3594",
-          "cadNomeCompleto": "ADELINO MANUEL LOPES AMARO DA COSTA",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
         },
@@ -26699,13 +24929,6 @@
           "cadNomeCompleto": "ANTÓNIO FILIPE DAMÁSIO CAPOULAS",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "314",
-          "cadNomeCompleto": "ANTÓNIO D'OREY CAPUCHO",
-          "cadActividadeProfissional": "GESTOR",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "3595",
@@ -26838,12 +25061,6 @@
         {
           "cadId": "2937",
           "cadNomeCompleto": "ANTÓNIO MARIA DE ORNELAS OURIQUE MENDES",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "3474",
-          "cadNomeCompleto": "ANTÓNIO PINTO BASTO PATRÍCIO GOUVEIA",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
         },
@@ -27019,13 +25236,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "1740",
-          "cadNomeCompleto": "BASÍLIO ADOLFO DE MENDONÇA HORTA DA FRANCA",
-          "cadActividadeProfissional": "ADVOGADO",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
-        },
-        {
           "cadId": "3346",
           "cadNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO",
           "cadActividadeProfissional": "",
@@ -27100,12 +25310,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3630",
-          "cadNomeCompleto": "CARLOS ALBERTO GOMES",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "2948",
           "cadNomeCompleto": "CARLOS ALFREDO DE BRITO",
           "cadEstadoCivilCod": "0"
@@ -27116,12 +25320,6 @@
           "cadActividadeProfissional": "ADVOGADO",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)"
-        },
-        {
-          "cadId": "2954",
-          "cadNomeCompleto": "CARLOS CAMPOS RODRIGUES DA COSTA",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "3390",
@@ -27188,12 +25386,6 @@
           "cadId": "3116",
           "cadNomeCompleto": "CASIMIRO ANTÓNIO PIRES",
           "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "312",
-          "cadNomeCompleto": "ANIBAL ANTONIO CAVACO SILVA",
-          "cadActividadeProfissional": "PROFESSOR UNIVERSITARIO",
           "cadEstadoCivilCod": "0"
         },
         {
@@ -27561,12 +25753,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3158",
-          "cadNomeCompleto": "FRANCISCO JOSÉ PEREIRA PINTO BALSEMÃO",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "3575",
           "cadNomeCompleto": "FRANCISCO MAGRO DOS REIS",
           "cadActividadeProfissional": "",
@@ -27701,12 +25887,6 @@
           "cadActividadeProfissional": "Economista",
           "cadEstadoCivilCod": "1",
           "cadEstadoCivilDes": "Casado(a)"
-        },
-        {
-          "cadId": "3539",
-          "cadNomeCompleto": "HERCULANO RODRIGUES PIRES",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "3335",
@@ -28043,12 +26223,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3234",
-          "cadNomeCompleto": "JOSÉ DA SILVA DOMINGOS",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "3535",
           "cadNomeCompleto": "JOSÉ LUÍS FERREIRA DE ARAÚJO",
           "cadActividadeProfissional": "",
@@ -28132,12 +26306,6 @@
         {
           "cadId": "3020",
           "cadNomeCompleto": "JOSÉ MANUEL DE MELO ANTUNES MENDES",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "3552",
-          "cadNomeCompleto": "JOSÉ MARIA SOARES",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
         },
@@ -28775,13 +26943,6 @@
           "cadEstadoCivilDes": "Casado(a)"
         },
         {
-          "cadId": "390",
-          "cadNomeCompleto": "JOÃO BOSCO SOARES MOTA AMARAL",
-          "cadActividadeProfissional": "Advogado",
-          "cadEstadoCivilCod": "4",
-          "cadEstadoCivilDes": "Solteiro(a)"
-        },
-        {
           "cadId": "3482",
           "cadNomeCompleto": "LUÍS FERNANDO CARDOSO NANDIM DE CARVALHO",
           "cadActividadeProfissional": "",
@@ -28996,12 +27157,6 @@
           "cadId": "3074",
           "cadNomeCompleto": "RUI ALBERTO BARRADAS DO AMARAL",
           "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "929",
-          "cadNomeCompleto": "RUIA FONSO MOIA PEREIRA CERNADAS",
-          "cadActividadeProfissional": "MEDICO",
           "cadEstadoCivilCod": "0"
         },
         {

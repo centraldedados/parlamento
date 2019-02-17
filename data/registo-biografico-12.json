@@ -22,8 +22,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "CDS-PP",
-                "gpDes": "Centro Democrático Social - Partido Popular",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/CDS-PP_ABEL_BAPTISTA.mp4"
+                "gpDes": "Centro Democrático Social - Partido Popular"
               },
               {
                 "depNomeParlamentar": "Abel Baptista",
@@ -1917,13 +1916,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "5004",
-                "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
-                "orgSigla": "GT-EIE",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5004",
+                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
+                  "orgSigla": "GT-EIE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -1942,8 +1950,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ANA_PAULA_VITORINO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Ana Paula Vitorino",
@@ -2535,6 +2542,13 @@
                   "orgSigla": "GT-ARJASM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7044",
+                  "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                  "orgSigla": "GT-EMJEMP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -2555,8 +2569,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_ANGELA_GUERRA.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Ângela Guerra",
@@ -2923,8 +2936,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ANTONIO_CARDOSO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "António Cardoso",
@@ -3384,6 +3396,20 @@
                   "orgSigla": "GT-ARJASM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7044",
+                  "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                  "orgSigla": "GT-EMJEMP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3404,8 +3430,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ANTONIO_GAMEIRO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "António Gameiro",
@@ -4635,15 +4660,6 @@
                 "ceDes": "BRAGA",
                 "parSigla": "CDS",
                 "parDes": "Centro Democrático Social",
-                "gpSigla": "CDS",
-                "gpDes": "Centro Democrático Social"
-              },
-              {
-                "depNomeParlamentar": "Basílio Horta",
-                "legDes": "II",
-                "ceDes": "BRAGA",
-                "parSigla": "AD",
-                "parDes": "Aliança Democrática",
                 "gpSigla": "CDS",
                 "gpDes": "Centro Democrático Social"
               },
@@ -6046,8 +6062,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_CARLOS_ABREU_AMORIM.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Carlos Abreu Amorim",
@@ -6116,13 +6131,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6705",
-                "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
-                "orgSigla": "GT-RGPD",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
+                }
+              ]
             }
           }
         },
@@ -6141,8 +6170,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_CARLOS_ALBERTO_GONCALVES.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Carlos Alberto Gonçalves",
@@ -6549,8 +6577,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_CARLOS_PASCOA_GONCALVES.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Carlos Páscoa Gonçalves",
@@ -6734,6 +6761,15 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "7044",
+                "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                "orgSigla": "GT-EMJEMP",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -7225,8 +7261,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_CATARINA_MARCELINO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Catarina Marcelino",
@@ -7914,13 +7949,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21380",
+                "habId": "27540",
                 "habDes": "Magistério Primário e Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21381",
+                "habId": "27541",
                 "habDes": "MBA em Gestão\nPos-Graduação em Contabilidade Pública, Finanças e Gestão Pública\n",
                 "habTipoId": "16"
               }
@@ -7928,8 +7963,8 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "25116",
-              "funDes": "Deputada à Assembleia Municipal de Paredes\nDeputada à Assembleia de Freguesia de Paredes",
+              "funId": "31256",
+              "funDes": "Deputada à Assembleia da República\n",
               "funOrdem": "1",
               "funAntiga": "N"
             }
@@ -8325,15 +8360,6 @@
                 "parDes": "Partido Social Democrata",
                 "gpSigla": "PSD",
                 "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Couto Dos Santos",
-                "legDes": "V",
-                "ceDes": "SETÚBAL",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
               }
             ]
           },
@@ -8485,8 +8511,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_CRISTOVAO_NORTE.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Cristóvão Norte",
@@ -8981,8 +9006,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_DUARTE_MARQUES.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Duarte Marques",
@@ -9040,7 +9064,61 @@
               "pubOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "5024",
+                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+                  "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6384",
+                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
+                  "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "6664",
+                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
+                  "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "42",
@@ -9057,8 +9135,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_DUARTE_PACHECO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Duarte Pacheco",
@@ -9282,8 +9359,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_EDUARDO_CABRITA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Eduardo Cabrita",
@@ -9545,8 +9621,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ELZA_PAIS.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Elza Pais",
@@ -10262,8 +10337,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_FELICIANO_BARREIRAS_DUARTE.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Feliciano Barreiras Duarte",
@@ -11574,8 +11648,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "CDS-PP",
-                "gpDes": "Centro Democrático Social - Partido Popular",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/CDS-PP_FILIPE_LOBO_DAVILA.mp4"
+                "gpDes": "Centro Democrático Social - Partido Popular"
               },
               {
                 "depNomeParlamentar": "Filipe Lobo D' Ávila",
@@ -13534,7 +13607,7 @@
                 {
                   "orgId": "6984",
                   "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
-                  "orgSigla": "GT-SICI",
+                  "orgSigla": "GT-SICS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -13962,8 +14035,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_HUGO_LOPES_SOARES.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Hugo Lopes Soares",
@@ -14577,8 +14649,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ISABEL_ALVES_MOREIRA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Isabel Alves Moreira",
@@ -17057,8 +17128,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "CDS-PP",
-                "gpDes": "Centro Democrático Social - Partido Popular",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/CDS-PP_JOAO_REBELO.mp4"
+                "gpDes": "Centro Democrático Social - Partido Popular"
               },
               {
                 "depNomeParlamentar": "João Rebelo",
@@ -17939,8 +18009,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_JORGE_LACAO.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Jorge Lacão",
@@ -18162,18 +18231,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6405",
-                "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
-                "orgSigla": "GT-IP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6405",
+                  "orgDes": "Grupo de Trabalho - Inquéritos Parlamentares",
+                  "orgSigla": "GT-IP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "7044",
+                  "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
+                  "orgSigla": "GT-EMJEMP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -18509,8 +18587,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_JORGE_PAULO_OLIVEIRA.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Jorge Paulo Oliveira",
@@ -20869,8 +20946,7 @@
                 "parSigla": "BE",
                 "parDes": "Bloco De Esquerda",
                 "gpSigla": "BE",
-                "gpDes": "Bloco De Esquerda",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/BE_JOSE_MOURA_SOEIRO.mp4"
+                "gpDes": "Bloco De Esquerda"
               },
               {
                 "depNomeParlamentar": "José Moura Soeiro",
@@ -22409,6 +22485,13 @@
                   "orgId": "5804",
                   "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
                   "orgSigla": "GT-SP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6844",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -24502,8 +24585,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_GABRIELA_CANAVILHAS.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Maria Gabriela Canavilhas",
@@ -24936,8 +25018,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_MARIA_MANUELA_TENDER.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Maria Manuela Tender",
@@ -25646,8 +25727,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_MAURICIO_MARQUES.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Maurício Marques",
@@ -27733,8 +27813,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -28223,51 +28302,6 @@
               {
                 "depNomeParlamentar": "Mota Amaral",
                 "legDes": "VII",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "VI",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "V",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "IV",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "III",
-                "ceDes": "AÇORES",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
-              },
-              {
-                "depNomeParlamentar": "Mota Amaral",
-                "legDes": "II",
                 "ceDes": "AÇORES",
                 "parSigla": "PSD",
                 "parDes": "Partido Social Democrata",
@@ -28874,8 +28908,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_NUNO_ENCARNACAO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Nuno Encarnação",
@@ -31524,8 +31557,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_PAULO_SIMOES_RIBEIRO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Paulo Simões Ribeiro",
@@ -32011,6 +32043,13 @@
                   "orgId": "6705",
                   "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
                   "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -32869,8 +32908,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_PEDRO_PIMPAO.mp4"
+                "gpDes": "Partido Social Democrata"
               },
               {
                 "depNomeParlamentar": "Pedro Pimpão",
@@ -35031,8 +35069,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",
@@ -36738,8 +36775,7 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "CDS-PP",
-                "gpDes": "Centro Democrático Social - Partido Popular",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/CDS-PP_TERESA_CAEIRO.mp4"
+                "gpDes": "Centro Democrático Social - Partido Popular"
               },
               {
                 "depNomeParlamentar": "Teresa Caeiro",
@@ -37769,8 +37805,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_VIEIRA_DA_SILVA.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Vieira Da Silva",
@@ -37872,8 +37907,7 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista",
-                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_VITALINO_CANAS.mp4"
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "Vitalino Canas",

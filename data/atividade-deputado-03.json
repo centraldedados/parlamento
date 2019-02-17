@@ -393,11 +393,23 @@
           "depCPDes": "GUARDA",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-04-20",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-23",
+                "sioDtFim": "1985-04-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-05-31",
+                "sioDtFim": "1984-02-07"
+              }
+            ]
           },
           "depNomeCompleto": "ABÍLIO ALEIXO CURTO"
         }
@@ -7198,43 +7210,6 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ÂNGELO VELOSO",
-                "dpl_lg": "III",
-                "dpl_grpar": "PCP"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3685",
-          "depCadId": "3201",
-          "depNomeParlamentar": "ÂNGELO VELOSO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "990",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "ÂNGELO MATOS MENDES VELOSO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "ini": {
               "pt_gov_ar_wsar_objectos_IniciativasOut": [
                 {
@@ -8660,7 +8635,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1985-11-04"
             }
           },
           "depNomeCompleto": "ANTÓNIO ANSELMO ANÍBAL"
@@ -9175,47 +9150,10 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1985-11-04"
             }
           },
           "depNomeCompleto": "ANTÓNIO SÉRGIO BARBOSA DE AZEVEDO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ANTÓNIO BREJO",
-                "dpl_lg": "III",
-                "dpl_grpar": "PS"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4566",
-          "depCadId": "3323",
-          "depNomeParlamentar": "ANTÓNIO BREJO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "988",
-              "gpSigla": "PS",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "6",
-          "depCPDes": "COIMBRA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "ANTÓNIO PINHO DE BREJO"
         }
       },
       {
@@ -10300,43 +10238,6 @@
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ANTÓNIO DIAS DA COSTA",
-                "dpl_lg": "III",
-                "dpl_grpar": "PSD"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4659",
-          "depCadId": "3304",
-          "depNomeParlamentar": "ANTÓNIO DIAS DA COSTA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "989",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "21",
-          "depCPDes": "EUROPA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "ANTÓNIO DIAS DA COSTA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "António Dias da Costa",
                 "dpl_lg": "III",
                 "dpl_grpar": "PSD"
@@ -10576,7 +10477,7 @@
               }
             ]
           },
-          "depNomeCompleto": "ANTÓNIO COUTINHO MONTEIRO DE FREITAS"
+          "depNomeCompleto": "ANTÓNIO MONTEIRO COUTINHO DE FREITAS"
         }
       },
       {
@@ -11914,65 +11815,6 @@
             }
           },
           "depNomeCompleto": "ANTÓNIO GONÇALVES JANEIRO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": [
-                {
-                  "iniId": "29440",
-                  "iniNr": "4",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "III",
-                  "iniSelNr": "1",
-                  "iniTi": "Cria o município de Vizela"
-                },
-                {
-                  "iniId": "29398",
-                  "iniNr": "1",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "III",
-                  "iniSelNr": "1",
-                  "iniTi": "Revoga o \"tecto salarial\" (Decreto-Lei nº 48/83, de 29 de Janeiro e legislação complementar)."
-                }
-              ]
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ANTÓNIO JOAQUIM LOPES",
-                "dpl_lg": "III",
-                "dpl_grpar": "PCP"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3660",
-          "depCadId": "990",
-          "depNomeParlamentar": "ANTÓNIO JOAQUIM LOPES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "990",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "3",
-          "depCPDes": "BRAGA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "ANTÓNIO JOAQUIM DE AZEVEDO FERREIRA LOPES"
         }
       },
       {
@@ -20066,7 +19908,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1985-11-04"
             }
           },
           "depNomeCompleto": "CARLOS AUGUSTO COELHO PIRES"
@@ -21376,7 +21218,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1983-06-01"
             }
           },
           "depNomeCompleto": "CARLOS CAMPOS RODRIGUES DA COSTA"
@@ -23763,43 +23605,6 @@
             ]
           },
           "depNomeCompleto": "CARLOS SOUSA NUNES DA SILVA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CASIMIRO PIRES",
-                "dpl_lg": "III",
-                "dpl_grpar": "PSD"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3592",
-          "depCadId": "3116",
-          "depNomeParlamentar": "CASIMIRO PIRES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "989",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "4",
-          "depCPDes": "BRAGANÇA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "CASIMIRO ANTÓNIO PIRES"
         }
       },
       {
@@ -26532,11 +26337,33 @@
           "depCPDes": "SANTARÉM",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-06-01",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-12-18",
+                "sioDtFim": "1985-05-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-17",
+                "sioDtFim": "1984-12-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-07-14",
+                "sioDtFim": "1984-06-18"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-05-31",
+                "sioDtFim": "1983-06-15"
+              }
+            ]
           },
           "depNomeCompleto": "ANTÓNIO DIAS LOURENÇO DA SILVA"
         }
@@ -29513,43 +29340,6 @@
             ]
           },
           "depNomeCompleto": "FERNANDO AUGUSTO DESTERRO LARCHER NUNES"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "FERNANDO RAMOS",
-                "dpl_lg": "III",
-                "dpl_grpar": "MDP/CDE"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4668",
-          "depCadId": "3393",
-          "depNomeParlamentar": "FERNANDO RAMOS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "994",
-              "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "FERNANDO COUTINHO DA SILVEIRA RAMOS"
         }
       },
       {
@@ -43370,11 +43160,33 @@
           "depCPDes": "LISBOA",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-06-17",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-12-12",
+                "sioDtFim": "1985-05-28"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-14",
+                "sioDtFim": "1984-10-11"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-05-01",
+                "sioDtFim": "1984-07-08"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-05-31",
+                "sioDtFim": "1984-02-01"
+              }
+            ]
           },
           "depNomeCompleto": "JOÃO JOAQUIM GOMES"
         }
@@ -53741,18 +53553,50 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "988",
               "gpSigla": "PS",
-              "gpDtInicio": "1983-05-31"
+              "gpDtInicio": "1984-01-19"
             }
           },
           "depCPId": "11",
           "depCPDes": "LISBOA",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-06-03",
+                "sioDtFim": "1985-06-13"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-01-04",
+                "sioDtFim": "1985-01-29"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-10-26",
+                "sioDtFim": "1984-12-12"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-10-11",
+                "sioDtFim": "1984-10-18"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-25",
+                "sioDtFim": "1984-07-27"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-05-08",
+                "sioDtFim": "1984-07-14"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-01-19",
+                "sioDtFim": "1984-05-01"
+              }
+            ]
           },
           "depNomeCompleto": "JOSÉ MAXIMIANO DE ALBUQUERQUE ALMEIDA LEITÃO"
         }
@@ -53868,43 +53712,6 @@
             }
           },
           "depNomeCompleto": "JOSÉ MANUEL LELLO RIBEIRO DE ALMEIDA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ LUÍS JUDAS",
-                "dpl_lg": "III",
-                "dpl_grpar": "PCP"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3682",
-          "depCadId": "3381",
-          "depNomeParlamentar": "JOSÉ LUÍS JUDAS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "990",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "JOSÉ LUÍS JUDAS"
         }
       },
       {
@@ -57218,7 +57025,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1985-11-04"
             }
           },
           "depNomeCompleto": "JOSÉ MANUEL DE MELO ANTUNES MENDES"
@@ -58008,18 +57815,55 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "989",
               "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
+              "gpDtInicio": "1984-02-07"
             }
           },
           "depCPId": "9",
           "depCPDes": "GUARDA",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-04-16",
+                "sioDtFim": "1985-05-01"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-01-02",
+                "sioDtFim": "1985-01-30"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-11-06",
+                "sioDtFim": "1984-12-05"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-10-09",
+                "sioDtFim": "1984-10-13"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-24",
+                "sioDtFim": "1984-07-25"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-07-16",
+                "sioDtFim": "1984-07-21"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-05-15",
+                "sioDtFim": "1984-05-26"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-02-07",
+                "sioDtFim": "1984-03-17"
+              }
+            ]
           },
           "depNomeCompleto": "JOSÉ MANUEL HENRIQUES PIRES DAS NEVES"
         }
@@ -59472,7 +59316,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "989",
               "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
+              "gpDtInicio": "1983-06-24"
             }
           },
           "depCPId": "21",
@@ -59481,8 +59325,8 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtInicio": "1983-06-24",
+              "sioDtFim": "1983-06-25"
             }
           },
           "depNomeCompleto": "JÚLIO DA CUNHA ANTUNES"
@@ -63743,7 +63587,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
+              "sioDtFim": "1985-11-04"
             }
           },
           "depNomeCompleto": "LUÍS ABÍLIO DA CONCEIÇÃO CACITO"
@@ -63784,43 +63628,6 @@
             }
           },
           "depNomeCompleto": "LUÍS FILIPE SANCHES SOUSA DIAS REIS"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "LUÍS KALIDAS BARRETO",
-                "dpl_lg": "III",
-                "dpl_grpar": "PS"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4579",
-          "depCadId": "3342",
-          "depNomeParlamentar": "LUÍS KALIDAS BARRETO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "988",
-              "gpSigla": "PS",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "LUÍS MARIA KALIDAS COSTA BARRETO"
         }
       },
       {
@@ -67523,11 +67330,23 @@
           "depCPDes": "VIANA DO CASTELO",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-04-11",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-03-21",
+                "sioDtFim": "1984-10-09"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-05-31",
+                "sioDtFim": "1984-01-23"
+              }
+            ]
           },
           "depNomeCompleto": "MANUEL FILIPE PESSOA SANTOS LOUREIRO"
         }
@@ -71971,7 +71790,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "993",
               "gpSigla": "ASDI",
-              "gpDtInicio": "1983-05-31"
+              "gpDtInicio": "1983-10-25"
             }
           },
           "depCPId": "13",
@@ -71980,7 +71799,7 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
+              "sioDtInicio": "1983-10-25",
               "sioDtFim": "1985-11-03"
             }
           },
@@ -77762,43 +77581,6 @@
             ]
           },
           "depNomeCompleto": "ALEXANDRE MONTEIRO ANTÓNIO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "MOTA AMARAL",
-                "dpl_lg": "III",
-                "dpl_grpar": "PSD"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3647",
-          "depCadId": "390",
-          "depNomeParlamentar": "MOTA AMARAL",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "989",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "19",
-          "depCPDes": "AÇORES",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "JOÃO BOSCO SOARES MOTA AMARAL"
         }
       },
       {
@@ -86374,43 +86156,6 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "RUI ALMEIDA MENDES",
-                "dpl_lg": "III",
-                "dpl_grpar": "PSD"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3612",
-          "depCadId": "3073",
-          "depNomeParlamentar": "RUI ALMEIDA MENDES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "989",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "III",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
-          },
-          "depNomeCompleto": "RUI MANUEL DE SOUSA ALMEIDAMENDES"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "intev": {
               "pt_gov_ar_wsar_objectos_IntervencoesOut": [
                 {
@@ -88523,18 +88268,25 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "989",
               "gpSigla": "PSD",
-              "gpDtInicio": "1983-05-31"
+              "gpDtInicio": "1983-06-15"
             }
           },
           "depCPId": "11",
           "depCPDes": "LISBOA",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-06-24",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-06-15",
+                "sioDtFim": "1983-06-16"
+              }
+            ]
           },
           "depNomeCompleto": "VASCO FRANCISCO AGUIAR MIGUEL"
         }
@@ -89704,11 +89456,58 @@
           "depCPDes": "PORTO",
           "legDes": "III",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1983-05-31",
-              "sioDtFim": "1985-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-06-07",
+                "sioDtFim": "1985-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-05-03",
+                "sioDtFim": "1985-05-23"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-04-05",
+                "sioDtFim": "1985-04-18"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-01-26",
+                "sioDtFim": "1985-03-21"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1985-01-05",
+                "sioDtFim": "1985-01-25"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-05-19",
+                "sioDtFim": "1985-01-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1984-05-12",
+                "sioDtFim": "1984-05-17"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-11-18",
+                "sioDtFim": "1984-05-10"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1983-11-05",
+                "sioDtFim": "1983-11-17"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "1983-05-31",
+                "sioDtFim": "1983-11-03"
+              }
+            ]
           },
           "depNomeCompleto": "JOSE VIEIRA DE CARVALHO"
         }

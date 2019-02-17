@@ -11,11 +11,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ABEL CARNEIRO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ABEL CARNEIRO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ABEL CARNEIRO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -24,11 +31,19 @@
           "depCadId": "4702",
           "depNomeParlamentar": "ABEL CARNEIRO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "16",
           "depCPDes": "VIANA DO CASTELO",
@@ -751,11 +766,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ALFREDO MORGADO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ALFREDO MORGADO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ALFREDO MORGADO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -764,11 +786,19 @@
           "depCadId": "4709",
           "depNomeParlamentar": "ALFREDO MORGADO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "5",
           "depCPDes": "CASTELO BRANCO",
@@ -1269,11 +1299,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ANTÍDIO COSTA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ANTÍDIO COSTA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ANTÍDIO COSTA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -1282,11 +1319,19 @@
           "depCadId": "3732",
           "depNomeParlamentar": "ANTÍDIO COSTA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -1779,7 +1824,7 @@
               "sioDtFim": "1976-04-03"
             }
           },
-          "depNomeCompleto": "ANTÓNIO COUTINHO MONTEIRO DE FREITAS"
+          "depNomeCompleto": "ANTÓNIO MONTEIRO COUTINHO DE FREITAS"
         }
       },
       {
@@ -2601,11 +2646,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ARTUR SILVA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ARTUR SILVA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ARTUR SILVA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -2614,11 +2666,19 @@
           "depCadId": "4739",
           "depNomeParlamentar": "ARTUR SILVA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -2712,11 +2772,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "AUGUSTA SIMÕES",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "AUGUSTA SIMÕES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "AUGUSTA SIMÕES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -2725,11 +2792,19 @@
           "depCadId": "4834",
           "depNomeParlamentar": "AUGUSTA SIMÕES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -3230,11 +3305,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CARLOS COELHO SOUSA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "CARLOS COELHO SOUSA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "CARLOS COELHO SOUSA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -3243,11 +3325,19 @@
           "depCadId": "3756",
           "depNomeParlamentar": "CARLOS COELHO SOUSA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -3341,11 +3431,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CARLOS MOTA PINTO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "CARLOS MOTA PINTO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "CARLOS MOTA PINTO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -3354,11 +3451,19 @@
           "depCadId": "3273",
           "depNomeParlamentar": "CARLOS MOTA PINTO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "6",
           "depCPDes": "COIMBRA",
@@ -3378,11 +3483,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CARLOS SEIÇA NEVES",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "CARLOS SEIÇA NEVES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "CARLOS SEIÇA NEVES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -3391,11 +3503,19 @@
           "depCadId": "4743",
           "depNomeParlamentar": "CARLOS SEIÇA NEVES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -3563,11 +3683,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "CUSTÓDIO MATOS",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "CUSTÓDIO MATOS",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "CUSTÓDIO MATOS",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -3576,11 +3703,19 @@
           "depCadId": "4749",
           "depNomeParlamentar": "CUSTÓDIO MATOS",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-10-18"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-10-18",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "1",
           "depCPDes": "AVEIRO",
@@ -4044,11 +4179,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "EMIDIO GUERREIRO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "EMIDIO GUERREIRO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "EMIDIO GUERREIRO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -4057,11 +4199,19 @@
           "depCadId": "6255",
           "depNomeParlamentar": "EMIDIO GUERREIRO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -5339,11 +5489,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "GONÇALVES SAPINHO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "GONÇALVES SAPINHO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "GONÇALVES SAPINHO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -5352,11 +5509,19 @@
           "depCadId": "1383",
           "depNomeParlamentar": "GONÇALVES SAPINHO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "10",
           "depCPDes": "LEIRIA",
@@ -6264,11 +6429,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOAQUIM COELHO SANTOS",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "JOAQUIM COELHO SANTOS",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "JOAQUIM COELHO SANTOS",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -6277,11 +6449,19 @@
           "depCadId": "4785",
           "depNomeParlamentar": "JOAQUIM COELHO SANTOS",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -6782,11 +6962,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ AUGUSTO SEABRA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "JOSÉ AUGUSTO SEABRA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "JOSÉ AUGUSTO SEABRA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -6795,11 +6982,19 @@
           "depCadId": "3203",
           "depNomeParlamentar": "JOSÉ AUGUSTO SEABRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "13",
           "depCPDes": "PORTO",
@@ -6819,11 +7014,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ BETTENCOURT",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "JOSÉ BETTENCOURT",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "JOSÉ BETTENCOURT",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -6832,11 +7034,19 @@
           "depCadId": "4803",
           "depNomeParlamentar": "JOSÉ BETTENCOURT",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "23",
           "depCPDes": "ANGRA DO HEROISMO",
@@ -7115,11 +7325,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ COBRA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "JOSÉ COBRA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "JOSÉ COBRA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -7128,11 +7345,19 @@
           "depCadId": "4797",
           "depNomeParlamentar": "JOSÉ COBRA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-06-02"
+              }
+            ]
           },
           "depCPId": "15",
           "depCPDes": "SETÚBAL",
@@ -7189,11 +7414,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "JOSÉ FRANCISCO LOPES",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "JOSÉ FRANCISCO LOPES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "JOSÉ FRANCISCO LOPES",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -7202,11 +7434,19 @@
           "depCadId": "4799",
           "depNomeParlamentar": "JOSÉ FRANCISCO LOPES",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -8077,11 +8317,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "LUIS BISCAIA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "LUIS BISCAIA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "LUIS BISCAIA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -8090,11 +8337,19 @@
           "depCadId": "4819",
           "depNomeParlamentar": "LUIS BISCAIA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "6",
           "depCPDes": "COIMBRA",
@@ -10297,11 +10552,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "NUNO GAMA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "NUNO GAMA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "NUNO GAMA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -10310,11 +10572,19 @@
           "depCadId": "4851",
           "depNomeParlamentar": "NUNO GAMA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",
@@ -10482,11 +10752,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ORLANDINO VAREJÃO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ORLANDINO VAREJÃO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ORLANDINO VAREJÃO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -10495,11 +10772,19 @@
           "depCadId": "4852",
           "depNomeParlamentar": "ORLANDINO VAREJÃO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "17",
           "depCPDes": "VILA REAL",
@@ -10852,11 +11137,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ROLEIRA MARINHO",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "ROLEIRA MARINHO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "ROLEIRA MARINHO",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -10865,11 +11157,19 @@
           "depCadId": "21",
           "depNomeParlamentar": "ROLEIRA MARINHO",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "16",
           "depCPDes": "VIANA DO CASTELO",
@@ -11370,11 +11670,18 @@
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "VICTOR BOGA",
-                "dpl_lg": "Cons",
-                "dpl_grpar": "PPD"
-              }
+              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": [
+                {
+                  "nome": "VICTOR BOGA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "PPD"
+                },
+                {
+                  "nome": "VICTOR BOGA",
+                  "dpl_lg": "Cons",
+                  "dpl_grpar": "INDEP"
+                }
+              ]
             }
           }
         },
@@ -11383,11 +11690,19 @@
           "depCadId": "4869",
           "depNomeParlamentar": "VICTOR BOGA",
           "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "6070",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1975-06-02"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": [
+              {
+                "gpId": "0",
+                "gpDtInicio": "1975-12-12",
+                "gpDtFim": "1976-04-02"
+              },
+              {
+                "gpId": "6070",
+                "gpSigla": "PPD",
+                "gpDtInicio": "1975-06-02",
+                "gpDtFim": "1975-12-12"
+              }
+            ]
           },
           "depCPId": "18",
           "depCPDes": "VISEU",

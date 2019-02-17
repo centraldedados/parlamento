@@ -591,29 +591,6 @@
           "depNomeCompleto": "ALBERTO LOPES DE MELO"
         },
         {
-          "depId": "4123",
-          "depCadId": "396",
-          "depNomeParlamentar": "ALBERTO JOÃO JARDIM",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "20",
-          "depCPDes": "MADEIRA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "ALBERTO JOÃO CARDOSO GONÇALVES JARDIM"
-        },
-        {
           "depId": "4175",
           "depCadId": "462",
           "depNomeParlamentar": "ALBERTO MARTINS",
@@ -927,29 +904,6 @@
             ]
           },
           "depNomeCompleto": "ALVARO FAVAS BRASILEIRO"
-        },
-        {
-          "depId": "4198",
-          "depCadId": "2916",
-          "depNomeParlamentar": "ÁLVARO CUNHAL",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1003",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "ÁLVARO BARREIRINHAS CUNHAL"
         },
         {
           "depId": "4269",
@@ -1307,7 +1261,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1987-11-01"
             }
           },
           "depNomeCompleto": "ANTÓNIO ANSELMO ANÍBAL"
@@ -1399,7 +1353,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "ANTÓNIO SÉRGIO BARBOSA DE AZEVEDO"
@@ -2153,7 +2107,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "ANTÓNIO MANUEL LOPES TAVARES"
@@ -2279,29 +2233,6 @@
             }
           },
           "depNomeCompleto": "ARISTIDES ALVES DO NASCIMENTO TEIXEIRA"
-        },
-        {
-          "depId": "4072",
-          "depCadId": "335",
-          "depNomeParlamentar": "ARLINDO CUNHA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "ARLINDO MARQUES DA CUNHA"
         },
         {
           "depId": "4085",
@@ -2910,52 +2841,6 @@
           "depNomeCompleto": "CARLOS VICTOR BAPTISTA COSTA"
         },
         {
-          "depId": "4302",
-          "depCadId": "2951",
-          "depNomeParlamentar": "CARLOS BATISTA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "6",
-          "depCPDes": "COIMBRA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "CARLOS MANUEL PEREIRA BATISTA"
-        },
-        {
-          "depId": "4197",
-          "depCadId": "1235",
-          "depNomeParlamentar": "CARLOS BRITO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1003",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "8",
-          "depCPDes": "FARO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "CARLOS EUGÉNIO PEREIRA DE BRITO"
-        },
-        {
           "depId": "4130",
           "depCadId": "234",
           "depNomeParlamentar": "CARLOS CANDAL",
@@ -3418,8 +3303,8 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtInicio": "1987-09-01",
+              "sioDtFim": "1987-09-15"
             }
           },
           "depNomeCompleto": "CARLOS ALBERTO MARTINS PIMENTA"
@@ -3627,29 +3512,6 @@
             }
           },
           "depNomeCompleto": "CASIMIRO GOMES PEREIRA"
-        },
-        {
-          "depId": "4037",
-          "depCadId": "312",
-          "depNomeParlamentar": "CAVACO SILVA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "ANIBAL ANTONIO CAVACO SILVA"
         },
         {
           "depId": "4126",
@@ -3876,29 +3738,6 @@
             }
           },
           "depNomeCompleto": "MANUEL DA COSTA ANDRADE"
-        },
-        {
-          "depId": "4096",
-          "depCadId": "356",
-          "depNomeParlamentar": "COUTO DOS SANTOS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "15",
-          "depCPDes": "SETÚBAL",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "ANTÓNIO FERNANDO COUTO DOS SANTOS"
         },
         {
           "depId": "4021",
@@ -4695,29 +4534,6 @@
           "depNomeCompleto": "FERNANDO RIBEIRO MONIZ"
         },
         {
-          "depId": "4011",
-          "depCadId": "333",
-          "depNomeParlamentar": "FERNANDO NOGUEIRA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "6",
-          "depCPDes": "COIMBRA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOAQUIM FERNANDO NOGUEIRA"
-        },
-        {
           "depId": "4109",
           "depCadId": "47",
           "depNomeParlamentar": "FERNANDO PEREIRA",
@@ -4735,7 +4551,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "FERNANDO JOSE ANTUNES GOMES PEREIRA"
@@ -4861,7 +4677,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "FILIPE MANUEL DA SILVA ABREU"
@@ -4881,11 +4697,23 @@
           "depCPDes": "AVEIRO",
           "legDes": "V",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1991-05-17",
+                "sioDtFim": "1991-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1988-07-21",
+                "sioDtFim": "1991-05-02"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1987-08-13",
+                "sioDtFim": "1988-06-21"
+              }
+            ]
           },
           "depNomeCompleto": "FLAUSINO JOSÉ FERREIRA DA SILVA"
         },
@@ -5665,7 +5493,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "JAIME GOMES MILHOMENS"
@@ -5967,29 +5795,6 @@
             }
           },
           "depNomeCompleto": "JOAO COSTA DA SILVA"
-        },
-        {
-          "depId": "4068",
-          "depCadId": "334",
-          "depNomeParlamentar": "JOÃO DE DEUS PINHEIRO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOÃO DE DEUS ROGADO SALVADOR PINHEIRO"
         },
         {
           "depId": "4131",
@@ -6529,7 +6334,7 @@
                 "gpId": "10000037",
                 "gpSigla": "Indep",
                 "gpDtInicio": "1989-10-15",
-                "gpDtFim": "1991-11-03"
+                "gpDtFim": "1990-02-28"
               }
             ]
           },
@@ -7125,36 +6930,25 @@
           "depCPDes": "BRAGA",
           "legDes": "V",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1989-10-10",
+                "sioDtFim": "1991-11-04"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1988-10-16",
+                "sioDtFim": "1989-07-21"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1987-08-13",
+                "sioDtFim": "1988-08-14"
+              }
+            ]
           },
           "depNomeCompleto": "JOSÉ MANUEL DE MELO ANTUNES MENDES"
-        },
-        {
-          "depId": "4077",
-          "depCadId": "89",
-          "depNomeParlamentar": "JOSÉ MEIRELES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOSÉ MANUEL BORREGANA MEIRELES"
         },
         {
           "depId": "4120",
@@ -7236,29 +7030,6 @@
             ]
           },
           "depNomeCompleto": "JOSÉ BARBOSA MOTA"
-        },
-        {
-          "depId": "4173",
-          "depCadId": "191",
-          "depNomeParlamentar": "JOSÉ NARCISO DE MIRANDA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1002",
-              "gpSigla": "PS",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOSÉ NARCISO RODRIGUES DE MIRANDA"
         },
         {
           "depId": "9974",
@@ -7819,29 +7590,6 @@
           "depNomeCompleto": "ANTONIO POPPE LOPES CARDOSO"
         },
         {
-          "depId": "4230",
-          "depCadId": "1429",
-          "depNomeParlamentar": "LUCAS PIRES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1005",
-              "gpSigla": "CDS",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "FRANCISCO ANTONIO LUCAS PIRES"
-        },
-        {
           "depId": "4129",
           "depCadId": "3029",
           "depNomeParlamentar": "LUÍS AMARAL",
@@ -8076,29 +7824,6 @@
           "depNomeCompleto": "LUÍS MANUEL COSTA GERALDES"
         },
         {
-          "depId": "3996",
-          "depCadId": "370",
-          "depNomeParlamentar": "LUÍS MARQUES MENDES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "3",
-          "depCPDes": "BRAGA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "LUÍS MANUEL GONÇALVES MARQUES MENDES"
-        },
-        {
           "depId": "4114",
           "depCadId": "97",
           "depNomeParlamentar": "LUÍS MARTINS",
@@ -8259,29 +7984,6 @@
             ]
           },
           "depNomeCompleto": "MARIA LUÍSA RODRIGUES AMORIM GARCIA DA ROSA"
-        },
-        {
-          "depId": "4379",
-          "depCadId": "1423",
-          "depNomeParlamentar": "LUÍSA MESQUITA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1003",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "MARIA LUÍSA RAIMUNDO MESQUITA"
         },
         {
           "depId": "4383",
@@ -8499,33 +8201,10 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "MANUEL JOÃO VAZ FREIXO"
-        },
-        {
-          "depId": "4083",
-          "depCadId": "841",
-          "depNomeParlamentar": "MANUEL MARTINS",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "MANUEL DA FONSECA MARTINS"
         },
         {
           "depId": "9975",
@@ -8694,7 +8373,7 @@
                 "gpId": "10000037",
                 "gpSigla": "Indep",
                 "gpDtInicio": "1990-12-10",
-                "gpDtFim": "1991-11-03"
+                "gpDtFim": "1991-08-11"
               },
               {
                 "gpId": "1006",
@@ -8724,7 +8403,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "1003",
               "gpSigla": "PCP",
-              "gpDtInicio": "1987-08-13"
+              "gpDtInicio": "1989-08-23"
             }
           },
           "depCPId": "15",
@@ -8733,8 +8412,8 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtInicio": "1989-08-23",
+              "sioDtFim": "1989-08-24"
             }
           },
           "depNomeCompleto": "MARCOS MANUEL ROLO ANTUNES"
@@ -9467,29 +9146,6 @@
           "depNomeCompleto": "MIGUEL URBANO TAVARES RODRIGUES"
         },
         {
-          "depId": "4088",
-          "depCadId": "348",
-          "depNomeParlamentar": "MIRA AMARAL",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "LUIS FERNANDO DE MIRA AMARAL"
-        },
-        {
           "depId": "4165",
           "depCadId": "193",
           "depNomeParlamentar": "MIRANDA CALHA",
@@ -9511,29 +9167,6 @@
             }
           },
           "depNomeCompleto": "JÚLIO FRANCISCO MIRANDA CALHA"
-        },
-        {
-          "depId": "4119",
-          "depCadId": "390",
-          "depNomeParlamentar": "MOTA AMARAL",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "19",
-          "depCPDes": "AÇORES",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOÃO BOSCO SOARES MOTA AMARAL"
         },
         {
           "depId": "4188",
@@ -9612,18 +9245,35 @@
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
               "gpId": "1001",
               "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
+              "gpDtInicio": "1988-10-16"
             }
           },
           "depCPId": "21",
           "depCPDes": "EUROPA",
           "legDes": "V",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1991-08-01",
+                "sioDtFim": "1991-11-04"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "1989-11-25",
+                "sioDtFim": "1991-02-15"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1989-06-01",
+                "sioDtFim": "1989-10-19"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1988-10-16",
+                "sioDtFim": "1989-04-17"
+              }
+            ]
           },
           "depNomeCompleto": "HENRIQUE ALBERTO FREITAS DO NASCIMENTO RODRIGUES"
         },
@@ -9737,7 +9387,7 @@
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
               "sioDes": "Efetivo",
               "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
+              "sioDtFim": "1991-11-04"
             }
           },
           "depNomeCompleto": "NUNO FRANCISCO FERNANDES DELERUE ALVIM DE MATOS"
@@ -10028,29 +9678,6 @@
             }
           },
           "depNomeCompleto": "JOSÉ ÁLVARO MACHADO PACHECO PEREIRA"
-        },
-        {
-          "depId": "4351",
-          "depCadId": "3086",
-          "depNomeParlamentar": "PAULO GODINHO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1002",
-              "gpSigla": "PS",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "PAULO JORGE GASPAR GODINHO"
         },
         {
           "depId": "4015",
@@ -10656,29 +10283,6 @@
           "depNomeCompleto": "JOÃO ROSADO CORREIA"
         },
         {
-          "depId": "4043",
-          "depCadId": "3073",
-          "depNomeParlamentar": "RUI ALMEIDA MENDES",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "RUI MANUEL DE SOUSA ALMEIDAMENDES"
-        },
-        {
           "depId": "9978",
           "depCadId": "316",
           "depNomeParlamentar": "Rui Almeida Mendes",
@@ -10712,29 +10316,6 @@
             ]
           },
           "depNomeCompleto": "RUI MANUEL DE SOUSA ALMEIDA MENDES"
-        },
-        {
-          "depId": "4071",
-          "depCadId": "3074",
-          "depNomeParlamentar": "RUI AMARAL",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "RUI ALBERTO BARRADAS DO AMARAL"
         },
         {
           "depId": "4042",
@@ -11061,29 +10642,6 @@
           "depNomeCompleto": "JOSÉ AUGUSTO SANTOS DA SILVA MARQUES"
         },
         {
-          "depId": "4004",
-          "depCadId": "270",
-          "depNomeParlamentar": "SILVA PENEDA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "4",
-          "depCPDes": "BRAGANÇA",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "JOSE ALBINO DA SILVA PENEDA"
-        },
-        {
           "depId": "4255",
           "depCadId": "3077",
           "depNomeParlamentar": "SILVA TORRES",
@@ -11229,29 +10787,6 @@
             }
           },
           "depNomeCompleto": "VALDEMAR CARDOSO ALVES"
-        },
-        {
-          "depId": "4106",
-          "depCadId": "376",
-          "depNomeParlamentar": "VALENTE DE OLIVEIRA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1001",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "17",
-          "depCPDes": "VILA REAL",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Suspenso(Eleito)",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-03"
-            }
-          },
-          "depNomeCompleto": "LUIS FRANCISCO VALENTE DE OLIVEIRA"
         },
         {
           "depId": "4121",
