@@ -3197,15 +3197,7 @@
               "local": "Viena",
               "dataInicio": "21-02-2019",
               "dataFim": "22-02-2019",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO DO CARMO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "416"
-                }
-              }
+              "participantes": null
             },
             {
               "nome": "Reunião do Fórum Económico e Ambiental da OSCE",
@@ -11004,7 +10996,24 @@
         "dataEleicao": null,
         "composicao": null,
         "comissoes": null,
-        "reunioes": null,
+        "reunioes": {
+          "Reuniao": {
+            "nome": "Reunião com o Senhor Embaixador de Israel",
+            "tipo": "RNI",
+            "local": "Assembleia da República de Portugal",
+            "dataInicio": "19-02-2019",
+            "dataFim": "19-02-2019",
+            "participantes": {
+              "Participante": {
+                "tipo": "D",
+                "nome": "PEDRO ROQUE",
+                "gp": "PSD",
+                "leg": "XIII",
+                "id": "1992"
+              }
+            }
+          }
+        },
         "publicacoes": {
           "paginas": null
         },
