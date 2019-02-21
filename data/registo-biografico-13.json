@@ -9254,13 +9254,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21334",
+                "habId": "27560",
                 "habDes": "Relações Internacionais ",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21335",
+                "habId": "27561",
                 "habDes": "Relações Internacionais/Assuntos Europeus",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -9270,19 +9270,19 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25005",
+                "funId": "31276",
                 "funDes": "HELPO - Organização Não Governamental para o Desenvolvimento\nwww.helpo.pt (Projectos em Portugal, Moçambique, São Tomé)\nVice-Presidente da Direcção \n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25006",
+                "funId": "31277",
                 "funDes": "Sócio da empresa Mosca Publicidade, empresa de criatividade com sede em Lisboa, com uma quota inferior a 5%",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "25007",
+                "funId": "31278",
                 "funDes": "Fundador e Cooperante da Cooperativa \"Coopérnico\", cooperativa para o desenvolvimento das energias renováveis",
                 "funOrdem": "3",
                 "funAntiga": "S"
@@ -9291,7 +9291,7 @@
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "5914",
+              "pubId": "7711",
               "pubDes": "Artigo científico publicado na \"European View\", uma edição do Centre For European Studies e Springer com o título \"Young politicians: different politics?”",
               "pubOrdem": "1"
             }
@@ -23811,33 +23811,7 @@
               "pubOrdem": "1"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6384",
-                  "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
-                  "orgSigla": "CEPT2030",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "5533",

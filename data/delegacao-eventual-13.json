@@ -8443,6 +8443,16 @@
         }
       },
       {
+        "id": "1866",
+        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-09-27",
+        "dataFim": "2018-09-28",
+        "participantes": null
+      },
+      {
         "id": "1867",
         "nome": "Participação no 10º Enconto Parlamentar Ásia-Europa",
         "local": "Buxelas",
@@ -8470,16 +8480,6 @@
         }
       },
       {
-        "id": "1866",
-        "nome": "Seminário do ECPRD \"The future of parliamentary research services and libraries in an of rapid change: How best to support elected members in their multiplr roles\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-09-27",
-        "dataFim": "2018-09-28",
-        "participantes": null
-      },
-      {
         "id": "1871",
         "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
         "local": "Bruxelas",
@@ -8504,6 +8504,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4441"
+          }
+        }
+      },
+      {
+        "id": "1869",
+        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-05",
+        "dataFim": "2018-10-05",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ CESÁRIO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "77"
           }
         }
       },
@@ -8535,24 +8553,6 @@
         }
       },
       {
-        "id": "1869",
-        "nome": "Conferência \"Transformação da região dos Balcãs Ocidentais - uma perspectiva parlamentar sobre o papel e o futuro do processo de adesão da U.E.",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-05",
-        "dataFim": "2018-10-05",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOSÉ CESÁRIO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "77"
-          }
-        }
-      },
-      {
         "id": "1874",
         "nome": "Reunião Interparlamentar, organizada pela Comissão ECON do Parlamento Europeu",
         "local": "Bruxelas",
@@ -8578,6 +8578,52 @@
             }
           ]
         }
+      },
+      {
+        "id": "1877",
+        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PEDRO ALVES",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1738"
+          }
+        }
+      },
+      {
+        "id": "1878",
+        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ÁLVARO CASTELLO-BRANCO",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "1290"
+          }
+        }
+      },
+      {
+        "id": "1873",
+        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-10",
+        "dataFim": "2018-10-10",
+        "participantes": null
       },
       {
         "id": "1875",
@@ -8607,50 +8653,14 @@
         }
       },
       {
-        "id": "1873",
-        "nome": "Conferência sobre Serviços de Segurança Parlamentares Europeus",
+        "id": "1872",
+        "nome": "Reunião do conselho do IPEX - IPEX Board",
         "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": null
-      },
-      {
-        "id": "1878",
-        "nome": "Reunião Interparlamentar Organizada prls Comissão AFCO do Parlamento Europeu",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
-        "dataFim": "2018-10-10",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "ÁLVARO CASTELLO-BRANCO",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "1290"
-          }
-        }
-      },
-      {
-        "id": "1877",
-        "nome": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-10",
+        "dataInicio": "2018-10-11",
         "dataFim": "2018-10-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PEDRO ALVES",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "1738"
-          }
-        }
+        "participantes": null
       },
       {
         "id": "1876",
@@ -8708,13 +8718,13 @@
         }
       },
       {
-        "id": "1872",
-        "nome": "Reunião do conselho do IPEX - IPEX Board",
-        "local": "Bruxelas",
+        "id": "1880",
+        "nome": "Conferência Anual dos Correspondentes do CERDP",
+        "local": "Helsínquia",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-10-11",
-        "dataFim": "2018-10-11",
+        "dataInicio": "2018-10-18",
+        "dataFim": "2018-10-20",
         "participantes": null
       },
       {
@@ -8736,16 +8746,6 @@
         }
       },
       {
-        "id": "1880",
-        "nome": "Conferência Anual dos Correspondentes do CERDP",
-        "local": "Helsínquia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-18",
-        "dataFim": "2018-10-20",
-        "participantes": null
-      },
-      {
         "id": "1882",
         "nome": "Encontro \"Estrategias Legales para el Empoderamiento Económico de las Mujeres\"",
         "local": "Madrid",
@@ -8764,6 +8764,16 @@
         }
       },
       {
+        "id": "1884",
+        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-10-23",
+        "dataFim": "2018-10-27",
+        "participantes": null
+      },
+      {
         "id": "1883",
         "nome": "Conferência \"The national life of the EU Charter of fundamental rights\"",
         "local": "Viena",
@@ -8780,16 +8790,6 @@
             "id": "1030"
           }
         }
-      },
-      {
-        "id": "1884",
-        "nome": "Apresentação da exposição \"Portugal e a Grande Guerra\" em Paris, por ocasião das comemorações do Centenário da Primeira Grande Guerra.",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-10-23",
-        "dataFim": "2018-10-27",
-        "participantes": null
       },
       {
         "id": "1886",
@@ -8868,24 +8868,6 @@
         "participantes": null
       },
       {
-        "id": "1887",
-        "nome": "Jornada Privada da Google sobre Inteligência Artificial",
-        "local": "Amesterdão",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-06",
-        "dataFim": "2018-11-07",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDITE ESTRELA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "162"
-          }
-        }
-      },
-      {
         "id": "1892",
         "nome": "Congresso do PPE",
         "local": "Helsínquia",
@@ -8900,6 +8882,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4364"
+          }
+        }
+      },
+      {
+        "id": "1887",
+        "nome": "Jornada Privada da Google sobre Inteligência Artificial",
+        "local": "Amesterdão",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-06",
+        "dataFim": "2018-11-07",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDITE ESTRELA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "162"
           }
         }
       },
@@ -9015,33 +9015,6 @@
         }
       },
       {
-        "id": "1889",
-        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "CARLOS ALBERTO GONÇALVES",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "1458"
-            },
-            {
-              "tipo": "D",
-              "nome": "VITALINO CANAS",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "1700"
-            }
-          ]
-        }
-      },
-      {
         "id": "1890",
         "nome": "VII Fórum Parlamentar Luso-Espanhol",
         "local": "Madrid",
@@ -9071,6 +9044,33 @@
               "gp": "PS",
               "leg": "XIII",
               "id": "163"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1889",
+        "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
             }
           ]
         }
@@ -9112,16 +9112,6 @@
         }
       },
       {
-        "id": "1894",
-        "nome": "Participação no \"Curso Trabalhar\" com avaliação de impacto ao nível da União Eurpeia",
-        "local": "Maastricht",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-15",
-        "dataFim": "2018-11-16",
-        "participantes": null
-      },
-      {
         "id": "1899",
         "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\" - LX COSAC - Comissão de Assuntos Europeus",
         "local": "Bregenz",
@@ -9138,6 +9128,16 @@
             "id": "3339"
           }
         }
+      },
+      {
+        "id": "1894",
+        "nome": "Participação no \"Curso Trabalhar\" com avaliação de impacto ao nível da União Eurpeia",
+        "local": "Maastricht",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-16",
+        "participantes": null
       },
       {
         "id": "1896",
@@ -9195,6 +9195,24 @@
         }
       },
       {
+        "id": "1904",
+        "nome": "LX COSAC - The Role of Parliaments in Shaping the Future of Food and Farming",
+        "local": "Viena e Zagreb",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-18",
+        "dataFim": "2018-11-23",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ANTÓNIO COSTA SILVA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "5645"
+          }
+        }
+      },
+      {
         "id": "1903",
         "nome": "LX COSAC",
         "local": "Viena",
@@ -9236,20 +9254,20 @@
         }
       },
       {
-        "id": "1904",
-        "nome": "LX COSAC - The Role of Parliaments in Shaping the Future of Food and Farming",
-        "local": "Viena e Zagreb",
+        "id": "1897",
+        "nome": "Reunião Interpar: \"Human rights and the external actions of the EU and Member States\" e Acompanhamento Interpar. sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
+        "local": "Bruxelas",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-11-18",
-        "dataFim": "2018-11-23",
+        "dataInicio": "2018-11-19",
+        "dataFim": "2018-11-20",
         "participantes": {
           "Participante": {
             "tipo": "D",
-            "nome": "ANTÓNIO COSTA SILVA",
-            "gp": "PSD",
+            "nome": "BACELAR DE VASCONCELOS",
+            "gp": "PS",
             "leg": "XIII",
-            "id": "5645"
+            "id": "1030"
           }
         }
       },
@@ -9281,24 +9299,6 @@
         }
       },
       {
-        "id": "1897",
-        "nome": "Reunião Interpar: \"Human rights and the external actions of the EU and Member States\" e Acompanhamento Interpar. sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-19",
-        "dataFim": "2018-11-20",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "BACELAR DE VASCONCELOS",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "1030"
-          }
-        }
-      },
-      {
         "id": "1900",
         "nome": "Comissão - Reunião Interparlametar sobre \"Human rights and the external actions of the E.U. and Member States\", e \"Sessão de alto nível evocativa do septuagésimo aniversário da Declaração Universal dos Direitos do Homem\"",
         "local": "Bruxelas",
@@ -9325,43 +9325,6 @@
         "dataInicio": "2018-11-21",
         "dataFim": "2018-11-24",
         "participantes": null
-      },
-      {
-        "id": "1906",
-        "nome": "Reunião de Correspondentes do IPEX",
-        "local": "Tallin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-22",
-        "dataFim": "2018-11-23",
-        "participantes": null
-      },
-      {
-        "id": "1905",
-        "nome": "The Role of Parliaments in Shaping the Future of Food and Farming",
-        "local": "Zagreb",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-22",
-        "dataFim": "2018-11-23",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "PEDRO DO CARMO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "416"
-            },
-            {
-              "tipo": "D",
-              "nome": "PATRÍCIA FONSECA",
-              "gp": "CDS-PP",
-              "leg": "XIII",
-              "id": "6037"
-            }
-          ]
-        }
       },
       {
         "id": "1901",
@@ -9415,6 +9378,43 @@
         }
       },
       {
+        "id": "1906",
+        "nome": "Reunião de Correspondentes do IPEX",
+        "local": "Tallin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-22",
+        "dataFim": "2018-11-23",
+        "participantes": null
+      },
+      {
+        "id": "1905",
+        "nome": "The Role of Parliaments in Shaping the Future of Food and Farming",
+        "local": "Zagreb",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-22",
+        "dataFim": "2018-11-23",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "PEDRO DO CARMO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "416"
+            },
+            {
+              "tipo": "D",
+              "nome": "PATRÍCIA FONSECA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "6037"
+            }
+          ]
+        }
+      },
+      {
         "id": "1908",
         "nome": "\"International Intelligence Oversight Forum\"",
         "local": "La Valletta",
@@ -9432,16 +9432,6 @@
         "sessao": "4",
         "dataInicio": "2018-12-01",
         "dataFim": "2018-12-31",
-        "participantes": null
-      },
-      {
-        "id": "1910",
-        "nome": "\"World e-Parliamment Conference",
-        "local": "Genebra",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-12-03",
-        "dataFim": "2018-12-05",
         "participantes": null
       },
       {
@@ -9479,6 +9469,16 @@
         }
       },
       {
+        "id": "1910",
+        "nome": "\"World e-Parliamment Conference",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-03",
+        "dataFim": "2018-12-05",
+        "participantes": null
+      },
+      {
         "id": "1911",
         "nome": " Environmental Exchange Network",
         "local": "Bruxelas",
@@ -9486,16 +9486,6 @@
         "sessao": "4",
         "dataInicio": "2018-12-05",
         "dataFim": "2018-12-05",
-        "participantes": null
-      },
-      {
-        "id": "1909",
-        "nome": "\"European Conference of intelligence oversight bodies\"",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-12-06",
-        "dataFim": "2018-12-07",
         "participantes": null
       },
       {
@@ -9515,6 +9505,16 @@
             "id": "1264"
           }
         }
+      },
+      {
+        "id": "1909",
+        "nome": "\"European Conference of intelligence oversight bodies\"",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-07",
+        "participantes": null
       },
       {
         "id": "1915",
@@ -9841,6 +9841,54 @@
         }
       },
       {
+        "id": "1935",
+        "nome": "Visita Oficial à República da Coreia",
+        "local": "Seoul",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-22",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            },
+            {
+              "tipo": "D",
+              "nome": "SÉRGIO SOUSA PINTO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1264"
+            },
+            {
+              "tipo": "D",
+              "nome": "FERNANDO VIRGÍLIO MACEDO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4152"
+            },
+            {
+              "tipo": "D",
+              "nome": "ILDA ARAÚJO NOVO",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "2300"
+            },
+            {
+              "tipo": "D",
+              "nome": "VITALINO CANAS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1700"
+            }
+          ]
+        }
+      },
+      {
         "id": "1932",
         "nome": "Reunião do Grupo Especializado do controlo Parlamentar Conjunto da Europol (GCPC)",
         "local": "Bucareste",
@@ -9898,6 +9946,16 @@
             "id": "419"
           }
         }
+      },
+      {
+        "id": "1934",
+        "nome": "Reunião \"Independent Fiscal Institutions in the EU Fiscal Framework\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-28",
+        "dataFim": "2019-02-28",
+        "participantes": null
       }
     ]
   }

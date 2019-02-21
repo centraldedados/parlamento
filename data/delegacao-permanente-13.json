@@ -188,6 +188,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião dos Presidentes dos Grupos Nacionais da AP-CPLP",
+              "tipo": "REN",
+              "local": "Luanda",
+              "dataInicio": "27-02-2019",
+              "dataFim": "28-02-2019",
+              "participantes": null
+            },
+            {
               "nome": "VIII Assembleia Parlamentar da CPLP",
               "tipo": "REN",
               "local": "Cidade da Praia",
@@ -484,6 +492,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -507,14 +523,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
