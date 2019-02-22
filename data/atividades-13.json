@@ -7217,6 +7217,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111463",
+              "numeroAudicao": "245-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Prestação e qualidade do serviço disponibilizado pela empresa CTT - Correios de Portugal, S.A., à luz do contrato de concessão do serviço público universal dos correios, na sequência de requerimento do BE, e sobre os Projetos de Lei n.os 580/XIII/2ª; 815/XIII/3ª; 817/XIII/3ª; 818/XIII/3ª e o Projeto de Resolução 1464/XIII/3ª, que alteram a Lei das Comunicações Eletrónicas",
+              "entidades": "ANACOM - Autoridade  Nacional de Comunicações",
+              "data": "2019-02-20"
+            },
+            {
               "IDAudicao": "111426",
               "numeroAudicao": "244-CEIOP-XIII",
               "legislatura": "XIII",
@@ -9417,6 +9426,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111462",
+              "numeroAudicao": "50-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Dr. Luís Amado (Presidente do Conselho Geral e de Supervisão da EDP)",
+              "entidades": null,
+              "data": "2019-02-27"
+            },
+            {
+              "IDAudicao": "111461",
+              "numeroAudicao": "49-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Dr. António Mexia (Presidente do Conselho de Administração Executivo da EDP)",
+              "entidades": "Presidente do Conselho de Administração Executivo da EDP, Dr. António Mexia;Dr. Luís Amado (Presidente do Conselho Geral e de Supervisão da EDP)",
+              "data": "2019-02-26"
+            },
+            {
               "IDAudicao": "111432",
               "numeroAudicao": "48-CPIPREPE-XIII",
               "legislatura": "XIII",
@@ -11597,7 +11624,7 @@
               "numeroAudicao": "15-CPITANCOS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição do Major General Luís Nunes da Fonseca",
+              "assunto": "Audição do Major-General Luís Nunes da Fonseca",
               "entidades": null,
               "data": "2019-02-20"
             },
@@ -15095,13 +15122,22 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111464",
+              "numeroAudicao": "148-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro da Ciência, Tecnologia e Ensino Superior  a requerimento do Grupo Parlamentar do PCP, sobre a realidade do emprego científico e no âmbito do Artº 104.º, n.º 2 do Regimento da Assembleia da República",
+              "entidades": null,
+              "data": "2019-02-27"
+            },
+            {
               "IDAudicao": "111385",
               "numeroAudicao": "147-CEC-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição do Reitor da Universidade do Porto, por requerimento do BE.",
-              "entidades": "Professor Doutor António Sousa Pereira - Reitor da Universidade do Porto  e Dr. João Carlos Ribeiro - Administrador da U. Porto",
-              "data": "2019-02-12"
+              "assunto": "Audição Pública: Propostas de alteração no âmbito do processo de Apreciação Parlamentar do Decreto-Lei n.º 54/2018, de 6 de julho, que estabelece o regime jurídico da educação inclusiva.",
+              "entidades": null,
+              "data": "2019-02-26"
             },
             {
               "IDAudicao": "111384",
@@ -15117,9 +15153,9 @@
               "numeroAudicao": "145-CEC-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição Pública sobre as “Propostas de alteração no âmbito do processo de Apreciação Parlamentar do Decreto-Lei n.º 54/2018, de 6 de julho, que estabelece o regime jurídico da educação inclusiva”,",
-              "entidades": null,
-              "data": "2019-02-26"
+              "assunto": "Audição do Reitor da Universidade do Porto, por requerimento do BE.",
+              "entidades": "Professor Doutor António Sousa Pereira - Reitor da Universidade do Porto  e Dr. João Carlos Ribeiro - Administrador da U. Porto",
+              "data": "2019-02-12"
             },
             {
               "IDAudicao": "111344",
@@ -28038,6 +28074,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111465",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-21",
+              "dataFim": "2019-02-21",
+              "designacao": "Conferência Internacional MILTEC 19  “The changing face of warfare: from cyber to unmanned systems”",
+              "localEvento": "Algès, Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111345",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28118,16 +28164,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110679",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-11-09",
-              "dataFim": "2018-11-09",
-              "designacao": "Academia Militar entrega do Prémio “Comissão da Defesa Nacional” ao melhor aluno da Escola Naval, no Alfeite, na Cerimónia de Abertura Solene do Ano Letivo 2018/2019",
-              "localEvento": "Academia Militar, Alfeite",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110678",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28135,6 +28171,16 @@
               "dataFim": "2018-11-09",
               "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
               "localEvento": "Forte de S. Julião da Barra, em Oeiras",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110679",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-09",
+              "dataFim": "2018-11-09",
+              "designacao": "Academia Militar entrega do Prémio “Comissão da Defesa Nacional” ao melhor aluno da Escola Naval, no Alfeite, na Cerimónia de Abertura Solene do Ano Letivo 2018/2019",
+              "localEvento": "Academia Militar, Alfeite",
               "tipo": "Representação"
             },
             {
