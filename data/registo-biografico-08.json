@@ -7612,18 +7612,32 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4528",
-                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                "orgSigla": "COFMA",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "CGP"
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
                   }
                 }
-              }
+              ]
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
@@ -13372,6 +13386,13 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },

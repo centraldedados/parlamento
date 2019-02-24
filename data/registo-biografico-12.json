@@ -1570,6 +1570,13 @@
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4531",
                   "orgDes": "Comissão de Educação e Ciência",
                   "orgSigla": "CEC",
@@ -3994,6 +4001,13 @@
                   "orgId": "6384",
                   "orgDes": "Comissão Eventual de Acompanhamento do Processo de Definição da \"Estratégia Portugal 2030\"",
                   "orgSigla": "CEPT2030",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -6862,6 +6876,13 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -7571,6 +7592,13 @@
                   "orgSigla": "CEIOP",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -7985,6 +8013,13 @@
                   "orgSigla": "COFMA",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -9022,13 +9057,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21334",
+                "habId": "27560",
                 "habDes": "Relações Internacionais ",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21335",
+                "habId": "27561",
                 "habDes": "Relações Internacionais/Assuntos Europeus",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -9038,19 +9073,19 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25005",
+                "funId": "31276",
                 "funDes": "HELPO - Organização Não Governamental para o Desenvolvimento\nwww.helpo.pt (Projectos em Portugal, Moçambique, São Tomé)\nVice-Presidente da Direcção \n",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25006",
+                "funId": "31277",
                 "funDes": "Sócio da empresa Mosca Publicidade, empresa de criatividade com sede em Lisboa, com uma quota inferior a 5%",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "25007",
+                "funId": "31278",
                 "funDes": "Fundador e Cooperante da Cooperativa \"Coopérnico\", cooperativa para o desenvolvimento das energias renováveis",
                 "funOrdem": "3",
                 "funAntiga": "S"
@@ -9059,7 +9094,7 @@
           },
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "5914",
+              "pubId": "7711",
               "pubDes": "Artigo científico publicado na \"European View\", uma edição do Centre For European Studies e Springer com o título \"Young politicians: different politics?”",
               "pubOrdem": "1"
             }
@@ -9113,6 +9148,13 @@
                   "orgId": "6664",
                   "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
                   "orgSigla": "CPIPREPE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -9315,18 +9357,32 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4528",
-                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                "orgSigla": "COFMA",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "CGP"
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
                   }
                 }
-              }
+              ]
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": {
@@ -11329,6 +11385,13 @@
                       "tiaDes": "Vice-Presidente"
                     }
                   }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -14733,6 +14796,13 @@
                   "orgSigla": "CS",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -16407,18 +16477,27 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4525",
-                "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
-                "orgSigla": "CNECP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "CGP"
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4525",
+                  "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+                  "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
                   }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
                 }
-              }
+              ]
             }
           }
         },
@@ -16505,6 +16584,18 @@
                   "cargoDes": {
                     "pt_ar_wsgode_objectos_DadosCargosOrgao": {
                       "tiaDes": "Presidente"
+                    }
+                  }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
                     }
                   }
                 }
@@ -16807,6 +16898,23 @@
                   "orgSigla": "CCCJD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": [
+                      {
+                        "tiaDes": "CGP"
+                      },
+                      {
+                        "tiaDes": "Vice-Presidente"
+                      }
+                    ]
+                  }
                 }
               ]
             },
@@ -21841,6 +21949,18 @@
                       "tiaDes": "CGP"
                     }
                   }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Presidente"
+                    }
+                  }
                 }
               ]
             }
@@ -23233,6 +23353,13 @@
                   "orgId": "4528",
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }
@@ -25542,6 +25669,18 @@
                   "orgSigla": "CEPT2030",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -31491,6 +31630,18 @@
                   "orgId": "4528",
                   "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
                   "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                },
+                {
+                  "orgId": "7064",
+                  "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
+                  "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
