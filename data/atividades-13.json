@@ -6075,7 +6075,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição do Ministro das Finanças ao abrigo do disposto no n.º 2 do artigo 104.º do Regimento da Assembleia da República",
-              "entidades": "MIN.  DAS   FINANÇAS",
+              "entidades": "MIN.  DAS   FINANÇAS;S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO",
               "data": "2019-02-20"
             },
             {
@@ -20722,6 +20722,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111500",
+              "numeroAudiencia": "151-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apresentação de cumprimentos",
+              "entidades": "Embaixador da República da Croácia, Ivica Maričić",
+              "data": "2019-02-21",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111454",
               "numeroAudiencia": "150-CNECP-XIII",
               "legislatura": "XIII",
@@ -20787,7 +20797,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Apresentação de cumprimentos",
-              "entidades": "Embaixadora da Suécia em Portugal, Helena Pilsas Ahlin",
+              "entidades": "Embaixadora do Reino da Suécia em Portugal, Helena Pilsas Ahlin",
               "data": "2018-12-12",
               "concedida": "Concedida"
             },
@@ -27909,6 +27919,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "111496",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-18",
+              "dataFim": "2019-02-19",
+              "designacao": "Semana Parlamentar Europeia - Conferência sobre o Semestre Europeu e Conferência sobre Estabilidade, Coordenação Económica e Governação na União Europeia",
+              "localEvento": "Bruxelas",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111495",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-13",
+              "dataFim": "2019-02-15",
+              "designacao": "Reunião da Rede Parlamentar Global OCDE + NATO",
+              "localEvento": "Paris",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "110874",
               "legislatura": "XIII",

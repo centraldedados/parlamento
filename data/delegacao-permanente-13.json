@@ -5488,6 +5488,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Assuntos Políticos e Democracia",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "05-03-2019",
+              "dataFim": "05-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "1ª. Parte da Sessão de 2019",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -8418,6 +8426,14 @@
         },
         "reunioes": {
           "Reuniao": [
+            {
+              "nome": "Conferência Regional para o Norte de África e Médio Oriente",
+              "tipo": "REN",
+              "local": "Luxor",
+              "dataInicio": "26-02-2019",
+              "dataFim": "28-02-2019",
+              "participantes": null
+            },
             {
               "nome": "13ª Reunião Sessão Plenária",
               "tipo": "REN",
