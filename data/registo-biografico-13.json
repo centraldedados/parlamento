@@ -14752,27 +14752,18 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4804",
-                  "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
-                  "orgSigla": "GT-HRUPC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4804",
+                "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
+                "orgSigla": "GT-HRUPC",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
                   }
-                },
-                {
-                  "orgId": "7004",
-                  "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
-                  "orgSigla": "GT-DC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
-              ]
+              }
             }
           }
         },
@@ -25150,6 +25141,15 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "7004",
+                "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
+                "orgSigla": "GT-DC",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },

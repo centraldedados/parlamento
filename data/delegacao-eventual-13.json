@@ -8868,6 +8868,24 @@
         "participantes": null
       },
       {
+        "id": "1887",
+        "nome": "Jornada Privada da Google sobre Inteligência Artificial",
+        "local": "Amesterdão",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-06",
+        "dataFim": "2018-11-07",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDITE ESTRELA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "162"
+          }
+        }
+      },
+      {
         "id": "1892",
         "nome": "Congresso do PPE",
         "local": "Helsínquia",
@@ -8886,21 +8904,37 @@
         }
       },
       {
-        "id": "1887",
-        "nome": "Jornada Privada da Google sobre Inteligência Artificial",
-        "local": "Amesterdão",
+        "id": "1890",
+        "nome": "VII Fórum Parlamentar Luso-Espanhol",
+        "local": "Madrid",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2018-11-06",
-        "dataFim": "2018-11-07",
+        "dataInicio": "2018-11-07",
+        "dataFim": "2018-11-08",
         "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDITE ESTRELA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "162"
-          }
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "DUARTE PACHECO",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "42"
+            },
+            {
+              "tipo": "D",
+              "nome": "IDÁLIA SALVADOR SERRÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2132"
+            },
+            {
+              "tipo": "D",
+              "nome": "EDUARDO FERRO RODRIGUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "163"
+            }
+          ]
         }
       },
       {
@@ -9015,40 +9049,6 @@
         }
       },
       {
-        "id": "1890",
-        "nome": "VII Fórum Parlamentar Luso-Espanhol",
-        "local": "Madrid",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-07",
-        "dataFim": "2018-11-08",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "DUARTE PACHECO",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "42"
-            },
-            {
-              "tipo": "D",
-              "nome": "IDÁLIA SALVADOR SERRÃO",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "2132"
-            },
-            {
-              "tipo": "D",
-              "nome": "EDUARDO FERRO RODRIGUES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "163"
-            }
-          ]
-        }
-      },
-      {
         "id": "1889",
         "nome": "Reunião interparlamentar sobre o ponto de situação dos debates com os cidadãos na europa",
         "local": "Paris",
@@ -9094,6 +9094,16 @@
         }
       },
       {
+        "id": "1894",
+        "nome": "Participação no \"Curso Trabalhar\" com avaliação de impacto ao nível da União Eurpeia",
+        "local": "Maastricht",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-15",
+        "dataFim": "2018-11-16",
+        "participantes": null
+      },
+      {
         "id": "1902",
         "nome": "Conferência Interparlamentar \" Subsidiarity as a building principle of the European Union\"",
         "local": "Bregenz",
@@ -9128,16 +9138,6 @@
             "id": "3339"
           }
         }
-      },
-      {
-        "id": "1894",
-        "nome": "Participação no \"Curso Trabalhar\" com avaliação de impacto ao nível da União Eurpeia",
-        "local": "Maastricht",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-15",
-        "dataFim": "2018-11-16",
-        "participantes": null
       },
       {
         "id": "1896",
@@ -9254,24 +9254,6 @@
         }
       },
       {
-        "id": "1897",
-        "nome": "Reunião Interpar: \"Human rights and the external actions of the EU and Member States\" e Acompanhamento Interpar. sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-19",
-        "dataFim": "2018-11-20",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "BACELAR DE VASCONCELOS",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "1030"
-          }
-        }
-      },
-      {
         "id": "1898",
         "nome": "Reunião Interparlamentar sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural - Comissão de Educação e Ciência e Comissão de Cultura, Comunicação, Juventude e Desporto",
         "local": "Bruxelas",
@@ -9296,6 +9278,24 @@
               "id": "5530"
             }
           ]
+        }
+      },
+      {
+        "id": "1897",
+        "nome": "Reunião Interpar: \"Human rights and the external actions of the EU and Member States\" e Acompanhamento Interpar. sobre \"Herança Cultural Europeia\", no contexto das celebrações do Ano Europeu da Herança Cultural",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-19",
+        "dataFim": "2018-11-20",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "BACELAR DE VASCONCELOS",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1030"
+          }
         }
       },
       {
@@ -9324,16 +9324,6 @@
         "sessao": "4",
         "dataInicio": "2018-11-21",
         "dataFim": "2018-11-24",
-        "participantes": null
-      },
-      {
-        "id": "1901",
-        "nome": "Working Group the Launch of the 2019 European Semester Cycle - Reunião dos Correspondentes do IPEX.",
-        "local": "Bruxelas e Tallin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-22",
-        "dataFim": "2018-11-23",
         "participantes": null
       },
       {
@@ -9378,16 +9368,6 @@
         }
       },
       {
-        "id": "1906",
-        "nome": "Reunião de Correspondentes do IPEX",
-        "local": "Tallin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-11-22",
-        "dataFim": "2018-11-23",
-        "participantes": null
-      },
-      {
         "id": "1905",
         "nome": "The Role of Parliaments in Shaping the Future of Food and Farming",
         "local": "Zagreb",
@@ -9415,6 +9395,26 @@
         }
       },
       {
+        "id": "1901",
+        "nome": "Working Group the Launch of the 2019 European Semester Cycle - Reunião dos Correspondentes do IPEX.",
+        "local": "Bruxelas e Tallin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-22",
+        "dataFim": "2018-11-23",
+        "participantes": null
+      },
+      {
+        "id": "1906",
+        "nome": "Reunião de Correspondentes do IPEX",
+        "local": "Tallin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-11-22",
+        "dataFim": "2018-11-23",
+        "participantes": null
+      },
+      {
         "id": "1908",
         "nome": "\"International Intelligence Oversight Forum\"",
         "local": "La Valletta",
@@ -9432,6 +9432,16 @@
         "sessao": "4",
         "dataInicio": "2018-12-01",
         "dataFim": "2018-12-31",
+        "participantes": null
+      },
+      {
+        "id": "1910",
+        "nome": "\"World e-Parliamment Conference",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2018-12-03",
+        "dataFim": "2018-12-05",
         "participantes": null
       },
       {
@@ -9467,16 +9477,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1910",
-        "nome": "\"World e-Parliamment Conference",
-        "local": "Genebra",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2018-12-03",
-        "dataFim": "2018-12-05",
-        "participantes": null
       },
       {
         "id": "1911",
@@ -9622,24 +9622,6 @@
         }
       },
       {
-        "id": "1922",
-        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
-        "local": "Dublin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-20",
-        "dataFim": "2019-01-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1921",
         "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
         "local": "Bucareste",
@@ -9654,6 +9636,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "2106"
+          }
+        }
+      },
+      {
+        "id": "1922",
+        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
+        "local": "Dublin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
           }
         }
       },
@@ -9768,6 +9768,24 @@
         }
       },
       {
+        "id": "1930",
+        "nome": "Participação na Semana Parlamentar Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-18",
+        "dataFim": "2019-02-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "DUARTE PACHECO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "42"
+          }
+        }
+      },
+      {
         "id": "1931",
         "nome": "Participação na Semana Parlamentar Europeia",
         "local": "Bruxelas",
@@ -9820,24 +9838,6 @@
               "id": "5954"
             }
           ]
-        }
-      },
-      {
-        "id": "1930",
-        "nome": "Participação na Semana Parlamentar Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-18",
-        "dataFim": "2019-02-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "DUARTE PACHECO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "42"
-          }
         }
       },
       {
@@ -9927,6 +9927,24 @@
               "id": "4402"
             }
           ]
+        }
+      },
+      {
+        "id": "1936",
+        "nome": "Reuniões Temáticas sobre a Lusofonia",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
+          }
         }
       },
       {

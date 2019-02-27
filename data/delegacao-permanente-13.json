@@ -193,7 +193,24 @@
               "local": "Luanda",
               "dataInicio": "27-02-2019",
               "dataFim": "28-02-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "MARCO ANTÓNIO COSTA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "646"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PORFÍRIO SILVA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "469"
+                  }
+                ]
+              }
             },
             {
               "nome": "VIII Assembleia Parlamentar da CPLP",
@@ -1153,12 +1170,58 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita Conjunta da CDSDG, PCTR e Offcers do GSM",
+              "tipo": "REN",
+              "local": "Atenas",
+              "dataInicio": "03-03-2019",
+              "dataFim": "06-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
               "dataInicio": "18-02-2019",
               "dataFim": "20-02-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "BRUNO VITORINO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1713"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
@@ -1750,6 +1813,14 @@
               }
             },
             {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
+            },
+            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1801,14 +1872,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
@@ -5488,6 +5551,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "07-03-2019",
+              "dataFim": "07-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Assuntos Políticos e Democracia",
               "tipo": "REN",
               "local": "Paris",
@@ -6318,22 +6389,6 @@
               }
             },
             {
-              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
-              "tipo": "REN",
-              "local": "Estrasburgo",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
               "tipo": "REN",
               "local": "Rabat",
@@ -6346,6 +6401,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1741"
+                }
+              }
+            },
+            {
+              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -6724,6 +6795,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -6738,14 +6817,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -7642,22 +7713,6 @@
               }
             },
             {
-              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
-              "tipo": "RNI",
-              "local": "Assembleia da República-Sala D. Maria",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -7670,6 +7725,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
+              "tipo": "RNI",
+              "local": "Assembleia da República-Sala D. Maria",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -8156,22 +8227,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "15-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -8184,6 +8239,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "15-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
