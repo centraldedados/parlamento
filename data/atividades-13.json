@@ -10590,6 +10590,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111573",
+              "numeroAudicao": "123-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Processo de saída do Reino Unido da União Europeia- Brexit",
+              "entidades": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical;Sindicato dos Funcionários do Serviço de Estarngeiros e Fronteiras - SCIFSEF;Conselho das Comunidades Portuguesas CCP;Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas STCDE;Ordem dos Advogados;AFIP - Associação FinTech e InsurTech em Portugal;AEM - Associação de Empresas Emitentes de Valores Cotados em Mercado;APFIPP - Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios;CTP - Confederação do Turismo Português;CONFAGRI - Confederação Nacional das Cooperativas Agrícolas de Portugal;CPPME - Confederação Portuguesa das Micro, Pequenas e Médias Empresas",
+              "data": "2019-02-27"
+            },
+            {
               "IDAudicao": "111437",
               "numeroAudicao": "122-CAE-XIII",
               "legislatura": "XIII",
@@ -11691,6 +11700,33 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111566",
+              "numeroAudicao": "18-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do General Artur Neves Pina Monteiro",
+              "entidades": null,
+              "data": "2019-02-27"
+            },
+            {
+              "IDAudicao": "111565",
+              "numeroAudicao": "17-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Tenente-General José Carlos Filipe Antunes Calçada",
+              "entidades": null,
+              "data": "2019-02-26"
+            },
+            {
+              "IDAudicao": "111564",
+              "numeroAudicao": "16-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Major-General Manuel Lopes Nunes dos Reis",
+              "entidades": null,
+              "data": "2019-02-21"
+            },
             {
               "IDAudicao": "111460",
               "numeroAudicao": "15-CPITANCOS-XIII",
@@ -23406,6 +23442,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111469",
+              "numeroAudiencia": "81-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre O PJL 995/XIII/4.ª - Manutenção e abertura de farmácias nas instalações dos hospitais do Serviço Nacional de Saúde",
+              "entidades": "Movimento Loures Tem+ Saúde",
+              "data": "2019-02-21",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111274",
               "numeroAudiencia": "80-CS-XIII",
               "legislatura": "XIII",
@@ -26543,6 +26589,16 @@
               "designacao": "Visita de Trabalho da Comissão de Agricultura e Mar à Madeira (09-02-2019)",
               "localEvento": "Madeira",
               "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "111567",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-07",
+              "dataFim": "2019-02-07",
+              "designacao": "Conferência \"Oportunidades para os Jovens Agricultores em Portugal (Vinhais)",
+              "localEvento": "Centro Cultural de Vinhais",
+              "tipo": "Representação"
             },
             {
               "IDDeslocacao": "111405",
