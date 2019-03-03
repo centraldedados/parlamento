@@ -3655,10 +3655,10 @@
                 "depNomeParlamentar": "António Loja",
                 "legDes": "II",
                 "ceDes": "MADEIRA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "parSigla": "PS",
+                "parDes": "Partido Socialista",
+                "gpSigla": "PS",
+                "gpDes": "Partido Socialista"
               },
               {
                 "depNomeParlamentar": "António Loja",
@@ -4245,8 +4245,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "PPM",
+                "gpDes": "Partido Popular Monárquico"
               }
             ]
           },
@@ -5174,24 +5174,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3457",
-          "cadNomeCompleto": "ARTUR JOSÉ BELEZA DE VASCONCELOS OLIVEIRA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Artur Beleza Oliveira",
-              "legDes": "II",
-              "ceDes": "AVEIRO",
-              "parSigla": "AD",
-              "parDes": "Aliança Democrática",
-              "gpSigla": "PSD",
-              "gpDes": "Partido Social Democrata"
-            }
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "4736",
           "cadNomeCompleto": "ARTUR BELEZA VASCONCELOS OLIVEIRA",
           "cadSexo": "M",
@@ -5385,52 +5367,6 @@
           "cadNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO",
           "cadSexo": "F",
           "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Beatriz Cal Brandão",
-                "legDes": "III",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Beatriz Cal Brandão",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Beatriz Cal Brandão",
-                "legDes": "IB",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              },
-              {
-                "depNomeParlamentar": "Beatriz Cal Brandão",
-                "legDes": "IA",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
-          "cadId": "4742",
-          "cadNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO",
-          "cadSexo": "F",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
               {
@@ -10687,46 +10623,8 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3392",
-          "cadNomeCompleto": "HELENA TÂMEGA CIDADE",
-          "cadSexo": "F",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Helena Cidade Moura",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "MDP/CDE",
-                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
-              },
-              {
-                "depNomeParlamentar": "Helena Cidade Moura",
-                "legDes": "II",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "MDP/CDE",
-                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
-              },
-              {
-                "depNomeParlamentar": "Helena Cidade Moura",
-                "legDes": "IB",
-                "ceDes": "PORTO",
-                "parSigla": "APU",
-                "parDes": "Aliança Povo Unido",
-                "gpSigla": "MDP/CDE",
-                "gpDes": "Movimento Democrático Português - Coligação Democrática Eleita"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "4773",
-          "cadNomeCompleto": "HELENA CIDADE MOURA",
+          "cadNomeCompleto": "HELENA TÂMEGA CIDADE MOURA",
           "cadSexo": "F",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
@@ -16412,64 +16310,8 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3036",
-          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "V",
-                "ceDes": "LISBOA",
-                "parSigla": "PRD",
-                "parDes": "Partido Renovador Democrático",
-                "gpSigla": "PRD",
-                "gpDes": "Partido Renovador Democrático"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "PRD",
-                "parDes": "Partido Renovador Democrático",
-                "gpSigla": "PRD",
-                "gpDes": "Partido Renovador Democrático"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "II",
-                "ceDes": "SANTARÉM",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "4788",
-          "cadNomeCompleto": "JOAQUIM JORGE MAGALHÃES SARAIVA DA MOTA",
+          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES SARAIVA DA MOTA",
           "cadSexo": "M",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
@@ -19783,7 +19625,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -22770,7 +22613,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",
@@ -24111,44 +23955,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3347",
-          "cadNomeCompleto": "MANUEL AFONSO VILHENA DE CARVALHO",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Vilhena De Carvalho",
-                "legDes": "III",
-                "ceDes": "PORTO",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Vilhena De Carvalho",
-                "legDes": "II",
-                "ceDes": "LISBOA",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Vilhena De Carvalho",
-                "legDes": "IA",
-                "ceDes": "GUARDA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "4821",
           "cadNomeCompleto": "MANUEL CARDOSO VILHENA DE CARVALHO",
           "cadSexo": "M",
@@ -25195,12 +25001,6 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3457",
-          "cadNomeCompleto": "ARTUR JOSÉ BELEZA DE VASCONCELOS OLIVEIRA",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "4736",
           "cadNomeCompleto": "ARTUR BELEZA VASCONCELOS OLIVEIRA",
           "cadEstadoCivilCod": "0"
@@ -25239,11 +25039,6 @@
           "cadId": "3346",
           "cadNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO",
           "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "4742",
-          "cadNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO",
           "cadEstadoCivilCod": "0"
         },
         {
@@ -25834,14 +25629,8 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3392",
-          "cadNomeCompleto": "HELENA TÂMEGA CIDADE",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "4773",
-          "cadNomeCompleto": "HELENA CIDADE MOURA",
+          "cadNomeCompleto": "HELENA TÂMEGA CIDADE MOURA",
           "cadEstadoCivilCod": "0"
         },
         {
@@ -26554,14 +26343,8 @@
           "cadEstadoCivilCod": "0"
         },
         {
-          "cadId": "3036",
-          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
           "cadId": "4788",
-          "cadNomeCompleto": "JOAQUIM JORGE MAGALHÃES SARAIVA DA MOTA",
+          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES SARAIVA DA MOTA",
           "cadEstadoCivilCod": "0"
         },
         {
@@ -27303,12 +27086,6 @@
         {
           "cadId": "3082",
           "cadNomeCompleto": "ANTÓNIO JOSÉ MONTEIRO VIDIGAL AMARO",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "3347",
-          "cadNomeCompleto": "MANUEL AFONSO VILHENA DE CARVALHO",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
         },

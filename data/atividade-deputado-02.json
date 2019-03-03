@@ -10368,12 +10368,52 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "31174",
+                  "iniNr": "214",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 379/82, de 14 de Setembro de 1982, que introduz alterações ao Código do Registo Civil e publica nova tabela de emolumentos e novos modelos a ele anexo."
+                },
+                {
+                  "iniId": "31173",
+                  "iniNr": "212",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 402/82, de 23 de Setembro, que introduz alterações ao Código de Processo Penal e legislação complementar e estabelece o regime de execução das penas e medidas de segurança."
+                },
+                {
+                  "iniId": "31172",
+                  "iniNr": "211",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 400/82, de 23 de Setembro, que aprova o Código Penal."
+                },
+                {
+                  "iniId": "31171",
+                  "iniNr": "210",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 401/82, de 23 de Setembro, que institui o regime aplicável em matéria penal aos jovens com idade compreendida entre os 16 e os 21 anos."
+                }
+              ]
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "ANTÓNIO LOJA",
                 "dpl_lg": "II",
-                "dpl_grpar": "PSD"
+                "dpl_grpar": "PS"
               }
             }
           }
@@ -10384,8 +10424,8 @@
           "depNomeParlamentar": "ANTÓNIO LOJA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "980",
+              "gpSigla": "PS",
               "gpDtInicio": "1982-08-26"
             }
           },
@@ -12559,12 +12599,142 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30786",
+                  "iniNr": "399",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Alteração ao Estatuto dos Deputados, (leis nº 5/76, 23/79 e 43-A/79)"
+                },
+                {
+                  "iniId": "30777",
+                  "iniNr": "394",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Património cultural português"
+                },
+                {
+                  "iniId": "30747",
+                  "iniNr": "373",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Proibição de comercialização de cervejas e refregirantes em embalagens não recuperáveis"
+                },
+                {
+                  "iniId": "30727",
+                  "iniNr": "365",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Mudança de designação e sede da freguesia de Insua para Penalva do Castelo"
+                },
+                {
+                  "iniId": "30729",
+                  "iniNr": "350",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Alterações ao Código de Processo Penal."
+                },
+                {
+                  "iniId": "30684",
+                  "iniNr": "346",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Simbologia das autarquias locais."
+                },
+                {
+                  "iniId": "30677",
+                  "iniNr": "341",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Recuperação das zonas degradadas históricas da Ribeira-Douro."
+                },
+                {
+                  "iniId": "30668",
+                  "iniNr": "313",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Tratamento do logradouros de edificações e de zonas envolventes nos loteamentos"
+                },
+                {
+                  "iniId": "30631",
+                  "iniNr": "297",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Parque Nacional da Peneda-Gerês."
+                },
+                {
+                  "iniId": "30623",
+                  "iniNr": "289",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Lei dos baldios."
+                },
+                {
+                  "iniId": "30604",
+                  "iniNr": "270",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Alteração ao Código Registo Civil (aprovado pelo Decreto-Lei nº 51/78 de 20 de Março)."
+                },
+                {
+                  "iniId": "30600",
+                  "iniNr": "266",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Tratamento exterior dos edificíos incluídos em paisagens tradicionais."
+                },
+                {
+                  "iniId": "30587",
+                  "iniNr": "254",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Condicionamento da plantação de eucaliptos."
+                },
+                {
+                  "iniId": "30580",
+                  "iniNr": "247",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Criação do concelho de Carnaxide."
+                }
+              ]
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "ANTÓNIO SOUSA LARA",
                 "dpl_lg": "II",
-                "dpl_grpar": "PSD"
+                "dpl_grpar": "PPM"
               }
             }
           }
@@ -12575,8 +12745,8 @@
           "depNomeParlamentar": "ANTÓNIO SOUSA LARA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "983",
+              "gpSigla": "PPM",
               "gpDtInicio": "1981-06-22"
             }
           },
@@ -15252,43 +15422,6 @@
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "ARTUR BELEZA OLIVEIRA",
-                "dpl_lg": "II",
-                "dpl_grpar": "PSD"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4761",
-          "depCadId": "3457",
-          "depNomeParlamentar": "ARTUR BELEZA OLIVEIRA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "1",
-          "depCPDes": "AVEIRO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "ARTUR JOSÉ BELEZA DE VASCONCELOS OLIVEIRA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "Artur Beleza Oliveira",
                 "dpl_lg": "II",
                 "dpl_grpar": "PSD"
@@ -15933,182 +16066,6 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": [
-                {
-                  "iniId": "30754",
-                  "iniNr": "376",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Criação do Centro Histórico do Porto, renovação urbana e recuperação de zonas degradadas"
-                },
-                {
-                  "iniId": "31174",
-                  "iniNr": "214",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 379/82, de 14 de Setembro de 1982, que introduz alterações ao Código do Registo Civil e publica nova tabela de emolumentos e novos modelos a ele anexo."
-                },
-                {
-                  "iniId": "31162",
-                  "iniNr": "213",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 355/82, de 6 de Setembro (Orgânica do Secretariado Nacional de Reabilitação)."
-                },
-                {
-                  "iniId": "31173",
-                  "iniNr": "212",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 402/82, de 23 de Setembro, que introduz alterações ao Código de Processo Penal e legislação complementar e estabelece o regime de execução das penas e medidas de segurança."
-                },
-                {
-                  "iniId": "31172",
-                  "iniNr": "211",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 400/82, de 23 de Setembro, que aprova o Código Penal."
-                },
-                {
-                  "iniId": "31171",
-                  "iniNr": "210",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 401/82, de 23 de Setembro, que institui o regime aplicável em matéria penal aos jovens com idade compreendida entre os 16 e os 21 anos."
-                },
-                {
-                  "iniId": "31129",
-                  "iniNr": "172",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 254/82, de 29 de Junho, que cria as administrações regionais de cuidados de saúde abreviadamente designadas por administrações regionais de saúde (ARS)."
-                },
-                {
-                  "iniId": "31120",
-                  "iniNr": "116",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 330/81, de 04 de Dezembro (Estabelece o novo regime de actualização de rendas nos arrendamentos destinados a comércio, indústria ou profissões liberais)"
-                },
-                {
-                  "iniId": "31118",
-                  "iniNr": "115",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 329/81, de 04 de Dezembro (Introduz o mecanismo de controlo a nível das escrituras de arrendamento)"
-                },
-                {
-                  "iniId": "31116",
-                  "iniNr": "114",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 328/81, de 04 de Dezembro (Altera disposições vigentes relativas à transmissão e ao regime de preferências dos contratos de arrendamento urbano)"
-                },
-                {
-                  "iniId": "30724",
-                  "iniNr": "348",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Regime de faltas dos trabalhadores por motivo de doença dos filhos."
-                },
-                {
-                  "iniId": "30683",
-                  "iniNr": "345",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Atribuições das autarquias locais e competências dos respectivos órgãos."
-                },
-                {
-                  "iniId": "30619",
-                  "iniNr": "285",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Lei-quadro do sistema nacional de educação."
-                },
-                {
-                  "iniId": "36067",
-                  "iniNr": "4",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constitucional"
-                },
-                {
-                  "iniId": "30461",
-                  "iniNr": "159",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Participação das mulheres nas assembleias municipais."
-                }
-              ]
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "BEATRIZ CAL BRANDÃO",
-                "dpl_lg": "II",
-                "dpl_grpar": "PS"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4947",
-          "depCadId": "3346",
-          "depNomeParlamentar": "BEATRIZ CAL BRANDÃO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "980",
-              "gpSigla": "PS",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -16121,7 +16078,7 @@
         },
         "deputado": {
           "depId": "9939",
-          "depCadId": "4742",
+          "depCadId": "3346",
           "depNomeParlamentar": "Beatriz Cal Brandão",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
@@ -16157,7 +16114,7 @@
               }
             ]
           },
-          "depNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO"
+          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
         }
       },
       {
@@ -31796,128 +31753,6 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": [
-                {
-                  "iniId": "33135",
-                  "iniNr": "11",
-                  "iniTp": "R",
-                  "iniTpdesc": "Projeto de Resolução",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
-                },
-                {
-                  "iniId": "30646",
-                  "iniNr": "326",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Revoga o despacho nº 407/80 do Ministro da Educação e Ciência, de 6 de Novembro, sobre a concessão de subsídio às associações de educação popular."
-                },
-                {
-                  "iniId": "30674",
-                  "iniNr": "319",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Amnistia os crimes de fim exclusivamente ou predominantemente político cometidos entre 25 de Abril de 1974 e 30 de Novembro não abrangidos por anteriores amnistias independentemente da conjuntura em que tiverem ocorrido"
-                },
-                {
-                  "iniId": "30628",
-                  "iniNr": "294",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Amnistia as infracções disciplinares praticadas nos meios de comunicação social referidos no artº 39º da Constituição."
-                },
-                {
-                  "iniId": "30621",
-                  "iniNr": "287",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Autonomia universitária."
-                },
-                {
-                  "iniId": "36068",
-                  "iniNr": "5",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constitucional"
-                },
-                {
-                  "iniId": "30971",
-                  "iniNr": "51",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 263/80, de 7 de Agosto, que estabelece normas relativas à criação de mestrados nas Universidades."
-                },
-                {
-                  "iniId": "30515",
-                  "iniNr": "213",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Bases de sistema de educação"
-                },
-                {
-                  "iniId": "33128",
-                  "iniNr": "5",
-                  "iniTp": "R",
-                  "iniTpdesc": "Projeto de Resolução",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Instituição do Dia Internacional da Língua Portuguesa"
-                }
-              ]
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "HELENA CIDADE MOURA",
-                "dpl_lg": "II",
-                "dpl_grpar": "MDP/CDE"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "4942",
-          "depCadId": "3392",
-          "depNomeParlamentar": "HELENA CIDADE MOURA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "986",
-              "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "HELENA TÂMEGA CIDADE"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -31976,7 +31811,7 @@
               }
             ]
           },
-          "depNomeCompleto": "HELENA CIDADE MOURA"
+          "depNomeCompleto": "HELENA TÂMEGA CIDADE MOURA"
         }
       },
       {
@@ -50850,650 +50685,6 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": [
-                {
-                  "iniId": "31178",
-                  "iniNr": "218",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Decreto-Lei nº 423/82, de 15 de Outubro, que cria na Polícia de Segurança Pública a Escola da Polícia (ESP)."
-                },
-                {
-                  "iniId": "30783",
-                  "iniNr": "397",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Combate à imoralidade administrativa, fraude e corrupção"
-                },
-                {
-                  "iniId": "33135",
-                  "iniNr": "11",
-                  "iniTp": "R",
-                  "iniTpdesc": "Projeto de Resolução",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
-                },
-                {
-                  "iniId": "31141",
-                  "iniNr": "184",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 277/82, de 16 de Julho, que regula a prática do jogo do bingo."
-                },
-                {
-                  "iniId": "31140",
-                  "iniNr": "183",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 274/82, de 14 de Julho, que estabelece novo regime jurídico para a transladação, cremação e inceneração dos restos mortais de cidadãos falecidos."
-                },
-                {
-                  "iniId": "31126",
-                  "iniNr": "169",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 232/82, de 17 de Junho, que estabelece medidas tendentes a melhorar o funcionamento dos Serviços de Notariado."
-                },
-                {
-                  "iniId": "31115",
-                  "iniNr": "167",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 225/82, de 12 de Junho, que renova os Decretos-Lei nºs 646/76 de 31 de Julho, e 858/76, de 21 de Dezembro e anula dotações orçamentais de Encargos Gerais da Nação do Orçamento Geral do Estado."
-                },
-                {
-                  "iniId": "31106",
-                  "iniNr": "165",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 224/82, de 8 de Junho, que dá nova redacção a alguns artigos do Código de Processo Civil e do Código das Custas Judiciais."
-                },
-                {
-                  "iniId": "31051",
-                  "iniNr": "123",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 15-B/82, de 20 de Janeiro, que estabelece a tabela de vencimentos dos funcionários e agentes da administração central, regional e local para 1982."
-                },
-                {
-                  "iniId": "31070",
-                  "iniNr": "105",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 292/81, de 15 de Outubro (Cria a área de paisagem protegida de Sintra-Cascais)"
-                },
-                {
-                  "iniId": "30746",
-                  "iniNr": "371",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "regime do estado de sítio e do estado de emergência"
-                },
-                {
-                  "iniId": "30739",
-                  "iniNr": "370",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Publicação, identificação e formulário de diplomas"
-                },
-                {
-                  "iniId": "30735",
-                  "iniNr": "368",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Sobre os limites máximos da indeminização fundada em acidentes de viação quando não haja culpa formada do responsável"
-                },
-                {
-                  "iniId": "30711",
-                  "iniNr": "362",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Anulação de actos de apropriação de baldios"
-                },
-                {
-                  "iniId": "30734",
-                  "iniNr": "354",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Uso de meios de comunicação social em período eleitoral."
-                },
-                {
-                  "iniId": "30733",
-                  "iniNr": "353",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Critério de escolha de governadores civis."
-                },
-                {
-                  "iniId": "30726",
-                  "iniNr": "349",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Suspensão do Decreto-Lei nº 224/82, de 8 de Junho."
-                },
-                {
-                  "iniId": "30680",
-                  "iniNr": "343",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Determina que aguardem o julgamento em liberdade provisória os arguidos de certas classes de crimes em prisão preventiva excessiva."
-                },
-                {
-                  "iniId": "30679",
-                  "iniNr": "342",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Concede perdão genérico de penas por crimes de fim exclusiva ou predominantemente político."
-                },
-                {
-                  "iniId": "30663",
-                  "iniNr": "340",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Respostas aos requerimentos dos deputados."
-                },
-                {
-                  "iniId": "30657",
-                  "iniNr": "334",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Representação dos trabalhadores nos órgãos colegiais de administração das sociedades anónimas."
-                },
-                {
-                  "iniId": "30655",
-                  "iniNr": "333",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Fundamentação das medidas económicas dos Governos."
-                },
-                {
-                  "iniId": "30674",
-                  "iniNr": "319",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Amnistia os crimes de fim exclusivamente ou predominantemente político cometidos entre 25 de Abril de 1974 e 30 de Novembro não abrangidos por anteriores amnistias independentemente da conjuntura em que tiverem ocorrido"
-                },
-                {
-                  "iniId": "30640",
-                  "iniNr": "305",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Protecção do património cultural de Castelo Branco"
-                },
-                {
-                  "iniId": "30618",
-                  "iniNr": "284",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Validade dos géneros alimenticíos pré-embalados."
-                },
-                {
-                  "iniId": "30605",
-                  "iniNr": "271",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Abolição de impostos imprópriamente chamados taxas."
-                },
-                {
-                  "iniId": "30601",
-                  "iniNr": "267",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Criação da Ordem de Camões."
-                },
-                {
-                  "iniId": "30599",
-                  "iniNr": "265",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Comissão Nacional de Eleições."
-                },
-                {
-                  "iniId": "30595",
-                  "iniNr": "261",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Utilização de aditivos alimentares."
-                },
-                {
-                  "iniId": "30593",
-                  "iniNr": "259",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Demarcação da zona de vinho do Cartaxo."
-                },
-                {
-                  "iniId": "36067",
-                  "iniNr": "4",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constitucional"
-                },
-                {
-                  "iniId": "36065",
-                  "iniNr": "1",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constituional"
-                },
-                {
-                  "iniId": "31032",
-                  "iniNr": "91",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 171/81, de 24 de Junho, que estabelece normas sobre a prestação de serviços como conservador e notário nas Regiões Autónomas."
-                },
-                {
-                  "iniId": "31017",
-                  "iniNr": "76",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 18/81, de 28 de Janeiro, que estabelece medidas destinadas a criar condições para a intervenção, em tempo útil, do Tribunal de Contas no domínio do julgamento das contas."
-                },
-                {
-                  "iniId": "30937",
-                  "iniNr": "30",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 421/80, de 30 de Setembro, que estabelece normas relativas à actividade publicitária."
-                },
-                {
-                  "iniId": "30540",
-                  "iniNr": "233",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Medidas de apoio aos deficientes visuais"
-                },
-                {
-                  "iniId": "30539",
-                  "iniNr": "232",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Orgânica  dos registos e do notariado"
-                },
-                {
-                  "iniId": "30538",
-                  "iniNr": "231",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Coordenação de trabalhos na via pública"
-                },
-                {
-                  "iniId": "30544",
-                  "iniNr": "230",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do ambiente e a protecção da natureza e do património"
-                },
-                {
-                  "iniId": "30524",
-                  "iniNr": "221",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Faltas relacionadas com atrasos ou impossibilidades de obtenção de transportes públicos"
-                },
-                {
-                  "iniId": "30514",
-                  "iniNr": "212",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Casas fruídas por repúblicas de estudantes na cidade de Coimbra"
-                },
-                {
-                  "iniId": "30513",
-                  "iniNr": "211",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Abuso de hormonas, antibióticos e pesticidas de uso veterinário"
-                },
-                {
-                  "iniId": "30506",
-                  "iniNr": "205",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Objecção de consciencia frente ao serviço militar"
-                },
-                {
-                  "iniId": "30563",
-                  "iniNr": "193",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa da concorrência."
-                },
-                {
-                  "iniId": "30558",
-                  "iniNr": "188",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Conservação da natureza e a protecção de paisagens e sítios."
-                },
-                {
-                  "iniId": "30555",
-                  "iniNr": "186",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do património natural e cultural da Serra de Sintra."
-                },
-                {
-                  "iniId": "30551",
-                  "iniNr": "184",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Constituição de uma comissão para elaborar um plano de salvaguarda e preservação arquitectónica, paisagística e patrimonial da zona ribeirinha de Lisboa."
-                },
-                {
-                  "iniId": "30486",
-                  "iniNr": "177",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Autonomia universitária."
-                },
-                {
-                  "iniId": "30483",
-                  "iniNr": "176",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Taxas de câmbio consular."
-                },
-                {
-                  "iniId": "30482",
-                  "iniNr": "175",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Participação em assembleias de condóminos e administração de prédios em propriedade horizontal."
-                },
-                {
-                  "iniId": "30475",
-                  "iniNr": "170",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Responsabilidade dos empreiteiros na construção de andares em propriedade horizontal."
-                },
-                {
-                  "iniId": "30467",
-                  "iniNr": "162",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Demarcação da zona dos vinhos de Pinhel."
-                },
-                {
-                  "iniId": "30466",
-                  "iniNr": "161",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do consumidor."
-                },
-                {
-                  "iniId": "30462",
-                  "iniNr": "160",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Demarcação de zonas regionais de produção de queijo e criação da Zona Demarcada do Queijo da Serra."
-                },
-                {
-                  "iniId": "30461",
-                  "iniNr": "159",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Participação das mulheres nas assembleias municipais."
-                },
-                {
-                  "iniId": "30457",
-                  "iniNr": "155",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Isenções fiscais em próteses para deficientes."
-                },
-                {
-                  "iniId": "30454",
-                  "iniNr": "153",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Transmissão pela rádio e televisão de produções dramáticas portuguesas."
-                },
-                {
-                  "iniId": "30452",
-                  "iniNr": "151",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Protecção dos consumidores de alimentos congelados."
-                },
-                {
-                  "iniId": "30451",
-                  "iniNr": "150",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Isenção de taxas para deficientes auditivos."
-                },
-                {
-                  "iniId": "30447",
-                  "iniNr": "146",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Aplicação de diplomas ao pessoal das juntas de freguesia."
-                },
-                {
-                  "iniId": "30432",
-                  "iniNr": "137",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Combate à imoralidade administrativa, fraude e corrupção."
-                },
-                {
-                  "iniId": "30431",
-                  "iniNr": "136",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Data de validade dos géneros alimentícios pré-embalados."
-                },
-                {
-                  "iniId": "30421",
-                  "iniNr": "129",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Reforço das condições de independência da actividade dos jornalistas."
-                },
-                {
-                  "iniId": "30417",
-                  "iniNr": "125",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Horários de funcionamento dos consulados."
-                },
-                {
-                  "iniId": "30413",
-                  "iniNr": "122",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Poluição marítima por descargas de produtos petrolíferos."
-                },
-                {
-                  "iniId": "30412",
-                  "iniNr": "121",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Pequenas dívidas em execução fiscal."
-                },
-                {
-                  "iniId": "30398",
-                  "iniNr": "109",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Alterações à Lei nº 78/77, de 25 de Outubro com as alterações introduzidas pela Lei nº 67/78, de 14 de Outubro (Conselhos de Informação)."
-                }
-              ]
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "MAGALHÃES MOTA",
-                "dpl_lg": "II",
-                "dpl_grpar": "ASDI"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3425",
-          "depCadId": "3036",
-          "depNomeParlamentar": "MAGALHÃES MOTA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "984",
-              "gpSigla": "ASDI",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -51572,7 +50763,7 @@
               }
             ]
           },
-          "depNomeCompleto": "JOAQUIM JORGE MAGALHÃES SARAIVA DA MOTA"
+          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES SARAIVA DA MOTA"
         }
       },
       {
@@ -67102,587 +66293,6 @@
             ]
           },
           "depNomeCompleto": "ANTÓNIO JOSÉ MONTEIRO VIDIGAL AMARO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "ini": {
-              "pt_gov_ar_wsar_objectos_IniciativasOut": [
-                {
-                  "iniId": "31178",
-                  "iniNr": "218",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Decreto-Lei nº 423/82, de 15 de Outubro, que cria na Polícia de Segurança Pública a Escola da Polícia (ESP)."
-                },
-                {
-                  "iniId": "30783",
-                  "iniNr": "397",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Combate à imoralidade administrativa, fraude e corrupção"
-                },
-                {
-                  "iniId": "30752",
-                  "iniNr": "375",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Promoção de oficiais das Forças Armadas ao posto imediatamente superior, por distinção, por serviços prestados à democracia e à Pátria"
-                },
-                {
-                  "iniId": "33135",
-                  "iniNr": "11",
-                  "iniTp": "R",
-                  "iniTpdesc": "Projeto de Resolução",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
-                },
-                {
-                  "iniId": "33134",
-                  "iniNr": "10",
-                  "iniTp": "R",
-                  "iniTpdesc": "Projeto de Resolução",
-                  "iniSelLg": "II",
-                  "iniSelNr": "3",
-                  "iniTi": "Transferência para a dependencia da Assembleia da República do Serviço de Coordenação e Extinção da PIDE-DGS e Legião Portuguesa"
-                },
-                {
-                  "iniId": "31141",
-                  "iniNr": "184",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 277/82, de 16 de Julho, que regula a prática do jogo do bingo."
-                },
-                {
-                  "iniId": "31140",
-                  "iniNr": "183",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-Lei nº 274/82, de 14 de Julho, que estabelece novo regime jurídico para a transladação, cremação e inceneração dos restos mortais de cidadãos falecidos."
-                },
-                {
-                  "iniId": "31126",
-                  "iniNr": "169",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 232/82, de 17 de Junho, que estabelece medidas tendentes a melhorar o funcionamento dos Serviços de Notariado."
-                },
-                {
-                  "iniId": "31115",
-                  "iniNr": "167",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 225/82, de 12 de Junho, que renova os Decretos-Lei nºs 646/76 de 31 de Julho, e 858/76, de 21 de Dezembro e anula dotações orçamentais de Encargos Gerais da Nação do Orçamento Geral do Estado."
-                },
-                {
-                  "iniId": "31108",
-                  "iniNr": "109",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 309/81, de 16 de Novembro (Regulamenta as cooperativas de produção operária, abreviadamente designadas \"cooperativas de produção\")"
-                },
-                {
-                  "iniId": "31070",
-                  "iniNr": "105",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Decreto-lei nº 292/81, de 15 de Outubro (Cria a área de paisagem protegida de Sintra-Cascais)"
-                },
-                {
-                  "iniId": "30746",
-                  "iniNr": "371",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "regime do estado de sítio e do estado de emergência"
-                },
-                {
-                  "iniId": "30739",
-                  "iniNr": "370",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Publicação, identificação e formulário de diplomas"
-                },
-                {
-                  "iniId": "30735",
-                  "iniNr": "368",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Sobre os limites máximos da indeminização fundada em acidentes de viação quando não haja culpa formada do responsável"
-                },
-                {
-                  "iniId": "30711",
-                  "iniNr": "362",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Anulação de actos de apropriação de baldios"
-                },
-                {
-                  "iniId": "30734",
-                  "iniNr": "354",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Uso de meios de comunicação social em período eleitoral."
-                },
-                {
-                  "iniId": "30733",
-                  "iniNr": "353",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Critério de escolha de governadores civis."
-                },
-                {
-                  "iniId": "30680",
-                  "iniNr": "343",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Determina que aguardem o julgamento em liberdade provisória os arguidos de certas classes de crimes em prisão preventiva excessiva."
-                },
-                {
-                  "iniId": "30679",
-                  "iniNr": "342",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Concede perdão genérico de penas por crimes de fim exclusiva ou predominantemente político."
-                },
-                {
-                  "iniId": "30663",
-                  "iniNr": "340",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Respostas aos requerimentos dos deputados."
-                },
-                {
-                  "iniId": "30657",
-                  "iniNr": "334",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Representação dos trabalhadores nos órgãos colegiais de administração das sociedades anónimas."
-                },
-                {
-                  "iniId": "30655",
-                  "iniNr": "333",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Fundamentação das medidas económicas dos Governos."
-                },
-                {
-                  "iniId": "30674",
-                  "iniNr": "319",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Amnistia os crimes de fim exclusivamente ou predominantemente político cometidos entre 25 de Abril de 1974 e 30 de Novembro não abrangidos por anteriores amnistias independentemente da conjuntura em que tiverem ocorrido"
-                },
-                {
-                  "iniId": "30640",
-                  "iniNr": "305",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Protecção do património cultural de Castelo Branco"
-                },
-                {
-                  "iniId": "30628",
-                  "iniNr": "294",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Amnistia as infracções disciplinares praticadas nos meios de comunicação social referidos no artº 39º da Constituição."
-                },
-                {
-                  "iniId": "30618",
-                  "iniNr": "284",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Validade dos géneros alimenticíos pré-embalados."
-                },
-                {
-                  "iniId": "30605",
-                  "iniNr": "271",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Abolição de impostos imprópriamente chamados taxas."
-                },
-                {
-                  "iniId": "30601",
-                  "iniNr": "267",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Criação da Ordem de Camões."
-                },
-                {
-                  "iniId": "30599",
-                  "iniNr": "265",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Comissão Nacional de Eleições."
-                },
-                {
-                  "iniId": "30595",
-                  "iniNr": "261",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "2",
-                  "iniTi": "Utilização de aditivos alimentares."
-                },
-                {
-                  "iniId": "36067",
-                  "iniNr": "4",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constitucional"
-                },
-                {
-                  "iniId": "36065",
-                  "iniNr": "1",
-                  "iniTp": "C",
-                  "iniTpdesc": "Projeto de Revisão Constitucional",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Projecto de Revisão Constituional"
-                },
-                {
-                  "iniId": "31032",
-                  "iniNr": "91",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 171/81, de 24 de Junho, que estabelece normas sobre a prestação de serviços como conservador e notário nas Regiões Autónomas."
-                },
-                {
-                  "iniId": "31024",
-                  "iniNr": "83",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 110-A/81, de 14 de Maio, que altera a tabela de vencimentos, gratificações e pensões dos funcionários e agentes da Administração Pública, administração central e local e dos institutos públicos."
-                },
-                {
-                  "iniId": "31017",
-                  "iniNr": "76",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 18/81, de 28 de Janeiro, que estabelece medidas destinadas a criar condições para a intervenção, em tempo útil, do Tribunal de Contas no domínio do julgamento das contas."
-                },
-                {
-                  "iniId": "30937",
-                  "iniNr": "30",
-                  "iniTp": "F",
-                  "iniTpdesc": "Ratificação",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Decreto-lei nº 421/80, de 30 de Setembro, que estabelece normas relativas à actividade publicitária."
-                },
-                {
-                  "iniId": "30540",
-                  "iniNr": "233",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Medidas de apoio aos deficientes visuais"
-                },
-                {
-                  "iniId": "30539",
-                  "iniNr": "232",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Orgânica  dos registos e do notariado"
-                },
-                {
-                  "iniId": "30538",
-                  "iniNr": "231",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Coordenação de trabalhos na via pública"
-                },
-                {
-                  "iniId": "30544",
-                  "iniNr": "230",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do ambiente e a protecção da natureza e do património"
-                },
-                {
-                  "iniId": "30524",
-                  "iniNr": "221",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Faltas relacionadas com atrasos ou impossibilidades de obtenção de transportes públicos"
-                },
-                {
-                  "iniId": "30514",
-                  "iniNr": "212",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Casas fruídas por repúblicas de estudantes na cidade de Coimbra"
-                },
-                {
-                  "iniId": "30513",
-                  "iniNr": "211",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Abuso de hormonas, antibióticos e pesticidas de uso veterinário"
-                },
-                {
-                  "iniId": "30506",
-                  "iniNr": "205",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Objecção de consciencia frente ao serviço militar"
-                },
-                {
-                  "iniId": "30563",
-                  "iniNr": "193",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa da concorrência."
-                },
-                {
-                  "iniId": "30558",
-                  "iniNr": "188",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Conservação da natureza e a protecção de paisagens e sítios."
-                },
-                {
-                  "iniId": "30555",
-                  "iniNr": "186",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do património natural e cultural da Serra de Sintra."
-                },
-                {
-                  "iniId": "30551",
-                  "iniNr": "184",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Constituição de uma comissão para elaborar um plano de salvaguarda e preservação arquitectónica, paisagística e patrimonial da zona ribeirinha de Lisboa."
-                },
-                {
-                  "iniId": "30486",
-                  "iniNr": "177",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Autonomia universitária."
-                },
-                {
-                  "iniId": "30483",
-                  "iniNr": "176",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Taxas de câmbio consular."
-                },
-                {
-                  "iniId": "30482",
-                  "iniNr": "175",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Participação em assembleias de condóminos e administração de prédios em propriedade horizontal."
-                },
-                {
-                  "iniId": "30467",
-                  "iniNr": "162",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Demarcação da zona dos vinhos de Pinhel."
-                },
-                {
-                  "iniId": "30466",
-                  "iniNr": "161",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Defesa do consumidor."
-                },
-                {
-                  "iniId": "30462",
-                  "iniNr": "160",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Demarcação de zonas regionais de produção de queijo e criação da Zona Demarcada do Queijo da Serra."
-                },
-                {
-                  "iniId": "30461",
-                  "iniNr": "159",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Participação das mulheres nas assembleias municipais."
-                },
-                {
-                  "iniId": "30454",
-                  "iniNr": "153",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Transmissão pela rádio e televisão de produções dramáticas portuguesas."
-                },
-                {
-                  "iniId": "30452",
-                  "iniNr": "151",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Protecção dos consumidores de alimentos congelados."
-                },
-                {
-                  "iniId": "30447",
-                  "iniNr": "146",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Aplicação de diplomas ao pessoal das juntas de freguesia."
-                },
-                {
-                  "iniId": "30431",
-                  "iniNr": "136",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Data de validade dos géneros alimentícios pré-embalados."
-                },
-                {
-                  "iniId": "30417",
-                  "iniNr": "125",
-                  "iniTp": "J",
-                  "iniTpdesc": "Projeto de Lei",
-                  "iniSelLg": "II",
-                  "iniSelNr": "1",
-                  "iniTi": "Horários de funcionamento dos consulados."
-                }
-              ]
-            },
-            "rel": null,
-            "dadosLegisDeputado": {
-              "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
-                "nome": "VILHENA DE CARVALHO",
-                "dpl_lg": "II",
-                "dpl_grpar": "ASDI"
-              }
-            }
-          }
-        },
-        "deputado": {
-          "depId": "3408",
-          "depCadId": "3347",
-          "depNomeParlamentar": "VILHENA DE CARVALHO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "984",
-              "gpSigla": "ASDI",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "MANUEL AFONSO VILHENA DE CARVALHO"
         }
       },
       {

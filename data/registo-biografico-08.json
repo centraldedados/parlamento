@@ -5087,6 +5087,13 @@
                   "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7104",
+                  "orgDes": "Grupo de Trabalho  - Programa Nacional de Investimentos 2030",
+                  "orgSigla": "GT-PNI2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -7432,7 +7439,8 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpDes": "Partido Social Democrata",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_DUARTE_PACHECO.mp4"
               },
               {
                 "depNomeParlamentar": "Duarte Pacheco",
@@ -7736,7 +7744,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_EDITE_ESTRELA.mp4"
               },
               {
                 "depNomeParlamentar": "Edite Estrela",
@@ -8699,7 +8708,8 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpDes": "Partido Social Democrata",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_FELICIANO_BARREIRAS_DUARTE.mp4"
               },
               {
                 "depNomeParlamentar": "Feliciano Barreiras Duarte",
@@ -13931,7 +13941,8 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "CDS-PP",
-                "gpDes": "Centro Democrático Social - Partido Popular"
+                "gpDes": "Centro Democrático Social - Partido Popular",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/CDS-PP_JOAO_REBELO.mp4"
               },
               {
                 "depNomeParlamentar": "João Rebelo",
@@ -15151,7 +15162,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_JORGE_LACAO.mp4"
               },
               {
                 "depNomeParlamentar": "Jorge Lacão",
@@ -15744,7 +15756,8 @@
                 "parSigla": "PAF",
                 "parDes": "Coligação Portugal À Frente",
                 "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpDes": "Partido Social Democrata",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PSD_JOSE_ANTONIO_SILVA.mp4"
               },
               {
                 "depNomeParlamentar": "José António Silva",
@@ -22764,6 +22777,13 @@
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7124",
+                  "orgDes": "Grupo de Trabalho - PMA (PJL 1007/XIII/4.ª BE, PJL 1010/XIII/4.ª PSD, PJL 1024/XIII/4.ª PS, PJL 1031/XIII/4.ª PCP PJL 1033/XIII/4.ª PAN e PJL 1030/XIII/4.ª BE)",
+                  "orgSigla": "GT-PMA-GS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -25872,7 +25892,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -29454,6 +29475,18 @@
                   "orgSigla": "GT-DC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7104",
+                  "orgDes": "Grupo de Trabalho  - Programa Nacional de Investimentos 2030",
+                  "orgSigla": "GT-PNI2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -30955,7 +30988,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",

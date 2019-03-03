@@ -2114,38 +2114,8 @@
           }
         },
         "deputado": {
-          "depId": "3156",
-          "depCadId": "3346",
-          "depNomeParlamentar": "BEATRIZ CAL BRANDÃO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "972",
-              "gpSigla": "PS",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-13"
-            }
-          },
-          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9836",
-          "depCadId": "4742",
+          "depCadId": "3346",
           "depNomeParlamentar": "Beatriz Cal Brandão",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
@@ -2164,7 +2134,7 @@
               "sioDtFim": "1980-11-03"
             }
           },
-          "depNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO"
+          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
         }
       },
       {
@@ -4220,36 +4190,6 @@
           }
         },
         "deputado": {
-          "depId": "4987",
-          "depCadId": "3392",
-          "depNomeParlamentar": "HELENA CIDADE MOURA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "976",
-              "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-01-03"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "IB",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-01-03",
-              "sioDtFim": "1980-11-12"
-            }
-          },
-          "depNomeCompleto": "HELENA TÂMEGA CIDADE"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9860",
           "depCadId": "4773",
           "depNomeParlamentar": "HELENA MOURA",
@@ -4270,7 +4210,7 @@
               "sioDtFim": "1980-11-03"
             }
           },
-          "depNomeCompleto": "HELENA CIDADE MOURA"
+          "depNomeCompleto": "HELENA TÂMEGA CIDADE MOURA"
         }
       },
       {

@@ -11,6 +11,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111578",
+              "numeroAudicao": "177-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "no âmbito das Apreciações Parlamentares n.º 83/XIII-4.ª, n.º 84/XIII-4.ª, n.º 85/XIII-4.ª, n.º 86/XIII-4.ª, n.º 87/XIII-4.ª, n.º 88/XIII-4.ª e n.º 89/XIII-4.ª, sobre o processo de Descentralização",
+              "entidades": "MIN.  DAS   FINANÇAS",
+              "data": "2019-02-27"
+            },
+            {
               "IDAudicao": "111411",
               "numeroAudicao": "176-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -9952,12 +9961,21 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111576",
+              "numeroAudicao": "66-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Requerimento apresentado pelo Grupo Parlamentar do PS, para a apresentação do Relatório de Emigração/2017",
+              "entidades": "S.E. DAS COMUNIDADES",
+              "data": "2019-02-26"
+            },
+            {
               "IDAudicao": "111394",
               "numeroAudicao": "65-CNECP-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Requerimento apresentado pelo Grupo Parlamentar do PSD,",
-              "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS",
+              "assunto": "Requerimento apresentado pelo Grupo Parlamentar do PSD, sobre a situação na República Bolivariana da Venezuela",
+              "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS;S.E. DAS COMUNIDADES",
               "data": "2019-02-12"
             },
             {
@@ -19565,6 +19583,26 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111590",
+              "numeroAudiencia": "49-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência com a Senhora Secretaria-Geral adjunta da NATO, Rose Gottemoeller",
+              "entidades": "Secretaria-Geral adjunta da NATO, Rose Gottemoeller",
+              "data": "2019-03-01",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "111574",
+              "numeroAudiencia": "48-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Almoço de trabalho com Embaixador de Angola Carlos Alberto Saraiva de Carvalho Fonseca",
+              "entidades": "Embaixador de Angola Carlos Alberto Saraiva de Carvalho Fonseca;Adido Militar de Angola Coronel Eugénio Leopoldo Fraio",
+              "data": "2019-02-28",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111339",
               "numeroAudiencia": "47-CDN-XIII",
               "legislatura": "XIII",
@@ -22348,6 +22386,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "111583",
+              "numeroAudiencia": "48-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Preparação para a visita oficial da Presidente da Estónia Sra. Dra. Kersti Kaljulaid   em abril de 2019.",
+              "entidades": "Embaixadora da Estónia em Portugal - Ruth Lausma Luik",
+              "data": "2019-02-27",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111494",
               "numeroAudiencia": "47-CAE-XIII",
@@ -31095,6 +31143,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111577",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-24",
+              "dataFim": "2019-02-25",
+              "designacao": "Reunião do Grupo Especializado de Controlo Parlamentar Conjunto (GCPC) da Europol, na vertente parlamentar da Presidência Romena do Conselho da União Europeia",
+              "localEvento": "Roménia-Bucharest",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111575",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-18",
+              "dataFim": "2019-02-19",
+              "designacao": "Semana Parlamentar Europeia - Conferência sobre o Semestre Europeu e Conferência sobre Estabilidade, Coordenação Económica e Governação na União Europeia",
+              "localEvento": "Bruxelas",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111230",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -34764,6 +34832,15 @@
       "ArrayOfPt_gov_ar_objectos_DadosEventosComissaoOut": [
         {
           "pt_gov_ar_objectos_DadosEventosComissaoOut": [
+            {
+              "IDEvento": "111585",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "data": "2019-02-26",
+              "designacao": "Oportunidade para uma lei de Bases do Clima",
+              "localEvento": "Auditório António Almeida Santos",
+              "tipoEvento": "Conferência"
+            },
             {
               "IDEvento": "103576",
               "legislatura": "XIII",

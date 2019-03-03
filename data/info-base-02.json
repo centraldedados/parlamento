@@ -2086,8 +2086,8 @@
           "depNomeParlamentar": "ANTÓNIO LOJA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "980",
+              "gpSigla": "PS",
               "gpDtInicio": "1982-08-26"
             }
           },
@@ -2570,8 +2570,8 @@
           "depNomeParlamentar": "ANTÓNIO SOUSA LARA",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "983",
+              "gpSigla": "PPM",
               "gpDtInicio": "1981-06-22"
             }
           },
@@ -3059,29 +3059,6 @@
           "depNomeCompleto": "ARTUR MANUEL OSÓRIO MORAIS DE ARAÚJO"
         },
         {
-          "depId": "4761",
-          "depCadId": "3457",
-          "depNomeParlamentar": "ARTUR BELEZA OLIVEIRA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "1",
-          "depCPDes": "AVEIRO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "ARTUR JOSÉ BELEZA DE VASCONCELOS OLIVEIRA"
-        },
-        {
           "depId": "9938",
           "depCadId": "4736",
           "depNomeParlamentar": "Artur Beleza Oliveira",
@@ -3255,31 +3232,8 @@
           "depNomeCompleto": "AVELINO FERREIRA LOUREIRO ZENHA"
         },
         {
-          "depId": "4947",
-          "depCadId": "3346",
-          "depNomeParlamentar": "BEATRIZ CAL BRANDÃO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "980",
-              "gpSigla": "PS",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
-        },
-        {
           "depId": "9939",
-          "depCadId": "4742",
+          "depCadId": "3346",
           "depNomeParlamentar": "Beatriz Cal Brandão",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
@@ -3315,7 +3269,7 @@
               }
             ]
           },
-          "depNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO"
+          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
         },
         {
           "depId": "4906",
@@ -6697,29 +6651,6 @@
           "depNomeCompleto": "HELDER SIMÃO PINHEIRO"
         },
         {
-          "depId": "4942",
-          "depCadId": "3392",
-          "depNomeParlamentar": "HELENA CIDADE MOURA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "986",
-              "gpSigla": "MDP/CDE",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "HELENA TÂMEGA CIDADE"
-        },
-        {
           "depId": "9941",
           "depCadId": "4773",
           "depNomeParlamentar": "HELENA MOURA",
@@ -6767,7 +6698,7 @@
               }
             ]
           },
-          "depNomeCompleto": "HELENA CIDADE MOURA"
+          "depNomeCompleto": "HELENA TÂMEGA CIDADE MOURA"
         },
         {
           "depId": "3331",
@@ -10412,29 +10343,6 @@
           "depNomeCompleto": "LUÍZA MARIA FREIRE CABRAL VAZ RAPOSO"
         },
         {
-          "depId": "3425",
-          "depCadId": "3036",
-          "depNomeParlamentar": "MAGALHÃES MOTA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "984",
-              "gpSigla": "ASDI",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "14",
-          "depCPDes": "SANTARÉM",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA"
-        },
-        {
           "depId": "9944",
           "depCadId": "4788",
           "depNomeParlamentar": "Magalhães Mota",
@@ -10502,7 +10410,7 @@
               }
             ]
           },
-          "depNomeCompleto": "JOAQUIM JORGE MAGALHÃES SARAIVA DA MOTA"
+          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES SARAIVA DA MOTA"
         },
         {
           "depId": "3389",
@@ -14817,29 +14725,6 @@
             ]
           },
           "depNomeCompleto": "ANTÓNIO JOSÉ MONTEIRO VIDIGAL AMARO"
-        },
-        {
-          "depId": "3408",
-          "depCadId": "3347",
-          "depNomeParlamentar": "VILHENA DE CARVALHO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "984",
-              "gpSigla": "ASDI",
-              "gpDtInicio": "1980-11-13"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "II",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1980-11-13",
-              "sioDtFim": "1983-05-30"
-            }
-          },
-          "depNomeCompleto": "MANUEL AFONSO VILHENA DE CARVALHO"
         },
         {
           "depId": "9946",

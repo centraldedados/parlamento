@@ -5366,8 +5366,8 @@
                 "ceDes": "LISBOA",
                 "parSigla": "AD",
                 "parDes": "Aliança Democrática",
-                "gpSigla": "PSD",
-                "gpDes": "Partido Social Democrata"
+                "gpSigla": "PPM",
+                "gpDes": "Partido Popular Monárquico"
               }
             ]
           },
@@ -10787,7 +10787,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_EDITE_ESTRELA.mp4"
               },
               {
                 "depNomeParlamentar": "Edite Estrela",
@@ -16917,7 +16918,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_JORGE_LACAO.mp4"
               },
               {
                 "depNomeParlamentar": "Jorge Lacão",
@@ -21278,62 +21280,6 @@
           "cadActividadeOrgaos": null
         },
         {
-          "cadId": "3036",
-          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA",
-          "cadSexo": "M",
-          "cadProfissao": "",
-          "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "V",
-                "ceDes": "LISBOA",
-                "parSigla": "PRD",
-                "parDes": "Partido Renovador Democrático",
-                "gpSigla": "PRD",
-                "gpDes": "Partido Renovador Democrático"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "IV",
-                "ceDes": "LISBOA",
-                "parSigla": "PRD",
-                "parDes": "Partido Renovador Democrático",
-                "gpSigla": "PRD",
-                "gpDes": "Partido Renovador Democrático"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "III",
-                "ceDes": "LISBOA",
-                "parSigla": "PS",
-                "parDes": "Partido Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "II",
-                "ceDes": "SANTARÉM",
-                "parSigla": "FRS",
-                "parDes": "Frente Republicana E Socialista",
-                "gpSigla": "ASDI",
-                "gpDes": "Acção Social Democrata Independente"
-              },
-              {
-                "depNomeParlamentar": "Magalhães Mota",
-                "legDes": "IA",
-                "ceDes": "LISBOA",
-                "parSigla": "PSD",
-                "parDes": "Partido Social Democrata",
-                "gpSigla": "PPD",
-                "gpDes": "Partido Popular Democrata"
-              }
-            ]
-          },
-          "cadActividadeOrgaos": null
-        },
-        {
           "cadId": "235",
           "cadNomeCompleto": "MANUEL ALEGRE DE MELO DUARTE",
           "cadDtNascimento": "1936-05-12",
@@ -24976,7 +24922,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_MIRANDA_CALHA.mp4"
               },
               {
                 "depNomeParlamentar": "Miranda Calha",
@@ -28553,7 +28500,8 @@
                 "parSigla": "PS",
                 "parDes": "Partido Socialista",
                 "gpSigla": "PS",
-                "gpDes": "Partido Socialista"
+                "gpDes": "Partido Socialista",
+                "urlVideoBiografia": "http://media.parlamento.pt/site/XIIILEG/videobiografias/PS_ROSA_MARIA_BASTOS_ALBERNAZ.mp4"
               },
               {
                 "depNomeParlamentar": "Rosa Maria Bastos Albernaz",
@@ -33097,12 +33045,6 @@
         {
           "cadId": "3035",
           "cadNomeCompleto": "MARIA LUÍSA RODRIGUES AMORIM GARCIA DA ROSA",
-          "cadActividadeProfissional": "",
-          "cadEstadoCivilCod": "0"
-        },
-        {
-          "cadId": "3036",
-          "cadNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA",
           "cadActividadeProfissional": "",
           "cadEstadoCivilCod": "0"
         },

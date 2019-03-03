@@ -2895,38 +2895,8 @@
           }
         },
         "deputado": {
-          "depId": "2881",
-          "depCadId": "3346",
-          "depNomeParlamentar": "BEATRIZ CAL BRANDÃO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "966",
-              "gpSigla": "PS",
-              "gpDtInicio": "1976-06-03"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "IA",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1976-06-03",
-              "sioDtFim": "1980-01-03"
-            }
-          },
-          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9835",
-          "depCadId": "4742",
+          "depCadId": "3346",
           "depNomeParlamentar": "Beatriz Cal Brandão",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
@@ -2945,7 +2915,7 @@
               "sioDtFim": "1980-01-03"
             }
           },
-          "depNomeCompleto": "BEATRIZ ALMEIDA CAL BRANDÃO"
+          "depNomeCompleto": "BEATRIZ MAGALHÃES DE ALMEIDA CAL BRANDÃO"
         }
       },
       {
@@ -9458,36 +9428,6 @@
           }
         },
         "deputado": {
-          "depId": "2843",
-          "depCadId": "3036",
-          "depNomeParlamentar": "MAGALHÃES MOTA",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "967",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1976-06-03"
-            }
-          },
-          "depCPId": "11",
-          "depCPDes": "LISBOA",
-          "legDes": "IA",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1976-06-03",
-              "sioDtFim": "1980-01-02"
-            }
-          },
-          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES MOTA"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
           "depId": "9870",
           "depCadId": "4788",
           "depNomeParlamentar": "Magalhães Mota",
@@ -9517,7 +9457,7 @@
               "sioDtFim": "1979-12-24"
             }
           },
-          "depNomeCompleto": "JOAQUIM JORGE MAGALHÃES SARAIVA DA MOTA"
+          "depNomeCompleto": "JOAQUIM JORGE DE MAGALHÃES SARAIVA DA MOTA"
         }
       },
       {
@@ -12452,36 +12392,6 @@
             }
           },
           "depNomeCompleto": "VICTOR AFONSO PINTO DA CRUZ"
-        }
-      },
-      {
-        "AtividadeDeputadoList": {
-          "pt_gov_ar_wsar_objectos_ActividadeOut": {
-            "rel": null
-          }
-        },
-        "deputado": {
-          "depId": "2789",
-          "depCadId": "3347",
-          "depNomeParlamentar": "VILHENA DE CARVALHO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "967",
-              "gpSigla": "PPD",
-              "gpDtInicio": "1976-06-03"
-            }
-          },
-          "depCPId": "9",
-          "depCPDes": "GUARDA",
-          "legDes": "IA",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1976-06-03",
-              "sioDtFim": "1980-01-02"
-            }
-          },
-          "depNomeCompleto": "MANUEL AFONSO VILHENA DE CARVALHO"
         }
       },
       {
