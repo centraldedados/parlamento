@@ -188,6 +188,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação Eleitoral por ocasião das Eleições Legislativas da Guiné-Bissau",
+              "tipo": "REN",
+              "local": "Bissau",
+              "dataInicio": "07-03-2019",
+              "dataFim": "12-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião dos Presidentes dos Grupos Nacionais da AP-CPLP",
               "tipo": "REN",
               "local": "Luanda",
@@ -509,14 +517,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -540,6 +540,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
