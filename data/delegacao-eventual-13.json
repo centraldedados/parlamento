@@ -9930,24 +9930,6 @@
         }
       },
       {
-        "id": "1936",
-        "nome": "Reuniões Temáticas sobre a Lusofonia",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-27",
-        "dataFim": "2019-02-28",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOÃO GONÇALVES PEREIRA",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "2867"
-          }
-        }
-      },
-      {
         "id": "1933",
         "nome": "Conferência do Institut du Monde Lusophone",
         "local": "Paris",
@@ -9966,6 +9948,24 @@
         }
       },
       {
+        "id": "1936",
+        "nome": "Reuniões Temáticas sobre a Lusofonia",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
+          }
+        }
+      },
+      {
         "id": "1934",
         "nome": "Reunião \"Independent Fiscal Institutions in the EU Fiscal Framework\"",
         "local": "Bruxelas",
@@ -9973,6 +9973,16 @@
         "sessao": "4",
         "dataInicio": "2019-02-28",
         "dataFim": "2019-02-28",
+        "participantes": null
+      },
+      {
+        "id": "1940",
+        "nome": "Representação Permanente da Assembleia da república junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-01",
+        "dataFim": "2019-03-31",
         "participantes": null
       },
       {

@@ -10141,6 +10141,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111633",
+              "numeroAudicao": "53-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Senhor Secretário de Estado da Energia, João Galamba.",
+              "entidades": "S.E. DA ENERGIA",
+              "data": "2019-03-13"
+            },
+            {
               "IDAudicao": "111562",
               "numeroAudicao": "52-CPIPREPE-XIII",
               "legislatura": "XIII",
@@ -13296,6 +13305,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111631",
+              "numeroAudicao": "151-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Entidade Fiscalizadora do Segredo de Estado (EFSE) sobre o Relatório Anual de Atividades relativo ao ano de 2018, em cumprimento do disposto na alínea h) do n.º 2 do artigo 4.º e na alínea d) do n.º 1 do artigo 6.º da Lei Orgânica n.º 3/2014, de 6 de agosto (alterada pela Lei Orgânica n.º 12/2015, de 28 de agosto",
+              "entidades": "Entidade Fiscalizadora do Segredo de Estado (EFSE)",
+              "data": "2019-03-06"
+            },
+            {
               "IDAudicao": "111557",
               "numeroAudicao": "150-CACDLG-XIII",
               "legislatura": "XIII",
@@ -15981,9 +15999,7 @@
               "numeroAudicao": "189-CS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Transplantes de órgãos, tecidos e células humanas",
-              "entidades": "Delegação da Assembleia da República de Moçambique",
-              "data": "2019-03-06"
+              "entidades": null
             },
             {
               "IDAudicao": "111594",
@@ -23550,6 +23566,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111632",
+              "numeroAudiencia": "68-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Proteção civil em Portugal",
+              "entidades": "Fénix - Associação Nacional de Bombeiros e Agentes de Proteção Civil",
+              "data": "2019-03-07",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111552",
               "numeroAudiencia": "67-CACDLG-XIII",
               "legislatura": "XIII",
@@ -25536,6 +25562,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "111626",
+              "numeroAudiencia": "82-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Transplantes de órgãos, tecidos e células humanas",
+              "entidades": "Delegação da Assembleia da República de Moçambique",
+              "data": "2019-03-06",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111469",
               "numeroAudiencia": "81-CS-XIII",
