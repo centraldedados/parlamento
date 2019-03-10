@@ -9808,6 +9808,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião Parlamentar e reuniões conexas por ocasião da 63ª sessão da Comissão da Condição das Mulheres",
+              "tipo": "REN",
+              "local": "Nova Iorque",
+              "dataInicio": "10-03-2019",
+              "dataFim": "14-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Audição Parlamentar da União Europeia na sede das Nações Unidas, Desafios emergentes do multilaterlismo: uma resposta parlamentar",
               "tipo": "REN",
               "local": "Nova Iorque",
@@ -9830,6 +9838,22 @@
               "dataInicio": "26-01-2019",
               "dataFim": "26-01-2019",
               "participantes": null
+            },
+            {
+              "nome": "WTO - Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio e \" COP 24\" Conference of the Parties to the United Nations Convention on Climate Change\"",
+              "tipo": "REN",
+              "local": "Genebra, Cracóvia e Katowice",
+              "dataInicio": "06-12-2018",
+              "dataFim": "14-12-2019",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "FERNANDO VIRGÍLIO MACEDO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4152"
+                }
+              }
             },
             {
               "nome": "WTO Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio",
@@ -9864,18 +9888,18 @@
               }
             },
             {
-              "nome": "WTO - Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio e \" COP 24\" Conference of the Parties to the United Nations Convention on Climate Change\"",
+              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
               "tipo": "REN",
-              "local": "Genebra, Cracóvia e Katowice",
-              "dataInicio": "06-12-2018",
-              "dataFim": "14-12-2019",
+              "local": "Kracovia e Katowice",
+              "dataInicio": "03-12-2018",
+              "dataFim": "14-12-2018",
               "participantes": {
                 "Participante": {
                   "tipo": "D",
-                  "nome": "FERNANDO VIRGÍLIO MACEDO",
-                  "gp": "PSD",
+                  "nome": "HORTENSE MARTINS",
+                  "gp": "PS",
                   "leg": "XIII",
-                  "id": "4152"
+                  "id": "2225"
                 }
               }
             },
@@ -9892,22 +9916,6 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "42"
-                }
-              }
-            },
-            {
-              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
-              "tipo": "REN",
-              "local": "Kracovia e Katowice",
-              "dataInicio": "03-12-2018",
-              "dataFim": "14-12-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "HORTENSE MARTINS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "2225"
                 }
               }
             },
@@ -10357,6 +10365,22 @@
               }
             },
             {
+              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "14-10-2017",
+              "dataFim": "18-10-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RICARDO BAPTISTA LEITE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4441"
+                }
+              }
+            },
+            {
               "nome": "137ª  Assembleia da União Interparlamentar, Grupo dos 12+  e reuniões conexas",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -10414,22 +10438,6 @@
                     "id": "1897"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "14-10-2017",
-              "dataFim": "18-10-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RICARDO BAPTISTA LEITE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4441"
-                }
               }
             },
             {
@@ -10626,14 +10634,6 @@
               }
             },
             {
-              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
-              "tipo": "REN",
-              "local": "Genebra",
-              "dataInicio": "23-10-2016",
-              "dataFim": "27-10-2016",
-              "participantes": null
-            },
-            {
               "nome": "Reunião dos Doze Mais, do GRULAC + 3 e Reunião das delegações da CPLP presentes na UIP",
               "tipo": "REN",
               "local": "Genebra",
@@ -10648,6 +10648,14 @@
                   "id": "42"
                 }
               }
+            },
+            {
+              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "23-10-2016",
+              "dataFim": "27-10-2016",
+              "participantes": null
             },
             {
               "nome": "135ª Assembleia da União Interparlamentar",

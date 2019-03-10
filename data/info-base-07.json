@@ -2696,36 +2696,6 @@
           "depNomeCompleto": "CARLOS ALBERTO CARDOSO RODRIGUES BEJA"
         },
         {
-          "depId": "1078",
-          "depCadId": "1235",
-          "depNomeParlamentar": "CARLOS BRITO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "195",
-              "gpSigla": "PSD",
-              "gpDtInicio": "1995-10-27"
-            }
-          },
-          "depCPId": "13",
-          "depCPDes": "PORTO",
-          "legDes": "VII",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
-              {
-                "sioDes": "Efetivo",
-                "sioDtInicio": "1997-04-01",
-                "sioDtFim": "1999-10-25"
-              },
-              {
-                "sioDes": "Suspenso(Eleito)",
-                "sioDtInicio": "1995-10-27",
-                "sioDtFim": "1997-04-01"
-              }
-            ]
-          },
-          "depNomeCompleto": "CARLOS EUGÉNIO PEREIRA DE BRITO"
-        },
-        {
           "depId": "1033",
           "depCadId": "236",
           "depNomeParlamentar": "CARLOS CARVALHAS",
@@ -2805,6 +2775,36 @@
             }
           },
           "depNomeCompleto": "CARLOS JUSTINO LUIS CORDEIRO"
+        },
+        {
+          "depId": "1078",
+          "depCadId": "1235",
+          "depNomeParlamentar": "CARLOS DE BRITO",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "195",
+              "gpSigla": "PSD",
+              "gpDtInicio": "1995-10-27"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "VII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "1997-04-01",
+                "sioDtFim": "1999-10-25"
+              },
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "1995-10-27",
+                "sioDtFim": "1997-04-01"
+              }
+            ]
+          },
+          "depNomeCompleto": "CARLOS EUGÉNIO PEREIRA DE BRITO"
         },
         {
           "depId": "1086",

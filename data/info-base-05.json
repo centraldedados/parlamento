@@ -2765,29 +2765,6 @@
           "depNomeCompleto": "CARLA MARIA TATO DIOGO"
         },
         {
-          "depId": "9970",
-          "depCadId": "2948",
-          "depNomeParlamentar": "CARLOS ALFREDO BRITO",
-          "depGP": {
-            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "1003",
-              "gpSigla": "PCP",
-              "gpDtInicio": "1987-08-13"
-            }
-          },
-          "depCPId": "8",
-          "depCPDes": "FARO",
-          "legDes": "V",
-          "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "1987-08-13",
-              "sioDtFim": "1991-11-04"
-            }
-          },
-          "depNomeCompleto": "CARLOS ALFREDO DE BRITO"
-        },
-        {
           "depId": "9971",
           "depCadId": "2949",
           "depNomeParlamentar": "CARLOS BAPTISTA",
@@ -2839,6 +2816,29 @@
             }
           },
           "depNomeCompleto": "CARLOS VICTOR BAPTISTA COSTA"
+        },
+        {
+          "depId": "9970",
+          "depCadId": "2948",
+          "depNomeParlamentar": "CARLOS BRITO",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "1003",
+              "gpSigla": "PCP",
+              "gpDtInicio": "1987-08-13"
+            }
+          },
+          "depCPId": "8",
+          "depCPDes": "FARO",
+          "legDes": "V",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
+              "sioDes": "Efetivo",
+              "sioDtInicio": "1987-08-13",
+              "sioDtFim": "1991-11-04"
+            }
+          },
+          "depNomeCompleto": "CARLOS ALFREDO DE BRITO"
         },
         {
           "depId": "4130",
