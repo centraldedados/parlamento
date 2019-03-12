@@ -188,12 +188,44 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da 2ª Comissão da AP-CPLP",
+              "tipo": "REN",
+              "local": "São Tomé",
+              "dataInicio": "18-03-2019",
+              "dataFim": "19-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação Eleitoral por ocasião das Eleições Legislativas da Guiné-Bissau",
               "tipo": "REN",
               "local": "Bissau",
               "dataInicio": "07-03-2019",
               "dataFim": "12-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ÂNGELA GUERRA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4031"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS MOREIRA TESTA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4126"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PORFÍRIO SILVA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "469"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião dos Presidentes dos Grupos Nacionais da AP-CPLP",
@@ -459,6 +491,14 @@
               }
             },
             {
+              "nome": "Reunião da 3a Comissão da AP-CPLP",
+              "tipo": "REN",
+              "local": "São Tomé, São Tomé e Príncipe",
+              "dataInicio": "19-03-2018",
+              "dataFim": "20-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão 3 - Língua, Educação, Cultura  da AP-CPLP",
               "tipo": "REN",
               "local": "São Tomé",
@@ -482,14 +522,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Reunião da 3a Comissão da AP-CPLP",
-              "tipo": "REN",
-              "local": "São Tomé, São Tomé e Príncipe",
-              "dataInicio": "19-03-2018",
-              "dataFim": "20-03-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião da 3a Comissão da AP-CPLP",
@@ -517,6 +549,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -542,14 +582,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
               "tipo": "RNI",
               "local": null,
@@ -564,6 +596,14 @@
                   "id": "646"
                 }
               }
+            },
+            {
+              "nome": "VII AP-CPLP",
+              "tipo": "REN",
+              "local": "Lisboa",
+              "dataInicio": "04-12-2017",
+              "dataFim": "05-12-2017",
+              "participantes": null
             },
             {
               "nome": "VII Assembleia Parlamentar da CPLP",
@@ -638,14 +678,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "VII AP-CPLP",
-              "tipo": "REN",
-              "local": "Lisboa",
-              "dataInicio": "04-12-2017",
-              "dataFim": "05-12-2017",
-              "participantes": null
             },
             {
               "nome": "Missão de Observação Eleitoral - Angola, 23 de agosto",
@@ -1178,12 +1210,28 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da ESCTD, ESCTER e PNCNP",
+              "tipo": "REN",
+              "local": "Skopje, Berlim Walldorf e Estugasrda",
+              "dataInicio": "13-03-2019",
+              "dataFim": "21-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Visita Conjunta da CDSDG, PCTR e Offcers do GSM",
               "tipo": "REN",
               "local": "Atenas",
               "dataInicio": "03-03-2019",
               "dataFim": "06-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
             },
             {
               "nome": "\"Reuniões de Fevereiro\"",
