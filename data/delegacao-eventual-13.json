@@ -6310,17 +6310,17 @@
             },
             {
               "tipo": "D",
-              "nome": "PEDRO SOARES",
-              "gp": "BE",
-              "leg": "XIII",
-              "id": "839"
-            },
-            {
-              "tipo": "D",
               "nome": "ISABEL PIRES",
               "gp": "BE",
               "leg": "XIII",
               "id": "5854"
+            },
+            {
+              "tipo": "D",
+              "nome": "PEDRO MOTA SOARES",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1102"
             },
             {
               "tipo": "D",
@@ -10034,33 +10034,6 @@
         }
       },
       {
-        "id": "1938",
-        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-06",
-        "dataFim": "2019-03-07",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARIA GERMANA ROCHA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "5984"
-            },
-            {
-              "tipo": "D",
-              "nome": "CARLA TAVARES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "5501"
-            }
-          ]
-        }
-      },
-      {
         "id": "1937",
         "nome": "Participação na Conferência interparlamentar sobre Política Externa de Segurança Comum/Política Comum de Segurança de Defesa (PESC/PCSD).",
         "local": "Bucareste",
@@ -10114,6 +10087,53 @@
             }
           ]
         }
+      },
+      {
+        "id": "1938",
+        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-06",
+        "dataFim": "2019-03-07",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARIA GERMANA ROCHA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5984"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA TAVARES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5501"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1941",
+        "nome": "Participação na Reunião \"Network of Public Finance Economists\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-14",
+        "dataFim": "2019-03-14",
+        "participantes": null
+      },
+      {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
       }
     ]
   }

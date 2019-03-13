@@ -1210,6 +1210,22 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da Comissão de Defesa e Segurança (DSC)",
+              "tipo": "REN",
+              "local": "Havai-Honolulu",
+              "dataInicio": "19-03-2019",
+              "dataFim": "21-03-2019",
+              "participantes": null
+            },
+            {
+              "nome": "Visita da ESCTER e PCNP",
+              "tipo": "REN",
+              "local": "Berlim, Walldorf e Estugarda",
+              "dataInicio": "18-03-2019",
+              "dataFim": "21-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Visita da ESCTD, ESCTER e PNCNP",
               "tipo": "REN",
               "local": "Skopje, Berlim Walldorf e Estugasrda",
@@ -1280,19 +1296,19 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "13-02-2019",
-              "dataFim": "15-02-2019",
-              "participantes": null
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
               "tipo": "REN",
               "local": "Paris e Bruxelas",
               "dataInicio": "13-02-2019",
               "dataFim": "20-02-2019",
+              "participantes": null
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "13-02-2019",
+              "dataFim": "15-02-2019",
               "participantes": null
             },
             {
@@ -1545,22 +1561,6 @@
               }
             },
             {
-              "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "10-07-2018",
-              "dataFim": "12-07-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Pré-Cimeira da NATO",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1573,6 +1573,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "3963"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-07-2018",
+              "dataFim": "12-07-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
                 }
               }
             },
@@ -2113,6 +2129,14 @@
               }
             },
             {
+              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
+              "tipo": "REN",
+              "local": "Berlim e Bremen",
+              "dataInicio": "13-11-2017",
+              "dataFim": "17-11-2017",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Comissão para a Dimensão Civil da Segurança da APNATO",
               "tipo": "REN",
               "local": "Kwait",
@@ -2136,14 +2160,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
-              "tipo": "REN",
-              "local": "Berlim e Bremen",
-              "dataInicio": "13-11-2017",
-              "dataFim": "17-11-2017",
-              "participantes": null
             },
             {
               "nome": "96º Seminário Rose-Roth",
@@ -2750,22 +2766,6 @@
               }
             },
             {
-              "nome": "93º Seminário Rose- Roth e Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente",
-              "tipo": "REN",
-              "local": "Pristina e Roma",
-              "dataInicio": "22-10-2016",
-              "dataFim": "29-10-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "MIRANDA CALHA",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "193"
-                }
-              }
-            },
-            {
               "nome": "93º Seminário Rose-Roth",
               "tipo": "REN",
               "local": "Pristina",
@@ -2778,6 +2778,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1713"
+                }
+              }
+            },
+            {
+              "nome": "93º Seminário Rose- Roth e Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente",
+              "tipo": "REN",
+              "local": "Pristina e Roma",
+              "dataInicio": "22-10-2016",
+              "dataFim": "29-10-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIRANDA CALHA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "193"
                 }
               }
             },
@@ -3332,7 +3348,15 @@
               "local": "Viena",
               "dataInicio": "28-01-2019",
               "dataFim": "29-01-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "NILZA DE SENA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4326"
+                }
+              }
             },
             {
               "nome": "Reunião do Bureau",
@@ -5607,12 +5631,28 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento e Missão de Estudo, no âmbito de relatório que está a elaborar sobre \"A Economia das Plataformas\".",
+              "tipo": "REN",
+              "local": "Paris e Bruxelas",
+              "dataInicio": "19-03-2019",
+              "dataFim": "21-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
               "tipo": "REN",
               "local": "Paris",
               "dataInicio": "07-03-2019",
               "dataFim": "07-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "EDITE ESTRELA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "162"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão de Assuntos Políticos e Democracia",
@@ -5620,7 +5660,15 @@
               "local": "Paris",
               "dataInicio": "05-03-2019",
               "dataFim": "05-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão de cultura, Ciência, Educação e Media",
@@ -5628,7 +5676,15 @@
               "local": "Granada",
               "dataInicio": "04-03-2019",
               "dataFim": "04-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
+                }
+              }
             },
             {
               "nome": "1ª. Parte da Sessão de 2019",
@@ -6453,22 +6509,6 @@
               }
             },
             {
-              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
-              "tipo": "REN",
-              "local": "Estrasburgo",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
               "tipo": "REN",
               "local": "Rabat",
@@ -6481,6 +6521,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1741"
+                }
+              }
+            },
+            {
+              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -6859,14 +6915,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
-            },
-            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -6881,6 +6929,14 @@
                   "id": "3"
                 }
               }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -8291,22 +8347,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "14-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -8319,6 +8359,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "14-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
