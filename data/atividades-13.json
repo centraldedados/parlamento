@@ -1608,6 +1608,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111685",
+              "numeroAudicao": "105-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição conjunta com diversas entidades sobre o \"Roteiro para a Neutralidade Carbónica 2050\", a Requerimento do PCP",
+              "entidades": "CONFAGRI - Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal, CCRL;CNA - Confederação Nacional da Agricultura;CAP - Confederação dos Agricultores de Portugal;FERA - Federação Nacional das Associações de Raças Autóctones;FEPABO - Federação Nacional das Associações de Bovinos",
+              "data": "2019-03-12"
+            },
+            {
               "IDAudicao": "111673",
               "numeroAudicao": "104-CAM-XIII",
               "legislatura": "XIII",
@@ -2547,6 +2556,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111693",
+              "numeroAudicao": "295-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente da Comissão de Acompanhamento designada no contrato de venda à Lone Star, no âmbito do requerimento apresentado pelo Grupo Parlamentar do PSD",
+              "entidades": "Comissão de Acompanhamento designada no contrato de venda à Lone Star",
+              "data": "2019-03-13"
+            },
             {
               "IDAudicao": "111680",
               "numeroAudicao": "294-COFMA-XIII",
@@ -7343,6 +7361,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111723",
+              "numeroAudicao": "250-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apresentação do plano de atividades para 2019, nos termos do n.º 1 do artigo 49.º da Lei-Quadro das Entidades Reguladoras",
+              "entidades": "ERSE - Entidade Reguladora dos Serviços Energéticos",
+              "data": "2019-03-13"
+            },
+            {
               "IDAudicao": "111614",
               "numeroAudicao": "249-CEIOP-XIII",
               "legislatura": "XIII",
@@ -11827,6 +11854,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111682",
+              "numeroAudicao": "23-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Juiz-Conselheiro, Júlio Pereira",
+              "entidades": null,
+              "data": "2019-03-12"
+            },
+            {
               "IDAudicao": "111672",
               "numeroAudicao": "22-CPITANCOS-XIII",
               "legislatura": "XIII",
@@ -13723,11 +13759,31 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111698",
+              "numeroAudicao": "191-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "A Propósito da situação no Hospital de Leiria",
+              "entidades": "Sindicato Independente dos Médicos - SIM",
+              "data": "2019-03-13"
+            },
+            {
+              "IDAudicao": "111697",
+              "numeroAudicao": "190-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "A Propósito da situação no Hospital de Leiria",
+              "entidades": "Ordem dos Médicos",
+              "data": "2019-03-13"
+            },
+            {
               "IDAudicao": "111595",
               "numeroAudicao": "189-CS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "entidades": null
+              "assunto": "Para «explicar detalhadamente o Projeto que a Comissão a que presidiu preparou e apresentou ao Governo",
+              "entidades": "Presidente da Comissão de Revisão da Lei de Bases da Saúde",
+              "data": "2019-03-13"
             },
             {
               "IDAudicao": "111594",
@@ -16761,6 +16817,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111701",
+              "numeroAudicao": "152-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro da Administração Interna ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República",
+              "entidades": "MIN.  DA   ADMINISTRAÇÃO  INTERNA;S.E. ADJUNTA E DA ADMINISTRAÇÃO INTERNA;S.E. DA  PROTECÇÃO CIVIL",
+              "data": "2019-03-12"
+            },
             {
               "IDAudicao": "111631",
               "numeroAudicao": "151-CACDLG-XIII",
@@ -30078,6 +30143,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111717",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-13",
+              "dataFim": "2019-02-13",
+              "designacao": "Embaixador do Estado da Palestina",
+              "localEvento": "Embaixada, Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111675",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -35667,7 +35742,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "data": "2019-04-03",
-              "designacao": "A água: desafios atuais e futuros.",
+              "designacao": "Acesso à água: Gerir a mudança.",
               "localEvento": "Salão Nobre",
               "tipoEvento": "Debate"
             },
