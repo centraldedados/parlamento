@@ -9912,12 +9912,37 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reuniões na sede da UIP na qualidade de Auditor",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "18-03-2019",
+              "dataFim": "19-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião Parlamentar e reuniões conexas por ocasião da 63ª sessão da Comissão da Condição das Mulheres",
               "tipo": "REN",
               "local": "Nova Iorque",
               "dataInicio": "10-03-2019",
               "dataFim": "14-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "CARLOS PEREIRA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6187"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "HORTENSE MARTINS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2225"
+                  }
+                ]
+              }
             },
             {
               "nome": "Audição Parlamentar da União Europeia na sede das Nações Unidas, Desafios emergentes do multilaterlismo: uma resposta parlamentar",
@@ -9942,22 +9967,6 @@
               "dataInicio": "26-01-2019",
               "dataFim": "26-01-2019",
               "participantes": null
-            },
-            {
-              "nome": "WTO - Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio e \" COP 24\" Conference of the Parties to the United Nations Convention on Climate Change\"",
-              "tipo": "REN",
-              "local": "Genebra, Cracóvia e Katowice",
-              "dataInicio": "06-12-2018",
-              "dataFim": "14-12-2019",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "FERNANDO VIRGÍLIO MACEDO",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4152"
-                }
-              }
             },
             {
               "nome": "WTO Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio",
@@ -9992,18 +10001,18 @@
               }
             },
             {
-              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
+              "nome": "WTO - Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio e \" COP 24\" Conference of the Parties to the United Nations Convention on Climate Change\"",
               "tipo": "REN",
-              "local": "Kracovia e Katowice",
-              "dataInicio": "03-12-2018",
-              "dataFim": "14-12-2018",
+              "local": "Genebra, Cracóvia e Katowice",
+              "dataInicio": "06-12-2018",
+              "dataFim": "14-12-2019",
               "participantes": {
                 "Participante": {
                   "tipo": "D",
-                  "nome": "HORTENSE MARTINS",
-                  "gp": "PS",
+                  "nome": "FERNANDO VIRGÍLIO MACEDO",
+                  "gp": "PSD",
                   "leg": "XIII",
-                  "id": "2225"
+                  "id": "4152"
                 }
               }
             },
@@ -10020,6 +10029,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "42"
+                }
+              }
+            },
+            {
+              "nome": "\"COP 24\" Conference of the Parties to the United Nations Convention on Climate Change",
+              "tipo": "REN",
+              "local": "Kracovia e Katowice",
+              "dataInicio": "03-12-2018",
+              "dataFim": "14-12-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "HORTENSE MARTINS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2225"
                 }
               }
             },

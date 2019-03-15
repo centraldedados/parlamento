@@ -6174,7 +6174,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição do Senhor Ministro do Trabalho, Solidariedade e Segurança Social, na sequência de requerimentos apresentados pelo GP do PCP sobre trabalhadora corticeira e Ryanair.",
-              "entidades": "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+              "entidades": "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL;S.E. DO EMPREGO",
               "data": "2019-03-13"
             },
             {
@@ -9615,6 +9615,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111767",
+              "numeroAudicao": "54-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Senhor Ministro do Ambiente e da Transição Energética, João Pedro Matos Fernandes",
+              "entidades": "MIN. DO AMBIENTE E DA TRANSIÇÃO ENERGÉTICA",
+              "data": "2019-03-19"
+            },
+            {
               "IDAudicao": "111633",
               "numeroAudicao": "53-CPIPREPE-XIII",
               "legislatura": "XIII",
@@ -11853,6 +11862,24 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111768",
+              "numeroAudicao": "25-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Secretária-Geral do Sistema de Segurança Interna, Dra. Helena Fazenda",
+              "entidades": null,
+              "data": "2019-03-14"
+            },
+            {
+              "IDAudicao": "111743",
+              "numeroAudicao": "24-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Secretária-geral do Sistema de Informações da República Portuguesa, Embaixadora, Maria da Graça Mira Gomes",
+              "entidades": null,
+              "data": "2019-03-13"
+            },
             {
               "IDAudicao": "111682",
               "numeroAudicao": "23-CPITANCOS-XIII",
@@ -19816,6 +19843,26 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "111737",
+              "numeroAudiencia": "51-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência da Associação Sócio-Profissional da Policia Marítima, no âmbito da discussão do Projeto de Lei n.º 1009/XIII/4.ª (BE) – Regula o direito de Associação do Pessoal da Polícia Marítima (1.ª alteração à Lei n.º 9/2008, de 19 de fevereiro)",
+              "entidades": "Valdemar Pedrosa - Membro da Comissão Administrativa Plena;Joaquim Cunha - Membro da Comissão Administrativa Plena",
+              "data": "2019-03-13",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "111736",
+              "numeroAudiencia": "50-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Encontro com o Curso de Defesa Nacional do Instituto de Defesa Nacional (IDN) - 2018/2019",
+              "entidades": "Curso de Defesa Nacional do Instituto de Defesa Nacional-2018/2019",
+              "data": "2019-03-12",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111590",
               "numeroAudiencia": "49-CDN-XIII",
@@ -28671,6 +28718,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111738",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-06",
+              "dataFim": "2019-03-09",
+              "designacao": "Conferência Interparlamentar sobre a Política Externa e de Segurança Comum e Política Comum de Segurança e Defesa (CiP PESC-PCSD)",
+              "localEvento": "Roménia Bucareste",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111465",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29331,16 +29388,6 @@
               "tipo": "Deslocação"
             },
             {
-              "IDDeslocacao": "105252",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-05-23",
-              "dataFim": "2017-05-23",
-              "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy”",
-              "localEvento": "Estrada da Medrosa, em Oeiras.",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "105287",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -29348,6 +29395,16 @@
               "dataFim": "2017-05-23",
               "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy” (NCI Academy)",
               "localEvento": "Reduto Gomes Freire, Estrada da Medrosa, em Oeiras",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "105252",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-05-23",
+              "dataFim": "2017-05-23",
+              "designacao": "Cerimónia de Lançamento da primeira pedra da “NATO Communication and Information Academy”",
+              "localEvento": "Estrada da Medrosa, em Oeiras.",
               "tipo": "Representação"
             },
             {
@@ -29928,6 +29985,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "111742",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-10",
+              "dataFim": "2019-03-12",
+              "designacao": "Pedras Salgadas, exploração de lítio no Barroso e sector têxtil",
+              "localEvento": "Região Norte",
+              "tipo": "Deslocação"
+            },
             {
               "IDDeslocacao": "111349",
               "legislatura": "XIII",
@@ -33395,6 +33462,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111740",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-14",
+              "dataFim": "2019-03-14",
+              "designacao": "Apresentação do Programa de Formação e Desenvolvimento de Android.",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111276",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -33435,22 +33512,22 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110829",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-12-05",
-              "dataFim": "2018-12-05",
-              "designacao": "2º Fórum do Conselho Nacional de Saúde (CNS)",
-              "localEvento": "Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110830",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "dataIni": "2018-12-05",
               "dataFim": "2018-12-05",
               "designacao": "Convite para a moderação da “mesa redonda: risco e decisão”",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110829",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-05",
+              "dataFim": "2018-12-05",
+              "designacao": "2º Fórum do Conselho Nacional de Saúde (CNS)",
               "localEvento": "Lisboa",
               "tipo": "Representação"
             },

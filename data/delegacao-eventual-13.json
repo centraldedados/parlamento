@@ -10134,6 +10134,47 @@
         "dataInicio": "2019-03-19",
         "dataFim": "2019-03-20",
         "participantes": null
+      },
+      {
+        "id": "1943",
+        "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
+        "local": "Bucareste",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "JOAQUIM BARRETO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "419"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOEL SÁ",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "2117"
+            },
+            {
+              "tipo": "D",
+              "nome": "ANTÓNIO VENTURA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "6148"
+            },
+            {
+              "tipo": "D",
+              "nome": "PEDRO DO CARMO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "416"
+            }
+          ]
+        }
       }
     ]
   }
