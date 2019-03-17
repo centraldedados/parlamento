@@ -48537,12 +48537,346 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "31194",
+                  "iniNr": "230",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Decreto-Lei nº 475/82, de 17 de Dezembro, que determina que os subsídios de dedicação exclusiva das carreiras docente universitária, de investigação científica e docente politécnica sejam considerados para efeitos de subsídios de Natal e de férias."
+                },
+                {
+                  "iniId": "31178",
+                  "iniNr": "218",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Decreto-Lei nº 423/82, de 15 de Outubro, que cria na Polícia de Segurança Pública a Escola da Polícia (ESP)."
+                },
+                {
+                  "iniId": "30722",
+                  "iniNr": "388",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Criação do concelho de Vizela"
+                },
+                {
+                  "iniId": "30752",
+                  "iniNr": "375",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Promoção de oficiais das Forças Armadas ao posto imediatamente superior, por distinção, por serviços prestados à democracia e à Pátria"
+                },
+                {
+                  "iniId": "33135",
+                  "iniNr": "11",
+                  "iniTp": "R",
+                  "iniTpdesc": "Projeto de Resolução",
+                  "iniSelLg": "II",
+                  "iniSelNr": "3",
+                  "iniTi": "Requere ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
+                },
+                {
+                  "iniId": "31130",
+                  "iniNr": "173",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-Lei nº 255/82, de 29 de Junho, que estabelece os níveis minímos de aproveitamento de solos."
+                },
+                {
+                  "iniId": "31125",
+                  "iniNr": "168",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 237/82, de 19 de Junho de 1982, que determina que o disposto no Decreto-Lei nº 207/A/75, de 17 de Abril, não seja aplicável aos elementos das forças de segurança (uso de armas de fogo, mesmo fora das horas de serviço)."
+                },
+                {
+                  "iniId": "31051",
+                  "iniNr": "123",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 15-B/82, de 20 de Janeiro, que estabelece a tabela de vencimentos dos funcionários e agentes da administração central, regional e local para 1982."
+                },
+                {
+                  "iniId": "31049",
+                  "iniNr": "121",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Decreto-lei nº 30/82, de 1 de Fevereiro, que atribui habitação por conta do Estado ao Comandante-Geral, ao 2º Comandante-Geral, ao Chefe do Estado Maior e aos Comandantes distritais ou equiparados da Polícia de Segurança Pública."
+                },
+                {
+                  "iniId": "30730",
+                  "iniNr": "351",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Justificação das faltas dadas pelos trabalhadores incorporados em associações de bombeiros voluntários."
+                },
+                {
+                  "iniId": "30680",
+                  "iniNr": "343",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Determina que aguardem o julgamento em liberdade provisória os arguidos de certas classes de crimes em prisão preventiva excessiva."
+                },
+                {
+                  "iniId": "30679",
+                  "iniNr": "342",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Concede perdão genérico de penas por crimes de fim exclusiva ou predominantemente político."
+                },
+                {
+                  "iniId": "30642",
+                  "iniNr": "323",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Lei da caça."
+                },
+                {
+                  "iniId": "30674",
+                  "iniNr": "319",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Amnistia os crimes de fim exclusivamente ou predominantemente político cometidos entre 25 de Abril de 1974 e 30 de Novembro não abrangidos por anteriores amnistias independentemente da conjuntura em que tiverem ocorrido"
+                },
+                {
+                  "iniId": "30643",
+                  "iniNr": "306",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "2",
+                  "iniTi": "Proibição de taxas moderadoras na aquisição de medicamentos"
+                },
+                {
+                  "iniId": "36067",
+                  "iniNr": "4",
+                  "iniTp": "C",
+                  "iniTpdesc": "Projeto de Revisão Constitucional",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Projecto de Revisão Constitucional"
+                },
+                {
+                  "iniId": "31032",
+                  "iniNr": "91",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 171/81, de 24 de Junho, que estabelece normas sobre a prestação de serviços como conservador e notário nas Regiões Autónomas."
+                },
+                {
+                  "iniId": "31024",
+                  "iniNr": "83",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 110-A/81, de 14 de Maio, que altera a tabela de vencimentos, gratificações e pensões dos funcionários e agentes da Administração Pública, administração central e local e dos institutos públicos."
+                },
+                {
+                  "iniId": "30958",
+                  "iniNr": "45",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 99/80, de 5 de Maio, que cria a Comissão de Comercialização da Cortiça."
+                },
+                {
+                  "iniId": "30957",
+                  "iniNr": "44",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 98/80, de 5 de Maio, que estabelece normas relativas às explorações agrícolas com montados de sobro situados em prédios rústicos nacionalizados ou expropriados."
+                },
+                {
+                  "iniId": "30954",
+                  "iniNr": "43",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 508/80, de 21 de Outubro, que regulamenta o contrato de serviço doméstico."
+                },
+                {
+                  "iniId": "30953",
+                  "iniNr": "42",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 502/80, de 20 de Outubro, que cria a CAICA - Complexo Agro-Industrial do Cachão, SARL."
+                },
+                {
+                  "iniId": "30952",
+                  "iniNr": "41",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 499/80, de 20 de Outubro, sobre sociedades de desenvolvimento regional."
+                },
+                {
+                  "iniId": "30951",
+                  "iniNr": "40",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 456/80, de 9 de Outubro, que adopta medidas fiscais a aplicar às cooperativas."
+                },
+                {
+                  "iniId": "30937",
+                  "iniNr": "30",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 421/80, de 30 de Setembro, que estabelece normas relativas à actividade publicitária."
+                },
+                {
+                  "iniId": "30921",
+                  "iniNr": "21",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 481/80, de 16 de Outubro, que estabelece normas relativas ao regime de financiamento das exportações."
+                },
+                {
+                  "iniId": "30920",
+                  "iniNr": "20",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 445/80, de 4 de Outubro, que estabelece normas relativas à promoção do emprego."
+                },
+                {
+                  "iniId": "30919",
+                  "iniNr": "19",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 444/80, de 4 de Outubro, que estabelece os principais gerais do emprego e da formação profissional."
+                },
+                {
+                  "iniId": "30918",
+                  "iniNr": "18",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 416/80, de 27 de Setembro, que estabelece as acções de apoio destinadas a incentivar a criação de postos de trabalho directos e permanentes resultante de novos investimentos."
+                },
+                {
+                  "iniId": "30917",
+                  "iniNr": "17",
+                  "iniTp": "F",
+                  "iniTpdesc": "Ratificação",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Decreto-lei nº 408/80, de 26 de Setembro, que estabelece normas relativas ao regime de incentivos fiscais à exportação a conceder durante os anos de 1981 e1982 às empresas dos grupos A e B da Contribuição Industrial."
+                },
+                {
+                  "iniId": "30507",
+                  "iniNr": "206",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Estatuto do objector de consciencia perante o serviço militar"
+                },
+                {
+                  "iniId": "30447",
+                  "iniNr": "146",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Aplicação de diplomas ao pessoal das juntas de freguesia."
+                },
+                {
+                  "iniId": "30410",
+                  "iniNr": "119",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Regime dos contratados a prazo."
+                },
+                {
+                  "iniId": "30494",
+                  "iniNr": "93",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Instalação ou estacionamento de armas nucleares em território nacional"
+                }
+              ]
+            },
+            "actP": {
+              "pt_gov_ar_wsar_objectos_ActividadesParlamentaresOut": [
+                {
+                  "actId": "80349",
+                  "actNr": null,
+                  "actTp": "ITG",
+                  "actTpdesc": "Interpelação ao Governo",
+                  "actSelLg": "II",
+                  "actSelNr": "2",
+                  "actDtent": "07-10-1982",
+                  "actAs": "Com vista à abertura de um debate de política geral, centrado na política de informação e comunicação social e das medidas já anunciadas ou já tomadas em relação à ANOP, E.P."
+                },
+                {
+                  "actId": "80352",
+                  "actNr": null,
+                  "actTp": "ITG",
+                  "actTpdesc": "Interpelação ao Governo",
+                  "actSelLg": "II",
+                  "actSelNr": "2",
+                  "actDtent": "19-02-1982",
+                  "actAs": "Sobre a actuação do Ministério da Administração Interna, com particular incidência no que se refere à manutenção da ordem pública e segurança dos cidadãos"
+                }
+              ]
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
                 "nome": "LOPES CARDOSO",
                 "dpl_lg": "II",
-                "dpl_grpar": "MDP/CDE"
+                "dpl_grpar": "UEDS"
               }
             }
           }
@@ -48553,8 +48887,8 @@
           "depNomeParlamentar": "LOPES CARDOSO",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "986",
-              "gpSigla": "MDP/CDE",
+              "gpId": "985",
+              "gpSigla": "UEDS",
               "gpDtInicio": "1980-11-03"
             }
           },

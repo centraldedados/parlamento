@@ -1934,7 +1934,7 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -2681,7 +2681,7 @@
                 },
                 {
                   "orgId": "6864",
-                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições (PJL 997/XIII/4ª)",
                   "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -6018,7 +6018,7 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -6030,7 +6030,7 @@
                 },
                 {
                   "orgId": "6864",
-                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições (PJL 997/XIII/4ª)",
                   "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -7638,7 +7638,12 @@
                   "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
                   "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Suplente",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
                 }
               ]
             },
@@ -10402,7 +10407,7 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -15116,14 +15121,14 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
                   "orgId": "6864",
-                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições (PJL 997/XIII/4ª)",
                   "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -22694,14 +22699,14 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
                   "orgId": "6864",
-                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições",
+                  "orgDes": "Grupo de Trabalho - Autonomia das Instituições (PJL 997/XIII/4ª)",
                   "orgSigla": "GT-AI",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -23353,7 +23358,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26680",
+              "habId": "27700",
               "habDes": "DIREITO",
               "habTipoId": "13",
               "habEstado": "C"
@@ -23362,61 +23367,61 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30376",
+                "funId": "31436",
                 "funDes": "Deputado na XIII Legislatura;",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30377",
+                "funId": "31437",
                 "funDes": "Secretário Nacional do Partido Socialista; ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30378",
+                "funId": "31438",
                 "funDes": "Adjunto do Ministro dos Assuntos Parlamentares;",
                 "funOrdem": "3",
                 "funAntiga": "S"
               },
               {
-                "funId": "30379",
+                "funId": "31439",
                 "funDes": "Chefe de Gabinete do Secretário de Estado da Administração Interna;",
                 "funOrdem": "4",
                 "funAntiga": "S"
               },
               {
-                "funId": "30380",
+                "funId": "31440",
                 "funDes": "Deputado nas X e XII Legislaturas;",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "30381",
+                "funId": "31441",
                 "funDes": "Vice-Presidente da Câmara Municipal de Lisboa;",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "30382",
+                "funId": "31442",
                 "funDes": "Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, no XVIII Governo Constitucional;",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "30383",
+                "funId": "31443",
                 "funDes": "Administrador da Finertec - Serviços de Consultoria e Participações Financeiras, SA",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "30384",
+                "funId": "31444",
                 "funDes": "Advogado;",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "30385",
+                "funId": "31445",
                 "funDes": "Secretário de Estado da Defesa Nacional, no XXI Governo Constitucional",
                 "funOrdem": "10",
                 "funAntiga": "S"
@@ -23833,7 +23838,7 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -31995,13 +32000,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26302",
+                "habId": "27680",
                 "habDes": "Direito",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26303",
+                "habId": "27681",
                 "habDes": "Ciências Jurídico-Políticas",
                 "habTipoId": "15",
                 "habEstado": "F"
@@ -32011,123 +32016,129 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30004",
+                "funId": "31396",
                 "funDes": "Presidente da Junta de Freguesia do Lumiar (e membro por inerência da Assembleia Municipal de Lisboa)",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30005",
+                "funId": "31397",
                 "funDes": "Membro da Comissão de Acesso aos Documentos Administrativos ",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30006",
+                "funId": "31398",
                 "funDes": "Presidente da Mesa da Assembleia-Geral da Legística - Associação para a Qualidade da Legislação ",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30007",
+                "funId": "31399",
                 "funDes": "Membro da Direção da English Speaking Union - Portugal ",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "30008",
+                "funId": "31400",
                 "funDes": "Membro da Comissão Política Nacional do Partido Socialista",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "30009",
+                "funId": "31401",
                 "funDes": "Membro da Comissão Política da Federação da Área Urbana de Lisboa do PS",
                 "funOrdem": "6",
                 "funAntiga": "N"
               },
               {
-                "funId": "30010",
+                "funId": "31402",
                 "funDes": "Membro do Secretariado da Concelhia do PS de Lisboa ",
                 "funOrdem": "7",
                 "funAntiga": "N"
               },
               {
-                "funId": "30011",
+                "funId": "31403",
                 "funDes": "Membro do Conselho Geral do SPGL (Sindicato dos Professores da Grande Lisboa)",
                 "funOrdem": "8",
                 "funAntiga": "N"
               },
               {
-                "funId": "30012",
+                "funId": "31404",
                 "funDes": "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa)",
                 "funOrdem": "9",
                 "funAntiga": "N"
               },
               {
-                "funId": "30013",
-                "funDes": "Membro da Assembleia de Freguesia de Alvalade, Lisboa (2011-2013)",
+                "funId": "31405",
+                "funDes": "Membro da Secção de Arquivos do Conselho Nacional de Cultura, em representação da Comissão de Acesso aos Documentos Administrativos",
                 "funOrdem": "10",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "30014",
-                "funDes": "Secretário-Geral da Juventude Socialista (2010-2012)",
+                "funId": "31406",
+                "funDes": "Membro da Assembleia de Freguesia de Alvalade, Lisboa (2011-2013)",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "30015",
-                "funDes": "Director-Adjunto do Centro Jurídico da Presidência do Conselho de Ministros (2008-2009)",
+                "funId": "31407",
+                "funDes": "Secretário-Geral da Juventude Socialista (2010-2012)",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "30016",
-                "funDes": "Membro do grupo técnico-científico do Conselho Consultivo da Comissão para a Cidadania e Igualdade de Género (2008-2011)",
+                "funId": "31408",
+                "funDes": "Director-Adjunto do Centro Jurídico da Presidência do Conselho de Ministros (2008-2009)",
                 "funOrdem": "13",
                 "funAntiga": "S"
               },
               {
-                "funId": "30017",
-                "funDes": "Suplente do representante da República Portuguesa no Conselho de Administração do Instituto Europeu para a Igualdade de Género (2007-2011)",
+                "funId": "31409",
+                "funDes": "Membro do grupo técnico-científico do Conselho Consultivo da Comissão para a Cidadania e Igualdade de Género (2008-2011)",
                 "funOrdem": "14",
                 "funAntiga": "S"
               },
               {
-                "funId": "30018",
-                "funDes": "Membro do Fórum de Educação para a Cidadania (2006-2008)",
+                "funId": "31410",
+                "funDes": "Suplente do representante da República Portuguesa no Conselho de Administração do Instituto Europeu para a Igualdade de Género (2007-2011)",
                 "funOrdem": "15",
                 "funAntiga": "S"
               },
               {
-                "funId": "30019",
-                "funDes": "Membro do Bureau da ECOSY - Young European Socialists (2006-2009)  \nVice-Presidente da ECOSY - Young European Socialists (2009-2011)",
+                "funId": "31411",
+                "funDes": "Membro do Fórum de Educação para a Cidadania (2006-2008)",
                 "funOrdem": "16",
                 "funAntiga": "S"
               },
               {
-                "funId": "30020",
-                "funDes": "Membro do Secretariado Nacional da Juventude Socialista (2006-2010)",
+                "funId": "31412",
+                "funDes": "Membro do Bureau da ECOSY - Young European Socialists (2006-2009)  \nVice-Presidente da ECOSY - Young European Socialists (2009-2011)",
                 "funOrdem": "17",
                 "funAntiga": "S"
               },
               {
-                "funId": "30021",
-                "funDes": "Membro do Conselho Pedagógico, Conselho Directivo e Assembleia de Representantes da Faculdade de Direito da Universidade de Lisboa, entre 1999 e 2003 e membro da Assembleia da Universidade de Lisboa (1999-2001)",
+                "funId": "31413",
+                "funDes": "Membro do Secretariado Nacional da Juventude Socialista (2006-2010)",
                 "funOrdem": "18",
                 "funAntiga": "S"
               },
               {
-                "funId": "30022",
-                "funDes": "Membro do Conselho Geral e do Conselho Pedagógico do Centro de Estudos Judiciário (2012-2016)",
+                "funId": "31414",
+                "funDes": "Membro do Conselho Pedagógico, Conselho Directivo e Assembleia de Representantes da Faculdade de Direito da Universidade de Lisboa, entre 1999 e 2003 e membro da Assembleia da Universidade de Lisboa (1999-2001)",
                 "funOrdem": "19",
                 "funAntiga": "S"
               },
               {
-                "funId": "30023",
-                "funDes": "Diretor da revista \"Portugal Socialista\" ",
+                "funId": "31415",
+                "funDes": "Membro do Conselho Geral e do Conselho Pedagógico do Centro de Estudos Judiciário (2012-2016)",
                 "funOrdem": "20",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31416",
+                "funDes": "Diretor da revista \"Portugal Socialista\" ",
+                "funOrdem": "21",
                 "funAntiga": "S"
               }
             ]
@@ -32135,99 +32146,104 @@
           "cadObrasPublicadas": {
             "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
               {
-                "pubId": "7331",
+                "pubId": "7791",
                 "pubDes": "A 26ª Hora  - A inclusão da disciplina de Religião e Moral na Organização Curricular do Ensino Básico: breve comentário - Revista da Faculdade de Direito de Lisboa, vol. XLIII nº 2 (2002)",
                 "pubOrdem": "1"
               },
               {
-                "pubId": "7332",
+                "pubId": "7792",
                 "pubDes": "O meu deputado : personalização e proporcionalidade na eleição da Assembleia da República, in Revista da Faculdade de Direito de Lisboa. vol XLIV, n.º 1-2 (2003)\n",
                 "pubOrdem": "2"
               },
               {
-                "pubId": "7333",
+                "pubId": "7793",
                 "pubDes": "Debating Societies A globalização de um modelo anglo-saxónico - Revista Polifonia nº 7 (2004)",
                 "pubOrdem": "3"
               },
               {
-                "pubId": "7334",
+                "pubId": "7794",
                 "pubDes": "Um cavalo de Tróia no contencioso contratual: Suspensão do contrato em sede de medidas provisórias - Comentário ao Acórdão do STA de 11.12.2002 in Cadernos de Justiça Administrativa, n.º 49 (Janeiro/Fevereiro de 2005)",
                 "pubOrdem": "4"
               },
               {
-                "pubId": "7335",
+                "pubId": "7795",
                 "pubDes": "O novo regime de impugnação de normas in Velhas e Novas Andanças do Contencioso Administrativo - Estudos sobre a reforma do processo administrativo, Lisboa, 2005",
                 "pubOrdem": "5"
               },
               {
-                "pubId": "7336",
+                "pubId": "7796",
                 "pubDes": "Sinais de identificação e simbologia religiosa na escola pública  - Um olhar sobre a recente evolução jurisprudencial Europeia - Estudos em Memória do Prof. António Marques dos Santos, Coimbra, 2005",
                 "pubOrdem": "6"
               },
               {
-                "pubId": "7337",
+                "pubId": "7797",
                 "pubDes": "A cláusula aberta de direitos fundamentais e os limites materiais de revisão constitucional -  Estudos em Memória do Prof. Sousa Franco, Coimbra, 2006",
                 "pubOrdem": "7"
               },
               {
-                "pubId": "7338",
+                "pubId": "7798",
                 "pubDes": "União Europeia e Jurisprudência Constitucional dos Estados-Membros (co-autoria com Maria Luísa Duarte), Lisboa, 2006",
                 "pubOrdem": "8"
               },
               {
-                "pubId": "7339",
+                "pubId": "7799",
                 "pubDes": "Governos provisórios - Revista da Faculdade de Direito de Lisboa vol. XLVI nº 1 (2006)",
                 "pubOrdem": "9"
               },
               {
-                "pubId": "7340",
+                "pubId": "7800",
                 "pubDes": "O princípio republicano - Revista da Faculdade de Direito de Lisboa vol. XLVIII nº 1 e 2 (2007)",
                 "pubOrdem": "10"
               },
               {
-                "pubId": "7341",
+                "pubId": "7801",
                 "pubDes": "O novo regime jurídico do licenciamento ambiental, in O que há de novo no Direito do Ambiente?, Lisboa 2009",
                 "pubOrdem": "11"
               },
               {
-                "pubId": "7342",
+                "pubId": "7802",
                 "pubDes": "Procurando o limite das quatro linhas - Comentário ao Acórdão do STA de 10.09.2008 - Cadernos de Justiça Administrativa, n.º 83 (Setembro/Outubro de 2010)",
                 "pubOrdem": "12"
               },
               {
-                "pubId": "7343",
+                "pubId": "7803",
                 "pubDes": "O Regimento do Conselho de Ministros: Análise da sua evolução recente, in Estudos em Homenagem ao Professor Jorge Miranda, vol. III, Coimbra, 2012",
                 "pubOrdem": "13"
               },
               {
-                "pubId": "7344",
+                "pubId": "7804",
                 "pubDes": "A Troika e Portugal, dois anos depois in A Troika - Ano II: Uma avaliação de 66 cidadãos, Coimbra, 2013",
                 "pubOrdem": "14"
               },
               {
-                "pubId": "7345",
+                "pubId": "7805",
                 "pubDes": "A crise, a Troika e as alternativas urgentes (em co-autoria com Alexandre Abreu, Hugo Mendes, João Rodrigues, José Guilherme Gusmão, Nuno Serra, Nuno Teles e Ricardo Paes Mamede), Lisboa, 2013",
                 "pubOrdem": "15"
               },
               {
-                "pubId": "7346",
+                "pubId": "7806",
                 "pubDes": "Desenvolvimentos recentes da legislação sobre animais em Portugal: uma breve crónica legislativa, in Animais: Deveres e Direitos, Lisboa, 2015",
                 "pubOrdem": "16"
               },
               {
-                "pubId": "7347",
+                "pubId": "7807",
                 "pubDes": "O Lumiar na evolução administrativa da cidade de Lisboa in Atas das XII Jornadas Histórico-Culturais do Lumiar, Lisboa, 2015",
                 "pubOrdem": "17"
               },
               {
-                "pubId": "7348",
+                "pubId": "7808",
                 "pubDes": "A proteção jurídica aos seniores no Direito Português: da proteção constitucional às linhas mestras do sistema de proteção social, in Gestão de organizações e Empreendedorismo na Economia Social, Lisboa, 2017",
                 "pubOrdem": "18"
               },
               {
-                "pubId": "7349",
+                "pubId": "7809",
                 "pubDes": "Breve notas sobre a toponímia da Freguesia do Lumiar, in Atas das XIII Jornadas Histórico-Culturais do Lumiar, Lisboa, 2017",
                 "pubOrdem": "19"
+              },
+              {
+                "pubId": "7810",
+                "pubDes": "Apontamentos sobre heráldica em Lisboa: os brasões das Freguesias da capital,in Atas das XIV Jornadas Histórico-Culturais do Lumiar, Lisboa, 2019",
+                "pubOrdem": "20"
               }
             ]
           },
@@ -34760,7 +34776,7 @@
                 },
                 {
                   "orgId": "6844",
-                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde",
+                  "orgDes": "Grupo de Trabalho - Nova Lei de Bases de Saúde (PPL 171/XIII/4ª; PJL 914/XIII/4ª; PJL 1029/XIII/4ª; PJL 1065/XIII/4; PJL 1066/XIII/4ª)",
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
