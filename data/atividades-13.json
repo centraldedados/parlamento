@@ -7361,6 +7361,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111800",
+              "numeroAudicao": "251-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiçãodo Ministro dos Negócios Estrangeiros, ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República",
+              "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS;S.E. DA INTERNACIONALIZAÇÃO",
+              "data": "2019-03-14"
+            },
+            {
               "IDAudicao": "111723",
               "numeroAudicao": "250-CEIOP-XIII",
               "legislatura": "XIII",
@@ -10776,7 +10785,7 @@
               "sessaoLegislativa": "4",
               "assunto": "Processo de saída do Reino Unido da União Europeia- Brexit",
               "entidades": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical;Sindicato dos Funcionários do Serviço de Estarngeiros e Fronteiras - SCIFSEF;Conselho das Comunidades Portuguesas CCP;Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas STCDE;Ordem dos Advogados;AFIP - Associação FinTech e InsurTech em Portugal;AEM - Associação de Empresas Emitentes de Valores Cotados em Mercado;APFIPP - Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios;CTP - Confederação do Turismo Português;CONFAGRI - Confederação Nacional das Cooperativas Agrícolas de Portugal;CPPME - Confederação Portuguesa das Micro, Pequenas e Médias Empresas",
-              "data": "2019-02-27"
+              "data": "2019-02-26"
             },
             {
               "IDAudicao": "111437",
@@ -13818,7 +13827,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Sobre a situação atual do Hospital",
-              "entidades": null,
+              "entidades": "Conselho de Administração do Hospital de Leiria",
               "data": "2019-03-15"
             },
             {
@@ -21230,6 +21239,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111795",
+              "numeroAudiencia": "152-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apresentação de cumprimentos",
+              "entidades": "Embaixadora da Estónia, Ruth Lausma Luik",
+              "data": "2019-03-14",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111500",
               "numeroAudiencia": "151-CNECP-XIII",
               "legislatura": "XIII",
@@ -26954,6 +26973,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111792",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-09",
+              "dataFim": "2019-03-09",
+              "designacao": "Cerimónia Oficial de Abertura da Festa das Amendoeiras em Flor 2019",
+              "localEvento": "Figueira de Castelo Rodrigo",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111610",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -27054,16 +27083,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111404",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-02-01",
-              "dataFim": "2019-02-01",
-              "designacao": "Encontro Nacional de Técnicos",
-              "localEvento": "Centro Cultural e de Congressos de Aveiro",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111403",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -27071,6 +27090,16 @@
               "dataFim": "2019-02-01",
               "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
               "localEvento": "Feira Internacional de Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111404",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-01",
+              "dataFim": "2019-02-01",
+              "designacao": "Encontro Nacional de Técnicos",
+              "localEvento": "Centro Cultural e de Congressos de Aveiro",
               "tipo": "Representação"
             },
             {
@@ -27404,16 +27433,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109151",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-18",
-              "dataFim": "2018-05-18",
-              "designacao": "Dia do Agricultor 2018",
-              "localEvento": "Elvas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109154",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -27421,6 +27440,16 @@
               "dataFim": "2018-05-18",
               "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
               "localEvento": "Universidade de Aveiro",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109151",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-18",
+              "dataFim": "2018-05-18",
+              "designacao": "Dia do Agricultor 2018",
+              "localEvento": "Elvas",
               "tipo": "Representação"
             },
             {
@@ -27454,26 +27483,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
-              "tipo": "Representação"
-            },
-            {
-              "IDDeslocacao": "109146",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "Cerimónia Comemorativa do 30º Aniversário da Mútua de Basto/Norte",
-              "localEvento": "Cabeceiras de Basto",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109148",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -27491,6 +27500,26 @@
               "dataFim": "2018-05-10",
               "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
               "localEvento": "Fórum Braga (Braga)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109146",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "Cerimónia Comemorativa do 30º Aniversário da Mútua de Basto/Norte",
+              "localEvento": "Cabeceiras de Basto",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109144",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
               "tipo": "Representação"
             },
             {

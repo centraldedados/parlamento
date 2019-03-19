@@ -8618,6 +8618,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Conferência contra o Terrorrismo - Presidência da OSCE 2019",
+              "tipo": "REN",
+              "local": "Bratislava",
+              "dataInicio": "25-03-2019",
+              "dataFim": "26-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Conferência Regional para o Norte de África e Médio Oriente",
               "tipo": "REN",
               "local": "Luxor",
@@ -9051,22 +9059,6 @@
               }
             },
             {
-              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
-              "tipo": "REN",
-              "local": "Argel",
-              "dataInicio": "20-01-2018",
-              "dataFim": "21-01-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "GABRIELA CANAVILHAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1851"
-                }
-              }
-            },
-            {
               "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental -Diálogo 5 + 5 e Primeira Parte da Sessão Ordinária da Assembleia Parlamentar do Conselho da Europa",
               "tipo": "REN",
               "local": "Argel e Estrasburgo",
@@ -9079,6 +9071,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "Reunião das Delegações da APM do Grupo do Mediterrâneo Ocidental - Diálogo 5 + 5",
+              "tipo": "REN",
+              "local": "Argel",
+              "dataInicio": "20-01-2018",
+              "dataFim": "21-01-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "GABRIELA CANAVILHAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1851"
                 }
               }
             },
@@ -9347,22 +9355,6 @@
               }
             },
             {
-              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "27-03-2017",
-              "dataFim": "28-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RENATO SAMPAIO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1679"
-                }
-              }
-            },
-            {
               "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
               "tipo": "REN",
               "local": "São Petersburgo e Roma",
@@ -9375,6 +9367,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1992"
+                }
+              }
+            },
+            {
+              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "27-03-2017",
+              "dataFim": "28-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RENATO SAMPAIO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1679"
                 }
               }
             },
