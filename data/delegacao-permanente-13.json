@@ -5631,12 +5631,28 @@
               }
             },
             {
+              "nome": "Reunião da Subcomissão sobre as Diásporas e Conferência da rede Parlamentar das Políticas das Diásporas",
+              "tipo": "REN",
+              "local": "Varsóvia",
+              "dataInicio": "22-03-2019",
+              "dataFim": "22-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento e Missão de Estudo, no âmbito de relatório que está a elaborar sobre \"A Economia das Plataformas\".",
               "tipo": "REN",
               "local": "Paris e Bruxelas",
               "dataInicio": "19-03-2019",
               "dataFim": "21-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -6509,22 +6525,6 @@
               }
             },
             {
-              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
-              "tipo": "REN",
-              "local": "Rabat",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PAULO PISCO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1741"
-                }
-              }
-            },
-            {
               "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -6537,6 +6537,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Rabat",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
                 }
               }
             },

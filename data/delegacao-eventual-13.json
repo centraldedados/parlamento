@@ -10116,6 +10116,24 @@
         }
       },
       {
+        "id": "1944",
+        "nome": "\"Human Rights in South Asia\"",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-13",
+        "dataFim": "2019-03-13",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
+          }
+        }
+      },
+      {
         "id": "1941",
         "nome": "Participação na Reunião \"Network of Public Finance Economists\"",
         "local": "Bruxelas",
@@ -10123,16 +10141,6 @@
         "sessao": "4",
         "dataInicio": "2019-03-14",
         "dataFim": "2019-03-14",
-        "participantes": null
-      },
-      {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
         "participantes": null
       },
       {
@@ -10175,6 +10183,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
       }
     ]
   }
