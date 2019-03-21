@@ -1316,22 +1316,13 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4527",
+                "orgDes": "Comissão de Assuntos Europeus",
+                "orgSigla": "CAE",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
             }
           }
         },
@@ -7739,7 +7730,7 @@
                   "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4532",
@@ -14469,7 +14460,7 @@
                   "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 },
                 {
                   "orgId": "4535",
@@ -28160,22 +28151,13 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4530",
-                  "orgDes": "Comissão de Agricultura e Mar",
-                  "orgSigla": "CAM",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4531",
+                "orgDes": "Comissão de Educação e Ciência",
+                "orgSigla": "CEC",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -31222,6 +31204,13 @@
                   "orgId": "4525",
                   "orgDes": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
                   "orgSigla": "CNECP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4530",
+                  "orgDes": "Comissão de Agricultura e Mar",
+                  "orgSigla": "CAM",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -40775,9 +40764,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "5728",
+              "rgiId": "9253",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-04-28",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputada à Assembleia da República",
@@ -40788,29 +40777,33 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "5693",
+                    "rgaId": "9165",
                     "rgaActividade": "Consultora na Sociedade Caiado Guerreiro & Associados, RL",
                     "rgaDataInicio": "2013-04-01",
                     "rgaDataFim": "2015-01-04",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "5694",
+                    "rgaId": "9166",
                     "rgaActividade": "Deputada à Assembleia da República na XII Legislatura",
                     "rgaDataInicio": "2011",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9167",
+                    "rgaActividade": "Comentário político no Programa Xeque Mate, TVI",
+                    "rgaDataInicio": "2018-02-07",
+                    "rgaDataFim": "2018-07-18",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9168",
+                    "rgaActividade": "Comentário político no Programa Esquerda Direita, SIC",
+                    "rgaDataInicio": "2018-10-18",
+                    "rgaRemunerada": "S"
                   }
                 ]
-              },
-              "rgiSociedades": {
-                "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "2895",
-                  "rgsEntidade": "PPLL, Consult; Lda, que corresponde a participação titulada pelo cônjuge",
-                  "rgsAreaActividade": "Consultoria",
-                  "rgsLocalSede": "Rua Jorge de Sena, Edf SPOC; Lisboa",
-                  "rgsPartiSocial": "9,5%"
-                }
               },
               "rgiCadId": "1212"
             }
@@ -45688,26 +45681,26 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7248",
+              "rgiId": "9252",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-09-20",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República",
               "rgiCargoData": "2017",
               "rgiApoiosBeneficios": "Nada a declarar.",
               "rgiServicosPrestados": "Nada a declarar.",
-              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Membro do Conselho Consultivo da Unicâmbio, S.A. desde 27.02.2018",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7133",
+                    "rgaId": "9163",
                     "rgaActividade": "Secretário de Estado dos Assuntos Fiscais",
                     "rgaDataInicio": "2015-11-26",
                     "rgaDataFim": "2017-07-14",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7134",
+                    "rgaId": "9164",
                     "rgaActividade": "Docente da Faculdade de Direito da Universidade de Coimbra",
                     "rgaDataInicio": "1995-09-01",
                     "rgaDataFim": "2015-10-23",
@@ -45715,17 +45708,27 @@
                   }
                 ]
               },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
+                  "rgcId": "7442",
+                  "rgcCargo": "Membro do Conselho de Administração",
+                  "rgcEntidade": "Fundação Res Publica ",
+                  "rgcAreaActividade": "A Fundação Res Publica é uma instituição dedicada ao pensamento político e às políticas públicas",
+                  "rgcLocalSede": "Av. da República, n.º34 – 8º andar\n1050-193 Lisboa",
+                  "rgcDataInicio": "2018-11-08"
+                }
+              },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": [
                   {
-                    "rgsId": "3715",
+                    "rgsId": "4678",
                     "rgsEntidade": "BANCO COMERCIAL PORTUGUÊS, S.A.",
                     "rgsAreaActividade": "Bancária",
                     "rgsLocalSede": "Praça D. João I, 28 - Porto",
                     "rgsPartiSocial": "664 ações"
                   },
                   {
-                    "rgsId": "3716",
+                    "rgsId": "4679",
                     "rgsEntidade": "EDP",
                     "rgsAreaActividade": "Energia",
                     "rgsLocalSede": "Avenida 24 de julho, 12, Lisboa",
@@ -46196,9 +46199,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8229",
+              "rgiId": "9269",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-02",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República - XIII Legislatura.",
               "rgiCargoData": "2015",
@@ -46208,83 +46211,90 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8082",
+                    "rgaId": "9177",
                     "rgaActividade": "Diretor Adjunto de Segurança Social",
                     "rgaDataInicio": "2005-09-12",
                     "rgaDataFim": "2010-09-21",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8083",
+                    "rgaId": "9178",
                     "rgaActividade": "Diretor de Segurança Social",
                     "rgaDataInicio": "2010-09-22",
                     "rgaDataFim": "2011-11-02",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8084",
+                    "rgaId": "9179",
                     "rgaActividade": "Técnico Superior no Instituto de Segurança Social, I.P.",
                     "rgaDataInicio": "2011-11-03",
                     "rgaDataFim": "2013-10-31",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8085",
+                    "rgaId": "9180",
                     "rgaActividade": "Presidente da Junta de Freguesia de Vila Real",
                     "rgaDataInicio": "2013-10-23",
                     "rgaDataFim": "2013-10-31",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8086",
+                    "rgaId": "9181",
                     "rgaActividade": "Presidente da Junta de Freguesia de Vila Real",
                     "rgaDataInicio": "2013-11-01",
                     "rgaDataFim": "2015-10-22",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8087",
+                    "rgaId": "9182",
                     "rgaActividade": "Membro da Assembleia Municipal de Vila Real (inerência)",
                     "rgaDataInicio": "2013-10-24",
                     "rgaDataFim": "2017-10-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8088",
+                    "rgaId": "9183",
                     "rgaActividade": "Presidente da Junta de Freguesia de Vila Real",
                     "rgaDataInicio": "2015-10-23",
                     "rgaDataFim": "2017-10-13",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8089",
+                    "rgaId": "9184",
                     "rgaActividade": "Membro do Conselho Diretivo da Associação Nacional de Freguesias (ANAFRE)",
                     "rgaDataInicio": "2014-02-02",
                     "rgaDataFim": "2018-01-27",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8090",
+                    "rgaId": "9185",
                     "rgaActividade": "Presidente da Assembleia Geral da Associação de Futebol de Vila Real",
                     "rgaDataInicio": "2015-03-06",
+                    "rgaDataFim": "2019-03-17",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8091",
+                    "rgaId": "9186",
                     "rgaActividade": "Presidente da Junta de Freguesia de Vila Real",
                     "rgaDataInicio": "2017-10-14",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8092",
+                    "rgaId": "9187",
                     "rgaActividade": "Membro da Assembleia Municipal de Vila Real (inerência)",
                     "rgaDataInicio": "2017-10-15",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8093",
+                    "rgaId": "9188",
                     "rgaActividade": "Membro do Conselho Diretivo da Associação Nacional de Freguesias (ANAFRE)",
                     "rgaDataInicio": "2018-01-28",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9189",
+                    "rgaActividade": "Presidente da Assembleia Geral da Associação de Futebol de Vila Real",
+                    "rgaDataInicio": "2019-03-18",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -46292,7 +46302,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6563",
+                    "rgcId": "7458",
                     "rgcCargo": "Membro do Conselho Diretivo",
                     "rgcEntidade": "Associação Nacional de Freguesias (ANAFRE)",
                     "rgcAreaActividade": "Associação de Direito Privado de Utilidade Pública.",
@@ -46300,7 +46310,7 @@
                     "rgcDataInicio": "2014-02-02"
                   },
                   {
-                    "rgcId": "6564",
+                    "rgcId": "7459",
                     "rgcCargo": "Presidente da Assembleia Geral",
                     "rgcEntidade": "Associação de Futebol de Vila Real",
                     "rgcAreaActividade": "Associação Desportiva de Utilidade Pública.",
@@ -46915,9 +46925,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7148",
+              "rgiId": "9251",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2017-09-11",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
@@ -46928,36 +46938,46 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7033",
+                    "rgaId": "9159",
                     "rgaActividade": "Advocacia  \n",
                     "rgaDataInicio": "2007",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7034",
+                    "rgaId": "9160",
                     "rgaActividade": "Deputado Municipal na Assembleia Municipal de Braga",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7035",
+                    "rgaId": "9161",
                     "rgaActividade": "Deputado à Assembleia da República ",
                     "rgaDataInicio": "2011",
                     "rgaDataFim": "2015",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7036",
+                    "rgaId": "9162",
                     "rgaActividade": "Comentador televisivo",
                     "rgaDataInicio": "2016-09-01",
                     "rgaRemunerada": "S"
                   }
                 ]
               },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
+                  "rgcId": "7425",
+                  "rgcCargo": "Administrador",
+                  "rgcEntidade": "GEOSIL - EMPREENDIMENTOS AGROSILVÍCOLAS, SA",
+                  "rgcAreaActividade": "Exploração agrícola ",
+                  "rgcLocalSede": "QUINTA DE VILA BOA DE ARUFE \n5300-802 REBORDAINHOS \nBragança",
+                  "rgcDataInicio": "2019-02-13"
+                }
+              },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "3635",
+                  "rgsId": "4675",
                   "rgsEntidade": "HMR - Sociedade de Advogados, S.P., R.L.",
                   "rgsAreaActividade": "Advocacia ",
                   "rgsLocalSede": "Avenida da Liberdade n.º 615 - 3º, E 02 Braga",
@@ -47553,9 +47573,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8529",
+              "rgiId": "9250",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-04-19",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
@@ -47565,28 +47585,14 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8397",
+                    "rgaId": "9157",
                     "rgaActividade": "Vereador em Regime de Substituição da Câmara Municipal de Almada",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2017",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8398",
-                    "rgaActividade": "Técnico Superior de Gestão de Processos na Empresa EDP Distribuição",
-                    "rgaDataInicio": "2014-09",
-                    "rgaDataFim": "2015-11",
-                    "rgaRemunerada": "S"
-                  },
-                  {
-                    "rgaId": "8399",
-                    "rgaActividade": "Serviço de consultoria na AM-Sociedade de Advogados RL;",
-                    "rgaDataInicio": "2015",
-                    "rgaDataFim": "2015",
-                    "rgaRemunerada": "S"
-                  },
-                  {
-                    "rgaId": "8400",
+                    "rgaId": "9158",
                     "rgaActividade": "Membro da Assembleia Municipal de Almada",
                     "rgaDataInicio": "2017-10-28",
                     "rgaRemunerada": "N"
@@ -50942,7 +50948,78 @@
           "cadId": "6121",
           "cadNomeCompleto": "LILIANA SOFIA BOUÇA DA SILVA",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9248",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2019-03-20",
+              "rgiRegimeBensId": "1",
+              "rgiRegimeBensDes": "Comunhão de adquiridos",
+              "rgiCargoDes": "Deputada",
+              "rgiCargoData": "2019",
+              "rgiApoiosBeneficios": "Senhas de presença - Vereadora com estatuto de oposição",
+              "rgiServicosPrestados": "Pontualmente exerço funções como formadora.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9153",
+                    "rgaActividade": "Coordenadora da Rede Local de Intervenção Social",
+                    "rgaDataInicio": "2015-12-01",
+                    "rgaDataFim": "2018-11-30",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9154",
+                    "rgaActividade": "Formadora",
+                    "rgaDataInicio": "2018-01-01",
+                    "rgaDataFim": "2018-07-31",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9155",
+                    "rgaActividade": "Vereadora com estatuto de oposição",
+                    "rgaDataInicio": "2017-10-21",
+                    "rgaDataFim": "2021-10-21",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiCargosSociais": {
+                "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
+                  {
+                    "rgcId": "7418",
+                    "rgcCargo": "Secretária",
+                    "rgcEntidade": "Conferência Mista de São Vicente de Paulo",
+                    "rgcAreaActividade": "Solidariedade",
+                    "rgcLocalSede": "Vila Praia de Âncora",
+                    "rgcDataInicio": "2013-12-01",
+                    "rgcDataFim": "2019-12-01"
+                  },
+                  {
+                    "rgcId": "7419",
+                    "rgcCargo": "Presidente da Mesa da Assembleia",
+                    "rgcEntidade": "Associação Desportiva Juventude Vila Praia",
+                    "rgcAreaActividade": "Desportiva",
+                    "rgcLocalSede": "Vila Praia de Âncora",
+                    "rgcDataInicio": "2014-01-01",
+                    "rgcDataFim": "2019-12-31"
+                  },
+                  {
+                    "rgcId": "7420",
+                    "rgcCargo": "Vice presidente ",
+                    "rgcEntidade": "Associação de Pais e Encarregados de Educação das Escolas do vale do Âncora",
+                    "rgcAreaActividade": "Associativa",
+                    "rgcLocalSede": "Vila Praia de Ãncora",
+                    "rgcDataInicio": "2013-01-12",
+                    "rgcDataFim": "2019-12-01"
+                  }
+                ]
+              },
+              "rgiCadId": "6121"
+            }
+          }
         },
         {
           "cadId": "6129",
@@ -52100,30 +52177,41 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "9008",
+              "rgiId": "9268",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-12-05",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2018",
               "rgiApoiosBeneficios": "Nada a declarar",
               "rgiServicosPrestados": "Nada a declarar.",
-              "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8893",
+                    "rgaId": "9173",
                     "rgaActividade": "Advogado",
                     "rgaDataInicio": "2014-12-05",
                     "rgaDataFim": "2015-11-25",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8894",
+                    "rgaId": "9174",
                     "rgaActividade": "Secretário de Estado da Defesa Nacional do XXI Governo Constitucional",
                     "rgaDataInicio": "2015-11-26",
                     "rgaDataFim": "2018-10-15",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9175",
+                    "rgaActividade": "Advogado",
+                    "rgaDataInicio": "2019-01-10",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9176",
+                    "rgaActividade": "Autor de comentário televisivo e artigos de opinião na imprensa ",
+                    "rgaDataInicio": "2019-01-09",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -57693,9 +57781,9 @@
           "cadEstadoCivilDes": "União de Facto",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8288",
+              "rgiId": "9249",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-02-22",
+              "rgiDataVersao": "2019-03-20",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República",
               "rgiCargoData": "2015",
@@ -57704,7 +57792,7 @@
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "8153",
+                  "rgaId": "9156",
                   "rgaActividade": "Deputado à Assembleia da República",
                   "rgaDataInicio": "2011-06-20",
                   "rgaDataFim": "2015-10-23",
@@ -57714,7 +57802,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6638",
+                    "rgcId": "7421",
                     "rgcCargo": "Presidente da Direcção (função não remunerada)",
                     "rgcEntidade": "Federação de Andebol de Portugal",
                     "rgcAreaActividade": "Instituição de Utilidade Pública Desportiva",
@@ -57723,7 +57811,7 @@
                     "rgcDataFim": "2016-06-18"
                   },
                   {
-                    "rgcId": "6639",
+                    "rgcId": "7422",
                     "rgcCargo": "Diretor de Relações Institucionais (função não remunerada)",
                     "rgcEntidade": "Federação de Andebol de Portugal",
                     "rgcAreaActividade": "Instituição de Utilidade Pública Desportiva",
@@ -57731,12 +57819,20 @@
                     "rgcDataInicio": "2016-06-21"
                   },
                   {
-                    "rgcId": "6640",
+                    "rgcId": "7423",
                     "rgcCargo": "Vogal da Comissão Executiva (função não remunerada)",
                     "rgcEntidade": "Comité Olímpico de Portugal",
                     "rgcAreaActividade": "Instituição de Utilidade Pública Desportiva",
                     "rgcLocalSede": "Travessa da Memória, 36 - Lisboa",
                     "rgcDataInicio": "2017-03-03"
+                  },
+                  {
+                    "rgcId": "7424",
+                    "rgcCargo": "Auditor Interno (função não remunerada)",
+                    "rgcEntidade": "International Handball Federation",
+                    "rgcAreaActividade": "Instituição sem fins lucrativos que gere a modalidade de Andebol em termos mundiais",
+                    "rgcLocalSede": "Peter Merian-Strasse, 23 - Basileia -Suiça",
+                    "rgcDataInicio": "2013-10-28"
                   }
                 ]
               },
