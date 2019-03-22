@@ -2303,16 +2303,16 @@
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
                 {
-                  "orgId": "4724",
-                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
-                  "orgSigla": "GT-PACRP",
+                  "orgId": "5084",
+                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
+                  "orgSigla": "GT-SL",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "5084",
-                  "orgDes": "Grupo de Trabalho - Setor Leiteiro",
-                  "orgSigla": "GT-SL",
+                  "orgId": "4724",
+                  "orgDes": "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)",
+                  "orgSigla": "GT-PACRP",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -2334,13 +2334,6 @@
                   "orgId": "4824",
                   "orgDes": "Grupo de Trabalho - Concessão de Audiências",
                   "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -5875,6 +5868,13 @@
                   "orgSigla": "GT-PNI2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -7507,6 +7507,13 @@
                   "orgSigla": "GT-PNI2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -7617,18 +7624,6 @@
                   "orgId": "4784",
                   "orgDes": "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)",
                   "orgSigla": "GT-CBCCC",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
                   "cargoDes": {
@@ -8739,7 +8734,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26720",
+              "habId": "27720",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "F"
@@ -8747,7 +8742,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "30416",
+              "funId": "31456",
               "funDes": "Deputado  a Assembleia da Republica na XIII Legislatura",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -11026,6 +11021,13 @@
                       "tiaDes": "Coordenador "
                     }
                   }
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -11465,13 +11467,6 @@
                   "orgId": "5244",
                   "orgDes": "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas",
                   "orgSigla": "GT-ADO",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -13618,6 +13613,13 @@
                   "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -14117,13 +14119,6 @@
                   "orgId": "4824",
                   "orgDes": "Grupo de Trabalho - Concessão de Audiências",
                   "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -17074,13 +17069,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "5804",
                   "orgDes": "Grupo de Trabalho - Saúde Pública sobre a PPL 49/XIII/2.ª",
                   "orgSigla": "GT-SP",
@@ -19466,6 +19454,18 @@
                   "orgSigla": "GT-DC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -24799,13 +24799,6 @@
                   "orgId": "4624",
                   "orgDes": "Grupo de Trabalho Desporto",
                   "orgSigla": "GT-D",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -32285,6 +32278,13 @@
                   "orgSigla": "GT-PNI2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -33065,13 +33065,6 @@
                   "timDes": "Efetivo"
                 },
                 {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6705",
                   "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
                   "orgSigla": "GT-RGPD",
@@ -33638,13 +33631,6 @@
                   "orgId": "4905",
                   "orgDes": "Grupo de Trabalho - Indústria",
                   "orgSigla": "GT-I",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -50106,9 +50092,9 @@
           "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "9208",
+              "rgiId": "9288",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2019-01-23",
+              "rgiDataVersao": "2019-03-21",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República",
               "rgiCargoData": "2018",
@@ -50116,12 +50102,28 @@
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
-                "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "9113",
-                  "rgaActividade": "Entre 2005-2011, foi Deputado eleito com mandato suspenso por exercer funções no Governo. \nCessou funções em 21/06/2011. \nAposentou-se da função pública (pertencia ao corpo docente da Faculdade de Direito de Lisboa) e requereu a subvenção mensal vitalícia a que tinha direito. \nA partir de 5 de Julho de 2011 passou a residir no município de Ilhéus, Estado da Bahia, Brasil. Exerceu actividades não remuneradas no sector primário e de carácter cultural. Exerceu de novo mandato em 2014 e 2015. ",
-                  "rgaDataInicio": "2018-09-01",
-                  "rgaRemunerada": "S"
-                }
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9193",
+                    "rgaActividade": " membro do XVII e XVIII Governo",
+                    "rgaDataInicio": "2005-03-23",
+                    "rgaDataFim": "2011-06-21",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9194",
+                    "rgaActividade": "Deputado",
+                    "rgaDataInicio": "2014-01-01",
+                    "rgaDataFim": "2015-10-23",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9195",
+                    "rgaActividade": "eleito membro do Conselho Nacional para a Segurança do Ciberespaço",
+                    "rgaDataInicio": "2019-01-22",
+                    "rgaRemunerada": "N"
+                  }
+                ]
               },
               "rgiCadId": "189"
             }

@@ -10144,6 +10144,16 @@
         "participantes": null
       },
       {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
+      },
+      {
         "id": "1943",
         "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
         "local": "Bucareste",
@@ -10185,14 +10195,52 @@
         }
       },
       {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
+        "id": "1945",
+        "nome": "Deslocação da Taiwan 7 a 13 de abril de 2019",
+        "local": "Taiwan",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
-        "participantes": null
+        "dataInicio": "2019-04-07",
+        "dataFim": "2019-04-13",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "SANDRA PEREIRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5749"
+            },
+            {
+              "tipo": "D",
+              "nome": "PEDRO DO Ó RAMOS",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1993"
+            },
+            {
+              "tipo": "D",
+              "nome": "PAULO RIOS DE OLIVEIRA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "4392"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO MARQUES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5601"
+            },
+            {
+              "tipo": "D",
+              "nome": "FERNANDO JESUS",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "487"
+            }
+          ]
+        }
       }
     ]
   }

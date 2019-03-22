@@ -11,6 +11,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111900",
+              "numeroAudicao": "178-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "No âmbito da Lei do Direito de Petição - Petição 587/XIII-4ª",
+              "entidades": "Silvia Sequeira e David Nascimento",
+              "data": "2019-03-20"
+            },
+            {
               "IDAudicao": "111578",
               "numeroAudicao": "177-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -2556,6 +2565,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111905",
+              "numeroAudicao": "299-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente do Novo Banco, no âmbito do requerimento apresentado pelo GP PSD",
+              "entidades": "Presidente do Conselho de Administração do Novo Banco, Dr. António Ramalho",
+              "data": "2019-03-21"
+            },
             {
               "IDAudicao": "111863",
               "numeroAudicao": "298-COFMA-XIII",
@@ -7388,6 +7406,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111901",
+              "numeroAudicao": "254-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Impactos do processo de saída do Reino Unido da União Europeia",
+              "entidades": "MIN. ADJUNTO E DA ECONOMIA;S.E.  DO  TURISMO",
+              "data": "2019-03-21"
+            },
+            {
+              "IDAudicao": "111899",
+              "numeroAudicao": "253-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Acordo para o aeroporto no Montijo, (requerimento do BE)",
+              "entidades": "ZERO - Associação Sistema Terrestre Sustentável",
+              "data": "2019-03-20"
+            },
+            {
               "IDAudicao": "111819",
               "numeroAudicao": "252-CEIOP-XIII",
               "legislatura": "XIII",
@@ -7419,7 +7455,7 @@
               "numeroAudicao": "249-CEIOP-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Exoneração do ex-Diretor de Material Circulante da CP - Comboiois de Portugal (req do PSD)",
+              "assunto": "Exoneração do ex-Diretor de Material Circulante da CP - Comboiois de Portugal (requerimento do PSD)",
               "entidades": "CP - Comboios de Portugal",
               "data": "2019-03-06"
             },
@@ -7428,7 +7464,7 @@
               "numeroAudicao": "248-CEIOP-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Exoneração do ex-Diretor de Material Circulante da CP - Comboiois de Portugal (req oral do BE)",
+              "assunto": "Exoneração do ex-Diretor de Material Circulante da CP - Comboiois de Portugal (requerimento oral do BE)",
               "entidades": "Comissão de Trabalhadores da EMEF",
               "data": "2019-03-06"
             },
@@ -9659,6 +9695,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111891",
+              "numeroAudicao": "55-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Dr.º António Ferreira Gomes ( Ex-Presidente da AdC - Autoridade da Concorrência)",
+              "entidades": "Dr.º António Ferreira Gomes ( Ex-Presidente da AdC - Autoridade da Concorrência)",
+              "data": "2019-03-27"
+            },
             {
               "IDAudicao": "111767",
               "numeroAudicao": "54-CPIPREPE-XIII",
@@ -12292,6 +12337,24 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111904",
+              "numeroAudicao": "140-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição regimental do Ministro da Educação, ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República, para discussão das políticas no âmbito da juventude e do desporto",
+              "entidades": "MIN.  DA   EDUCAÇÃO;S.E. DA  JUVENTUDE  E  DO  DESPORTO",
+              "data": "2019-03-27"
+            },
+            {
+              "IDAudicao": "111903",
+              "numeroAudicao": "139-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição regimental da Senhora Ministra da Cultura, para apreciação da política geral do Ministério, ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República",
+              "entidades": "MIN.  DA  CULTURA;S.E.  DA  CULTURA",
+              "data": "2019-03-27"
+            },
             {
               "IDAudicao": "111310",
               "numeroAudicao": "138-CCCJD-XIII",
@@ -27063,6 +27126,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111895",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-19",
+              "dataFim": "2019-03-20",
+              "designacao": "“Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy“",
+              "localEvento": "Palácio do Parlamento (Bucareste)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111894",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-15",
+              "dataFim": "2019-03-15",
+              "designacao": "Sessão sobre “Os Incêndios de 15 de outubro de 2017”",
+              "localEvento": "Auditório da Faculdade de Ciências e Tecnologia da Universidade de Coimbra",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111792",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -27173,16 +27256,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111403",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-02-01",
-              "dataFim": "2019-02-01",
-              "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
-              "localEvento": "Feira Internacional de Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111404",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -27190,6 +27263,16 @@
               "dataFim": "2019-02-01",
               "designacao": "Encontro Nacional de Técnicos",
               "localEvento": "Centro Cultural e de Congressos de Aveiro",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111403",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-01",
+              "dataFim": "2019-02-01",
+              "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
+              "localEvento": "Feira Internacional de Lisboa",
               "tipo": "Representação"
             },
             {
@@ -27493,16 +27576,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109158",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-06-06",
-              "dataFim": "2018-06-06",
-              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
-              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109157",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -27510,6 +27583,16 @@
               "dataFim": "2018-06-06",
               "designacao": "Seminário \"A IMPORTÂNCIA DOS JOVENS AGRICULTORES NO FUTURO DA AGRICULTURA EUROPEIA\"",
               "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109158",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-06-06",
+              "dataFim": "2018-06-06",
+              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
+              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
               "tipo": "Representação"
             },
             {
@@ -27573,6 +27656,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "109144",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "109148",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -27580,16 +27673,6 @@
               "dataFim": "2018-05-10",
               "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
               "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
-              "tipo": "Representação"
-            },
-            {
-              "IDDeslocacao": "109145",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -27603,13 +27686,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
+              "IDDeslocacao": "109145",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -28901,6 +28984,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "111868",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-17",
+              "dataFim": "2019-03-17",
+              "designacao": "Almoço a bordo do submarino Britânico Astute",
+              "localEvento": "Cais Militar do Portinho da Costa, em Almada",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111738",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29001,16 +29094,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110678",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-11-09",
-              "dataFim": "2018-11-09",
-              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
-              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110679",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29018,6 +29101,16 @@
               "dataFim": "2018-11-09",
               "designacao": "Academia Militar entrega do Prémio “Comissão da Defesa Nacional” ao melhor aluno da Escola Naval, no Alfeite, na Cerimónia de Abertura Solene do Ano Letivo 2018/2019",
               "localEvento": "Academia Militar, Alfeite",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110678",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-09",
+              "dataFim": "2018-11-09",
+              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
+              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
               "tipo": "Representação"
             },
             {
@@ -30168,6 +30261,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "111902",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-19",
+              "dataFim": "2019-03-20",
+              "designacao": "Reunião Interparlamentar sobre Política Agrícola Comum e Política de Coesão",
+              "localEvento": "Roménia",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "111742",
               "legislatura": "XIII",
