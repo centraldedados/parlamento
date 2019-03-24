@@ -1708,22 +1708,13 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4527",
+                "orgDes": "Comissão de Assuntos Europeus",
+                "orgSigla": "CAE",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
             }
           }
         },
@@ -5666,6 +5657,13 @@
                   "orgSigla": "GT-PNI2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -6940,18 +6938,6 @@
                   }
                 },
                 {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
-                },
-                {
                   "orgId": "5684",
                   "orgDes": "Grupo de Trabalho - Transportes Públicos",
                   "orgSigla": "GT-TP",
@@ -7376,7 +7362,7 @@
                   "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
                   "orgSigla": "CACDLG",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 },
                 {
                   "orgId": "4532",
@@ -8783,7 +8769,7 @@
           },
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": {
-              "habId": "26720",
+              "habId": "27720",
               "habDes": "Direito",
               "habTipoId": "13",
               "habEstado": "F"
@@ -8791,7 +8777,7 @@
           },
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": {
-              "funId": "30416",
+              "funId": "31456",
               "funDes": "Deputado  a Assembleia da Republica na XIII Legislatura",
               "funOrdem": "1",
               "funAntiga": "N"
@@ -13209,6 +13195,13 @@
                   "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -13681,13 +13674,6 @@
                   "orgId": "4824",
                   "orgDes": "Grupo de Trabalho - Concessão de Audiências",
                   "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -30289,6 +30275,13 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "4530",
+                  "orgDes": "Comissão de Agricultura e Mar",
+                  "orgSigla": "CAM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "4531",
                   "orgDes": "Comissão de Educação e Ciência",
                   "orgSigla": "CEC",
@@ -30786,6 +30779,13 @@
             },
             "actividadeGT": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "5004",
+                  "orgDes": "Grupo de Trabalho - Escrutínio de Iniciativas Europeias",
+                  "orgSigla": "GT-EIE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
                 {
                   "orgId": "4804",
                   "orgDes": "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades",
@@ -31667,6 +31667,13 @@
                   "orgSigla": "GT-PNI2030",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -32300,13 +32307,6 @@
                   "orgId": "4924",
                   "orgDes": "Grupo de Trabalho - Registo de Interesses",
                   "orgSigla": "GT-RI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -32994,13 +32994,6 @@
                   "orgId": "4905",
                   "orgDes": "Grupo de Trabalho - Indústria",
                   "orgSigla": "GT-I",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },

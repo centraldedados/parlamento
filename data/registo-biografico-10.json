@@ -2243,22 +2243,13 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4527",
+                "orgDes": "Comissão de Assuntos Europeus",
+                "orgSigla": "CAE",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
             }
           }
         },
@@ -7287,6 +7278,13 @@
                   "orgId": "7104",
                   "orgDes": "Grupo de Trabalho  - Programa Nacional de Investimentos 2030",
                   "orgSigla": "GT-PNI2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -14864,6 +14862,13 @@
                   "orgSigla": "GT-E",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -15376,13 +15381,6 @@
                   "orgId": "4824",
                   "orgDes": "Grupo de Trabalho - Concessão de Audiências",
                   "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -42082,6 +42080,13 @@
                   "timDes": "Efetivo"
                 },
                 {
+                  "orgId": "4530",
+                  "orgDes": "Comissão de Agricultura e Mar",
+                  "orgSigla": "CAM",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
                   "orgId": "4531",
                   "orgDes": "Comissão de Educação e Ciência",
                   "orgSigla": "CEC",
@@ -44582,13 +44587,6 @@
                   "orgId": "4905",
                   "orgDes": "Grupo de Trabalho - Indústria",
                   "orgSigla": "GT-I",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },

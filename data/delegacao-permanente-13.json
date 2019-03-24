@@ -193,7 +193,24 @@
               "local": "São Tomé",
               "dataInicio": "18-03-2019",
               "dataFim": "19-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ÂNGELA GUERRA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4031"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS MOREIRA TESTA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "4126"
+                  }
+                ]
+              }
             },
             {
               "nome": "Missão de Observação Eleitoral por ocasião das Eleições Legislativas da Guiné-Bissau",
@@ -1215,7 +1232,24 @@
               "local": "Havai-Honolulu",
               "dataInicio": "19-03-2019",
               "dataFim": "21-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Visita da ESCTER e PCNP",
@@ -1223,7 +1257,15 @@
               "local": "Berlim, Walldorf e Estugarda",
               "dataInicio": "18-03-2019",
               "dataFim": "21-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIRANDA CALHA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "193"
+                }
+              }
             },
             {
               "nome": "Visita da ESCTD, ESCTER e PNCNP",
@@ -1231,7 +1273,15 @@
               "local": "Skopje, Berlim Walldorf e Estugasrda",
               "dataInicio": "13-03-2019",
               "dataFim": "21-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS PEDRO PIMENTEL",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1733"
+                }
+              }
             },
             {
               "nome": "Visita Conjunta da CDSDG, PCTR e Offcers do GSM",
@@ -3334,6 +3384,14 @@
         },
         "reunioes": {
           "Reuniao": [
+            {
+              "nome": "Missão de Observação das Eleições Presidenciais na Ucrânia",
+              "tipo": "REN",
+              "local": "Kiev e Odessa",
+              "dataInicio": "27-03-2019",
+              "dataFim": "01-04-2019",
+              "participantes": null
+            },
             {
               "nome": "Sessão Plenária de Inverno",
               "tipo": "REN",
@@ -5631,12 +5689,37 @@
               }
             },
             {
+              "nome": "Missão de Observação das eleições Presidenciais na Ucrânia",
+              "tipo": "REN",
+              "local": "Kiev",
+              "dataInicio": "29-03-2019",
+              "dataFim": "01-04-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Subcomissão sobre as Diásporas e Conferência da rede Parlamentar das Políticas das Diásporas",
               "tipo": "REN",
               "local": "Varsóvia",
               "dataInicio": "22-03-2019",
               "dataFim": "22-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "DUARTE MARQUES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4170"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "PAULO PISCO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1741"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento e Missão de Estudo, no âmbito de relatório que está a elaborar sobre \"A Economia das Plataformas\".",
@@ -6525,22 +6608,6 @@
               }
             },
             {
-              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
-              "tipo": "REN",
-              "local": "Estrasburgo",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
               "tipo": "REN",
               "local": "Rabat",
@@ -6553,6 +6620,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1741"
+                }
+              }
+            },
+            {
+              "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -6931,6 +7014,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-05-2017",
+              "dataFim": "23-05-2017",
+              "participantes": null
+            },
+            {
               "nome": "Comissão sobre a Igualdade e Não Discriminação - Visita de informação a Genebra",
               "tipo": "REN",
               "local": "Genebra",
@@ -6945,14 +7036,6 @@
                   "id": "3"
                 }
               }
-            },
-            {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-05-2017",
-              "dataFim": "23-05-2017",
-              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e a Não Discriminação",
@@ -7849,22 +7932,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "DUARTE MARQUES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4170"
-                }
-              }
-            },
-            {
               "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
               "tipo": "RNI",
               "local": "Assembleia da República-Sala D. Maria",
@@ -7877,6 +7944,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "3"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE MARQUES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4170"
                 }
               }
             },
@@ -9941,7 +10024,15 @@
               "local": "Genebra",
               "dataInicio": "18-03-2019",
               "dataFim": "19-03-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "FERNANDO VIRGÍLIO MACEDO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4152"
+                }
+              }
             },
             {
               "nome": "Reunião Parlamentar e reuniões conexas por ocasião da 63ª sessão da Comissão da Condição das Mulheres",
@@ -9974,7 +10065,15 @@
               "local": "Nova Iorque",
               "dataInicio": "21-02-2019",
               "dataFim": "22-02-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CONSTANÇA URBANO DE SOUSA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "5932"
+                }
+              }
             },
             {
               "nome": "Audição dos Parlamentos Árabes",
@@ -9982,7 +10081,15 @@
               "local": "Cairo",
               "dataInicio": "10-02-2019",
               "dataFim": "10-02-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE PACHECO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "42"
+                }
+              }
             },
             {
               "nome": "Visita Preparatório da 140ª Assembleia Geral da União Interparlamentar",
@@ -9990,7 +10097,31 @@
               "local": "Doha",
               "dataInicio": "26-01-2019",
               "dataFim": "26-01-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "DUARTE PACHECO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "42"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "FERNANDO VIRGÍLIO MACEDO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4152"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "HORTENSE MARTINS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2225"
+                  }
+                ]
+              }
             },
             {
               "nome": "WTO Sessão Anual da Conferência Parlamentar da OMC, Organização Mundial de Comércio",

@@ -1681,22 +1681,13 @@
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                }
-              ]
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4527",
+                "orgDes": "Comissão de Assuntos Europeus",
+                "orgSigla": "CAE",
+                "legDes": "XIII",
+                "timDes": "Suplente"
+              }
             }
           }
         },
@@ -12190,13 +12181,6 @@
                   "orgId": "4824",
                   "orgDes": "Grupo de Trabalho - Concessão de Audiências",
                   "orgSigla": "GT-CA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4984",
-                  "orgDes": "Grupo de Trabalho PJL sobre publicidade de produtos alimentares",
-                  "orgSigla": "GT-PJLPPA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
