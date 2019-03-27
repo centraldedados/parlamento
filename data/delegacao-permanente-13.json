@@ -1227,6 +1227,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da Comissão Permanente",
+              "tipo": "REN",
+              "local": "Zagreb",
+              "dataInicio": "29-03-2019",
+              "dataFim": "31-03-2019",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Comissão de Defesa e Segurança (DSC)",
               "tipo": "REN",
               "local": "Havai-Honolulu",
@@ -1789,31 +1797,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
-              "tipo": "REN",
-              "local": "Sarajevo e Belgrado",
-              "dataInicio": "16-04-2018",
-              "dataFim": "19-04-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOÃO REBELO",
-                    "gp": "CDS-PP",
-                    "leg": "XIII",
-                    "id": "1654"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LARA MARTINHO",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "6157"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Arábia Saudita",
@@ -1841,6 +1824,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Sarajevo e Belgrado",
+              "dataInicio": "16-04-2018",
+              "dataFim": "19-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
                   }
                 ]
               }
@@ -1935,14 +1943,6 @@
               }
             },
             {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
-            },
-            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1994,6 +1994,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
