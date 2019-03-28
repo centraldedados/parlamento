@@ -3398,7 +3398,24 @@
               "local": "Kiev e Odessa",
               "dataInicio": "27-03-2019",
               "dataFim": "01-04-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ISABEL SANTOS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2103"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIGUEL SANTOS",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "2071"
+                  }
+                ]
+              }
             },
             {
               "nome": "Sessão Plenária de Inverno",
@@ -10027,6 +10044,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "140ª Assembleia da UIP e Grupo Geopolítico dos Doze Mais",
+              "tipo": "REN",
+              "local": "Doha",
+              "dataInicio": "03-04-2019",
+              "dataFim": "11-04-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reuniões na sede da UIP na qualidade de Auditor",
               "tipo": "REN",
               "local": "Genebra",
@@ -10657,22 +10682,6 @@
               }
             },
             {
-              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
-              "tipo": "REN",
-              "local": "São Petersburgo",
-              "dataInicio": "14-10-2017",
-              "dataFim": "18-10-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "RICARDO BAPTISTA LEITE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4441"
-                }
-              }
-            },
-            {
               "nome": "137ª  Assembleia da União Interparlamentar, Grupo dos 12+  e reuniões conexas",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -10730,6 +10739,22 @@
                     "id": "1897"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Participação na \"IPU Advisory Group on Health\", a convite do Secretário Geral da UIP  no âmbito da 137ª. Assembleia",
+              "tipo": "REN",
+              "local": "São Petersburgo",
+              "dataInicio": "14-10-2017",
+              "dataFim": "18-10-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "RICARDO BAPTISTA LEITE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4441"
+                }
               }
             },
             {
@@ -10926,6 +10951,14 @@
               }
             },
             {
+              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
+              "tipo": "REN",
+              "local": "Genebra",
+              "dataInicio": "23-10-2016",
+              "dataFim": "27-10-2016",
+              "participantes": null
+            },
+            {
               "nome": "Reunião dos Doze Mais, do GRULAC + 3 e Reunião das delegações da CPLP presentes na UIP",
               "tipo": "REN",
               "local": "Genebra",
@@ -10940,14 +10973,6 @@
                   "id": "42"
                 }
               }
-            },
-            {
-              "nome": "135ª Sessão da União Interparlamentar e Reunião dos Doze Mais, do GRULAC +3; Reunião das Delegações da CPLP",
-              "tipo": "REN",
-              "local": "Genebra",
-              "dataInicio": "23-10-2016",
-              "dataFim": "27-10-2016",
-              "participantes": null
             },
             {
               "nome": "135ª Assembleia da União Interparlamentar",

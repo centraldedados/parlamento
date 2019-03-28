@@ -16066,13 +16066,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26860",
+                "habId": "27740",
                 "habDes": "Ciências da Engenharia",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26861",
+                "habId": "27741",
                 "habDes": "Engenharia",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -16082,14 +16082,14 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30516",
+                "funId": "31476",
                 "funDes": "Membro da Assembleia Municipal de Almada",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30517",
-                "funDes": "Presidente da Associação dos Estudantes do Instituto Superior Técnico\nVereador em Regime de Substituição da Câmara Municipal de Almada",
+                "funId": "31477",
+                "funDes": "Presidente da Associação dos Estudantes do Instituto Superior Técnico;\nVereador em Regime de Substituição da Câmara Municipal de Almada;\nSecretário-geral da Juventude Socialista.",
                 "funOrdem": "2",
                 "funAntiga": "S"
               }
@@ -41120,9 +41120,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3962",
+              "rgiId": "9308",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2019-03-27",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à XIII Legislatura",
@@ -41131,12 +41131,21 @@
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
-                "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "4048",
-                  "rgaActividade": "Eleito na Assembleia Municipal do Barreiro",
-                  "rgaDataInicio": "2013-11-19",
-                  "rgaRemunerada": "N"
-                }
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9213",
+                    "rgaActividade": "Eleito na Assembleia Municipal do Barreiro",
+                    "rgaDataInicio": "2013-11-19",
+                    "rgaDataFim": "2017-10-22",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9214",
+                    "rgaActividade": "Eleito Presidente da Assembleia Municipal do Barreiro",
+                    "rgaDataInicio": "2017-10-22",
+                    "rgaRemunerada": "N"
+                  }
+                ]
               },
               "rgiCadId": "6050"
             }

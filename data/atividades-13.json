@@ -1617,6 +1617,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111951",
+              "numeroAudicao": "106-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Senhora Gestora do PDR2020, Eng.ª Gabriela Freitas",
+              "entidades": "Gestora do PDR2020",
+              "data": "2019-03-26"
+            },
+            {
               "IDAudicao": "111685",
               "numeroAudicao": "105-CAM-XIII",
               "legislatura": "XIII",
@@ -2565,6 +2574,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111952",
+              "numeroAudicao": "300-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro do Trabalho, Solidariedade e Segurança Social, no âmbito dos requerimentos apresentados pelo PSD e BE",
+              "entidades": "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+              "data": "2019-03-27"
+            },
             {
               "IDAudicao": "111905",
               "numeroAudicao": "299-COFMA-XIII",
@@ -6037,15 +6055,26 @@
           ]
         },
         {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": {
-            "IDAudicao": "111948",
-            "numeroAudicao": "1-II-CPIRCGDGB-XIII",
-            "legislatura": "XIII",
-            "sessaoLegislativa": "4",
-            "assunto": "Audição da Ernest & Young",
-            "entidades": "Ernest & Young, S.A.",
-            "data": "2019-03-26"
-          }
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111966",
+              "numeroAudicao": "2-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Governador do Banco de Portugal",
+              "entidades": "Dr. Carlos Costa - Governador do Banco de Portugal",
+              "data": "2019-03-27"
+            },
+            {
+              "IDAudicao": "111948",
+              "numeroAudicao": "1-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Ernest & Young",
+              "entidades": "Ernest & Young, S.A.",
+              "data": "2019-03-26"
+            }
+          ]
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
@@ -11990,6 +12019,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "111961",
+              "numeroAudicao": "29-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Diretor da Polícia Judiciária Militar, Capitão-de-mar-e-guerra Paulo Isabel",
+              "entidades": null,
+              "data": "2019-03-27"
+            },
             {
               "IDAudicao": "111950",
               "numeroAudicao": "28-CPITANCOS-XIII",
@@ -26220,6 +26258,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "111965",
+              "numeroAudiencia": "69-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência com membros do Conselho Superior do Ministério Público, magistrados do MP eleitos pelos seus pares, no âmbito da apreciação da Proposta de Lei n.º 147/XIII/3.ª (GOV) - Aprova o Estatuto do Ministério Público",
+              "entidades": "Pedro Branquinho Ferreira Dias;Alexandra Chícharo das Neves;Carlos José do Nascimento Teixeira;Luís Martins;Francisco Guedes;David Albuquerque Aguilar;André Namora",
+              "data": "2019-03-27",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111632",
               "numeroAudiencia": "68-CACDLG-XIII",
