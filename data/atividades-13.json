@@ -6254,6 +6254,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111970",
+              "numeroAudicao": "133-CTSS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição no âmbito da Petição n.º 497-XIII-3 ª - \"Contra a precariedade, pelo emprego com direitos\", da CGTP-IN e outros",
+              "entidades": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses,",
+              "data": "2019-03-28"
+            },
+            {
               "IDAudicao": "111664",
               "numeroAudicao": "132-CTSS-XIII",
               "legislatura": "XIII",
@@ -13997,6 +14006,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "111968",
+              "numeroAudicao": "198-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "3.ª Audição regimental da Ministra da Saúde, ao abrigo do n.º 2 do artigo 104.º do RAR, sobre «Política geral de saúde»",
+              "entidades": "MIN.  DA   SAÚDE",
+              "data": "2019-03-27"
+            },
+            {
+              "IDAudicao": "111967",
+              "numeroAudicao": "197-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "A propósito da crescente degradação das condições de acesso dos doentes aos cuidados de saúde no Serviço Nacional de Saúde",
+              "entidades": "MIN.  DA   SAÚDE",
+              "data": "2019-03-27"
+            },
+            {
               "IDAudicao": "111906",
               "numeroAudicao": "196-CS-XIII",
               "legislatura": "XIII",
@@ -20145,6 +20172,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "111973",
+              "numeroAudiencia": "53-CDN-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Encontro do 134.º Curso Sénior do Colégio de Defesa NATO",
+              "entidades": "134.º Curso Sénior do Colégio de Defesa NATO",
+              "data": "2019-03-28",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111911",
               "numeroAudiencia": "52-CDN-XIII",
               "legislatura": "XIII",
@@ -20842,6 +20879,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "111971",
+              "numeroAudiencia": "65-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Impato económico e social que o encerramento da agência da Caixa Geral de Depósitos de Alhandra trará à população",
+              "entidades": "Comissão de Utentes em Defesa da Agência de Alhandra da Caixa Geral de Depósitos e Presidente da União de Freguesias de Alhandra, São João dos Montes e Calhandriz",
+              "data": "2019-03-28",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111319",
               "numeroAudiencia": "64-CEIOP-XIII",
@@ -34407,6 +34454,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "111978",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-28",
+              "dataFim": "2019-03-28",
+              "designacao": "Lançamento do Livro \"Tráfico de Seres Humanos\", da Editorial Cáritas",
+              "localEvento": "Espaço Santa Catarina da Junta de Freguesia da Misericórdia, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111977",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-27",
+              "dataFim": "2019-03-27",
+              "designacao": "Conversas sobre Violência Doméstica [em representação de S. Ex.ª o Presidente da Assembleia da República]",
+              "localEvento": "Casa do Concelho de Castro Daire, Marvila, Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111517",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -34887,16 +34954,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "106578",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2017-10-03",
-              "dataFim": "2017-10-03",
-              "designacao": "Cerimónia de tomada de posse dos novos membros da Entidade das Contas e Financiamentos Políticos",
-              "localEvento": "Sala de Atos do Tribunal Constitucional",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "106579",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -34904,6 +34961,16 @@
               "dataFim": "2017-10-03",
               "designacao": "Receção Dia da Unidade Alemã",
               "localEvento": "Rua D. Constantino de Bragança, 29, em Lisboa (Restelo)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "106578",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2017-10-03",
+              "dataFim": "2017-10-03",
+              "designacao": "Cerimónia de tomada de posse dos novos membros da Entidade das Contas e Financiamentos Políticos",
+              "localEvento": "Sala de Atos do Tribunal Constitucional",
               "tipo": "Representação"
             },
             {
@@ -35087,16 +35154,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "104354",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-03-08",
-              "dataFim": "2017-03-08",
-              "designacao": "Reunião Interparlamentar subordinada ao tema: \"Women's Economic Empowement:Let's act together",
-              "localEvento": "Parlamento Europeu, Bruxelas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "104353",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -35104,6 +35161,16 @@
               "dataFim": "2017-03-08",
               "designacao": "Celebração do Dia Internacional das Mulheres",
               "localEvento": "Casa do Alentejo",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "104354",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-03-08",
+              "dataFim": "2017-03-08",
+              "designacao": "Reunião Interparlamentar subordinada ao tema: \"Women's Economic Empowement:Let's act together",
+              "localEvento": "Parlamento Europeu, Bruxelas",
               "tipo": "Representação"
             },
             {
@@ -35187,16 +35254,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "103379",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2016-11-15",
-              "dataFim": "2016-11-15",
-              "designacao": "Conferência \"O Provedor de Justiça e os 40 anos da Constituição\"",
-              "localEvento": "Salão Nobre da Assembleia da República",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "103378",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -35204,6 +35261,16 @@
               "dataFim": "2016-11-15",
               "designacao": "Colóquio Comemorativo do 40.º Aniversário da Constituição da República",
               "localEvento": "Fundação Calouste Gulbenkian (Anfiteatro 3)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "103379",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2016-11-15",
+              "dataFim": "2016-11-15",
+              "designacao": "Conferência \"O Provedor de Justiça e os 40 anos da Constituição\"",
+              "localEvento": "Salão Nobre da Assembleia da República",
               "tipo": "Representação"
             },
             {
@@ -35607,16 +35674,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "101073",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "1",
-              "dataIni": "2015-12-11",
-              "dataFim": "2015-12-11",
-              "designacao": "Reunião interparlamentar ad hoc para troca de opiniões sobre propostas e iniciativas parlamentares relacionadas com Schengen, Migrações e Asilo",
-              "localEvento": "Parlamento Italiano - Roma",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "101090",
               "legislatura": "XIII",
               "sessaoLegislativa": "1",
@@ -35624,6 +35681,16 @@
               "dataFim": "2015-12-11",
               "designacao": "Colóquio \"Os Juízes Hoje\"",
               "localEvento": "Supremo Tribunal de Justiça",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "101073",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "1",
+              "dataIni": "2015-12-11",
+              "dataFim": "2015-12-11",
+              "designacao": "Reunião interparlamentar ad hoc para troca de opiniões sobre propostas e iniciativas parlamentares relacionadas com Schengen, Migrações e Asilo",
+              "localEvento": "Parlamento Italiano - Roma",
               "tipo": "Representação"
             },
             {

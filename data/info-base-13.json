@@ -6071,10 +6071,17 @@
           "depCPDes": "PORTALEGRE",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2019-03-28"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-03-28"
+              }
+            ]
           },
           "depNomeCompleto": "LUÍS DAVID TRINDADE MOREIRA TESTA"
         },
@@ -8026,7 +8033,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-03-27"
+                "gpDtFim": "2019-03-28"
               },
               {
                 "gpId": "4465",
@@ -8250,6 +8257,35 @@
             ]
           },
           "depNomeCompleto": "LUÍS PEDRO RUSSO DA MOTA SOARES"
+        },
+        {
+          "depId": "8848",
+          "depCadId": "5895",
+          "depNomeParlamentar": "PEDRO MURCELA",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "4465",
+              "gpSigla": "PS",
+              "gpDtInicio": "2015-10-23"
+            }
+          },
+          "depCPId": "12",
+          "depCPDes": "PORTALEGRE",
+          "legDes": "XIII",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-03-28"
+              },
+              {
+                "sioDes": "Suplente",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-03-28"
+              }
+            ]
+          },
+          "depNomeCompleto": "PEDRO JOSÉ MARTINS MURCELA"
         },
         {
           "depId": "8429",

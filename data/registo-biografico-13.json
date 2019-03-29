@@ -2406,6 +2406,13 @@
                   "orgSigla": "GT-PMA-GS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -7130,6 +7137,13 @@
                   "orgId": "5364",
                   "orgDes": "Grupo de Trabalho - Acompanhamento da Temática da Floresta Portuguesa e dos Incêndios - Ex-Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais",
                   "orgSigla": "GT-ATFPI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -15042,6 +15056,13 @@
                   "orgSigla": "GT-ATCE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -17098,6 +17119,13 @@
                   "orgId": "6984",
                   "orgDes": "Grupo de Trabalho - Sistema de Informação Cadastral Simplificada",
                   "orgSigla": "GT-SICS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -21963,6 +21991,13 @@
                   "orgSigla": "GT-JPDH2018",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -25092,66 +25127,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "6664",
-                  "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
-                  "orgSigla": "CPIPREPE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Vice-Presidente"
-                    }
-                  }
-                }
-              ]
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "7004",
-                "orgDes": "Grupo de Trabalho - PJL Defesa do Consumidor",
-                "orgSigla": "GT-DC",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1733",
@@ -30337,6 +30313,20 @@
                   "timDes": "Suplente"
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "7164",
+                "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                "orgSigla": "GT-DHANA",
+                "legDes": "XIII",
+                "timDes": "Efetivo",
+                "cargoDes": {
+                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                    "tiaDes": "Coordenador "
+                  }
+                }
+              }
             }
           }
         },
@@ -33305,6 +33295,15 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "7164",
+                "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                "orgSigla": "GT-DHANA",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },
@@ -33663,6 +33662,23 @@
               ]
             }
           }
+        },
+        {
+          "cadId": "5895",
+          "cadNomeCompleto": "PEDRO JOSÉ MARTINS MURCELA",
+          "cadSexo": "M",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
+              "depNomeParlamentar": "Pedro Murcela",
+              "legDes": "XIII",
+              "ceDes": "PORTALEGRE",
+              "parSigla": "PS",
+              "parDes": "Partido Socialista",
+              "gpSigla": "PS",
+              "gpDes": "Partido Socialista"
+            }
+          },
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2051",
@@ -53001,7 +53017,40 @@
           "cadNomeCompleto": "MARIA MANUEL DE LEMOS LEITÃO MARQUES",
           "cadActividadeProfissional": "Professora Universitária",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9348",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2019-03-28",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
+              "rgiCargoDes": "Deputada",
+              "rgiCargoData": "2019",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9253",
+                    "rgaActividade": "ministra da presidência e da modernização administrativa",
+                    "rgaDataInicio": "2015-11",
+                    "rgaDataFim": "2019-02",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9254",
+                    "rgaActividade": "deputada ",
+                    "rgaDataInicio": "2015-10-23",
+                    "rgaDataFim": "2015-11-26",
+                    "rgaRemunerada": "S"
+                  }
+                ]
+              },
+              "rgiCadId": "6126"
+            }
+          }
         },
         {
           "cadId": "5952",
@@ -55749,6 +55798,11 @@
               "rgiCadId": "1102"
             }
           }
+        },
+        {
+          "cadId": "5895",
+          "cadNomeCompleto": "PEDRO JOSÉ MARTINS MURCELA",
+          "cadEstadoCivilCod": "0"
         },
         {
           "cadId": "2051",
