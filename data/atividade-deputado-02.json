@@ -45751,6 +45751,28 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": [
+                {
+                  "iniId": "30522",
+                  "iniNr": "220",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Regresso ao serviço activo de juízes de direito aposentados"
+                },
+                {
+                  "iniId": "30453",
+                  "iniNr": "152",
+                  "iniTp": "J",
+                  "iniTpdesc": "Projeto de Lei",
+                  "iniSelLg": "II",
+                  "iniSelNr": "1",
+                  "iniTi": "Funcionamento dos serviços consulares."
+                }
+              ]
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -51457,8 +51479,8 @@
           "depNomeParlamentar": "Magalhães Mota",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "984",
+              "gpSigla": "ASDI",
               "gpDtInicio": "1980-11-03"
             }
           },
@@ -59102,6 +59124,17 @@
       {
         "AtividadeDeputadoList": {
           "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "ini": {
+              "pt_gov_ar_wsar_objectos_IniciativasOut": {
+                "iniId": "30453",
+                "iniNr": "152",
+                "iniTp": "J",
+                "iniTpdesc": "Projeto de Lei",
+                "iniSelLg": "II",
+                "iniSelNr": "1",
+                "iniTi": "Funcionamento dos serviços consulares."
+              }
+            },
             "rel": null,
             "dadosLegisDeputado": {
               "pt_gov_ar_wsar_objectos_DadosLegisDeputado": {
@@ -67393,8 +67426,8 @@
           "depNomeParlamentar": "Vilhena de Carvalho",
           "depGP": {
             "pt_ar_wsgode_objectos_DadosSituacaoGP": {
-              "gpId": "979",
-              "gpSigla": "PSD",
+              "gpId": "984",
+              "gpSigla": "ASDI",
               "gpDtInicio": "1980-11-03"
             }
           },

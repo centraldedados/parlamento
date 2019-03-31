@@ -8184,6 +8184,29 @@
           "depNomeCompleto": "MANUEL JOÃO VAZ FREIXO"
         },
         {
+          "depId": "4083",
+          "depCadId": "841",
+          "depNomeParlamentar": "MANUEL MARTINS",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "1001",
+              "gpSigla": "PSD",
+              "gpDtInicio": "1987-08-13"
+            }
+          },
+          "depCPId": "13",
+          "depCPDes": "PORTO",
+          "legDes": "V",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
+              "sioDes": "Efetivo",
+              "sioDtInicio": "1987-08-13",
+              "sioDtFim": "1991-11-03"
+            }
+          },
+          "depNomeCompleto": "MANUEL DA FONSECA MARTINS"
+        },
+        {
           "depId": "9975",
           "depCadId": "1695",
           "depNomeParlamentar": "Manuel Martins",

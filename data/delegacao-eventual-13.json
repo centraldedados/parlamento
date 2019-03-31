@@ -10162,6 +10162,16 @@
         }
       },
       {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
+      },
+      {
         "id": "1943",
         "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
         "local": "Bucareste",
@@ -10201,16 +10211,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
-        "participantes": null
       },
       {
         "id": "1949",
@@ -10353,6 +10353,42 @@
               "id": "487"
             }
           ]
+        }
+      },
+      {
+        "id": "1951",
+        "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
+        "local": "Washington",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-14",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "TERESA LEAL COELHO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4389"
+          }
+        }
+      },
+      {
+        "id": "1952",
+        "nome": "Deslocação a Berlim em Trabalho Parlamentar",
+        "local": "Berlim",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-15",
+        "dataFim": "2019-04-17",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PAULO TRIGO PEREIRA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "6045"
+          }
         }
       }
     ]

@@ -25187,15 +25187,26 @@
           "cadSexo": "M",
           "cadProfissao": "MEDICO",
           "cadDeputadoLegis": {
-            "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
-              "depNomeParlamentar": "Manuel Martins",
-              "legDes": "VI",
-              "ceDes": "AVEIRO",
-              "parSigla": "CDS-PP",
-              "parDes": "Centro Democrático Social - Partido Popular",
-              "gpSigla": "CDS-PP",
-              "gpDes": "Centro Democrático Social - Partido Popular"
-            }
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
+              {
+                "depNomeParlamentar": "Manuel Martins",
+                "legDes": "VI",
+                "ceDes": "AVEIRO",
+                "parSigla": "CDS-PP",
+                "parDes": "Centro Democrático Social - Partido Popular",
+                "gpSigla": "CDS-PP",
+                "gpDes": "Centro Democrático Social - Partido Popular"
+              },
+              {
+                "depNomeParlamentar": "Manuel Martins",
+                "legDes": "V",
+                "ceDes": "PORTO",
+                "parSigla": "PSD",
+                "parDes": "Partido Social Democrata",
+                "gpSigla": "PSD",
+                "gpDes": "Partido Social Democrata"
+              }
+            ]
           },
           "cadActividadeOrgaos": null
         },

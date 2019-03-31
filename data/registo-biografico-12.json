@@ -5401,6 +5401,13 @@
                   "timDes": "Suplente"
                 },
                 {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
                   "orgId": "4534",
                   "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
                   "orgSigla": "CAOTDPLH",
@@ -8786,13 +8793,6 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
                 {
                   "orgId": "4532",
                   "orgDes": "Comissão de Saúde",
@@ -20596,6 +20596,13 @@
                   "orgId": "6764",
                   "orgDes": "Grupo de Trabalho - Júri Prémio Direitos Humanos 2018",
                   "orgSigla": "GT-JPDH2018",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7164",
+                  "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                  "orgSigla": "GT-DHANA",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -32424,6 +32431,15 @@
                   }
                 }
               ]
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "7164",
+                "orgDes": "Grupo de Trabalho - Direito Humano à Alimentação e Nutrição Adequadas (PJL 1048/XIII/4.ª - BE)",
+                "orgSigla": "GT-DHANA",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
             }
           }
         },

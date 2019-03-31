@@ -22264,6 +22264,35 @@
           "cadActividadeOrgaos": null
         },
         {
+          "cadId": "841",
+          "cadNomeCompleto": "MANUEL DA FONSECA MARTINS",
+          "cadSexo": "M",
+          "cadProfissao": "MEDICO",
+          "cadDeputadoLegis": {
+            "pt_ar_wsgode_objectos_DadosDeputadoLegis": [
+              {
+                "depNomeParlamentar": "Manuel Martins",
+                "legDes": "VI",
+                "ceDes": "AVEIRO",
+                "parSigla": "CDS-PP",
+                "parDes": "Centro Democrático Social - Partido Popular",
+                "gpSigla": "CDS-PP",
+                "gpDes": "Centro Democrático Social - Partido Popular"
+              },
+              {
+                "depNomeParlamentar": "Manuel Martins",
+                "legDes": "V",
+                "ceDes": "PORTO",
+                "parSigla": "PSD",
+                "parDes": "Partido Social Democrata",
+                "gpSigla": "PSD",
+                "gpDes": "Partido Social Democrata"
+              }
+            ]
+          },
+          "cadActividadeOrgaos": null
+        },
+        {
           "cadId": "1695",
           "cadNomeCompleto": "MANUEL FERREIRA MARTINS",
           "cadSexo": "M",
@@ -33103,6 +33132,12 @@
           "cadId": "3039",
           "cadNomeCompleto": "MANUEL JOÃO VAZ FREIXO",
           "cadActividadeProfissional": "",
+          "cadEstadoCivilCod": "0"
+        },
+        {
+          "cadId": "841",
+          "cadNomeCompleto": "MANUEL DA FONSECA MARTINS",
+          "cadActividadeProfissional": "MEDICO",
           "cadEstadoCivilCod": "0"
         },
         {
