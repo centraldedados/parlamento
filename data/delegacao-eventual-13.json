@@ -10162,16 +10162,6 @@
         }
       },
       {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
-        "participantes": null
-      },
-      {
         "id": "1943",
         "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
         "local": "Bucareste",
@@ -10211,6 +10201,26 @@
             }
           ]
         }
+      },
+      {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
+      },
+      {
+        "id": "1953",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-01",
+        "dataFim": "2019-04-30",
+        "participantes": null
       },
       {
         "id": "1949",
@@ -10298,6 +10308,24 @@
         "participantes": null
       },
       {
+        "id": "1954",
+        "nome": "Grupo de Pesquisa \"Direito Eleitoral e Democracia\"",
+        "local": "São salvador",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-03",
+        "dataFim": "2019-04-04",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "VITALINO CANAS",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "1700"
+          }
+        }
+      },
+      {
         "id": "1948",
         "nome": "Participação na reunião \"Semestre Europeu para a coordenação de políticas económicas de uma perspetiva parlamentar 2019\"",
         "local": "Bruxelas",
@@ -10356,6 +10384,24 @@
         }
       },
       {
+        "id": "1955",
+        "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
+          }
+        }
+      },
+      {
         "id": "1951",
         "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
         "local": "Washington",
@@ -10388,6 +10434,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "6045"
+          }
+        }
+      },
+      {
+        "id": "1956",
+        "nome": "Convite para visitar o Ministério da Saúde da República Democrática de Timor-Leste",
+        "local": "Timor-Leste",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-15",
+        "dataFim": "2019-05-24",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "ADÃO SILVA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "3"
           }
         }
       }

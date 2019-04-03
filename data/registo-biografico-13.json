@@ -33701,7 +33701,9 @@
         {
           "cadId": "5895",
           "cadNomeCompleto": "PEDRO JOSÉ MARTINS MURCELA",
+          "cadDtNascimento": "1953-11-07",
           "cadSexo": "M",
+          "cadProfissao": "Director de Recursos Humanos",
           "cadDeputadoLegis": {
             "pt_ar_wsgode_objectos_DadosDeputadoLegis": {
               "depNomeParlamentar": "Pedro Murcela",
@@ -33713,7 +33715,33 @@
               "gpDes": "Partido Socialista"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "2051",
@@ -55844,7 +55872,9 @@
         {
           "cadId": "5895",
           "cadNomeCompleto": "PEDRO JOSÉ MARTINS MURCELA",
-          "cadEstadoCivilCod": "0"
+          "cadActividadeProfissional": "Director de Recursos Humanos",
+          "cadEstadoCivilCod": "1",
+          "cadEstadoCivilDes": "Casado(a)"
         },
         {
           "cadId": "2051",

@@ -3393,6 +3393,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião do Bureau",
+              "tipo": "REN",
+              "local": "Copenhaga",
+              "dataInicio": "07-04-2019",
+              "dataFim": "08-04-2019",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação das Eleições Presidenciais na Ucrânia",
               "tipo": "REN",
               "local": "Kiev e Odessa",
