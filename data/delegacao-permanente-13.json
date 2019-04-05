@@ -1227,6 +1227,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e o 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
+              "tipo": "REN",
+              "local": "Antalya",
+              "dataInicio": "12-04-2019",
+              "dataFim": "14-04-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão Permanente",
               "tipo": "REN",
               "local": "Zagreb",
@@ -1354,19 +1362,19 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
-              "tipo": "REN",
-              "local": "Paris e Bruxelas",
-              "dataInicio": "13-02-2019",
-              "dataFim": "20-02-2019",
-              "participantes": null
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
               "tipo": "REN",
               "local": "Paris",
               "dataInicio": "13-02-2019",
               "dataFim": "15-02-2019",
+              "participantes": null
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
+              "tipo": "REN",
+              "local": "Paris e Bruxelas",
+              "dataInicio": "13-02-2019",
+              "dataFim": "20-02-2019",
               "participantes": null
             },
             {
@@ -5722,6 +5730,14 @@
               }
             },
             {
+              "nome": "2ª Parteda Sessão Plenária de 2019",
+              "tipo": "REN",
+              "local": "Estrasburgo",
+              "dataInicio": "08-04-2019",
+              "dataFim": "12-04-2019",
+              "participantes": null
+            },
+            {
               "nome": "Missão de Observação das eleições Presidenciais na Ucrânia",
               "tipo": "REN",
               "local": "Kiev",
@@ -6641,22 +6657,6 @@
               }
             },
             {
-              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
-              "tipo": "REN",
-              "local": "Rabat",
-              "dataInicio": "08-02-2018",
-              "dataFim": "08-02-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PAULO PISCO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1741"
-                }
-              }
-            },
-            {
               "nome": "Reuniuão do Comité Executivo do Centro Norte-Sul",
               "tipo": "REN",
               "local": "Estrasburgo",
@@ -6669,6 +6669,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Subcomissão sobre as Diásporas da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Rabat",
+              "dataInicio": "08-02-2018",
+              "dataFim": "08-02-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
                 }
               }
             },
@@ -8749,6 +8765,14 @@
         },
         "reunioes": {
           "Reuniao": [
+            {
+              "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e no 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
+              "tipo": "REN",
+              "local": "Antalya",
+              "dataInicio": "12-04-2019",
+              "dataFim": "14-04-2019",
+              "participantes": null
+            },
             {
               "nome": "Conferência contra o Terrorrismo - Presidência da OSCE 2019",
               "tipo": "REN",

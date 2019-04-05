@@ -1617,6 +1617,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112063",
+              "numeroAudicao": "107-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição dos peticionários no âmbito da Petição n.º 437/XIII/3ª",
+              "entidades": "Peticionários - Petição 437/XIII/3ª - André Lourenço e Silva",
+              "data": "2019-04-03"
+            },
+            {
               "IDAudicao": "111951",
               "numeroAudicao": "106-CAM-XIII",
               "legislatura": "XIII",
@@ -2574,6 +2583,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112065",
+              "numeroAudicao": "302-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Dra. Maria Margarida de Lucena de Castelo Branco Corrêa de Aguiar, no âmbito da proposta de designação para o cargo de Presidente do Conselho de Administração da ASF.",
+              "entidades": "Dra. Margarida Corrêa de Aguiar",
+              "data": "2019-04-04"
+            },
             {
               "IDAudicao": "112039",
               "numeroAudicao": "301-COFMA-XIII",
@@ -6065,6 +6083,24 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112071",
+              "numeroAudicao": "6-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do ex-Secretário da Mesa da Assembleia Geral da Caixa Geral de Depósitos, Dr. João Dias Garcia.",
+              "entidades": "Dr. João Dias Garcia",
+              "data": "2019-04-04"
+            },
+            {
+              "IDAudicao": "112064",
+              "numeroAudicao": "5-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do ex-Presidente da Comissão de Auditoria da Caixa Geral de Depósitos, Prof. Eduardo Paz Ferreira.",
+              "entidades": "Professor Eduardo Paz Ferreira",
+              "data": "2019-04-04"
+            },
             {
               "IDAudicao": "112034",
               "numeroAudicao": "4-II-CPIRCGDGB-XIII",
@@ -12155,6 +12191,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112069",
+              "numeroAudicao": "35-CPITANCOS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Major Vasco Brazão",
+              "entidades": null,
+              "data": "2019-04-04"
+            },
+            {
               "IDAudicao": "112048",
               "numeroAudicao": "34-CPITANCOS-XIII",
               "legislatura": "XIII",
@@ -12195,7 +12240,7 @@
               "numeroAudicao": "30-CPITANCOS-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição do Tenente Coronel Luís Sequeira - GNR de Faro",
+              "assunto": "Audição do Tenente Coronel Luís Sequeira",
               "entidades": null,
               "data": "2019-03-28"
             },
@@ -14191,7 +14236,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Sobre  a «suspensão das relações institucionais» entre a Ordem e o Ministério da Saúde",
-              "entidades": null,
+              "entidades": "Ordem dos Enfermeiros",
               "data": "2019-04-03"
             },
             {
@@ -17343,6 +17388,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112061",
+              "numeroAudicao": "159-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Professor Doutor Álvaro Santos Pereira, na qualidade de relator do relatório da OCDE sobre as perspetivas económicas para Portugal - Economic Survey - na parte que se refere à reforma da justiça e à corrupção [a requerimento do PSD]",
+              "entidades": "Professor Doutor Álvaro Santos Pereira",
+              "data": "2019-04-03"
+            },
             {
               "IDAudicao": "112042",
               "numeroAudicao": "158-CACDLG-XIII",
@@ -27268,6 +27322,16 @@
       "ArrayOfPt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "112059",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-31",
+              "dataFim": "2019-04-02",
+              "designacao": "visita de trabalho ao longo do Rio Tejo",
+              "localEvento": "Castelo Branco, Abrantes, Montijo",
+              "tipo": "Deslocação"
+            },
             {
               "IDDeslocacao": "111429",
               "legislatura": "XIII",
