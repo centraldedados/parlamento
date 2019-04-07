@@ -8872,18 +8872,6 @@
                   "orgSigla": "GT-NLBS",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6924",
-                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
-                  "orgSigla": "GT-LPMM6A",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "Coordenador "
-                    }
-                  }
                 }
               ]
             }
@@ -12771,13 +12759,6 @@
                   "orgId": "6864",
                   "orgDes": "Grupo de Trabalho - Autonomia das Instituições (PJL 997/XIII/4ª)",
                   "orgSigla": "GT-AI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6924",
-                  "orgDes": "Grupo de Trabalho - Limites na Prescrição de Medicamentos a Menores de 6 anos (PJL 984/XIII/3ª/PAN)",
-                  "orgSigla": "GT-LPMM6A",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 },
@@ -33909,6 +33890,13 @@
                   "orgId": "5604",
                   "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
                   "orgSigla": "GT-AIAAO",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7184",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

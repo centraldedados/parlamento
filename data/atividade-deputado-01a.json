@@ -5047,6 +5047,36 @@
           }
         },
         "deputado": {
+          "depId": "2741",
+          "depCadId": "2982",
+          "depNomeParlamentar": "FERNANDO RORIZ",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "967",
+              "gpSigla": "PPD",
+              "gpDtInicio": "1976-06-03"
+            }
+          },
+          "depCPId": "3",
+          "depCPDes": "BRAGA",
+          "legDes": "IA",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
+              "sioDes": "Efetivo",
+              "sioDtInicio": "1976-06-03",
+              "sioDtFim": "1980-01-02"
+            }
+          },
+          "depNomeCompleto": "FERNANDO JOSÉ SEQUEIRA RORIZ"
+        }
+      },
+      {
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null
+          }
+        },
+        "deputado": {
           "depId": "5071",
           "depCadId": "3770",
           "depNomeParlamentar": "FERNANDO SIMÕES",

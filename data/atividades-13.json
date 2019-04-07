@@ -7518,6 +7518,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112082",
+              "numeroAudicao": "257-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Aplicação do PREVPAP (requerimento do BE)",
+              "entidades": "Comissão Coordenadora do Programa de Regularização Extraordinária dos Vínculos Precários na Administração Pública e no setor empresarial do Estado",
+              "data": "2019-04-04"
+            },
+            {
               "IDAudicao": "112052",
               "numeroAudicao": "256-CEIOP-XIII",
               "legislatura": "XIII",
@@ -30559,6 +30568,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112077",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-31",
+              "dataFim": "2019-04-04",
+              "designacao": "Visita de Trabalho de uma Delegação da Comissão de Trabalho e Segurança Social à Região Autónoma dos Açores",
+              "localEvento": "Região Autónoma dos Açores",
+              "tipo": "Deslocação"
+            },
+            {
               "IDDeslocacao": "110768",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -31017,6 +31036,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112081",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-03",
+              "dataFim": "2019-04-03",
+              "designacao": "Encontro com a Embaixadora da Roménia",
+              "localEvento": "Embaixada- Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112028",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -31042,7 +31071,7 @@
               "sessaoLegislativa": "4",
               "dataIni": "2019-03-13",
               "dataFim": "2019-02-13",
-              "designacao": "Embaixador do Estado da Palestina",
+              "designacao": "Encontro Embaixador do Estado da Palestina",
               "localEvento": "Embaixada, Lisboa",
               "tipo": "Representação"
             },
@@ -31087,16 +31116,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110796",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-12-06",
-              "dataFim": "2018-12-06",
-              "designacao": "XII Fórum Parlamentar sobre Inteligência e Segurança",
-              "localEvento": "Washington",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110869",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -31104,6 +31123,16 @@
               "dataFim": "2018-12-06",
               "designacao": "Seminário Prevenir e Proteger - Uma Abordagem Integrada dos Conflitos e Crises Externos",
               "localEvento": "MNE - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110796",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-12-06",
+              "dataFim": "2018-12-06",
+              "designacao": "XII Fórum Parlamentar sobre Inteligência e Segurança",
+              "localEvento": "Washington",
               "tipo": "Representação"
             },
             {
@@ -31187,16 +31216,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110482",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-10-11",
-              "dataFim": "2018-10-13",
-              "designacao": "Conferência Interparlamentar sobre Política Externa de Segurança Comum (PESC) e Política Comum de Segurança e Defesa (PCSD)",
-              "localEvento": "Viena - Áustria",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110483",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -31207,13 +31226,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110425",
+              "IDDeslocacao": "110482",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "dataIni": "2018-10-10",
-              "dataFim": "2018-10-11",
-              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-              "localEvento": "Bruxelas",
+              "dataIni": "2018-10-11",
+              "dataFim": "2018-10-13",
+              "designacao": "Conferência Interparlamentar sobre Política Externa de Segurança Comum (PESC) e Política Comum de Segurança e Defesa (PCSD)",
+              "localEvento": "Viena - Áustria",
               "tipo": "Representação"
             },
             {
@@ -31225,6 +31244,16 @@
               "designacao": "Visita de trabalho ao Comando de Operações da Força Aérea",
               "localEvento": "Lisboa",
               "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "110425",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-10",
+              "dataFim": "2018-10-11",
+              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+              "localEvento": "Bruxelas",
+              "tipo": "Representação"
             },
             {
               "IDDeslocacao": "110446",
@@ -34803,6 +34832,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112080",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-05",
+              "dataFim": "2019-04-05",
+              "designacao": "III Congresso Internacional Violência, Crime e Desvio - debate sobre \" Mediatização da Justiça ou Justiça Mediática? \"",
+              "localEvento": "Auditório da Universidade Fernando Pessoa, no Porto",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "112078",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-04",
+              "dataFim": "2019-04-04",
+              "designacao": "V Encontro Internacional de Causas e Valores da Humanidade - Terra Justa [Dia dedicado à Obra Vicentina Auxílio aos Reclusos - OVAR]",
+              "localEvento": "Teatro/Cinema de Fafe",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111978",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -35483,16 +35532,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "104476",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-03-14",
-              "dataFim": "2017-03-14",
-              "designacao": "Visita de trabalho ao Conselho Superior da Magistratura",
-              "localEvento": "Conselho Superior da Magistratura",
-              "tipo": "Deslocação"
-            },
-            {
               "IDDeslocacao": "104520",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -35501,6 +35540,16 @@
               "designacao": "Posse do Presidente e Membros da Comissão de Acesso aos Documentos Administrativos (CADA)",
               "localEvento": "Sala de Visitas da Presidência da Assembleia da República",
               "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "104476",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-03-14",
+              "dataFim": "2017-03-14",
+              "designacao": "Visita de trabalho ao Conselho Superior da Magistratura",
+              "localEvento": "Conselho Superior da Magistratura",
+              "tipo": "Deslocação"
             },
             {
               "IDDeslocacao": "104353",
@@ -35663,16 +35712,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "103070",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2016-10-11",
-              "dataFim": "2016-10-12",
-              "designacao": "Reunião da Organização para a Cooperação e Desenvolvimento Económico - Rede Global Parlamentar",
-              "localEvento": "França - Paris",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "103066",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -35680,6 +35719,16 @@
               "dataFim": "2016-10-11",
               "designacao": "Jantar em honra dos Procuradores-Gerais e Fiscales Generales por ocasião da XXIV Assembleia Geral Ordinária da Associação Ibero-americana de Ministério Públicos e do XIV Encontro de Procuradores-Gerais da Comunidade dos países de Língua Portuguesa",
               "localEvento": "Palácio Foz - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "103070",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2016-10-11",
+              "dataFim": "2016-10-12",
+              "designacao": "Reunião da Organização para a Cooperação e Desenvolvimento Económico - Rede Global Parlamentar",
+              "localEvento": "França - Paris",
               "tipo": "Representação"
             },
             {

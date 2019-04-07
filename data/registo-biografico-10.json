@@ -19057,18 +19057,27 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6684",
-                "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
-                "orgSigla": "GT-RP",
-                "legDes": "XIII",
-                "timDes": "Efetivo",
-                "cargoDes": {
-                  "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                    "tiaDes": "Coordenador "
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6684",
+                  "orgDes": "Grupo de Trabalho - Resíduos de Plástico",
+                  "orgSigla": "GT-RP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
                   }
+                },
+                {
+                  "orgId": "7184",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgSigla": "GT-ICTOH",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
-              }
+              ]
             }
           }
         },
@@ -49989,6 +49998,13 @@
                   "orgId": "5604",
                   "orgDes": "Grupo de Trabalho - Avaliação do Impacto da Aplicação do Acordo Ortográfico de 1990.",
                   "orgSigla": "GT-AIAAO",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7184",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

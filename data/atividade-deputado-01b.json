@@ -3636,6 +3636,36 @@
           }
         },
         "deputado": {
+          "depId": "2987",
+          "depCadId": "3640",
+          "depNomeParlamentar": "FERNANDO RAIMUNDO",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "971",
+              "gpSigla": "PSD",
+              "gpDtInicio": "1980-01-03"
+            }
+          },
+          "depCPId": "1",
+          "depCPDes": "AVEIRO",
+          "legDes": "IB",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
+              "sioDes": "Efetivo",
+              "sioDtInicio": "1980-01-03",
+              "sioDtFim": "1980-11-12"
+            }
+          },
+          "depNomeCompleto": "FERNANDO RAIMUNDO RODRIGUES"
+        }
+      },
+      {
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null
+          }
+        },
+        "deputado": {
           "depId": "3008",
           "depCadId": "2982",
           "depNomeParlamentar": "FERNANDO RORIZ",
@@ -8997,6 +9027,36 @@
             }
           },
           "depNomeCompleto": "JÚLIO FRANCISCO MIRANDA CALHA"
+        }
+      },
+      {
+        "AtividadeDeputadoList": {
+          "pt_gov_ar_wsar_objectos_ActividadeOut": {
+            "rel": null
+          }
+        },
+        "deputado": {
+          "depId": "3077",
+          "depCadId": "229",
+          "depNomeParlamentar": "NARANA COISSORÓ",
+          "depGP": {
+            "pt_ar_wsgode_objectos_DadosSituacaoGP": {
+              "gpId": "974",
+              "gpSigla": "CDS",
+              "gpDtInicio": "1980-01-03"
+            }
+          },
+          "depCPId": "11",
+          "depCPDes": "LISBOA",
+          "legDes": "IB",
+          "depSituacao": {
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
+              "sioDes": "Efetivo",
+              "sioDtInicio": "1980-01-03",
+              "sioDtFim": "1980-11-12"
+            }
+          },
+          "depNomeCompleto": "NARANA SINAI COISSORÓ"
         }
       },
       {
