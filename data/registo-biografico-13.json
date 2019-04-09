@@ -11042,13 +11042,6 @@
                       "tiaDes": "Coordenador "
                     }
                   }
-                },
-                {
-                  "orgId": "7144",
-                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
-                  "orgSigla": "GT-LCE",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -13422,6 +13415,13 @@
                   "orgId": "7104",
                   "orgDes": "Grupo de Trabalho  - Programa Nacional de Investimentos 2030",
                   "orgSigla": "GT-PNI2030",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7144",
+                  "orgDes": "Grupo de Trabalho - Lei das Comunicações Electrónicas",
+                  "orgSigla": "GT-LCE",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -33668,33 +33668,7 @@
               "gpDes": "Partido Socialista"
             }
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4526",
-                  "orgDes": "Comissão de Defesa Nacional",
-                  "orgSigla": "CDN",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4527",
-                  "orgDes": "Comissão de Assuntos Europeus",
-                  "orgSigla": "CAE",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4529",
-                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
-                  "orgSigla": "CEIOP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "2051",

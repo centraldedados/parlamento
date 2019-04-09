@@ -23344,6 +23344,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "112087",
+              "numeroAudiencia": "51-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apresentação de Cumprimentos",
+              "entidades": "Bujar Osmani - Vive Primeiro Ministro da Macedónia do Norte",
+              "data": "2019-04-05",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "112006",
               "numeroAudiencia": "50-CAE-XIII",
               "legislatura": "XIII",
@@ -29494,6 +29504,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112085",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-06",
+              "dataFim": "2019-04-06",
+              "designacao": "Cerimónia do “Dia Nacional do Combatente “",
+              "localEvento": " Mosteiro de Santa Maria da Vitória, na Batalha",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "112084",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-04",
+              "dataFim": "2019-04-04",
+              "designacao": "Cerimónia Militar Evocativa do septuagésimo aniversário da NATO",
+              "localEvento": " Padrão dos Descobrimentos, na Av. de Brasília, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112040",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29504,16 +29534,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111825",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-03-17",
-              "dataFim": "2019-03-17",
-              "designacao": "Jantar de gala - visita oficial do JEME (CEME Espanhol) a Portugal, a convite do Chefe do Estado-Maior do Exército",
-              "localEvento": "Embaixada de Espanha, em Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111868",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29521,6 +29541,16 @@
               "dataFim": "2019-03-17",
               "designacao": "Almoço a bordo do submarino Britânico Astute",
               "localEvento": "Cais Militar do Portinho da Costa, em Almada",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111825",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-17",
+              "dataFim": "2019-03-17",
+              "designacao": "Jantar de gala - visita oficial do JEME (CEME Espanhol) a Portugal, a convite do Chefe do Estado-Maior do Exército",
+              "localEvento": "Embaixada de Espanha, em Lisboa",
               "tipo": "Representação"
             },
             {
@@ -32380,6 +32410,46 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112092",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-02",
+              "dataFim": "2019-04-02",
+              "designacao": "Reunião Interparlamentar organizada pela Comissão AFET do Parlamento Europeu",
+              "localEvento": "Bruxelas",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "112090",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-01",
+              "dataFim": "2019-04-02",
+              "designacao": "Conferência Interparlamentar sobre o Futuro da União Europeia",
+              "localEvento": "Bucarest",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "112089",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-19",
+              "dataFim": "2019-03-20",
+              "designacao": "Reunião Interparlamentar sobre Política Agrícola Comum e Política de Coesão",
+              "localEvento": "Bucarest",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "112088",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-07",
+              "dataFim": "2019-03-08",
+              "designacao": "Conferência Interparlamentar sobre Política Externa de Segurança Comum (PESC) e Política Comum de Segurança e Defesa (PCSD)",
+              "localEvento": "Bucareste - Roménia",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111577",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -32480,22 +32550,22 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110492",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-10-10",
-              "dataFim": "2018-10-11",
-              "designacao": "Conferência de Alto Nível sobre o Futuro das Missões de Observação Eleitoral",
-              "localEvento": "Bruxelas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110490",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "dataIni": "2018-10-10",
               "dataFim": "2018-10-10",
               "designacao": "Reunião Interparlamentar organizada pela Comissão AFCO do Parlamento Europeu",
+              "localEvento": "Bruxelas",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110492",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-10",
+              "dataFim": "2018-10-11",
+              "designacao": "Conferência de Alto Nível sobre o Futuro das Missões de Observação Eleitoral",
               "localEvento": "Bruxelas",
               "tipo": "Representação"
             },
