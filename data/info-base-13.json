@@ -6073,8 +6073,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2019-04-09"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2019-04-06"
+                "sioDtInicio": "2019-04-06",
+                "sioDtFim": "2019-04-09"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -8048,7 +8053,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-04-08"
+                "gpDtFim": "2019-04-09"
               },
               {
                 "gpId": "4465",
@@ -8290,8 +8295,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-04-09"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2019-04-06"
+                "sioDtInicio": "2019-04-06",
+                "sioDtFim": "2019-04-09"
               },
               {
                 "sioDes": "Efetivo Temporário",
