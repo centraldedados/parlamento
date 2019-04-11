@@ -15,7 +15,7 @@
               "numeroAudicao": "178-CAOTDPLH-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "No âmbito da Lei do Direito de Petição - Petição 587/XIII-4ª",
+              "assunto": "No âmbito da Lei do Direito de Petição - Petição 586/XIII-4ª",
               "entidades": "Silvia Sequeira e David Nascimento",
               "data": "2019-03-20"
             },
@@ -2583,6 +2583,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112117",
+              "numeroAudicao": "303-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Professor Doutor Manuel de Herédia Caldeira Cabral, no âmbito da proposta de designação para o cargo de Presidente do Conselho de Administração da ASF.",
+              "entidades": "Professor Doutor Manuel de Herédia Caldeira Cabral",
+              "data": "2019-04-10"
+            },
             {
               "IDAudicao": "112065",
               "numeroAudicao": "302-COFMA-XIII",
@@ -7517,6 +7526,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112105",
+              "numeroAudicao": "258-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "O acesso à atividade e ao mercado dos transportes em táxi (a req do PSD); o colapso da EN255 (Borba/Vila Viçosa) (req do PEV, do BE e do PCP); a exploração de lítio no Barroso (a requerimento do PCP); a assinatura do acordo entre o Governo e a ANA - Aeroportos de Portugal, S.A., para construção do novo aeroporto no Montijo (a requerimento do BE)",
+              "entidades": "MIN. DO AMBIENTE E DA TRANSIÇÃO ENERGÉTICA;S.E. ADJUNTO E DA MOBILIDADE;S.E. DA ENERGIA",
+              "data": "2019-04-10"
+            },
             {
               "IDAudicao": "112082",
               "numeroAudicao": "257-CEIOP-XIII",
@@ -14248,6 +14266,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112109",
+              "numeroAudicao": "201-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre «a suspensão das relações institucionais com a Ordem dos Enfermeiros»",
+              "entidades": "S.E. ADJUNTO DA SAÚDE",
+              "data": "2019-04-10"
+            },
             {
               "IDAudicao": "112037",
               "numeroAudicao": "200-CS-XIII",
@@ -24486,6 +24513,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "112108",
+              "numeroAudiencia": "83-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre  «o sistema de saúde português, as competências em matéria de digitalização, em que fase da transição digital se encontra, consultas médicas online, o aproveitamento dos dados dos pacientes mediante os serviços digitais e qual a aceitação por parte da população, entre outros».",
+              "entidades": "Delegação de Deputados da Comissão dos Assuntos Laborais, Sociais e Integração, do Parlamento do Estado Federado da Saxónia - Anhalt",
+              "data": "2019-04-10",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "111626",
               "numeroAudiencia": "82-CS-XIII",
               "legislatura": "XIII",
@@ -26652,6 +26689,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "112070",
+              "numeroAudiencia": "70-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Exposição da situação do Senhor Jordi Cuixart, detido em Espanha e acusado de sedição política",
+              "entidades": null,
+              "data": "2019-04-04",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111965",
               "numeroAudiencia": "69-CACDLG-XIII",
@@ -29513,6 +29560,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112107",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-10",
+              "dataFim": "2019-04-10",
+              "designacao": "Conferência Internacional “Novos Desafios e Oportunidades para a Indústria da Defesa Nacional”",
+              "localEvento": "Associação Industrial Portuguesa, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112085",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29543,16 +29600,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111868",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-03-17",
-              "dataFim": "2019-03-17",
-              "designacao": "Almoço a bordo do submarino Britânico Astute",
-              "localEvento": "Cais Militar do Portinho da Costa, em Almada",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111825",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29560,6 +29607,16 @@
               "dataFim": "2019-03-17",
               "designacao": "Jantar de gala - visita oficial do JEME (CEME Espanhol) a Portugal, a convite do Chefe do Estado-Maior do Exército",
               "localEvento": "Embaixada de Espanha, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111868",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-17",
+              "dataFim": "2019-03-17",
+              "designacao": "Almoço a bordo do submarino Britânico Astute",
+              "localEvento": "Cais Militar do Portinho da Costa, em Almada",
               "tipo": "Representação"
             },
             {

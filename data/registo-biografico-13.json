@@ -2130,31 +2130,31 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26520",
+                "habId": "27800",
                 "habDes": "1º Ciclo",
                 "habTipoId": "9",
                 "habEstado": "C"
               },
               {
-                "habId": "26521",
+                "habId": "27801",
                 "habDes": "2º Ciclo",
                 "habTipoId": "10",
                 "habEstado": "C"
               },
               {
-                "habId": "26522",
+                "habId": "27802",
                 "habDes": "3º Ciclo",
                 "habTipoId": "11",
                 "habEstado": "C"
               },
               {
-                "habId": "26523",
+                "habId": "27803",
                 "habDes": "Ensino Secundário",
                 "habTipoId": "12",
                 "habEstado": "C"
               },
               {
-                "habId": "26524",
+                "habId": "27804",
                 "habDes": "Gestão - ISEG",
                 "habTipoId": "13",
                 "habEstado": "F"
@@ -2164,51 +2164,63 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30276",
+                "funId": "31536",
                 "funDes": "Presidente da Assembleia Municipal do Barreiro",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30277",
+                "funId": "31537",
                 "funDes": "Eleito na Assembleia Municipal do Barreiro (Desde 2009)",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30278",
+                "funId": "31538",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Palestina",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30279",
+                "funId": "31539",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Irão",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "30280",
+                "funId": "31540",
                 "funDes": "Membro do Grupo Parlamentar de Amizade Portugal - Japão",
                 "funOrdem": "5",
                 "funAntiga": "N"
               },
               {
-                "funId": "30281",
-                "funDes": "Membro da Comissão Permanente de Educação, Cultura e Associativismo da A.M.B. (2009-2017)",
+                "funId": "31541",
+                "funDes": "Membro do Conselho Municipal de Segurança do Município do Barreiro",
                 "funOrdem": "6",
-                "funAntiga": "S"
+                "funAntiga": "N"
               },
               {
-                "funId": "30282",
-                "funDes": "Membro do Conselho Consultivo da Reserva Natural da Mata da Machada (2013-2017)",
+                "funId": "31542",
+                "funDes": "Membro do Grupo de Acompanhamento para a Revisão do PDM do Barreiro",
                 "funOrdem": "7",
+                "funAntiga": "N"
+              },
+              {
+                "funId": "31543",
+                "funDes": "Membro da Comissão Permanente de Educação, Cultura e Associativismo da A.M.B. (2009-2017)",
+                "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "30283",
+                "funId": "31544",
+                "funDes": "Membro do Conselho Consultivo da Reserva Natural da Mata da Machada (2013-2017)",
+                "funOrdem": "9",
+                "funAntiga": "S"
+              },
+              {
+                "funId": "31545",
                 "funDes": "Membro da Comissão de Toponímia da A.M.B (2013-2017)",
-                "funOrdem": "8",
+                "funOrdem": "10",
                 "funAntiga": "S"
               }
             ]
@@ -2699,7 +2711,7 @@
                 },
                 {
                   "orgId": "7184",
-                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humana (PPL nº 142/XIII/3ª)",
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -6395,7 +6407,7 @@
                 },
                 {
                   "orgId": "7184",
-                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humana (PPL nº 142/XIII/3ª)",
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -11911,7 +11923,7 @@
                   "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
                   "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
-                  "timDes": "Suplente"
+                  "timDes": "Efetivo"
                 }
               ]
             },
@@ -15425,7 +15437,7 @@
                   "orgDes": "II Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco",
                   "orgSigla": "II-CPIRCGDGB",
                   "legDes": "XIII",
-                  "timDes": "Efetivo"
+                  "timDes": "Suplente"
                 }
               ]
             },
@@ -16729,7 +16741,7 @@
                 },
                 {
                   "orgId": "7184",
-                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humana (PPL nº 142/XIII/3ª)",
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -19722,7 +19734,7 @@
                 },
                 {
                   "orgId": "7184",
-                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humana (PPL nº 142/XIII/3ª)",
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo",
@@ -33668,7 +33680,33 @@
               "gpDes": "Partido Socialista"
             }
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4526",
+                  "orgDes": "Comissão de Defesa Nacional",
+                  "orgSigla": "CDN",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4527",
+                  "orgDes": "Comissão de Assuntos Europeus",
+                  "orgSigla": "CAE",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4529",
+                  "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
+                  "orgSigla": "CEIOP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "2051",
@@ -37252,13 +37290,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "26560",
+                "habId": "27820",
                 "habDes": "Psicologia Clínica",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "26561",
+                "habId": "27821",
                 "habDes": "Pós Graduação",
                 "habTipoId": "16"
               }
@@ -38482,7 +38520,7 @@
                 },
                 {
                   "orgId": "7184",
-                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humano (PPL nº 142/XIII/3ª)",
+                  "orgDes": "Grupo de Trabalho - Investigação em Células e Tecidos de Origem Humana (PPL nº 142/XIII/3ª)",
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
@@ -41133,9 +41171,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "9308",
+              "rgiId": "9388",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2019-03-27",
+              "rgiDataVersao": "2019-04-10",
               "rgiRegimeBensId": "3",
               "rgiRegimeBensDes": "Separação geral de bens",
               "rgiCargoDes": "Deputado à XIII Legislatura",
@@ -41146,16 +41184,28 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "9213",
+                    "rgaId": "9275",
                     "rgaActividade": "Eleito na Assembleia Municipal do Barreiro",
                     "rgaDataInicio": "2013-11-19",
                     "rgaDataFim": "2017-10-22",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "9214",
-                    "rgaActividade": "Eleito Presidente da Assembleia Municipal do Barreiro",
+                    "rgaId": "9276",
+                    "rgaActividade": "Comentador nas publicações do Grupo Confina.",
+                    "rgaDataInicio": "2019-04-01",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9277",
+                    "rgaActividade": "Presidente da Assembleia Municipal do Barreiro",
                     "rgaDataInicio": "2017-10-22",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9278",
+                    "rgaActividade": "Membro do Conselho de Acompanhamento para a Revisão do PDM do Barreiro",
+                    "rgaDataInicio": "2019-03-28",
                     "rgaRemunerada": "N"
                   }
                 ]
@@ -48385,26 +48435,26 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "4388",
+              "rgiId": "9368",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-16",
+              "rgiDataVersao": "2019-04-10",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República",
               "rgiCargoData": "2015",
               "rgiApoiosBeneficios": "Nada a declarar.",
-              "rgiServicosPrestados": null,
+              "rgiServicosPrestados": "Colaboração pontual com a SIC Notícias como comentador político (programa Esquerda-Direita)",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "4433",
+                    "rgaId": "9273",
                     "rgaActividade": "Advocacia (inscrição suspensa)\n",
                     "rgaDataInicio": "2003",
                     "rgaDataFim": "2014",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "4434",
+                    "rgaId": "9274",
                     "rgaActividade": "Deputado à Assembleia da República",
                     "rgaDataInicio": "2007-02-01",
                     "rgaDataFim": "2015-10-23",
@@ -50982,34 +51032,34 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "9248",
+              "rgiId": "9428",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2019-03-20",
+              "rgiDataVersao": "2019-04-10",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputada",
               "rgiCargoData": "2019",
               "rgiApoiosBeneficios": "Senhas de presença - Vereadora com estatuto de oposição",
-              "rgiServicosPrestados": "Pontualmente exerço funções como formadora.",
+              "rgiServicosPrestados": "Nada a Declarar",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "9153",
+                    "rgaId": "9313",
                     "rgaActividade": "Coordenadora da Rede Local de Intervenção Social",
                     "rgaDataInicio": "2015-12-01",
                     "rgaDataFim": "2018-11-30",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "9154",
+                    "rgaId": "9314",
                     "rgaActividade": "Formadora",
                     "rgaDataInicio": "2018-01-01",
                     "rgaDataFim": "2018-07-31",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "9155",
+                    "rgaId": "9315",
                     "rgaActividade": "Vereadora com estatuto de oposição",
                     "rgaDataInicio": "2017-10-21",
                     "rgaDataFim": "2021-10-21",
@@ -51020,7 +51070,7 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "7418",
+                    "rgcId": "7478",
                     "rgcCargo": "Secretária",
                     "rgcEntidade": "Conferência Mista de São Vicente de Paulo",
                     "rgcAreaActividade": "Solidariedade",
@@ -51029,7 +51079,7 @@
                     "rgcDataFim": "2019-12-01"
                   },
                   {
-                    "rgcId": "7419",
+                    "rgcId": "7479",
                     "rgcCargo": "Presidente da Mesa da Assembleia",
                     "rgcEntidade": "Associação Desportiva Juventude Vila Praia",
                     "rgcAreaActividade": "Desportiva",
@@ -51038,7 +51088,7 @@
                     "rgcDataFim": "2019-12-31"
                   },
                   {
-                    "rgcId": "7420",
+                    "rgcId": "7480",
                     "rgcCargo": "Vice presidente ",
                     "rgcEntidade": "Associação de Pais e Encarregados de Educação das Escolas do vale do Âncora",
                     "rgcAreaActividade": "Associativa",
@@ -52704,7 +52754,29 @@
           "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALMEIDA FERNANDES LOUREIRO",
           "cadActividadeProfissional": "Aposentada",
           "cadEstadoCivilCod": "6",
-          "cadEstadoCivilDes": "Viúvo(a)"
+          "cadEstadoCivilDes": "Viúvo(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9408",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2019-04-10",
+              "rgiRegimeBensId": "0",
+              "rgiCargoDes": "Deputada",
+              "rgiCargoData": "2018",
+              "rgiApoiosBeneficios": "senha de presença",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": {
+                  "rgaId": "9293",
+                  "rgaActividade": "Vogal do Executivo da Junta de Freguesia de Rio Tinto",
+                  "rgaDataInicio": "2017-10-20",
+                  "rgaRemunerada": "N"
+                }
+              },
+              "rgiCadId": "4136"
+            }
+          }
         },
         {
           "cadId": "4051",
