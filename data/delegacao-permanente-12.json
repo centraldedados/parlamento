@@ -357,7 +357,15 @@
               "local": "Riade",
               "dataInicio": "18-01-2016",
               "dataFim": "20-01-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
             },
             {
               "nome": "61ª Sessão Anual da Assembleia Parlamentar da NATO",

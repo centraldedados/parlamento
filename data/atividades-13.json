@@ -11,6 +11,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112144",
+              "numeroAudicao": "179-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "nos termos do n.º 2 do artigo 104.º do RAR",
+              "entidades": "MIN.  DA   ADMINISTRAÇÃO  INTERNA;S.E. DAS AUTARQUIAS LOCAIS",
+              "data": "2019-04-10"
+            },
+            {
               "IDAudicao": "111900",
               "numeroAudicao": "178-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -6101,6 +6110,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112135",
+              "numeroAudicao": "8-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do ex-Diretor responsável pela Direção de Gestão de Risco da Caixa Geral de Depósitos, Dr. Vasco Orey.",
+              "entidades": "Dr. Vasco Orey",
+              "data": "2019-04-11"
+            },
             {
               "IDAudicao": "112120",
               "numeroAudicao": "7-II-CPIRCGDGB-XIII",
@@ -35022,6 +35040,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112155",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-10",
+              "dataFim": "2019-04-10",
+              "designacao": "Colóquio sobre \"A Descriminalização dos Atos de Comunicação ao Público de Fonogramas e Videogramas Editados Comercialmente\"",
+              "localEvento": "Auditório Antínio Almeida Santos",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112080",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -35722,16 +35750,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "104520",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2017-03-14",
-              "dataFim": "2017-03-14",
-              "designacao": "Posse do Presidente e Membros da Comissão de Acesso aos Documentos Administrativos (CADA)",
-              "localEvento": "Sala de Visitas da Presidência da Assembleia da República",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "104476",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -35740,6 +35758,16 @@
               "designacao": "Visita de trabalho ao Conselho Superior da Magistratura",
               "localEvento": "Conselho Superior da Magistratura",
               "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "104520",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2017-03-14",
+              "dataFim": "2017-03-14",
+              "designacao": "Posse do Presidente e Membros da Comissão de Acesso aos Documentos Administrativos (CADA)",
+              "localEvento": "Sala de Visitas da Presidência da Assembleia da República",
+              "tipo": "Representação"
             },
             {
               "IDDeslocacao": "104353",
