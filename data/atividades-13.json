@@ -6187,6 +6187,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112191",
+              "numeroAudicao": "262-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Petição 562/XIII/4ª - Pela requalificação URGENTE da Estrada Nacional 225",
+              "entidades": "Peticionários",
+              "data": "2019-04-16"
+            },
+            {
+              "IDAudicao": "112190",
+              "numeroAudicao": "261-CEIOP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sinistralidade rodoviária (req do CDS-PP)",
+              "entidades": "PRP - Prevenção Rodoviária Portuguesa",
+              "data": "2019-04-16"
+            },
+            {
               "IDAudicao": "112172",
               "numeroAudicao": "260-CEIOP-XIII",
               "legislatura": "XIII",
@@ -15437,6 +15455,33 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112199",
+              "numeroAudicao": "153-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro da Educação a requerimento do Grupo Parlamentar do PCP,  sobre  a falta de pessoal não docente nas escolas  e no âmbito do Artº 104.º, n.º 2 do Regimento da Assembleia da República.",
+              "entidades": "MIN.  DA   EDUCAÇÃO;S.E.  DA  EDUCAÇÃO;S.E. ADJUNTA E DA EDUCAÇÃO",
+              "data": "2019-04-24"
+            },
+            {
+              "IDAudicao": "112198",
+              "numeroAudicao": "152-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro da Ciência, Tecnologia e Ensino Superior no âmbito do Artº 104.º, n.º 2 do Regimento da Assembleia da República.",
+              "entidades": "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR;S.E. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR",
+              "data": "2019-04-23"
+            },
+            {
+              "IDAudicao": "112189",
+              "numeroAudicao": "151-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "assunto": "Audição da Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais, por requerimento do PCP, sobre a falta de pessoal não docente nas escolas",
+              "entidades": "Artue Sequeira; Carlos Fontes; Lurdes Ribeiro e Luis Esteves.",
+              "data": "2019-04-16"
+            },
+            {
               "IDAudicao": "112031",
               "numeroAudicao": "150-CEC-XIII",
               "legislatura": "XIII",
@@ -16790,6 +16835,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112179",
+              "numeroAudicao": "202-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Esclarecimento cabal sobre as causas do aumento da taxa de mortalidade infantil verificado em 2018 e, bem assim, sobre as eventuais medidas tomadas para contrariar o referido aumento», e a requerimento oral do PSD, sobre «a concretização da norma orçamental relativa à inclusão de três vacinas no Plano Nacional de Vacinação",
+              "entidades": "Diretora Geral de Saúde",
+              "data": "2019-04-16"
+            },
             {
               "IDAudicao": "112109",
               "numeroAudicao": "201-CS-XIII",
@@ -26649,6 +26703,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "112178",
+              "numeroAudiencia": "84-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Sobre questões ligadas aos cuidados paliativos",
+              "entidades": "Associação Portuguesa de Cuidados Paliativos - APCP",
+              "data": "2019-04-16",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "112108",
               "numeroAudiencia": "83-CS-XIII",
               "legislatura": "XIII",
@@ -28807,6 +28871,36 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112206",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-30",
+              "dataFim": "2019-03-30",
+              "designacao": "Visita de Trabalho da Comissão de Agricultura e Mar às Raças Autóctones (30-03-2019)",
+              "localEvento": "Arcos de Valdevez, Cabeceiras de Basto e Mondim de Basto",
+              "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "112203",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-29",
+              "dataFim": "2019-03-29",
+              "designacao": "Visita de Trabalho da Comissão de Agricultura e Mar às Raças Autóctones (29-03-2019)",
+              "localEvento": "Braga",
+              "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "112201",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-28",
+              "dataFim": "2019-03-28",
+              "designacao": "Sessão de Abertura do Seminário \"Rumo à Neutralidade Carbónica - Agricultura: Problema ou Solução\"",
+              "localEvento": "Altice Fórum Braga",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111895",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28937,16 +29031,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111404",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-02-01",
-              "dataFim": "2019-02-01",
-              "designacao": "Encontro Nacional de Técnicos",
-              "localEvento": "Centro Cultural e de Congressos de Aveiro",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111403",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28954,6 +29038,16 @@
               "dataFim": "2019-02-01",
               "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
               "localEvento": "Feira Internacional de Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111404",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-01",
+              "dataFim": "2019-02-01",
+              "designacao": "Encontro Nacional de Técnicos",
+              "localEvento": "Centro Cultural e de Congressos de Aveiro",
               "tipo": "Representação"
             },
             {
@@ -29187,16 +29281,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109655",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-07-05",
-              "dataFim": "2018-07-05",
-              "designacao": "Seminário \"Do Capital Natural ao Valor Estratégico das Áreas Marinhas Protegidas\"",
-              "localEvento": "Auditório da Casa das Histórias no Museu Paula Rego (Cascais)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109656",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -29204,6 +29288,16 @@
               "dataFim": "2018-07-05",
               "designacao": "Sunset With Wine",
               "localEvento": "Sede da ACIBEV (Lisboa)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109655",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-07-05",
+              "dataFim": "2018-07-05",
+              "designacao": "Seminário \"Do Capital Natural ao Valor Estratégico das Áreas Marinhas Protegidas\"",
+              "localEvento": "Auditório da Casa das Histórias no Museu Paula Rego (Cascais)",
               "tipo": "Representação"
             },
             {
@@ -29257,16 +29351,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109157",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-06-06",
-              "dataFim": "2018-06-06",
-              "designacao": "Seminário \"A IMPORTÂNCIA DOS JOVENS AGRICULTORES NO FUTURO DA AGRICULTURA EUROPEIA\"",
-              "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109158",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -29274,6 +29358,16 @@
               "dataFim": "2018-06-06",
               "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
               "localEvento": "CNEMA - Centro de Exposições (Santarém)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109157",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-06-06",
+              "dataFim": "2018-06-06",
+              "designacao": "Seminário \"A IMPORTÂNCIA DOS JOVENS AGRICULTORES NO FUTURO DA AGRICULTURA EUROPEIA\"",
+              "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
               "tipo": "Representação"
             },
             {
@@ -29337,23 +29431,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
+              "IDDeslocacao": "109145",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
-              "tipo": "Representação"
-            },
-            {
-              "IDDeslocacao": "109148",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
-              "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -29367,13 +29451,23 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109145",
+              "IDDeslocacao": "109148",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
+              "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
+              "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109144",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
               "tipo": "Representação"
             },
             {
@@ -34416,6 +34510,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "112204",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-15",
+              "dataFim": "2019-05-15",
+              "designacao": "Conferência - Informação e Desinformação na Era Digital",
+              "localEvento": "Sala do Senado",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "112155",
               "legislatura": "XIII",
