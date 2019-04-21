@@ -11,37 +11,6 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
-              "IDAudicao": "72216",
-              "numeroAudicao": "3-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-06-26"
-            },
-            {
-              "IDAudicao": "72215",
-              "numeroAudicao": "2-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Comunicações",
-              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
-              "data": "2002-06-18"
-            },
-            {
-              "IDAudicao": "72214",
-              "numeroAudicao": "1-OPTC-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "Obras Públicas, Transportes e Habitação",
-              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
-              "data": "2002-05-28"
-            }
-          ]
-        },
-        {
-          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
-            {
               "IDAudicao": "72204",
               "numeroAudicao": "3-ACDLG-IX",
               "legislatura": "IX",
@@ -67,6 +36,37 @@
               "assunto": "SERVIÇO PÚBLICO DE TELEVISÃO",
               "entidades": "Ministro da Presidência, Dr. Nuno Albuquerque Morais Sarmento",
               "data": "2002-05-14"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "72216",
+              "numeroAudicao": "3-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-06-26"
+            },
+            {
+              "IDAudicao": "72215",
+              "numeroAudicao": "2-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Comunicações",
+              "entidades": "Ministro da Economia, Dr. Carlos Manuel Tavares da Silva",
+              "data": "2002-06-18"
+            },
+            {
+              "IDAudicao": "72214",
+              "numeroAudicao": "1-OPTC-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "Obras Públicas, Transportes e Habitação",
+              "entidades": "Ministro das Obras Públicas, Transportes e Habitação, Prof. Doutor Luís Francisco Valente de Oliveira",
+              "data": "2002-05-28"
             }
           ]
         },
@@ -1699,18 +1699,6 @@
     "Audiencias": {
       "ArrayOfPt_gov_ar_objectos_DadosAudienciasComissaoOut": [
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
-            "IDAudiencia": "72227",
-            "numeroAudiencia": "1-OPTC-IX",
-            "legislatura": "IX",
-            "sessaoLegislativa": "1",
-            "assunto": "Aeroporto na OTA e traçado do TGV",
-            "entidades": "Movimento Pró-Aeroporto Na Ota",
-            "data": "2002-07-02",
-            "concedida": "Concedida"
-          }
-        },
-        {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
               "IDAudiencia": "72201",
@@ -1785,28 +1773,16 @@
           ]
         },
         {
-          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
-            {
-              "IDAudiencia": "74217",
-              "numeroAudiencia": "2-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "2",
-              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
-              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
-              "data": "2004-03-02",
-              "concedida": "Concedida"
-            },
-            {
-              "IDAudiencia": "73431",
-              "numeroAudiencia": "1-EURO2004-IX",
-              "legislatura": "IX",
-              "sessaoLegislativa": "1",
-              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
-              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
-              "data": "2003-06-25",
-              "concedida": "Concedida"
-            }
-          ]
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": {
+            "IDAudiencia": "72227",
+            "numeroAudiencia": "1-OPTC-IX",
+            "legislatura": "IX",
+            "sessaoLegislativa": "1",
+            "assunto": "Aeroporto na OTA e traçado do TGV",
+            "entidades": "Movimento Pró-Aeroporto Na Ota",
+            "data": "2002-07-02",
+            "concedida": "Concedida"
+          }
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
@@ -2098,6 +2074,30 @@
               "assunto": " Encerramento da Escola David Mourão Ferreira",
               "entidades": "Comissão de Encarregados de Educação e Corpo Docente da Escola David Mourão-Ferreira",
               "data": "2002-07-16",
+              "concedida": "Concedida"
+            }
+          ]
+        },
+        {
+          "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "74217",
+              "numeroAudiencia": "2-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "2",
+              "assunto": "EMERGENCIA MÉDICA A NÍVEL NACIONAL",
+              "entidades": "Sindicato Nacional dos Profissionais de Farmácia e Paramédicos",
+              "data": "2004-03-02",
+              "concedida": "Concedida"
+            },
+            {
+              "IDAudiencia": "73431",
+              "numeroAudiencia": "1-EURO2004-IX",
+              "legislatura": "IX",
+              "sessaoLegislativa": "1",
+              "assunto": "APRESENTAÇÃO DA FEIRA MUNDIAL DE FUTEBOL-ALLFOOTBALL",
+              "entidades": "ALLFOOTBALL;Dr. Gonçalo da Cunha Ferreira - Director Executivo;Dra. Rita Levezinho - Responsável por Comunicação e Imagem",
+              "data": "2003-06-25",
               "concedida": "Concedida"
             }
           ]
