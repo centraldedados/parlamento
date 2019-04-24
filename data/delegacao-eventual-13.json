@@ -10213,16 +10213,6 @@
         "participantes": null
       },
       {
-        "id": "1953",
-        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-01",
-        "dataFim": "2019-04-30",
-        "participantes": null
-      },
-      {
         "id": "1949",
         "nome": "Participação na Conferência Interparlamentar sobre o Futuro da União Europeia",
         "local": "Bucareste",
@@ -10262,6 +10252,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1953",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-01",
+        "dataFim": "2019-04-30",
+        "participantes": null
       },
       {
         "id": "1950",
@@ -10547,6 +10547,34 @@
             "id": "4209"
           }
         }
+      },
+      {
+        "id": "1961",
+        "nome": "\"Colóquio sobre Turismo, Convenções e Exposições para os Países de Língua Portuguesa do Centro de Formação do Fórum de Macau\"",
+        "local": "Macau",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-23",
+        "dataFim": "2019-05-07",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "CRISTINA JESUS",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "5609"
+          }
+        }
+      },
+      {
+        "id": "1962",
+        "nome": "Participação na conferência | Better regulation: taking stock to take it forward, que se realizará no dia 28 de abril de 2019, em Bruxelas",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-29",
+        "dataFim": "2019-04-29",
+        "participantes": null
       },
       {
         "id": "1956",

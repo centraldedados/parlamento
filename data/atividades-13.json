@@ -1635,6 +1635,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112296",
+              "numeroAudicao": "109-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente da Câmara Municipal de Monchique, Rui André, a Requerimento do CDS-PP para prestar todos os esclarecimentos sobre a reconstrução de casas e apoios aos agricultores/produtores florestais afetados pelo incêndio de Monchique, em agosto de 2018",
+              "entidades": "Dr. Rui André - Presidente da Câmara Municipal de Monchique",
+              "data": "2019-04-23"
+            },
+            {
               "IDAudicao": "112238",
               "numeroAudicao": "108-CAM-XIII",
               "legislatura": "XIII",
@@ -12791,6 +12800,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112260",
+              "numeroAudicao": "143-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição, na sequência do requerimento apresentado pelo Grupo Parlamentar do PSD, do Conselho de Administração da Rádio e Televisão de Portugal, com vista ao esclarecimento dos aspetos relacionados com a situação do continuado agravamento da prestação de serviço público de rádio",
+              "entidades": "Conselho de Administração da RTP",
+              "data": "2019-04-23"
+            },
             {
               "IDAudicao": "112099",
               "numeroAudicao": "142-CCCJD-XIII",
@@ -27962,6 +27980,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "112290",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-03-21",
+              "dataFim": "2019-03-22",
+              "designacao": "Visita de Trabalho da Comissão de Agricultura à XIII Feira do Porco Alentejano",
+              "localEvento": "Ourique",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "111895",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28092,16 +28120,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111403",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-02-01",
-              "dataFim": "2019-02-01",
-              "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
-              "localEvento": "Feira Internacional de Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111404",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28109,6 +28127,16 @@
               "dataFim": "2019-02-01",
               "designacao": "Encontro Nacional de Técnicos",
               "localEvento": "Centro Cultural e de Congressos de Aveiro",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111403",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-01",
+              "dataFim": "2019-02-01",
+              "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
+              "localEvento": "Feira Internacional de Lisboa",
               "tipo": "Representação"
             },
             {
@@ -28442,16 +28470,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109154",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-18",
-              "dataFim": "2018-05-18",
-              "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
-              "localEvento": "Universidade de Aveiro",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109151",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -28459,6 +28477,16 @@
               "dataFim": "2018-05-18",
               "designacao": "Dia do Agricultor 2018",
               "localEvento": "Elvas",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109154",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-18",
+              "dataFim": "2018-05-18",
+              "designacao": "Sessão de Encerramento da Conferência “Desenvolvimento Sustentável do Oceano e Zonas Costeiras”",
+              "localEvento": "Universidade de Aveiro",
               "tipo": "Representação"
             },
             {
@@ -28492,13 +28520,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109145",
+              "IDDeslocacao": "109144",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
               "tipo": "Representação"
             },
             {
@@ -28522,13 +28550,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
+              "IDDeslocacao": "109145",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -28542,16 +28570,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109028",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-04-27",
-              "dataFim": "2018-04-27",
-              "designacao": "FIAPE - Feira Internacional de Agropecuária de Estremoz/2018",
-              "localEvento": "Parque de Feiras de Estremoz",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109009",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -28559,6 +28577,16 @@
               "dataFim": "2018-04-27",
               "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
               "localEvento": "Parque de Feiras e Exposições de Beja",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109028",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-27",
+              "dataFim": "2018-04-27",
+              "designacao": "FIAPE - Feira Internacional de Agropecuária de Estremoz/2018",
+              "localEvento": "Parque de Feiras de Estremoz",
               "tipo": "Representação"
             },
             {
