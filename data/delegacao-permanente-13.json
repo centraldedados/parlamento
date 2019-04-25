@@ -193,7 +193,15 @@
               "local": "Cidade da Praia",
               "dataInicio": "15-04-2019",
               "dataFim": "16-04-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MARCO ANTÓNIO COSTA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "646"
+                }
+              }
             },
             {
               "nome": "Reunião da 2ª Comissão da AP-CPLP",
@@ -1235,6 +1243,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da Comissão de Ciência e Tecnologia (STC)",
+              "tipo": "REN",
+              "local": "Singapura",
+              "dataInicio": "06-05-2019",
+              "dataFim": "09-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e o 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
               "tipo": "REN",
               "local": "Antalya",
@@ -1409,31 +1425,6 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "13-02-2019",
-              "dataFim": "15-02-2019",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "LUÍS PEDRO PIMENTEL",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "1733"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "VITALINO CANAS",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "1700"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
               "tipo": "REN",
               "local": "Paris e Bruxelas",
@@ -1454,6 +1445,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "193"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "13-02-2019",
+              "dataFim": "15-02-2019",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
                   }
                 ]
               }
@@ -3487,7 +3503,15 @@
               "local": "Kiev",
               "dataInicio": "19-04-2019",
               "dataFim": "22-04-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIGUEL SANTOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "2071"
+                }
+              }
             },
             {
               "nome": "Reunião do Bureau",
@@ -5832,7 +5856,15 @@
               "local": "S. Petersburgo",
               "dataInicio": "18-04-2019",
               "dataFim": "18-04-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
+                }
+              }
             },
             {
               "nome": "2ª Parteda Sessão Plenária de 2019",
