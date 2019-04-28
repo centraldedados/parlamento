@@ -10384,24 +10384,6 @@
         }
       },
       {
-        "id": "1955",
-        "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
-        "local": "Viena",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-08",
-        "dataFim": "2019-04-09",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDUARDO FERRO RODRIGUES",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "163"
-          }
-        }
-      },
-      {
         "id": "1951",
         "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
         "local": "Washington",
@@ -10416,6 +10398,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4389"
+          }
+        }
+      },
+      {
+        "id": "1955",
+        "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
           }
         }
       },
@@ -10564,6 +10564,54 @@
             "leg": "XIII",
             "id": "5609"
           }
+        }
+      },
+      {
+        "id": "1963",
+        "nome": "Visita de Estado à República Popular da China",
+        "local": "China",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-27",
+        "dataFim": "2019-05-01",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "ADÃO SILVA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "3"
+            },
+            {
+              "tipo": "D",
+              "nome": "FILIPE NETO BRANDÃO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1554"
+            },
+            {
+              "tipo": "D",
+              "nome": "TELMO CORREIA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1655"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO OLIVEIRA",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "2234"
+            },
+            {
+              "tipo": "D",
+              "nome": "HELOÍSA APOLÓNIA",
+              "gp": "PEV",
+              "leg": "XIII",
+              "id": "834"
+            }
+          ]
         }
       },
       {

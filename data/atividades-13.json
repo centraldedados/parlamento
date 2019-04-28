@@ -14465,6 +14465,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112314",
+              "numeroAudicao": "203-CS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Para obter esclarecimentos acerca das atuais condições de funcionamento, «em especial no seu serviço de pediatria e na urgência pediátrica e, bem assim, conhecer as medidas tomadas para garantir a qualidade e a segurança dos cuidados prestados às crianças e jovens que ali acorrem",
+              "entidades": "Serviço de Pediatria e Urgência Pediátrica do Hospital Garcia de Orta",
+              "data": "2019-04-24"
+            },
+            {
               "IDAudicao": "112179",
               "numeroAudicao": "202-CS-XIII",
               "legislatura": "XIII",
@@ -16287,6 +16296,33 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112325",
+              "numeroAudicao": "156-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição dos peticionários da Petição n.º 603/XIII/4.ª que \"Solicitam a adoção de medidas com vista à correção das Declarações Mensais de Remunerações de todos os docentes contratados com horários incompletos\"",
+              "entidades": null,
+              "data": "2019-04-30"
+            },
+            {
+              "IDAudicao": "112324",
+              "numeroAudicao": "155-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição dos Peticionários da Petição nº 607/XIII/4 que  \"Solicitam a adoção de medidas com vista à vinculação e integração na carreira de docente da área de Teatro e a criação do respetivo grupo de recrutamento\"",
+              "entidades": "FENPROF - Federação Nacional dos Professores;APROTED - Associação de Professores de Teatro-Educação",
+              "data": "2019-04-30"
+            },
+            {
+              "IDAudicao": "112315",
+              "numeroAudicao": "154-CEC-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Senhor Ministro das Finanças, a requerimento do PS sobre o impacto orçamental dos modelos de recuperação do tempo serviço na carreira dos docentes dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, cuja contagem do tempo de serviço esteve congelada em anos anteriores",
+              "entidades": "MIN.  DAS   FINANÇAS",
+              "data": "2019-04-30"
+            },
+            {
               "IDAudicao": "112199",
               "numeroAudicao": "153-CEC-XIII",
               "legislatura": "XIII",
@@ -17667,6 +17703,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112319",
+              "numeroAudicao": "161-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição  sobre a nova estrutura e orgânica da Autoridade Nacional de Emergência e Proteção Civil (ANEPC) [a requerimento do PSD)",
+              "entidades": "Observatório Técnico Independente para Análise, Acompanhamento e Avaliação dos Incêndios Florestais e Rurais que Ocorram no Território Nacional",
+              "data": "2019-04-24"
+            },
             {
               "IDAudicao": "112123",
               "numeroAudicao": "160-CACDLG-XIII",
@@ -23643,6 +23688,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "112331",
+              "numeroAudiencia": "52-CAE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência ao Senhor Secretário de Estado para a coordenação dos Assuntos Europeus do gabinete do Primeiro Ministro da Hungria",
+              "entidades": "Mr.Pal Peter Schmitt",
+              "data": "2019-04-12",
+              "concedida": "Concedida"
+            },
+            {
               "IDAudiencia": "112087",
               "numeroAudiencia": "51-CAE-XIII",
               "legislatura": "XIII",
@@ -27995,6 +28050,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112330",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-04-18",
+              "dataFim": "2019-04-18",
+              "designacao": "Cerimónia \"Os Melhores Verdes de 2019”",
+              "localEvento": "Sala do Arquivo (Alfândega do Porto)",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112206",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28165,16 +28230,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "111404",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2019-02-01",
-              "dataFim": "2019-02-01",
-              "designacao": "Encontro Nacional de Técnicos",
-              "localEvento": "Centro Cultural e de Congressos de Aveiro",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "111403",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -28182,6 +28237,16 @@
               "dataFim": "2019-02-01",
               "designacao": "Inauguração do Pet Festival - Salão dos Animais de Estimação",
               "localEvento": "Feira Internacional de Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "111404",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-02-01",
+              "dataFim": "2019-02-01",
+              "designacao": "Encontro Nacional de Técnicos",
+              "localEvento": "Centro Cultural e de Congressos de Aveiro",
               "tipo": "Representação"
             },
             {
