@@ -2722,6 +2722,13 @@
                   "orgSigla": "GT-ICTOH",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -3849,6 +3856,13 @@
                   "orgId": "7044",
                   "orgDes": "Grupo de Trabalho - Estatuto dos Magistrados Judiciais (PPL 122/XIII/3.ª - GOV) e Estatuto do Ministério Público (PPL 147/XIII/3.ª - GOV)",
                   "orgSigla": "GT-EMJEMP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -10618,6 +10632,13 @@
                   "orgSigla": "GT-ILDC",
                   "legDes": "XIII",
                   "timDes": "Suplente"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -12155,6 +12176,13 @@
           "cadActividadeOrgaos": {
             "actividadeCom": {
               "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4528",
+                  "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                  "orgSigla": "COFMA",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
                 {
                   "orgId": "4529",
                   "orgDes": "Comissão de Economia, Inovação e Obras Públicas",
@@ -15463,6 +15491,13 @@
                   "orgId": "7124",
                   "orgDes": "Grupo de Trabalho - PMA (PJL 1007/XIII/4.ª BE, PJL 1010/XIII/4.ª PSD, PJL 1024/XIII/4.ª PS, PJL 1031/XIII/4.ª PCP PJL 1033/XIII/4.ª PAN e PJL 1030/XIII/4.ª BE)",
                   "orgSigla": "GT-PMA-GS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -36618,6 +36653,13 @@
                   "orgSigla": "GT-ILDC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
                 }
               ]
             }
@@ -36728,6 +36770,18 @@
                   "orgSigla": "GT-PIG",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "Coordenador "
+                    }
+                  }
                 }
               ]
             }
@@ -37814,6 +37868,13 @@
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }
@@ -39460,6 +39521,13 @@
                   "orgId": "7124",
                   "orgDes": "Grupo de Trabalho - PMA (PJL 1007/XIII/4.ª BE, PJL 1010/XIII/4.ª PSD, PJL 1024/XIII/4.ª PS, PJL 1031/XIII/4.ª PCP PJL 1033/XIII/4.ª PAN e PJL 1030/XIII/4.ª BE)",
                   "orgSigla": "GT-PMA-GS",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7204",
+                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+                  "orgSigla": "GT-AL-CPVD",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
                 }

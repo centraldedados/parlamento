@@ -1251,6 +1251,14 @@
               "participantes": null
             },
             {
+              "nome": "Visita Conjunta da CDSDG e DSCTC",
+              "tipo": "REN",
+              "local": "Estocolmo e  Requievike",
+              "dataInicio": "06-05-2019",
+              "dataFim": "10-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e o 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
               "tipo": "REN",
               "local": "Antalya",
@@ -1425,31 +1433,6 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
-              "tipo": "REN",
-              "local": "Paris e Bruxelas",
-              "dataInicio": "13-02-2019",
-              "dataFim": "20-02-2019",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOSÉ DE MATOS CORREIA",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "1643"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "MIRANDA CALHA",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "193"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
               "tipo": "REN",
               "local": "Paris",
@@ -1470,6 +1453,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
+              "tipo": "REN",
+              "local": "Paris e Bruxelas",
+              "dataInicio": "13-02-2019",
+              "dataFim": "20-02-2019",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ DE MATOS CORREIA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1643"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
                   }
                 ]
               }
@@ -1902,6 +1910,31 @@
               }
             },
             {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Sarajevo e Belgrado",
+              "dataInicio": "16-04-2018",
+              "dataFim": "19-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  }
+                ]
+              }
+            },
+            {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Arábia Saudita",
@@ -1929,31 +1962,6 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
-                  }
-                ]
-              }
-            },
-            {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
-              "tipo": "REN",
-              "local": "Sarajevo e Belgrado",
-              "dataInicio": "16-04-2018",
-              "dataFim": "19-04-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOÃO REBELO",
-                    "gp": "CDS-PP",
-                    "leg": "XIII",
-                    "id": "1654"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LARA MARTINHO",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "6157"
                   }
                 ]
               }
@@ -2048,6 +2056,14 @@
               }
             },
             {
+              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "19-02-2018",
+              "dataFim": "22-02-2018",
+              "participantes": null
+            },
+            {
               "nome": "\"Reuniões de Fevereiro\"",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -2099,14 +2115,6 @@
                   }
                 ]
               }
-            },
-            {
-              "nome": "\"Reuniões de Fevereiro\" e Formação para o Staff",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "19-02-2018",
-              "dataFim": "22-02-2018",
-              "participantes": null
             },
             {
               "nome": "Reunião das Comissões de Economia e Segurança e Política",
@@ -2196,22 +2204,6 @@
               }
             },
             {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
-              }
-            },
-            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -2234,6 +2226,22 @@
                     "id": "193"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
               }
             },
             {
@@ -2292,14 +2300,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
-              "tipo": "REN",
-              "local": "Berlim e Bremen",
-              "dataInicio": "13-11-2017",
-              "dataFim": "17-11-2017",
-              "participantes": null
-            },
-            {
               "nome": "Visita da Comissão para a Dimensão Civil da Segurança da APNATO",
               "tipo": "REN",
               "local": "Kwait",
@@ -2323,6 +2323,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Visita da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão de Ciência e Tecnologia",
+              "tipo": "REN",
+              "local": "Berlim e Bremen",
+              "dataInicio": "13-11-2017",
+              "dataFim": "17-11-2017",
+              "participantes": null
             },
             {
               "nome": "96º Seminário Rose-Roth",
@@ -5849,6 +5857,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Comissão de Migrações, refugiados e Pessoas Deslocadas - Visita aos Centros de Migrantes de Traiskirchen e Zinnergasse",
+              "tipo": "REN",
+              "local": "Traiskirchen e Zinnergasse",
+              "dataInicio": "06-05-2019",
+              "dataFim": "06-05-2019",
+              "participantes": null
             },
             {
               "nome": "Conferência sobre a luta contra o terrorismo internacional",
