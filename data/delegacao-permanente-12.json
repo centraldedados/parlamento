@@ -349,7 +349,24 @@
               "local": "Washington e Miami",
               "dataInicio": "26-01-2016",
               "dataFim": "29-01-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  }
+                ]
+              }
             },
             {
               "nome": "Reunião do Grupo Especial do Mediterrâneo e Médio Oriente e da Subcomissão para a Governação Democrática",
@@ -1982,7 +1999,15 @@
               "local": "Amã",
               "dataInicio": "23-09-2013",
               "dataFim": "24-09-2013",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XII",
+                  "id": "1700"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão de Defesa e Segurança",
@@ -3605,7 +3630,15 @@
               "local": "Belgrado",
               "dataInicio": "01-02-2016",
               "dataFim": "05-02-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ISABEL SANTOS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2103"
+                }
+              }
             },
             {
               "nome": "1ª Reunião Preparatória do Fórum Económico e Ambiental",
@@ -3613,7 +3646,15 @@
               "local": "Viena",
               "dataInicio": "25-01-2016",
               "dataFim": "26-01-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "NILZA DE SENA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4326"
+                }
+              }
             },
             {
               "nome": "Reuniões em Genebra e Bruxelas",
@@ -3621,7 +3662,15 @@
               "local": "Genebra e Bruxelas",
               "dataInicio": "16-11-2015",
               "dataFim": "18-11-2015",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ISABEL SANTOS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2103"
+                }
+              }
             },
             {
               "nome": "Missão de Observação das Eleições Legislativas",
@@ -11347,7 +11396,15 @@
               "local": "Paris",
               "dataInicio": "05-12-2015",
               "dataFim": "06-12-2015",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "DUARTE PACHECO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "42"
+                }
+              }
             },
             {
               "nome": "133ª Assembleia Geral e reuniões conexas",
