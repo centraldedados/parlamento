@@ -51055,34 +51055,75 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3842",
+              "rgiId": "9528",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2019-05-08",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
-              "rgiCargoData": "2015",
+              "rgiCargoData": "2018",
               "rgiApoiosBeneficios": "Recebimento de Senhas de Presença pelo exercício das funções de Membro da Assembleia Municipal de Felgueiras",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3697",
+                    "rgaId": "9373",
                     "rgaActividade": "Advogado",
                     "rgaDataInicio": "2006-01-25",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3698",
+                    "rgaId": "9374",
                     "rgaActividade": "Membro da Assembleia Municipal de Felgueiras",
                     "rgaDataInicio": "2009-10-30",
+                    "rgaDataFim": "2013-09-29",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9375",
+                    "rgaActividade": "1ª Secretário e Vice Presidente da Assembleia Municipal de Felgueiras",
+                    "rgaDataInicio": "2013-09-29",
+                    "rgaDataFim": "2017-10-25",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9376",
+                    "rgaActividade": "Líder de Grupo Político da Assembleia Municipal de Felgueiras",
+                    "rgaDataInicio": "2017-10-25",
+                    "rgaDataFim": "2018-07-16",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9377",
+                    "rgaActividade": "Membro da Assembleia Municipal de Felgueiras",
+                    "rgaDataInicio": "2018-07-16",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9378",
+                    "rgaActividade": "Presidente da Assembleia Geral do Futebol Clube de Felgueiras 1932",
+                    "rgaDataInicio": "2016-07-01",
+                    "rgaDataFim": "2017-07-01",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9379",
+                    "rgaActividade": "Presidente do Conselho Fiscal do Futebol Clube de Felgueiras 1932",
+                    "rgaDataInicio": "2017-07-01",
+                    "rgaDataFim": "2018-07-16",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9380",
+                    "rgaActividade": "Presidente da Direção do Futebol Clube de Felgueiras 1932",
+                    "rgaDataInicio": "2018-07-16",
                     "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiSociedades": {
                 "pt_ar_wsgode_objectos_DadosRgiSociedades": {
-                  "rgsId": "2037",
+                  "rgsId": "4735",
                   "rgsEntidade": "F2H-Serralharias, Lda.",
                   "rgsAreaActividade": "Serralharia Civil",
                   "rgsLocalSede": "Rua do Miral, n.º 36, Selho S. Jorge, 4835-335 Guimarães",

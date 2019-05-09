@@ -9940,24 +9940,6 @@
         }
       },
       {
-        "id": "1933",
-        "nome": "Conferência do Institut du Monde Lusophone",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-27",
-        "dataFim": "2019-02-27",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOAQUIM BARRETO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "419"
-          }
-        }
-      },
-      {
         "id": "1936",
         "nome": "Reuniões Temáticas sobre a Lusofonia",
         "local": "Paris",
@@ -9972,6 +9954,24 @@
             "gp": "CDS-PP",
             "leg": "XIII",
             "id": "2867"
+          }
+        }
+      },
+      {
+        "id": "1933",
+        "nome": "Conferência do Institut du Monde Lusophone",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-27",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOAQUIM BARRETO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "419"
           }
         }
       },
@@ -10044,33 +10044,6 @@
         }
       },
       {
-        "id": "1938",
-        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-06",
-        "dataFim": "2019-03-07",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARIA GERMANA ROCHA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "5984"
-            },
-            {
-              "tipo": "D",
-              "nome": "CARLA TAVARES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "5501"
-            }
-          ]
-        }
-      },
-      {
         "id": "1937",
         "nome": "Participação na Conferência interparlamentar sobre Política Externa de Segurança Comum/Política Comum de Segurança de Defesa (PESC/PCSD).",
         "local": "Bucareste",
@@ -10121,6 +10094,33 @@
               "gp": "PCP",
               "leg": "XIII",
               "id": "2069"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1938",
+        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-06",
+        "dataFim": "2019-03-07",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARIA GERMANA ROCHA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5984"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA TAVARES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5501"
             }
           ]
         }
@@ -10394,24 +10394,6 @@
         }
       },
       {
-        "id": "1955",
-        "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
-        "local": "Viena",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-08",
-        "dataFim": "2019-04-09",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "EDUARDO FERRO RODRIGUES",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "163"
-          }
-        }
-      },
-      {
         "id": "1951",
         "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
         "local": "Washington",
@@ -10426,6 +10408,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "4389"
+          }
+        }
+      },
+      {
+        "id": "1955",
+        "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-09",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "EDUARDO FERRO RODRIGUES",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "163"
           }
         }
       },
@@ -10632,6 +10632,16 @@
         "sessao": "4",
         "dataInicio": "2019-04-29",
         "dataFim": "2019-04-29",
+        "participantes": null
+      },
+      {
+        "id": "1967",
+        "nome": "Representação Permanente da Assembleia da República Junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-01",
+        "dataFim": "2019-05-31",
         "participantes": null
       },
       {
