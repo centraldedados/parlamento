@@ -4568,6 +4568,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112415",
+              "numeroAudicao": "183-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "nos termos do n.º 2 do artigo 104.º do RAR",
+              "entidades": "MIN. DAS INFRAESTRUTURAS E DA HABITAÇÃO",
+              "data": "2019-05-08"
+            },
+            {
               "IDAudicao": "112359",
               "numeroAudicao": "182-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -11242,7 +11251,7 @@
               "numeroAudicao": "136-CAE-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição sobre o Sistema de alerta rápido de campanhas de desinformação que a União Europeia está a implementar",
+              "assunto": "Audição do responsável em Portugal pelo Sistema de alerta rápido de campanhas de desinformação que a União Europeia está a implementar",
               "entidades": "Embaixador Luís Barreira de Sousa",
               "data": "2019-05-07"
             },
@@ -12514,6 +12523,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112416",
+              "numeroAudicao": "145-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição dos peticionários da petição n.º 610/XIII (4.ª)  — Solicitam à Assembleia da República a adoção de medidas com vista a salvar a Casa da Pesca, património classificado, situada na Quinta de Recreio dos Marqueses de Pombal, em Oeiras, e a garantir a preservação, divulgação e abertura ao público deste conjunto patrimonial",
+              "entidades": null,
+              "data": "2019-05-14"
+            },
             {
               "IDAudicao": "112381",
               "numeroAudicao": "144-CCCJD-XIII",
@@ -14344,6 +14362,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112410",
+              "numeroAudicao": "162-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do responsavel em Portugal pelo sistema de alerta rápido de campanhas de desinformação que a União Europeia esta a implementar",
+              "entidades": "Embaixador Luís Barreira de Sousa",
+              "data": "2019-05-07"
+            },
+            {
               "IDAudicao": "112319",
               "numeroAudicao": "161-CACDLG-XIII",
               "legislatura": "XIII",
@@ -15811,7 +15838,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição dos Peticionários da Petição nº 598/XIII/4 que  \"Solicitam a adoção de medidas com vista à vinculação e integração na carreira de docente da área de Teatro e a criação do respetivo grupo de recrutamento\"",
-              "entidades": "APROTED- Professores:António Silva; Firmino Bernardo e Rosário Cadete",
+              "entidades": "APROTED- Professores:António Silva; Firmino Bernardo e Rosário Cadete;FENPROF-  Anabela Delgado",
               "data": "2019-04-30"
             },
             {
@@ -27999,6 +28026,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112411",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-06",
+              "dataFim": "2019-05-06",
+              "designacao": "Cerimónia Militar do 108.º Aniversário da GNR",
+              "localEvento": "Praça do Império, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112107",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29307,6 +29344,26 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112409",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-08",
+              "dataFim": "2019-05-08",
+              "designacao": "Visita de Trabalho da Comissão de Agricultura e Mar à Autoridade Nacional de Emergência e Proteção Civil",
+              "localEvento": "Carnaxide",
+              "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "112414",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-08",
+              "dataFim": "2019-05-08",
+              "designacao": "Cerimónia Oficial de Abertura do IX Congresso Nacional de Suinicultura",
+              "localEvento": "Cine-Teatro de Rio Maior",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112356",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -29827,16 +29884,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109158",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-06-06",
-              "dataFim": "2018-06-06",
-              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
-              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109157",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -29844,6 +29891,16 @@
               "dataFim": "2018-06-06",
               "designacao": "Seminário \"A IMPORTÂNCIA DOS JOVENS AGRICULTORES NO FUTURO DA AGRICULTURA EUROPEIA\"",
               "localEvento": "CNEMA - Centro de Exposições e Mercados Agrícolas (Santarém)",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109158",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-06-06",
+              "dataFim": "2018-06-06",
+              "designacao": "Sessão de Encerramento do Seminário \"Carnes.PT\"",
+              "localEvento": "CNEMA - Centro de Exposições (Santarém)",
               "tipo": "Representação"
             },
             {
@@ -29907,13 +29964,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109144",
+              "IDDeslocacao": "109145",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-05-10",
               "dataFim": "2018-05-10",
-              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
-              "localEvento": "Centro de Congressos de Lisboa",
+              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
+              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -29927,6 +29984,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "109144",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-05-10",
+              "dataFim": "2018-05-10",
+              "designacao": "Sessão Solene de Abertura do XVII Congresso de Nutrição e Alimentação & I Congresso Internacional de Nutrição e Alimentação",
+              "localEvento": "Centro de Congressos de Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "109148",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -29934,16 +30001,6 @@
               "dataFim": "2018-05-10",
               "designacao": "Inauguração da XV Olivomoura - 9ª Mostra de Aromas e Sabores",
               "localEvento": "Auditório Miguel Urbano Rodrigues (Moura)",
-              "tipo": "Representação"
-            },
-            {
-              "IDDeslocacao": "109145",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-05-10",
-              "dataFim": "2018-05-10",
-              "designacao": "51.ª AGRO - Feira Internacional de Agricultura, Pecuária e Alimentação",
-              "localEvento": "Fórum Braga (Braga)",
               "tipo": "Representação"
             },
             {
@@ -29957,16 +30014,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "109009",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-04-27",
-              "dataFim": "2018-04-27",
-              "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
-              "localEvento": "Parque de Feiras e Exposições de Beja",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "109028",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -29974,6 +30021,16 @@
               "dataFim": "2018-04-27",
               "designacao": "FIAPE - Feira Internacional de Agropecuária de Estremoz/2018",
               "localEvento": "Parque de Feiras de Estremoz",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "109009",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-27",
+              "dataFim": "2018-04-27",
+              "designacao": "Visita de Trabalho à 35ª edição da Ovibeja",
+              "localEvento": "Parque de Feiras e Exposições de Beja",
               "tipo": "Representação"
             },
             {

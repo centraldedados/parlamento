@@ -8063,7 +8063,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-05-08"
+                "gpDtFim": "2019-05-09"
               },
               {
                 "gpId": "4465",
@@ -8156,10 +8156,17 @@
           "depCPDes": "LISBOA",
           "legDes": "XIII",
           "depSituacao": {
-            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": {
-              "sioDes": "Efetivo",
-              "sioDtInicio": "2015-10-23"
-            }
+            "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
+              {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2019-05-09"
+              },
+              {
+                "sioDes": "Efetivo",
+                "sioDtInicio": "2015-10-23",
+                "sioDtFim": "2019-05-09"
+              }
+            ]
           },
           "depNomeCompleto": "PEDRO FILIPE MOTA DELGADO SIMÕES ALVES"
         },
@@ -8649,8 +8656,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-05-09"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2018-10-15"
+                "sioDtInicio": "2018-10-15",
+                "sioDtFim": "2019-05-09"
               },
               {
                 "sioDes": "Efetivo Temporário",
