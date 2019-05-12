@@ -9632,24 +9632,6 @@
         "participantes": null
       },
       {
-        "id": "1922",
-        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
-        "local": "Dublin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-20",
-        "dataFim": "2019-01-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1921",
         "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
         "local": "Bucareste",
@@ -9664,6 +9646,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "2106"
+          }
+        }
+      },
+      {
+        "id": "1922",
+        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
+        "local": "Dublin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
           }
         }
       },
@@ -10044,6 +10044,33 @@
         }
       },
       {
+        "id": "1938",
+        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-06",
+        "dataFim": "2019-03-07",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARIA GERMANA ROCHA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5984"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA TAVARES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5501"
+            }
+          ]
+        }
+      },
+      {
         "id": "1937",
         "nome": "Participação na Conferência interparlamentar sobre Política Externa de Segurança Comum/Política Comum de Segurança de Defesa (PESC/PCSD).",
         "local": "Bucareste",
@@ -10099,33 +10126,6 @@
         }
       },
       {
-        "id": "1938",
-        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-06",
-        "dataFim": "2019-03-07",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARIA GERMANA ROCHA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "5984"
-            },
-            {
-              "tipo": "D",
-              "nome": "CARLA TAVARES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "5501"
-            }
-          ]
-        }
-      },
-      {
         "id": "1944",
         "nome": "\"Human Rights in South Asia\"",
         "local": "Genebra",
@@ -10172,16 +10172,6 @@
         }
       },
       {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
-        "participantes": null
-      },
-      {
         "id": "1943",
         "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
         "local": "Bucareste",
@@ -10221,6 +10211,16 @@
             }
           ]
         }
+      },
+      {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
       },
       {
         "id": "1953",
@@ -10394,24 +10394,6 @@
         }
       },
       {
-        "id": "1951",
-        "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
-        "local": "Washington",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-08",
-        "dataFim": "2019-04-14",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "TERESA LEAL COELHO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "4389"
-          }
-        }
-      },
-      {
         "id": "1955",
         "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
         "local": "Viena",
@@ -10426,6 +10408,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "163"
+          }
+        }
+      },
+      {
+        "id": "1951",
+        "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
+        "local": "Washington",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-14",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "TERESA LEAL COELHO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4389"
           }
         }
       },
@@ -10475,24 +10475,6 @@
         }
       },
       {
-        "id": "1957",
-        "nome": "Deslocação à República Popular da China",
-        "local": "China",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-16",
-        "dataFim": "2019-04-24",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "MIRANDA CALHA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "193"
-          }
-        }
-      },
-      {
         "id": "1959",
         "nome": "Visita de trabalho ao Parlamernto Irlandês . Oireachtas joint Commitee on European Union Affairs",
         "local": "Dublin",
@@ -10538,6 +10520,24 @@
               "id": "5854"
             }
           ]
+        }
+      },
+      {
+        "id": "1957",
+        "nome": "Deslocação à República Popular da China",
+        "local": "China",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-16",
+        "dataFim": "2019-04-24",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MIRANDA CALHA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "193"
+          }
         }
       },
       {
@@ -10670,6 +10670,26 @@
         "sessao": "4",
         "dataInicio": "2019-05-09",
         "dataFim": "2019-05-10",
+        "participantes": null
+      },
+      {
+        "id": "1968",
+        "nome": "CNPMA - \"Meeting of the Competent Authorities on Tissus and Cells\"",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-13",
+        "dataFim": "2019-05-14",
+        "participantes": null
+      },
+      {
+        "id": "1969",
+        "nome": "UIP - Seminário \"Estrutura e Funcionamento da União Interparlamentar\"",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-14",
+        "dataFim": "2019-05-17",
         "participantes": null
       },
       {

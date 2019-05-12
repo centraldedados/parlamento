@@ -6188,13 +6188,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "21406",
+                "habId": "27880",
                 "habDes": "Gestão de Recursos Humanos (ramo Administração Pública)",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "21407",
+                "habId": "27881",
                 "habDes": "Pós-graduação em Administração Pública - especialidade Governo e Autarquias Locais\nEspecialização em Igualdade de Género ",
                 "habTipoId": "16"
               }
@@ -6203,13 +6203,13 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "25166",
+                "funId": "31576",
                 "funDes": "Deputada XIII Legislatura",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "25167",
+                "funId": "31577",
                 "funDes": "Diretora do Centro de Emprego de Matosinhos\nDeputada à Assembleia da República XI Legislatura\nTécnica Superior no Instituto do Emprego e Formação Profissional\nTécnica Superior no Município da Póvoa de Varzim \n",
                 "funOrdem": "2",
                 "funAntiga": "S"
@@ -6636,13 +6636,22 @@
               ]
             },
             "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "6024",
-                "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
-                "orgSigla": "GT-PIG",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "6024",
+                  "orgDes": "Grupo de Trabalho - Parentalidade e Igualdade de Género",
+                  "orgSigla": "GT-PIG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6604",
+                  "orgDes": "Grupo de Trabalho - Estatuto do Cuidador Informal",
+                  "orgSigla": "GT-ECI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
             }
           }
         },
@@ -33047,7 +33056,79 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "5024",
+                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+                  "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                }
+              ]
+            },
+            "actividadeSCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4644",
+                "orgDes": "Subcomissão de Ética",
+                "orgSigla": "SE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4924",
+                  "orgDes": "Grupo de Trabalho - Registo de Interesses",
+                  "orgSigla": "GT-RI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "416",
@@ -42792,8 +42873,8 @@
           "cadId": "4147",
           "cadNomeCompleto": "CARLA MARIA GOMES BARROS",
           "cadActividadeProfissional": "Gestora de Recursos Humanos",
-          "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)",
+          "cadEstadoCivilCod": "2",
+          "cadEstadoCivilDes": "Divorciado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
               "rgiId": "9048",

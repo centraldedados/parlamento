@@ -188,6 +188,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da Rede de Mulheres Parlamentares da AP-CPLP",
+              "tipo": "REN",
+              "local": "Malabo",
+              "dataInicio": "13-05-2019",
+              "dataFim": "14-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da 1ª Comissão",
               "tipo": "REN",
               "local": "Cidade da Praia",
@@ -582,14 +590,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
-              "tipo": "REN",
-              "local": "Maputo, Moçambique",
-              "dataInicio": "05-03-2018",
-              "dataFim": "06-03-2018",
-              "participantes": null
-            },
-            {
               "nome": "Reunião da Comissão 2 (Economia, Ambiente e cooperação)",
               "tipo": "REN",
               "local": "Maputo",
@@ -613,6 +613,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Reunião da Comissão 2 - Economia, Ambiente e Cooperação da AP-CPLP",
+              "tipo": "REN",
+              "local": "Maputo, Moçambique",
+              "dataInicio": "05-03-2018",
+              "dataFim": "06-03-2018",
+              "participantes": null
             },
             {
               "nome": "Reunião de traballho com a Secretária Executiva da CPLP",
