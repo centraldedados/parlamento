@@ -10475,6 +10475,24 @@
         }
       },
       {
+        "id": "1957",
+        "nome": "Deslocação à República Popular da China",
+        "local": "China",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-16",
+        "dataFim": "2019-04-24",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MIRANDA CALHA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "193"
+          }
+        }
+      },
+      {
         "id": "1959",
         "nome": "Visita de trabalho ao Parlamernto Irlandês . Oireachtas joint Commitee on European Union Affairs",
         "local": "Dublin",
@@ -10520,24 +10538,6 @@
               "id": "5854"
             }
           ]
-        }
-      },
-      {
-        "id": "1957",
-        "nome": "Deslocação à República Popular da China",
-        "local": "China",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-16",
-        "dataFim": "2019-04-24",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "MIRANDA CALHA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "193"
-          }
         }
       },
       {
@@ -10709,6 +10709,16 @@
             "id": "3"
           }
         }
+      },
+      {
+        "id": "1970",
+        "nome": "Reunião dos Membros do Conselho do IPEX Board",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-16",
+        "dataFim": "2019-05-17",
+        "participantes": null
       }
     ]
   }
