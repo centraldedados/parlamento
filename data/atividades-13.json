@@ -2665,6 +2665,15 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112455",
+              "numeroAudicao": "311-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição Regimental do Ministro das Finanças nos termos do nº 2 do art.º 104.º do Regimento",
+              "entidades": null,
+              "data": "2019-05-15"
+            },
+            {
               "IDAudicao": "112447",
               "numeroAudicao": "310-COFMA-XIII",
               "legislatura": "XIII",
@@ -2750,7 +2759,7 @@
               "numeroAudicao": "301-COFMA-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "assunto": "Audição com a Ministra da Presidência e da Modernização Administrativanos termos do nº 2 do art.º 104.º do Regimento",
+              "assunto": "Audição com a Ministra da Presidência e da Modernização Administrativa nos termos do nº 2 do art.º 104.º do Regimento",
               "entidades": "S.E.  DA  PRESIDÊNCIA  DO  CONSELHO DE  MINISTROS;MIN. DA PRESIDÊNCIA E DA MODERNIZAÇÃO ADMINISTRATIVA;S.E. ADJUNTA E DA MODERNIZAÇÃO ADMINISTRATIVA",
               "data": "2019-04-03"
             },
@@ -6559,6 +6568,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112452",
+              "numeroAudicao": "136-CTSS-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição no âmbito da Petição n.º 320-XIII-2 ª - \"Solicitam a criação da categoria profissional de Agente Único de Transportes\", de Luís Amaral e outros",
+              "entidades": "Serviços Municipalizados de Transportes de Coimbra",
+              "data": "2019-05-15"
+            },
             {
               "IDAudicao": "112424",
               "numeroAudicao": "135-CTSS-XIII",
@@ -14767,7 +14785,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Para prestar esclarecimentos «sobre as conclusões e recomendações do relatório final do Grupo Técnico Independente constituído pelo Despacho n.º 9317/2017, de 23 de outubro",
-              "entidades": null,
+              "entidades": "ACSS - Administração Central do Sistema de Saúde, IP",
               "data": "2019-05-14"
             },
             {
@@ -14776,7 +14794,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Para prestar esclarecimentos «sobre as conclusões e recomendações do relatório final do Grupo Técnico Independente constituído pelo Despacho n.º 9317/2017, de 23 de outubro».",
-              "entidades": "Bastonário da Ordem dos Médicos;ACSS - Administração Central do Sistema de Saúde, IP",
+              "entidades": "ex-Coordenador do Grupo Técnico Independente (GTI)",
               "data": "2019-05-14"
             },
             {
@@ -18064,6 +18082,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112453",
+              "numeroAudicao": "165-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Membro Nacional de Portugal na EUROJUST, para apresentação do Relatório Anual de Atividades referente ao ano de 2018",
+              "entidades": "Procurador-Geral Adjunto, Dr. António Cluny",
+              "data": "2019-05-14"
+            },
+            {
+              "IDAudicao": "112451",
+              "numeroAudicao": "164-CACDLG-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Ministra da Justiça ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República",
+              "entidades": "MIN.  DA   JUSTIÇA;S.E.  DA  JUSTIÇA;S.E. ADJUNTA E DA JUSTIÇA",
+              "data": "2019-05-14"
+            },
+            {
               "IDAudicao": "112425",
               "numeroAudicao": "163-CACDLG-XIII",
               "legislatura": "XIII",
@@ -19530,6 +19566,16 @@
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
             {
+              "IDAudiencia": "112454",
+              "numeroAudiencia": "22-CAOTDPLH-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "sobre a Orla Costeira",
+              "entidades": "Associação SOS Cabedelo",
+              "data": "2019-05-14",
+              "concedida": "Em apreciação"
+            },
+            {
               "IDAudiencia": "110576",
               "numeroAudiencia": "21-CAOTDPLH-XIII",
               "legislatura": "XIII",
@@ -19743,6 +19789,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "112450",
+              "numeroAudiencia": "82-CAM-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audiência com a CNA - Confederação Nacional da Agricultura, Filiadas e com a Comissão de Agricultores Lesados pelos Javalis e outros animais selvagens para abordar os prejuízos causados à Agricultura Familiar por Javalis e por outros animais selvagens",
+              "entidades": "CNA - Confederação Nacional da Agricultura, Filiadas e com a Comissão de Agricultores Lesados pelos Javalis e outros animais selvagens",
+              "data": "2019-05-14",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "111288",
               "numeroAudiencia": "81-CAM-XIII",
