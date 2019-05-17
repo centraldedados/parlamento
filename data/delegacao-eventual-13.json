@@ -9586,24 +9586,6 @@
         "participantes": null
       },
       {
-        "id": "1918",
-        "nome": "VIII Assembleia Parlamentar da CPLP",
-        "local": "Cidade da Praia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-10",
-        "dataFim": "2019-01-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1920",
         "nome": "Participação do Vice-Presidente da Comissão de Economia, Inovação e Obras Públicas no 4º IRENA Legislators Forum",
         "local": "Abu Dhabi",
@@ -9622,6 +9604,24 @@
         }
       },
       {
+        "id": "1918",
+        "nome": "VIII Assembleia Parlamentar da CPLP",
+        "local": "Cidade da Praia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-10",
+        "dataFim": "2019-01-11",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
+          }
+        }
+      },
+      {
         "id": "1966",
         "nome": null,
         "local": null,
@@ -9630,24 +9630,6 @@
         "dataInicio": "2019-01-17",
         "dataFim": "2019-01-19",
         "participantes": null
-      },
-      {
-        "id": "1921",
-        "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
-        "local": "Bucareste",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-20",
-        "dataFim": "2019-01-21",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "REGINA BASTOS",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "2106"
-          }
-        }
       },
       {
         "id": "1922",
@@ -9664,6 +9646,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "179"
+          }
+        }
+      },
+      {
+        "id": "1921",
+        "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
+        "local": "Bucareste",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-21",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "REGINA BASTOS",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "2106"
           }
         }
       },
@@ -9940,24 +9940,6 @@
         }
       },
       {
-        "id": "1936",
-        "nome": "Reuniões Temáticas sobre a Lusofonia",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-27",
-        "dataFim": "2019-02-28",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOÃO GONÇALVES PEREIRA",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "2867"
-          }
-        }
-      },
-      {
         "id": "1933",
         "nome": "Conferência do Institut du Monde Lusophone",
         "local": "Paris",
@@ -9972,6 +9954,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "419"
+          }
+        }
+      },
+      {
+        "id": "1936",
+        "nome": "Reuniões Temáticas sobre a Lusofonia",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
           }
         }
       },
@@ -10394,6 +10394,24 @@
         }
       },
       {
+        "id": "1951",
+        "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
+        "local": "Washington",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-08",
+        "dataFim": "2019-04-14",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "TERESA LEAL COELHO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "4389"
+          }
+        }
+      },
+      {
         "id": "1955",
         "nome": "Conferência de Presidentes dos Parlamentos da União Europeia",
         "local": "Viena",
@@ -10412,20 +10430,20 @@
         }
       },
       {
-        "id": "1951",
-        "nome": "Participação na Conferência Parlamentar Global de 2019 - Reuniões do Grupo do Banco Mundial e do FMI",
-        "local": "Washington",
+        "id": "1952",
+        "nome": "Deslocação a Berlim em Trabalho Parlamentar",
+        "local": "Berlim",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2019-04-08",
-        "dataFim": "2019-04-14",
+        "dataInicio": "2019-04-15",
+        "dataFim": "2019-04-17",
         "participantes": {
           "Participante": {
             "tipo": "D",
-            "nome": "TERESA LEAL COELHO",
-            "gp": "PSD",
+            "nome": "PAULO TRIGO PEREIRA",
+            "gp": "PS",
             "leg": "XIII",
-            "id": "4389"
+            "id": "6045"
           }
         }
       },
@@ -10454,42 +10472,6 @@
               "id": "2867"
             }
           ]
-        }
-      },
-      {
-        "id": "1952",
-        "nome": "Deslocação a Berlim em Trabalho Parlamentar",
-        "local": "Berlim",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-15",
-        "dataFim": "2019-04-17",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PAULO TRIGO PEREIRA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "6045"
-          }
-        }
-      },
-      {
-        "id": "1957",
-        "nome": "Deslocação à República Popular da China",
-        "local": "China",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-16",
-        "dataFim": "2019-04-24",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "MIRANDA CALHA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "193"
-          }
         }
       },
       {
@@ -10538,6 +10520,24 @@
               "id": "5854"
             }
           ]
+        }
+      },
+      {
+        "id": "1957",
+        "nome": "Deslocação à República Popular da China",
+        "local": "China",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-16",
+        "dataFim": "2019-04-24",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "MIRANDA CALHA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "193"
+          }
         }
       },
       {
@@ -10718,6 +10718,16 @@
         "sessao": "4",
         "dataInicio": "2019-05-16",
         "dataFim": "2019-05-17",
+        "participantes": null
+      },
+      {
+        "id": "1971",
+        "nome": "International Forum of Parliament Visitor Centers, Austrian Parliament",
+        "local": "Viena",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-21",
+        "dataFim": "2019-05-24",
         "participantes": null
       }
     ]

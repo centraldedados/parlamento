@@ -2665,12 +2665,30 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112459",
+              "numeroAudicao": "313-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Secretária de estado do Emprego Público, no âmbito da apreciação na especialidade da PPL n.º 174/XIII/4.ª",
+              "entidades": "S.E. DA ADMINISTRAÇÃO E DO EMPREGO PÚBLICO",
+              "data": "2019-05-15"
+            },
+            {
+              "IDAudicao": "112457",
+              "numeroAudicao": "312-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Ministro das Finanças no âmbito do requerimento apresentado pelo GP PSD",
+              "entidades": "MIN.  DAS   FINANÇAS;S.E. ADJUNTO E DAS FINANÇAS;S.E. DOS  ASSUNTOS FISCAIS;S.E. DO ORÇAMENTO;S.E. DO TESOURO",
+              "data": "2019-05-15"
+            },
+            {
               "IDAudicao": "112455",
               "numeroAudicao": "311-COFMA-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição Regimental do Ministro das Finanças nos termos do nº 2 do art.º 104.º do Regimento",
-              "entidades": null,
+              "entidades": "MIN.  DAS   FINANÇAS;S.E. ADJUNTO E DAS FINANÇAS;S.E. DOS  ASSUNTOS FISCAIS;S.E. DO ORÇAMENTO;S.E. DO TESOURO",
               "data": "2019-05-15"
             },
             {
@@ -6238,13 +6256,22 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "1",
               "assunto": "Audição do Ministro da Defesa Nacional “a propósito da decisão francesa de invocar a cláusula de defesa mútua na sequência dos atos de agressão em Paris” (requerimento do PSD e do CDS)",
-              "entidades": "MIN.  DA   DEFESA NACIONAL;S.E.  ADJUNTO E DA DEFESA NACIONAL;Chefe do Estado- Maior da Força Aérea, General Manuel Teixeira Rolo",
+              "entidades": "MIN.  DA   DEFESA NACIONAL;S.E.  ADJUNTO E DA DEFESA NACIONAL;Chefe do Estado- Maior da Força Aérea, General Manuel Teixeira Rolo; Chefe do Estado-Maior da Força Aérea, General Joaquim  Borrego",
               "data": "2015-11-25"
             }
           ]
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112456",
+              "numeroAudicao": "17-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Professor Pedro Duarte Neves",
+              "entidades": "Professor Doutor Pedro Duarte Neves",
+              "data": "2019-05-15"
+            },
             {
               "IDAudicao": "112445",
               "numeroAudicao": "16-II-CPIRCGDGB-XIII",
@@ -10212,6 +10239,15 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112461",
+              "numeroAudicao": "56-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Discussão e votação do relatório final e das propostas de alteração apresentadas",
+              "entidades": null,
+              "data": "2019-05-15"
+            },
             {
               "IDAudicao": "111891",
               "numeroAudicao": "55-CPIPREPE-XIII",
@@ -30462,6 +30498,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112458",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-14",
+              "dataFim": "2019-05-14",
+              "designacao": "Concerto de Gala do Dia Marinha",
+              "localEvento": "Pavilhão das galeotas, Museu da Marinha, em Lisboa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112411",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -30632,16 +30678,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110678",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-11-09",
-              "dataFim": "2018-11-09",
-              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
-              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110679",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -30649,6 +30685,16 @@
               "dataFim": "2018-11-09",
               "designacao": "Academia Militar entrega do Prémio “Comissão da Defesa Nacional” ao melhor aluno da Escola Naval, no Alfeite, na Cerimónia de Abertura Solene do Ano Letivo 2018/2019",
               "localEvento": "Academia Militar, Alfeite",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "110678",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-11-09",
+              "dataFim": "2018-11-09",
+              "designacao": "Almoço de trabalho  com o Ministro da Defesa Nacional",
+              "localEvento": "Forte de S. Julião da Barra, em Oeiras",
               "tipo": "Representação"
             },
             {

@@ -4599,13 +4599,6 @@
                   "timDes": "Suplente"
                 },
                 {
-                  "orgId": "4534",
-                  "orgDes": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
-                  "orgSigla": "CAOTDPLH",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
                   "orgId": "6664",
                   "orgDes": "Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade",
                   "orgSigla": "CPIPREPE",
@@ -8998,13 +8991,13 @@
           "cadHabilitacoes": {
             "pt_ar_wsgode_objectos_DadosHabilitacoes": [
               {
-                "habId": "27260",
+                "habId": "27940",
                 "habDes": "História com minor em Ciência Política",
                 "habTipoId": "13",
                 "habEstado": "C"
               },
               {
-                "habId": "27261",
+                "habId": "27941",
                 "habDes": "História Contemporânea",
                 "habTipoId": "14",
                 "habEstado": "F"
@@ -9014,79 +9007,79 @@
           "cadCargosFuncoes": {
             "pt_ar_wsgode_objectos_DadosCargosFuncoes": [
               {
-                "funId": "30996",
+                "funId": "31616",
                 "funDes": "Membro da Mesa da Comissão Nacional do Partido Socialista",
                 "funOrdem": "1",
                 "funAntiga": "N"
               },
               {
-                "funId": "30997",
+                "funId": "31617",
                 "funDes": "Membro do Secretariado da Federação da Área Urbana de Lisboa do Partido Socialista",
                 "funOrdem": "2",
                 "funAntiga": "N"
               },
               {
-                "funId": "30998",
+                "funId": "31618",
                 "funDes": "Membro da Assembleia Municipal de Lisboa",
                 "funOrdem": "3",
                 "funAntiga": "N"
               },
               {
-                "funId": "30999",
+                "funId": "31619",
                 "funDes": "Membro do Conselho Geral do ISCTE-IUL",
                 "funOrdem": "4",
                 "funAntiga": "N"
               },
               {
-                "funId": "31000",
+                "funId": "31620",
                 "funDes": "Secretário-Geral Adjunto da Juventude Socialista",
                 "funOrdem": "5",
                 "funAntiga": "S"
               },
               {
-                "funId": "31001",
+                "funId": "31621",
                 "funDes": "Membro da Direcção do Conselho Nacional de Juventude",
                 "funOrdem": "6",
                 "funAntiga": "S"
               },
               {
-                "funId": "31002",
+                "funId": "31622",
                 "funDes": "Presidente da Federação da Área Urbana de Lisboa da Juventude Socialista",
                 "funOrdem": "7",
                 "funAntiga": "S"
               },
               {
-                "funId": "31003",
+                "funId": "31623",
                 "funDes": "Presidente da Direcção e da Mesa RGA da Associação de Estudantes da FCSH-UNL",
                 "funOrdem": "8",
                 "funAntiga": "S"
               },
               {
-                "funId": "31004",
+                "funId": "31624",
                 "funDes": "Presidente do Conselho Fiscal da Federação Académica da Universidade Nova de Lisboa",
                 "funOrdem": "9",
                 "funAntiga": "S"
               },
               {
-                "funId": "31005",
+                "funId": "31625",
                 "funDes": "Membro do Senado da Universidade Nova de Lisboa",
                 "funOrdem": "10",
                 "funAntiga": "S"
               },
               {
-                "funId": "31006",
+                "funId": "31626",
                 "funDes": "Membro das Assembleias de Representantes da FCSH-UNL e da UNL",
                 "funOrdem": "11",
                 "funAntiga": "S"
               },
               {
-                "funId": "31007",
+                "funId": "31627",
                 "funDes": "Membro da Direcção do Grupo Municipal do PS na Assembleia Municipal de Lisboa",
                 "funOrdem": "12",
                 "funAntiga": "S"
               },
               {
-                "funId": "31008",
+                "funId": "31628",
                 "funDes": "Membro do Conselho Municipal de Desporto do Município de Lisboa",
                 "funOrdem": "13",
                 "funAntiga": "S"
@@ -9095,17 +9088,24 @@
           },
           "cadCondecoracoes": {
             "pt_ar_wsgode_objectos_DadosCondecoracoes": {
-              "codId": "4432",
+              "codId": "4512",
               "codDes": "Cruz Vermelha de Mérito - ao abrigo do Decreto-Lei nº 169/99, de 19 de Maio",
               "codOrdem": "1"
             }
           },
           "cadObrasPublicadas": {
-            "pt_ar_wsgode_objectos_DadosObrasPublicadas": {
-              "pubId": "7671",
-              "pubDes": "Maia Magalhães: um militar «democrático» na Grande Guerra e na resistência ao Sidonismo\nLer História, 65 | 2013 | p. 93-112\n",
-              "pubOrdem": "1"
-            }
+            "pt_ar_wsgode_objectos_DadosObrasPublicadas": [
+              {
+                "pubId": "7811",
+                "pubDes": "Maia Magalhães: um militar «democrático» na Grande Guerra e na resistência ao Sidonismo in \"Ler História\", 65 | 2013 | pp. 93-112\n",
+                "pubOrdem": "1"
+              },
+              {
+                "pubId": "7812",
+                "pubDes": "Uma Evocação Política da Participação Portuguesa na Grande Guerra de 1914-1918 in “Portugal e o Fim da Grande Guerra” Colóquio: Assembleia da República (PDF), 18 dezembro 2018, Assembleia da República, Lisboa, 2019, pp. 33-39",
+                "pubOrdem": "2"
+              }
+            ]
           },
           "cadActividadeOrgaos": {
             "actividadeCom": {
@@ -33080,79 +33080,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4524",
-                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
-                  "orgSigla": "CACDLG",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "4531",
-                  "orgDes": "Comissão de Educação e Ciência",
-                  "orgSigla": "CEC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "4535",
-                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
-                  "orgSigla": "CCCJD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "5024",
-                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
-                  "orgSigla": "CERTEFP",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo",
-                  "cargoDes": {
-                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
-                      "tiaDes": "CGP"
-                    }
-                  }
-                }
-              ]
-            },
-            "actividadeSCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4644",
-                "orgDes": "Subcomissão de Ética",
-                "orgSigla": "SE",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
-            },
-            "actividadeGT": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": [
-                {
-                  "orgId": "4924",
-                  "orgDes": "Grupo de Trabalho - Registo de Interesses",
-                  "orgSigla": "GT-RI",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "6705",
-                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
-                  "orgSigla": "GT-RGPD",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "7024",
-                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
-                  "orgSigla": "GT-ACPCPPMTA",
-                  "legDes": "XIII",
-                  "timDes": "Efetivo"
-                }
-              ]
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "416",
@@ -41623,30 +41551,30 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3936",
+              "rgiId": "9548",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2019-05-16",
               "rgiRegimeBensId": "2",
               "rgiRegimeBensDes": "Comunhão geral",
               "rgiCargoDes": "Deputado",
-              "rgiCargoData": "2015",
+              "rgiCargoData": "2018",
               "rgiApoiosBeneficios": "Nada a declarar.",
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3967",
+                    "rgaId": "9393",
                     "rgaActividade": "Serviços de Engenharia -elaboração de projetos e auditorias\nVenda de Produtos Cosméticos\n\n",
                     "rgaDataInicio": "1979-12-01",
                     "rgaDataFim": "2013-12-27",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3968",
+                    "rgaId": "9394",
                     "rgaActividade": "Deputado ",
-                    "rgaDataInicio": "2013",
-                    "rgaDataFim": "2015",
+                    "rgaDataInicio": "2015-11-27",
+                    "rgaDataFim": "2017-07-14",
                     "rgaRemunerada": "S"
                   }
                 ]
@@ -41654,23 +41582,41 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "3780",
+                    "rgcId": "7571",
                     "rgcCargo": "Vice-Presidente da Associação Padre Osório",
                     "rgcEntidade": "IPSS- P.dre Osório",
                     "rgcAreaActividade": "Apoio Social",
                     "rgcLocalSede": "Pigeiros\nS.Maria da Feira",
-                    "rgcDataInicio": "2015"
+                    "rgcDataInicio": "2015-01-03",
+                    "rgcDataFim": "2019-01-20"
                   },
                   {
-                    "rgcId": "3781",
+                    "rgcId": "7572",
                     "rgcCargo": "Presidente da Assembleia Geral da Associação P.Osório",
                     "rgcEntidade": "IPSS- P.dre Osório",
                     "rgcAreaActividade": "Apoio Social",
                     "rgcLocalSede": "Pigeiros\nS.Maria da Feira",
                     "rgcDataInicio": "2010-01-01",
-                    "rgcDataFim": "2014"
+                    "rgcDataFim": "2014-01-01"
+                  },
+                  {
+                    "rgcId": "7573",
+                    "rgcCargo": "Membro do Conselho Jurisdicional da Ordem dos Engenheiros Técnicos ",
+                    "rgcEntidade": "OET",
+                    "rgcAreaActividade": "Membro Conselho Jurisdicional",
+                    "rgcLocalSede": "Lisboa",
+                    "rgcDataInicio": "2018-07-14"
                   }
                 ]
+              },
+              "rgiSociedades": {
+                "pt_ar_wsgode_objectos_DadosRgiSociedades": {
+                  "rgsId": "4760",
+                  "rgsEntidade": "Proelgás Ldª",
+                  "rgsAreaActividade": "Consultorias Energéticas e Projetos Elétricos",
+                  "rgsLocalSede": "Rua Jornal Correio da Feira nº 11-2ºA\n4520-234 S. Maria da Feira",
+                  "rgsPartiSocial": "10% sobre um Capital Social de 4000 euros"
+                }
               },
               "rgiCadId": "1550"
             }
@@ -43905,7 +43851,38 @@
           "cadNomeCompleto": "MARIA DA CONCEIÇÃO ALVES DOS SANTOS BESSA RUÃO PINTO",
           "cadActividadeProfissional": "Advogada/Gestora",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9549",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2019-05-16",
+              "rgiRegimeBensId": "1",
+              "rgiRegimeBensDes": "Comunhão de adquiridos",
+              "rgiCargoDes": "Deputado",
+              "rgiCargoData": "2019",
+              "rgiApoiosBeneficios": "Nada a declarar.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9395",
+                    "rgaActividade": "Advogada\n",
+                    "rgaDataInicio": "2018-06-16",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9396",
+                    "rgaActividade": "Gestora - Santa Casa da Misericórdia de S. Bento de Arnóia de Celorico de Basto",
+                    "rgaDataInicio": "2018-08-17",
+                    "rgaRemunerada": "S"
+                  }
+                ]
+              },
+              "rgiCadId": "4391"
+            }
+          }
         },
         {
           "cadId": "5932",
@@ -44316,9 +44293,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3909",
+              "rgiId": "9588",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2019-05-16",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado à Assembleia da República;\nVice-Secretário da Mesa da Assembleia da República",
               "rgiCargoData": "2015",
@@ -44326,31 +44303,64 @@
               "rgiServicosPrestados": "Nada a declarar.",
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
-                "pt_ar_wsgode_objectos_DadosRgiActividades": {
-                  "rgaId": "3883",
-                  "rgaActividade": "Membro da Assembleia Municipal de Lisboa",
-                  "rgaDataInicio": "2009",
-                  "rgaRemunerada": "N"
-                }
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9433",
+                    "rgaActividade": "Membro da Assembleia Municipal de Lisboa",
+                    "rgaDataInicio": "2009",
+                    "rgaDataFim": "2013",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9434",
+                    "rgaActividade": "Membro da Assembleia Municipal de Lisboa",
+                    "rgaDataInicio": "2013",
+                    "rgaDataFim": "2017",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9435",
+                    "rgaActividade": "Membro da Assembleia Municipal de Lisboa",
+                    "rgaDataInicio": "2017-10",
+                    "rgaRemunerada": "N"
+                  }
+                ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "3737",
+                    "rgcId": "7598",
                     "rgcCargo": "Secretário-geral Adjunto",
                     "rgcEntidade": "Juventude Socialista",
                     "rgcAreaActividade": "Organização Político-Partidária de Juventude",
                     "rgcLocalSede": "Rua Rodrigo da Fonseca 24 – 1º DTO, 1250-193 Lisboa",
-                    "rgcDataInicio": "2012"
+                    "rgcDataInicio": "2012",
+                    "rgcDataFim": "2016"
                   },
                   {
-                    "rgcId": "3738",
+                    "rgcId": "7599",
                     "rgcCargo": "Membro da Direção",
                     "rgcEntidade": "Conselho Nacional de Juventude",
                     "rgcAreaActividade": "Associativismo Juvenil",
                     "rgcLocalSede": "Rua dos Douradores nº106-118, 4º piso, 1100-207 Lisboa",
                     "rgcDataInicio": "2010",
                     "rgcDataFim": "2013"
+                  },
+                  {
+                    "rgcId": "7600",
+                    "rgcCargo": "Vice-presidente da Mesa da Assembleia Geral",
+                    "rgcEntidade": "Associação dos Amigos dos Cemitérios de Lisboa",
+                    "rgcAreaActividade": "Associação sem fins lucrativos",
+                    "rgcLocalSede": "Rua Gonçalo Nunes, 53 3ºB, 1400-185, Belém, Lisboa",
+                    "rgcDataInicio": "2017-10"
+                  },
+                  {
+                    "rgcId": "7601",
+                    "rgcCargo": "Membro Externo",
+                    "rgcEntidade": "Conselho Geral do ISCTE-IUL",
+                    "rgcAreaActividade": "Instituição Universitária Pública",
+                    "rgcLocalSede": "Av. das Forças Armadas, 1649-026 Lisboa",
+                    "rgcDataInicio": "2017-09"
                   }
                 ]
               },
@@ -46987,9 +46997,9 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "8530",
+              "rgiId": "9568",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-04-19",
+              "rgiDataVersao": "2019-05-16",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputado",
               "rgiCargoData": "2015",
@@ -46999,41 +47009,41 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "8401",
+                    "rgaId": "9413",
                     "rgaActividade": "Adjunto da Presidente da Câmara Municipal de Tomar",
                     "rgaDataInicio": "2014-01-01",
                     "rgaDataFim": "2015-11-26",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8402",
+                    "rgaId": "9414",
                     "rgaActividade": "Assessor do Grupo Parlamentar do PS ",
                     "rgaDataInicio": "2012-09-01",
                     "rgaDataFim": "2013-12-31",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "8403",
+                    "rgaId": "9415",
                     "rgaActividade": "Membro da Assembleia Municipal de Tomar",
                     "rgaDataInicio": "2005",
                     "rgaDataFim": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8404",
+                    "rgaId": "9416",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunipal do Médio Tejo",
                     "rgaDataInicio": "2013",
                     "rgaDataFim": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8405",
+                    "rgaId": "9417",
                     "rgaActividade": "Membro da Assembleia Municipal de Tomar",
                     "rgaDataInicio": "2017-10-21",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "8406",
+                    "rgaId": "9418",
                     "rgaActividade": "Membro da Assembleia da Comunidade Intermunipal do Médio Tejo",
                     "rgaDataInicio": "2017-12-13",
                     "rgaRemunerada": "N"
@@ -47043,15 +47053,24 @@
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": [
                   {
-                    "rgcId": "6820",
+                    "rgcId": "7578",
                     "rgcCargo": "Vice-Presidente da Direção",
                     "rgcEntidade": "Sporting Clube Tomar",
                     "rgcAreaActividade": "Clube Desportivo",
                     "rgcLocalSede": "Tomar",
-                    "rgcDataInicio": "2015-07-07"
+                    "rgcDataInicio": "2015-07-07",
+                    "rgcDataFim": "2019-04-05"
                   },
                   {
-                    "rgcId": "6821",
+                    "rgcId": "7579",
+                    "rgcCargo": "Presidente da Mesa da Assembleia Geral",
+                    "rgcEntidade": "Sporting Clube de Tomar",
+                    "rgcAreaActividade": "Clube Desportivo",
+                    "rgcLocalSede": "Tomar",
+                    "rgcDataInicio": "2019-04-05"
+                  },
+                  {
+                    "rgcId": "7580",
                     "rgcCargo": "Secretário da Mesa da Assembleia Geral",
                     "rgcEntidade": "Casa do Concelho de Tomar",
                     "rgcAreaActividade": "Casa Regional",
