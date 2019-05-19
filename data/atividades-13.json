@@ -1676,7 +1676,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição do ex-Presidente do Conselho Diretivo do Instituto da Habitação e da Reabilitação Urbana entre 2012 e 2017, Victor Reis, a Requerimento do CDS-PP para prestar todos os esclarecimentos sobre a reconstrução das casas afetadas pelo incêndio de 17 de junho de 2017 em Pedrógão Grande",
-              "entidades": "Peticionários - Petição 592/XIII/4ª - Susana Santos;Arq.º Victor Reis - ex-Presidente do Conselho Diretivo do Instituto da Habitação e da Reabilitação Urbana entre 2012 e 2017",
+              "entidades": "Arq.º Victor Reis - ex-Presidente do Conselho Diretivo do Instituto da Habitação e da Reabilitação Urbana entre 2012 e 2017",
               "data": "2019-05-07"
             },
             {
@@ -6264,6 +6264,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112468",
+              "numeroAudicao": "19-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição Dr. José Rui Gomes",
+              "entidades": "Dr. José Rui Gomes",
+              "data": "2019-05-16"
+            },
+            {
+              "IDAudicao": "112467",
+              "numeroAudicao": "18-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Sr. Joaquim Barroca",
+              "entidades": "Joaquim Barroca",
+              "data": "2019-05-16"
+            },
+            {
               "IDAudicao": "112456",
               "numeroAudicao": "17-II-CPIRCGDGB-XIII",
               "legislatura": "XIII",
@@ -10241,12 +10259,21 @@
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
               "IDAudicao": "112461",
-              "numeroAudicao": "56-CPIPREPE-XIII",
+              "numeroAudicao": "57-CPIPREPE-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Discussão e votação do relatório final e das propostas de alteração apresentadas",
               "entidades": null,
               "data": "2019-05-15"
+            },
+            {
+              "IDAudicao": "112466",
+              "numeroAudicao": "56-CPIPREPE-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Apreciação do Relatório",
+              "entidades": null,
+              "data": "2019-04-12"
             },
             {
               "IDAudicao": "111891",
@@ -32110,6 +32137,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112463",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-16",
+              "dataFim": "2019-05-16",
+              "designacao": "Encontro com o Ambaixador do Estado de Israel, Raphael Gamzou",
+              "localEvento": "Embaixada, Lisboa",
+              "tipo": "Deslocação"
+            },
+            {
               "IDDeslocacao": "112429",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -32310,6 +32347,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "110482",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-11",
+              "dataFim": "2018-10-13",
+              "designacao": "Conferência Interparlamentar sobre Política Externa de Segurança Comum (PESC) e Política Comum de Segurança e Defesa (PCSD)",
+              "localEvento": "Viena - Áustria",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "110483",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -32320,13 +32367,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110482",
+              "IDDeslocacao": "110425",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "dataIni": "2018-10-11",
-              "dataFim": "2018-10-13",
-              "designacao": "Conferência Interparlamentar sobre Política Externa de Segurança Comum (PESC) e Política Comum de Segurança e Defesa (PCSD)",
-              "localEvento": "Viena - Áustria",
+              "dataIni": "2018-10-10",
+              "dataFim": "2018-10-11",
+              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+              "localEvento": "Bruxelas",
               "tipo": "Representação"
             },
             {
@@ -32340,13 +32387,13 @@
               "tipo": "Deslocação"
             },
             {
-              "IDDeslocacao": "110425",
+              "IDDeslocacao": "110448",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "dataIni": "2018-10-10",
-              "dataFim": "2018-10-11",
-              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-              "localEvento": "Bruxelas",
+              "dataIni": "2018-10-09",
+              "dataFim": "2018-10-09",
+              "designacao": "Encontro com o Embaixador do Estado de Israel",
+              "localEvento": "Embaixada - Lisboa",
               "tipo": "Representação"
             },
             {
@@ -32358,16 +32405,6 @@
               "designacao": "Visita de trabalho ao complexo militar das linhas de Torres",
               "localEvento": "Sobral de Monte Agraço",
               "tipo": "Deslocação"
-            },
-            {
-              "IDDeslocacao": "110448",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-10-09",
-              "dataFim": "2018-10-09",
-              "designacao": "Encontro com o Embaixador do Estado de Israel",
-              "localEvento": "Embaixada - Lisboa",
-              "tipo": "Representação"
             },
             {
               "IDDeslocacao": "110334",

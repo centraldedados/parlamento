@@ -33080,7 +33080,79 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4524",
+                  "orgDes": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                  "orgSigla": "CACDLG",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "4531",
+                  "orgDes": "Comissão de Educação e Ciência",
+                  "orgSigla": "CEC",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "4535",
+                  "orgDes": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+                  "orgSigla": "CCCJD",
+                  "legDes": "XIII",
+                  "timDes": "Suplente"
+                },
+                {
+                  "orgId": "5024",
+                  "orgDes": "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+                  "orgSigla": "CERTEFP",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo",
+                  "cargoDes": {
+                    "pt_ar_wsgode_objectos_DadosCargosOrgao": {
+                      "tiaDes": "CGP"
+                    }
+                  }
+                }
+              ]
+            },
+            "actividadeSCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4644",
+                "orgDes": "Subcomissão de Ética",
+                "orgSigla": "SE",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            },
+            "actividadeGT": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": [
+                {
+                  "orgId": "4924",
+                  "orgDes": "Grupo de Trabalho - Registo de Interesses",
+                  "orgSigla": "GT-RI",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "6705",
+                  "orgDes": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+                  "orgSigla": "GT-RGPD",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                },
+                {
+                  "orgId": "7024",
+                  "orgDes": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+                  "orgSigla": "GT-ACPCPPMTA",
+                  "legDes": "XIII",
+                  "timDes": "Efetivo"
+                }
+              ]
+            }
+          }
         },
         {
           "cadId": "416",
@@ -42673,9 +42745,9 @@
           "cadEstadoCivilDes": "Casado(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "3834",
+              "rgiId": "9608",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2016-02-04",
+              "rgiDataVersao": "2019-05-17",
               "rgiRegimeBensId": "1",
               "rgiRegimeBensDes": "Comunhão de adquiridos",
               "rgiCargoDes": "Deputado",
@@ -42686,30 +42758,63 @@
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "3672",
-                    "rgaActividade": "Deputado à Assembleia da República na XII Legislatura",
-                    "rgaDataInicio": "2011",
-                    "rgaDataFim": "2015",
+                    "rgaId": "9453",
+                    "rgaActividade": "Deputado à Assembleia da República na XIII Legislatura",
+                    "rgaDataInicio": "2015",
+                    "rgaDataFim": "2019",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "3673",
+                    "rgaId": "9454",
                     "rgaActividade": "Membro da Assembleia Municipal de Almada",
                     "rgaDataInicio": "1997",
+                    "rgaDataFim": "2001",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9455",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2001",
+                    "rgaDataFim": "2005",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9456",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2005",
+                    "rgaDataFim": "2009",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9457",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2009",
+                    "rgaDataFim": "2013",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9458",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2013",
                     "rgaDataFim": "2017",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9459",
+                    "rgaActividade": "Membro da Assembleia Municipal de Almada",
+                    "rgaDataInicio": "2017",
                     "rgaRemunerada": "N"
                   }
                 ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "3641",
+                  "rgcId": "7618",
                   "rgcCargo": "Membro da Direção",
                   "rgcEntidade": "MPPM - Movimento pelos Direitos do Povo Palestino e pela Paz no Médio Oriente",
                   "rgcAreaActividade": "Movimento de solidariedade e defesa da paz",
                   "rgcLocalSede": "Rua Silva Carvalho, N.º 184, 1.º Dto.\n1250-258 Lisboa\nPortugal",
-                  "rgcDataInicio": "2010",
-                  "rgcDataFim": "2015"
+                  "rgcDataInicio": "2010"
                 }
               },
               "rgiCadId": "1715"
