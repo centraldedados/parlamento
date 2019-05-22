@@ -10729,6 +10729,34 @@
         "dataInicio": "2019-05-21",
         "dataFim": "2019-05-24",
         "participantes": null
+      },
+      {
+        "id": "1973",
+        "nome": "Participação no \"Meeting of Parliamentarians From the WHO Europen Region\"",
+        "local": "Genebra",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-23",
+        "dataFim": "2019-05-24",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOSÉ DE MATOS ROSA",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "1951"
+          }
+        }
+      },
+      {
+        "id": "1972",
+        "nome": "Missão de Estudo ao Parlamento Finlandês",
+        "local": "Helsínquia",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-05-27",
+        "dataFim": "2019-05-28",
+        "participantes": null
       }
     ]
   }

@@ -5891,12 +5891,36 @@
               }
             },
             {
+              "nome": "Reunião da Comissãode Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "27-05-2019",
+              "dataFim": "28-05-2019",
+              "participantes": null
+            },
+            {
+              "nome": "Reunião da Comissão Permanente",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "24-05-2019",
+              "dataFim": "24-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Viena",
               "dataInicio": "13-05-2019",
               "dataFim": "14-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
+                }
+              }
             },
             {
               "nome": "Comissão de Migrações, refugiados e Pessoas Deslocadas - Visita aos Centros de Migrantes de Traiskirchen e Zinnergasse",
