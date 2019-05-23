@@ -13206,6 +13206,24 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112477",
+              "numeroAudicao": "147-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição, por requerimento do Grupo Parlamentar do PSD, da Ministra da Cultura com vista ao esclarecimento dos aspetos relacionados com a situação de continuado agravamento da prestação de serviço público de rádio.",
+              "entidades": "MIN.  DA  CULTURA;S.E.  DA  CULTURA",
+              "data": "2019-05-28"
+            },
+            {
+              "IDAudicao": "112476",
+              "numeroAudicao": "146-CCCJD-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição regimental da Ministra da Cultura para apreciação da política geral do Ministério, ao abrigo do n.º 2 do artigo 104.º do Regimento da Assembleia da República.",
+              "entidades": "MIN.  DA  CULTURA;S.E.  DA  CULTURA",
+              "data": "2019-05-28"
+            },
+            {
               "IDAudicao": "112416",
               "numeroAudicao": "145-CCCJD-XIII",
               "legislatura": "XIII",
@@ -35547,6 +35565,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
+            {
+              "IDDeslocacao": "112479",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-22",
+              "dataFim": "2019-05-22",
+              "designacao": "Seminário Educação e desafios do futuro: ambiente e desenvolvimento sustentável | 22 de maio de 2019 | CNE.",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
             {
               "IDDeslocacao": "111740",
               "legislatura": "XIII",

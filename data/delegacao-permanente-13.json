@@ -193,7 +193,15 @@
               "local": "Malabo",
               "dataInicio": "13-05-2019",
               "dataFim": "14-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ÂNGELA GUERRA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4031"
+                }
+              }
             },
             {
               "nome": "Reunião da 1ª Comissão",
@@ -3535,7 +3543,15 @@
               "local": "Oslo, Tromso, Svalbard",
               "dataInicio": "20-05-2019",
               "dataFim": "23-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "NILZA DE SENA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4326"
+                }
+              }
             },
             {
               "nome": "Missão de Observação das Eleições Presidenciais na Ucrânia - 2ªvolta",
@@ -5891,12 +5907,28 @@
               }
             },
             {
+              "nome": "Reunião da Comissão de Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Zurique",
+              "dataInicio": "28-05-2019",
+              "dataFim": "29-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissãode Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
               "dataInicio": "27-05-2019",
               "dataFim": "28-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão Permanente",
@@ -5904,7 +5936,15 @@
               "local": "Paris",
               "dataInicio": "24-05-2019",
               "dataFim": "24-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "EDITE ESTRELA",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "162"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
