@@ -4640,7 +4640,15 @@
               "local": "Berlim",
               "dataInicio": "06-09-2016",
               "dataFim": "06-09-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ISABEL SANTOS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2103"
+                }
+              }
             },
             {
               "nome": "Missão de Alto Nível à Turquia com Presidente da APOSCE",
@@ -9100,6 +9108,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Reunião da APM com a Organização para a Cooperação e Desenvolvimento Económico (OCDE) e Reunião da APM ao Parlamento da Eslovénia",
+              "tipo": "REN",
+              "local": "Paris, Liubliana",
+              "dataInicio": "28-05-2019",
+              "dataFim": "29-05-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e no 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
               "tipo": "REN",
               "local": "Antalya",
@@ -9902,22 +9918,6 @@
               }
             },
             {
-              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
-              "tipo": "REN",
-              "local": "São Petersburgo e Roma",
-              "dataInicio": "27-03-2017",
-              "dataFim": "31-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "PEDRO ROQUE",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1992"
-                }
-              }
-            },
-            {
               "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional",
               "tipo": "REN",
               "local": "São Petersburgo",
@@ -9930,6 +9930,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1679"
+                }
+              }
+            },
+            {
+              "nome": "Conferência Parlamentar sobre o Combate ao Terrorismo Internacional e Seminário Regional UN/PAM sobre \"Implementação pelos Parlamentos Nacionais das Resoluções do Conselho de Segurança das Nações unidas sobre o Terrorismo e Terroristas Combatentes Estrangeiros.",
+              "tipo": "REN",
+              "local": "São Petersburgo e Roma",
+              "dataInicio": "27-03-2017",
+              "dataFim": "31-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
                 }
               }
             },
@@ -11448,13 +11464,36 @@
               "dataInicio": "07-11-2016",
               "dataFim": "18-11-2016",
               "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "JORGE LACÃO",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "179"
-                }
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "DUARTE PACHECO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "42"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "FERNANDO VIRGÍLIO MACEDO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4152"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "JORGE LACÃO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "179"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "ROSA MARIA BASTOS ALBERNAZ",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "204"
+                  }
+                ]
               }
             },
             {
