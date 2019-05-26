@@ -53259,7 +53259,45 @@
           "cadNomeCompleto": "MARIA DA LUZ MARQUES LOPES",
           "cadActividadeProfissional": "Professora",
           "cadEstadoCivilCod": "1",
-          "cadEstadoCivilDes": "Casado(a)"
+          "cadEstadoCivilDes": "Casado(a)",
+          "cadRgi": {
+            "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
+              "rgiId": "9628",
+              "rgiLegDes": "XIII",
+              "rgiDataVersao": "2019-05-24",
+              "rgiRegimeBensId": "3",
+              "rgiRegimeBensDes": "Separação geral de bens",
+              "rgiCargoDes": "Deputada",
+              "rgiCargoData": "2019",
+              "rgiApoiosBeneficios": "Senhas de presença como membro da Assembleia Municipal de Torres Novas e da Comunidade Intermunicipal do Médio Tejo.",
+              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiOutrasSituacoes": "Nada a declarar.",
+              "rgiActividades": {
+                "pt_ar_wsgode_objectos_DadosRgiActividades": [
+                  {
+                    "rgaId": "9473",
+                    "rgaActividade": "Docente e coordenadora de departamento, Agrupamento de Escolas Gil Paes, Torres Novas (2016/2017/2018).\n\n",
+                    "rgaDataInicio": "1982-10-07",
+                    "rgaDataFim": "2019-01-03",
+                    "rgaRemunerada": "S"
+                  },
+                  {
+                    "rgaId": "9474",
+                    "rgaActividade": "Membro da Assembleia Municipal de Torres Novas.",
+                    "rgaDataInicio": "2017-10-14",
+                    "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9475",
+                    "rgaActividade": "Membro da Comunidade Intermunicipal do Médio Tejo.",
+                    "rgaDataInicio": "2017-12-13",
+                    "rgaRemunerada": "N"
+                  }
+                ]
+              },
+              "rgiCadId": "6014"
+            }
+          }
         },
         {
           "cadId": "4380",

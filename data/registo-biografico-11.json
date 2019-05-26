@@ -3727,7 +3727,17 @@
               }
             ]
           },
-          "cadActividadeOrgaos": null
+          "cadActividadeOrgaos": {
+            "actividadeCom": {
+              "pt_ar_wsgode_objectos_DadosOrgaos": {
+                "orgId": "4528",
+                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+                "orgSigla": "COFMA",
+                "legDes": "XIII",
+                "timDes": "Efetivo"
+              }
+            }
+          }
         },
         {
           "cadId": "1245",

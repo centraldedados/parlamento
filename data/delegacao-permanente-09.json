@@ -1919,14 +1919,14 @@
               "composicao": {
                 "Membro": [
                   {
-                    "nome": "JOAQUIM PONTE",
+                    "nome": "TERESA MORAIS",
                     "gp": "PSD",
                     "cargo": null,
                     "dataInicio": "2002-05-08",
                     "dataFim": null
                   },
                   {
-                    "nome": "TERESA MORAIS",
+                    "nome": "JOAQUIM PONTE",
                     "gp": "PSD",
                     "cargo": null,
                     "dataInicio": "2002-05-08",
@@ -3194,7 +3194,15 @@
               "local": "Bucareste",
               "dataInicio": "05-06-2002",
               "dataFim": "08-06-2002",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "EUGÉNIO MARINHO",
+                  "gp": "PSD",
+                  "leg": "X",
+                  "id": "1022"
+                }
+              }
             }
           ]
         },

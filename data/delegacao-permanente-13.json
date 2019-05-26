@@ -3174,7 +3174,24 @@
               "local": "Tallin e Hensínquia",
               "dataInicio": "11-06-2016",
               "dataFim": "15-06-2016",
-              "participantes": null
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS VALES",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4148"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
+              }
             },
             {
               "nome": "Sessão de Primavera (sessão plenária)",
@@ -5920,7 +5937,15 @@
               "local": "Zurique",
               "dataInicio": "28-05-2019",
               "dataFim": "29-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PAULO PISCO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1741"
+                }
+              }
             },
             {
               "nome": "Reunião da Comissãode Cultura, Ciência, Educação e Media",
@@ -7357,6 +7382,22 @@
               }
             },
             {
+              "nome": "Missão de Observação das Eleições Legislativas na Albânia",
+              "tipo": "REN",
+              "local": "Tirana",
+              "dataInicio": "22-06-2017",
+              "dataFim": "26-06-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "IDÁLIA SALVADOR SERRÃO",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "2132"
+                }
+              }
+            },
+            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Pessoas Deslocadas",
               "tipo": "REN",
               "local": "Paris",
@@ -8451,6 +8492,14 @@
               }
             },
             {
+              "nome": "Campanha #NoHateNoFear",
+              "tipo": "RNI",
+              "local": "Assembleia da República - Passos Perdidos",
+              "dataInicio": "30-06-2016",
+              "dataFim": "30-06-2016",
+              "participantes": null
+            },
+            {
               "nome": "Cerimónia de Entrega do Prémio Norte-Sul do Conselho da Europa 2015",
               "tipo": "RNI",
               "local": "Sala do Senado",
@@ -8465,22 +8514,6 @@
                   "id": "1212"
                 }
               }
-            },
-            {
-              "nome": "Campanha #NoHateNoFear",
-              "tipo": "RNI",
-              "local": "Assembleia da República - Passos Perdidos",
-              "dataInicio": "30-06-2016",
-              "dataFim": "30-06-2016",
-              "participantes": null
-            },
-            {
-              "nome": "Missão de Observação das Eleições Legislativas na Albânia",
-              "tipo": "REN",
-              "local": "Tirana",
-              "dataInicio": "22-06-2016",
-              "dataFim": "26-06-2016",
-              "participantes": null
             },
             {
               "nome": "3ª Parte da Sessão Plenária de 2016",
@@ -8621,22 +8654,6 @@
               }
             },
             {
-              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "01-06-2016",
-              "dataFim": "02-06-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -8649,6 +8666,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "01-06-2016",
+              "dataFim": "02-06-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -8837,22 +8870,6 @@
               }
             },
             {
-              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "14-03-2016",
-              "dataFim": "14-03-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS ALBERTO GONÇALVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1458"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
               "tipo": "REN",
               "local": "Paris",
@@ -8865,6 +8882,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4364"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "14-03-2016",
+              "dataFim": "14-03-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS ALBERTO GONÇALVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1458"
                 }
               }
             },
@@ -9113,7 +9146,15 @@
               "local": "Paris, Liubliana",
               "dataInicio": "28-05-2019",
               "dataFim": "29-05-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "PEDRO ROQUE",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1992"
+                }
+              }
             },
             {
               "nome": "Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente (GSM) e no 99º Seminário Rose-Roth da Assembleia Parlamentar da NATO (APNATO)",
