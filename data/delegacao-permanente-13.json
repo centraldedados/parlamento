@@ -1259,6 +1259,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Sessão da Primavera",
+              "tipo": "REN",
+              "local": "Bratislava",
+              "dataInicio": "31-05-2019",
+              "dataFim": "03-06-2019",
+              "participantes": null
+            },
+            {
               "nome": "Visita da Comissão de Ciência e Tecnologia (STC)",
               "tipo": "REN",
               "local": "Singapura",
@@ -1764,22 +1772,6 @@
               }
             },
             {
-              "nome": "Reunião da Pré-Cimeira da NATO",
-              "tipo": "REN",
-              "local": "Bruxelas",
-              "dataInicio": "10-07-2018",
-              "dataFim": "10-07-2018",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "CARLOS COSTA NEVES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3963"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Pré-Cimeira da NATO e Side-Event",
               "tipo": "REN",
               "local": "Bruxelas",
@@ -1792,6 +1784,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1700"
+                }
+              }
+            },
+            {
+              "nome": "Reunião da Pré-Cimeira da NATO",
+              "tipo": "REN",
+              "local": "Bruxelas",
+              "dataInicio": "10-07-2018",
+              "dataFim": "10-07-2018",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "CARLOS COSTA NEVES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3963"
                 }
               }
             },
