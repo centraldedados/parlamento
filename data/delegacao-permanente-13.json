@@ -3563,6 +3563,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Conferência da OSCE \"Security Days\"",
+              "tipo": "REN",
+              "local": "Viena",
+              "dataInicio": "04-06-2019",
+              "dataFim": "04-06-2019",
+              "participantes": null
+            },
+            {
               "nome": "Visita de Estudo a Svalbard  - Observação in loco das consequências do aquecimento global naquela região do ártico noruegues",
               "tipo": "REN",
               "local": "Oslo, Tromso, Svalbard",
@@ -5940,6 +5948,14 @@
               }
             },
             {
+              "nome": "Reunião da Comissão sobre a Igualdade e Não Discriminação",
+              "tipo": "REN",
+              "local": "Belgrado",
+              "dataInicio": "05-06-2019",
+              "dataFim": "06-06-2019",
+              "participantes": null
+            },
+            {
               "nome": "Reunião da Comissão de Migrações, Refugiados e Pessoas Deslocadas",
               "tipo": "REN",
               "local": "Zurique",
@@ -7650,22 +7666,6 @@
               }
             },
             {
-              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "22-03-2017",
-              "dataFim": "24-03-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS LEITE RAMOS",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4364"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão de Cultura, Ciência, Educação e Media",
               "tipo": "REN",
               "local": "Paris",
@@ -7678,6 +7678,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "1458"
+                }
+              }
+            },
+            {
+              "nome": "Reuniões da Comissão de Cultura, Ciência, Educação e Media e da Comissão de Assuntos Sociais, Saúde e Desenvolvimento Sustentável",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "22-03-2017",
+              "dataFim": "24-03-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS LEITE RAMOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4364"
                 }
               }
             },
@@ -8372,22 +8388,6 @@
               }
             },
             {
-              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
-              "tipo": "RNI",
-              "local": "Assembleia da República-Sala D. Maria",
-              "dataInicio": "22-09-2016",
-              "dataFim": "22-09-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "ADÃO SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "3"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Comissão das Migrações, Refugiados e Deslocados Internos",
               "tipo": "REN",
               "local": "Paris",
@@ -8400,6 +8400,22 @@
                   "gp": "PSD",
                   "leg": "XIII",
                   "id": "4170"
+                }
+              }
+            },
+            {
+              "nome": "Encontro com a Embaixadora da Turquia em Lisboa, Ebru Barutçu Gökdenizler",
+              "tipo": "RNI",
+              "local": "Assembleia da República-Sala D. Maria",
+              "dataInicio": "22-09-2016",
+              "dataFim": "22-09-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "ADÃO SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "3"
                 }
               }
             },
@@ -8500,14 +8516,6 @@
               }
             },
             {
-              "nome": "Campanha #NoHateNoFear",
-              "tipo": "RNI",
-              "local": "Assembleia da República - Passos Perdidos",
-              "dataInicio": "30-06-2016",
-              "dataFim": "30-06-2016",
-              "participantes": null
-            },
-            {
               "nome": "Cerimónia de Entrega do Prémio Norte-Sul do Conselho da Europa 2015",
               "tipo": "RNI",
               "local": "Sala do Senado",
@@ -8522,6 +8530,14 @@
                   "id": "1212"
                 }
               }
+            },
+            {
+              "nome": "Campanha #NoHateNoFear",
+              "tipo": "RNI",
+              "local": "Assembleia da República - Passos Perdidos",
+              "dataInicio": "30-06-2016",
+              "dataFim": "30-06-2016",
+              "participantes": null
             },
             {
               "nome": "3ª Parte da Sessão Plenária de 2016",

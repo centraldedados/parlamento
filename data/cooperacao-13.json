@@ -279,16 +279,35 @@
               "data": "2016-02-26",
               "programas": null,
               "atividades": {
-                "Atividade": {
-                  "id": "3607",
-                  "tipoAtividade": "DSL",
-                  "tipo": null,
-                  "nome": "Ação 24 - Validação do Plano Estratégico, Orçamentação e Calendarização de Actividades e Ação 25 - Apoio na Elaboração de Especificações Técnicas para a Restruturação do Centro de Processamento de Dados",
-                  "dataInicio": "2016-05-30",
-                  "dataFim": "2016-06-09",
-                  "local": "São Tomé",
-                  "participantes": null
-                }
+                "Atividade": [
+                  {
+                    "id": "3607",
+                    "tipoAtividade": "DSL",
+                    "tipo": null,
+                    "nome": "Ação 24 - Validação do Plano Estratégico, Orçamentação e Calendarização de Actividades e Ação 25 - Apoio na Elaboração de Especificações Técnicas para a Restruturação do Centro de Processamento de Dados",
+                    "dataInicio": "2016-05-30",
+                    "dataFim": "2016-06-09",
+                    "local": "São Tomé",
+                    "participantes": null
+                  },
+                  {
+                    "id": "4500",
+                    "tipoAtividade": "DSL",
+                    "tipo": null,
+                    "nome": "Seminário alusivo às áreas de feitura de leis, de ética e conduta parlamentar.",
+                    "dataInicio": "2019-06-01",
+                    "dataFim": "2019-06-04",
+                    "local": "S. Tomé",
+                    "participantes": {
+                      "Participante": {
+                        "nome": "JORGE LACÃO (PS) ",
+                        "cargo": null,
+                        "servico": null,
+                        "id": "179"
+                      }
+                    }
+                  }
+                ]
               },
               "documentos": null
             },
