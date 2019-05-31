@@ -10613,13 +10613,6 @@
                   "orgSigla": "GT-ILDC",
                   "legDes": "XIII",
                   "timDes": "Suplente"
-                },
-                {
-                  "orgId": "7204",
-                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
-                  "orgSigla": "GT-AL-CPVD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
                 }
               ]
             }
@@ -37877,13 +37870,6 @@
                   "orgSigla": "GT-ILDC",
                   "legDes": "XIII",
                   "timDes": "Efetivo"
-                },
-                {
-                  "orgId": "7204",
-                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
-                  "orgSigla": "GT-AL-CPVD",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
                 }
               ]
             }
@@ -43846,54 +43832,61 @@
           "cadEstadoCivilDes": "Solteiro(a)",
           "cadRgi": {
             "pt_ar_wsgode_objectos_DadosRegistoInteressesWebV2": {
-              "rgiId": "7950",
+              "rgiId": "9648",
               "rgiLegDes": "XIII",
-              "rgiDataVersao": "2018-01-26",
+              "rgiDataVersao": "2019-05-30",
               "rgiRegimeBensId": "0",
               "rgiCargoDes": "Deputada",
               "rgiCargoData": "2015",
               "rgiApoiosBeneficios": "Senhas de presença na Assembleia Municipal de Vila Nova de Gaia.",
-              "rgiServicosPrestados": "Nada a declarar.",
+              "rgiServicosPrestados": null,
               "rgiOutrasSituacoes": "Nada a declarar.",
               "rgiActividades": {
                 "pt_ar_wsgode_objectos_DadosRgiActividades": [
                   {
-                    "rgaId": "7785",
+                    "rgaId": "9493",
                     "rgaActividade": "Deputada na XII Legislatura",
                     "rgaDataInicio": "2013-01-29",
                     "rgaDataFim": "2015-10-21",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7786",
+                    "rgaId": "9494",
                     "rgaActividade": "Secretária de Estado do Turismo",
                     "rgaDataInicio": "2011-06-29",
                     "rgaDataFim": "2013-01-29",
                     "rgaRemunerada": "S"
                   },
                   {
-                    "rgaId": "7787",
+                    "rgaId": "9495",
                     "rgaActividade": "Membro da Comissão Executiva CDS-PP, ainda em funções",
                     "rgaDataInicio": "2014-01-12",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7788",
-                    "rgaActividade": "Vice-Presidente da Distrital do Porto do CDS-PP, ainda em funções",
+                    "rgaId": "9496",
+                    "rgaActividade": "Vice-Presidente da Distrital do Porto do CDS-PP",
                     "rgaDataInicio": "2012-03-15",
+                    "rgaDataFim": "2018-06-16",
                     "rgaRemunerada": "N"
                   },
                   {
-                    "rgaId": "7789",
+                    "rgaId": "9497",
                     "rgaActividade": "Membro da Assembleia Municipal de Vila Nova de Gaia",
                     "rgaDataInicio": "2017-10-18",
                     "rgaRemunerada": "N"
+                  },
+                  {
+                    "rgaId": "9498",
+                    "rgaActividade": "Prestação de serviços de comentário político na rubrica Direita-Esquerda na SIC - Sociedade Independente de Comunicação.",
+                    "rgaDataInicio": "2019-03-29",
+                    "rgaRemunerada": "S"
                   }
                 ]
               },
               "rgiCargosSociais": {
                 "pt_ar_wsgode_objectos_DadosRgiCargosSociaisV2": {
-                  "rgcId": "6364",
+                  "rgcId": "7638",
                   "rgcCargo": "Presidente da Mesa da Assembleia Geral",
                   "rgcEntidade": "Associação de Pais e Amigos do Cidadão Deficiente Mental de Braga",
                   "rgcAreaActividade": "Instituição Particular de Solidariedade Social",
