@@ -9586,24 +9586,6 @@
         "participantes": null
       },
       {
-        "id": "1918",
-        "nome": "VIII Assembleia Parlamentar da CPLP",
-        "local": "Cidade da Praia",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-10",
-        "dataFim": "2019-01-11",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1920",
         "nome": "Participação do Vice-Presidente da Comissão de Economia, Inovação e Obras Públicas no 4º IRENA Legislators Forum",
         "local": "Abu Dhabi",
@@ -9622,23 +9604,13 @@
         }
       },
       {
-        "id": "1966",
-        "nome": null,
-        "local": null,
+        "id": "1918",
+        "nome": "VIII Assembleia Parlamentar da CPLP",
+        "local": "Cidade da Praia",
         "legislatura": "XIII",
         "sessao": "4",
-        "dataInicio": "2019-01-17",
-        "dataFim": "2019-01-19",
-        "participantes": null
-      },
-      {
-        "id": "1922",
-        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
-        "local": "Dublin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-20",
-        "dataFim": "2019-01-22",
+        "dataInicio": "2019-01-10",
+        "dataFim": "2019-01-11",
         "participantes": {
           "Participante": {
             "tipo": "D",
@@ -9648,6 +9620,16 @@
             "id": "179"
           }
         }
+      },
+      {
+        "id": "1966",
+        "nome": null,
+        "local": null,
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-17",
+        "dataFim": "2019-01-19",
+        "participantes": null
       },
       {
         "id": "1921",
@@ -9664,6 +9646,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "2106"
+          }
+        }
+      },
+      {
+        "id": "1922",
+        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
+        "local": "Dublin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
           }
         }
       },
@@ -9778,6 +9778,24 @@
         }
       },
       {
+        "id": "1930",
+        "nome": "Participação na Semana Parlamentar Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-18",
+        "dataFim": "2019-02-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "DUARTE PACHECO",
+            "gp": "PSD",
+            "leg": "XIII",
+            "id": "42"
+          }
+        }
+      },
+      {
         "id": "1931",
         "nome": "Participação na Semana Parlamentar Europeia",
         "local": "Bruxelas",
@@ -9830,24 +9848,6 @@
               "id": "5954"
             }
           ]
-        }
-      },
-      {
-        "id": "1930",
-        "nome": "Participação na Semana Parlamentar Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-18",
-        "dataFim": "2019-02-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "DUARTE PACHECO",
-            "gp": "PSD",
-            "leg": "XIII",
-            "id": "42"
-          }
         }
       },
       {
@@ -9940,24 +9940,6 @@
         }
       },
       {
-        "id": "1936",
-        "nome": "Reuniões Temáticas sobre a Lusofonia",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-27",
-        "dataFim": "2019-02-28",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOÃO GONÇALVES PEREIRA",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "2867"
-          }
-        }
-      },
-      {
         "id": "1933",
         "nome": "Conferência do Institut du Monde Lusophone",
         "local": "Paris",
@@ -9972,6 +9954,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "419"
+          }
+        }
+      },
+      {
+        "id": "1936",
+        "nome": "Reuniões Temáticas sobre a Lusofonia",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
           }
         }
       },
@@ -10044,33 +10044,6 @@
         }
       },
       {
-        "id": "1938",
-        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-06",
-        "dataFim": "2019-03-07",
-        "participantes": {
-          "Participante": [
-            {
-              "tipo": "D",
-              "nome": "MARIA GERMANA ROCHA",
-              "gp": "PSD",
-              "leg": "XIII",
-              "id": "5984"
-            },
-            {
-              "tipo": "D",
-              "nome": "CARLA TAVARES",
-              "gp": "PS",
-              "leg": "XIII",
-              "id": "5501"
-            }
-          ]
-        }
-      },
-      {
         "id": "1937",
         "nome": "Participação na Conferência interparlamentar sobre Política Externa de Segurança Comum/Política Comum de Segurança de Defesa (PESC/PCSD).",
         "local": "Bucareste",
@@ -10126,6 +10099,33 @@
         }
       },
       {
+        "id": "1938",
+        "nome": "Participação na reunião interparlamentar - FEMM - o poder das mulheres na política e Conselho Europeu das Mulheres (WEUCO).",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-06",
+        "dataFim": "2019-03-07",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "MARIA GERMANA ROCHA",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "5984"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLA TAVARES",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "5501"
+            }
+          ]
+        }
+      },
+      {
         "id": "1944",
         "nome": "\"Human Rights in South Asia\"",
         "local": "Genebra",
@@ -10172,6 +10172,16 @@
         }
       },
       {
+        "id": "1942",
+        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-03-19",
+        "dataFim": "2019-03-20",
+        "participantes": null
+      },
+      {
         "id": "1943",
         "nome": "Interparliamentary Meeting on Common Agricultural Policy and Cohesion Policy",
         "local": "Bucareste",
@@ -10211,26 +10221,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "1942",
-        "nome": "Seminário sobre comunicação numa perspetiva parlamentar",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-03-19",
-        "dataFim": "2019-03-20",
-        "participantes": null
-      },
-      {
-        "id": "1953",
-        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
-        "local": "Bruxelas",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-01",
-        "dataFim": "2019-04-30",
-        "participantes": null
       },
       {
         "id": "1949",
@@ -10274,6 +10264,16 @@
         }
       },
       {
+        "id": "1953",
+        "nome": "Representação Permanente da Assembleia da República junto da União Europeia",
+        "local": "Bruxelas",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-01",
+        "dataFim": "2019-04-30",
+        "participantes": null
+      },
+      {
         "id": "1950",
         "nome": "Participação na Reunião Interparlamentar organizada pela Comissão AFET do Parlamento Europeu",
         "local": "Bruxelas",
@@ -10308,6 +10308,16 @@
         }
       },
       {
+        "id": "1947",
+        "nome": "Reunião da Associação dos Secretários-Gerais, 140ª Assembleia da UIP e Grupo Geopolítico dos Doze Mais",
+        "local": "Doha",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-03",
+        "dataFim": "2019-04-11",
+        "participantes": null
+      },
+      {
         "id": "1954",
         "nome": "Grupo de Pesquisa \"Direito Eleitoral e Democracia\"",
         "local": "São salvador",
@@ -10324,16 +10334,6 @@
             "id": "1700"
           }
         }
-      },
-      {
-        "id": "1947",
-        "nome": "Reunião da Associação dos Secretários-Gerais, 140ª Assembleia da UIP e Grupo Geopolítico dos Doze Mais",
-        "local": "Doha",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-03",
-        "dataFim": "2019-04-11",
-        "participantes": null
       },
       {
         "id": "1948",
@@ -10757,6 +10757,68 @@
         "dataInicio": "2019-05-27",
         "dataFim": "2019-05-28",
         "participantes": null
+      },
+      {
+        "id": "1980",
+        "nome": "Deslocação a Londres e Manchester - Reino Unido",
+        "local": "Londres e Manchester",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-06-03",
+        "dataFim": "2019-06-07",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "SÉRGIO SOUSA PINTO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1264"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLOS ALBERTO GONÇALVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1458"
+            },
+            {
+              "tipo": "D",
+              "nome": "PAULO NEVES",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "6178"
+            },
+            {
+              "tipo": "D",
+              "nome": "PAULO PISCO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "1741"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARCOS PERESTRELLO",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "2209"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA MANUEL ROLA",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5952"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO GONÇALVES PEREIRA",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "2867"
+            }
+          ]
+        }
       },
       {
         "id": "1974",

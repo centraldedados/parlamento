@@ -2692,6 +2692,33 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112557",
+              "numeroAudicao": "316-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Ordem dos Revisores Oficiais de Contas no âmbito da apreciação da PPL n.º 178/XIII/4.ª (GOV), PPL n.º 180/XIII/4.ª (GOV) e PJL n.º 1181/XIII/4.ª (BE)",
+              "entidades": "OROC - Ordem dos Revisores Oficiais de Contas",
+              "data": "2019-05-30"
+            },
+            {
+              "IDAudicao": "112556",
+              "numeroAudicao": "315-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição da Ordem dos Contabilistas Certificados no âmbito da apreciação da PPL n.º 180/XIII/4.ª (GOV)",
+              "entidades": "Ordem dos Contabilistas Certificados",
+              "data": "2019-05-30"
+            },
+            {
+              "IDAudicao": "112555",
+              "numeroAudicao": "314-COFMA-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Presidente da Associação Portuguesa de Bancos no âmbito da apreciação da PPL n.º 178/XIII/4.ª (GOV) e do PJL n.º 1181/XIII/4.ª (BE)",
+              "entidades": "APB - Associação Portuguesa de Bancos",
+              "data": "2019-05-29"
+            },
+            {
               "IDAudicao": "112459",
               "numeroAudicao": "313-COFMA-XIII",
               "legislatura": "XIII",
@@ -6300,12 +6327,30 @@
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
             {
+              "IDAudicao": "112553",
+              "numeroAudicao": "23-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição do Dr. Rodolfo Lavrador",
+              "entidades": "Dr. Rodolfo Lavrador",
+              "data": "2019-05-30"
+            },
+            {
+              "IDAudicao": "112558",
+              "numeroAudicao": "22-II-CPIRCGDGB-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": "Audição Dr. Vitor Fernandes",
+              "entidades": "Dr. Vitor Fernandes",
+              "data": "2019-05-29"
+            },
+            {
               "IDAudicao": "112531",
               "numeroAudicao": "21-II-CPIRCGDGB-XIII",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição Dr. Tomás Correia",
-              "entidades": null,
+              "entidades": "Dr. António Tomás Correia",
               "data": "2019-05-28"
             },
             {
@@ -6314,7 +6359,7 @@
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
               "assunto": "Audição Dr. Manuel Matos Gil",
-              "entidades": null,
+              "entidades": "Dr. Manuel Matos Gil",
               "data": "2019-05-28"
             },
             {
@@ -11498,6 +11543,12 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudicoesComissaoOut": [
+            {
+              "IDAudicao": "112552",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "entidades": null
+            },
             {
               "IDAudicao": "105893",
               "numeroAudicao": "5-CPIAGNDAD-XIII",
@@ -32380,6 +32431,16 @@
               "tipo": "Representação"
             },
             {
+              "IDDeslocacao": "112562",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-05-03",
+              "dataFim": "2019-05-07",
+              "designacao": "Visita de trabalho ao Reino Unido",
+              "localEvento": "Londres e Manchester",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112177",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -32590,16 +32651,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "110425",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "4",
-              "dataIni": "2018-10-10",
-              "dataFim": "2018-10-11",
-              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
-              "localEvento": "Bruxelas",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "110447",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -32610,13 +32661,13 @@
               "tipo": "Deslocação"
             },
             {
-              "IDDeslocacao": "110448",
+              "IDDeslocacao": "110425",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
-              "dataIni": "2018-10-09",
-              "dataFim": "2018-10-09",
-              "designacao": "Encontro com o Embaixador do Estado de Israel",
-              "localEvento": "Embaixada - Lisboa",
+              "dataIni": "2018-10-10",
+              "dataFim": "2018-10-11",
+              "designacao": "Conferência de Alto Nível \"O Futuro das Missões de Observação Eleitoral\"",
+              "localEvento": "Bruxelas",
               "tipo": "Representação"
             },
             {
@@ -32628,6 +32679,16 @@
               "designacao": "Visita de trabalho ao complexo militar das linhas de Torres",
               "localEvento": "Sobral de Monte Agraço",
               "tipo": "Deslocação"
+            },
+            {
+              "IDDeslocacao": "110448",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2018-10-09",
+              "dataFim": "2018-10-09",
+              "designacao": "Encontro com o Embaixador do Estado de Israel",
+              "localEvento": "Embaixada - Lisboa",
+              "tipo": "Representação"
             },
             {
               "IDDeslocacao": "110334",
@@ -32750,22 +32811,22 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "108441",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2018-04-18",
-              "dataFim": "2018-04-18",
-              "designacao": "Jantar oferecido pela Embaixadora do Reino Unido, Kirsty Hayes, em honra de Peter Abbott",
-              "localEvento": "Lisboa",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "108442",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2018-04-18",
               "dataFim": "2018-04-18",
               "designacao": "Ciclo de conversas \"Camões dá que falar\" - Os desafios da cooperação para o desenvolvimento no contexto da Agenda 2030, com Jorge Moreira da Silva",
+              "localEvento": "Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "108441",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2018-04-18",
+              "dataFim": "2018-04-18",
+              "designacao": "Jantar oferecido pela Embaixadora do Reino Unido, Kirsty Hayes, em honra de Peter Abbott",
               "localEvento": "Lisboa",
               "tipo": "Representação"
             },
@@ -32860,13 +32921,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "107167",
+              "IDDeslocacao": "107166",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2017-11-28",
               "dataFim": "2017-11-28",
-              "designacao": "Jantar oferecido pelo  Presidente da República em honra da Presidente da Confederação Suiça, Doris Leuthard",
-              "localEvento": "Palácio da Ajuda - Lisboa",
+              "designacao": "Cerimónia de Boas-Vindas à  Presidente da Confederação Suiça, Doris Leuthard",
+              "localEvento": "Assembleia da República",
               "tipo": "Representação"
             },
             {
@@ -32880,13 +32941,13 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "107166",
+              "IDDeslocacao": "107167",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
               "dataIni": "2017-11-28",
               "dataFim": "2017-11-28",
-              "designacao": "Cerimónia de Boas-Vindas à  Presidente da Confederação Suiça, Doris Leuthard",
-              "localEvento": "Assembleia da República",
+              "designacao": "Jantar oferecido pelo  Presidente da República em honra da Presidente da Confederação Suiça, Doris Leuthard",
+              "localEvento": "Palácio da Ajuda - Lisboa",
               "tipo": "Representação"
             },
             {
@@ -32960,16 +33021,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "106633",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "3",
-              "dataIni": "2017-10-10",
-              "dataFim": "2017-10-10",
-              "designacao": "Cerimónia de Boas-Vindas aos Reis dos Países Baixos",
-              "localEvento": "Assembleia da República",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "106628",
               "legislatura": "XIII",
               "sessaoLegislativa": "3",
@@ -32977,6 +33028,16 @@
               "dataFim": "2017-10-10",
               "designacao": "Jantar oferecido pelo  Presidente da República em honra do dos Reis dos Países Baixos",
               "localEvento": "Palácio da Ajuda - Lisboa",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "106633",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "3",
+              "dataIni": "2017-10-10",
+              "dataFim": "2017-10-10",
+              "designacao": "Cerimónia de Boas-Vindas aos Reis dos Países Baixos",
+              "localEvento": "Assembleia da República",
               "tipo": "Representação"
             },
             {

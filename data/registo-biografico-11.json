@@ -3727,17 +3727,7 @@
               }
             ]
           },
-          "cadActividadeOrgaos": {
-            "actividadeCom": {
-              "pt_ar_wsgode_objectos_DadosOrgaos": {
-                "orgId": "4528",
-                "orgDes": "Comissão de Orçamento, Finanças e Modernização Administrativa",
-                "orgSigla": "COFMA",
-                "legDes": "XIII",
-                "timDes": "Efetivo"
-              }
-            }
-          }
+          "cadActividadeOrgaos": null
         },
         {
           "cadId": "1245",
@@ -8453,13 +8443,6 @@
                   "orgId": "6404",
                   "orgDes": "Grupo de Trabalho - Iniciativas Legislativas sobre Direitos da Criança",
                   "orgSigla": "GT-ILDC",
-                  "legDes": "XIII",
-                  "timDes": "Suplente"
-                },
-                {
-                  "orgId": "7204",
-                  "orgDes": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
-                  "orgSigla": "GT-AL-CPVD",
                   "legDes": "XIII",
                   "timDes": "Suplente"
                 }

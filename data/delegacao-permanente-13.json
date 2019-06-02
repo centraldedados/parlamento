@@ -3563,6 +3563,14 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Missão de Observação das Eleições Presidenciais no Cazaquistão",
+              "tipo": "REN",
+              "local": "Nursultan",
+              "dataInicio": "06-06-2019",
+              "dataFim": "10-06-2019",
+              "participantes": null
+            },
+            {
               "nome": "Conferência da OSCE \"Security Days\"",
               "tipo": "REN",
               "local": "Viena",
@@ -3668,31 +3676,6 @@
               }
             },
             {
-              "nome": "Reunião do Bureau",
-              "tipo": "REN",
-              "local": "Milão",
-              "dataInicio": "05-12-2018",
-              "dataFim": "07-12-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "ISABEL SANTOS",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "2103"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "NILZA DE SENA",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "4326"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Missão de Observação das Eleições na Arménia",
               "tipo": "REN",
               "local": "Arménia",
@@ -3713,6 +3696,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1944"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião do Bureau",
+              "tipo": "REN",
+              "local": "Milão",
+              "dataInicio": "05-12-2018",
+              "dataFim": "07-12-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "ISABEL SANTOS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "2103"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "NILZA DE SENA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "4326"
                   }
                 ]
               }
