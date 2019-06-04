@@ -1259,27 +1259,57 @@
         "reunioes": {
           "Reuniao": [
             {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Pequim e Shangai",
+              "dataInicio": "10-06-2019",
+              "dataFim": "14-06-2019",
+              "participantes": null
+            },
+            {
               "nome": "Sessão da Primavera",
               "tipo": "REN",
               "local": "Bratislava",
               "dataInicio": "31-05-2019",
               "dataFim": "03-06-2019",
-              "participantes": null
-            },
-            {
-              "nome": "Visita da Comissão de Ciência e Tecnologia (STC)",
-              "tipo": "REN",
-              "local": "Singapura",
-              "dataInicio": "06-05-2019",
-              "dataFim": "09-05-2019",
               "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "LUÍS VALES",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "4148"
-                }
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "BRUNO VITORINO",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1713"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
+                  }
+                ]
               }
             },
             {
@@ -1295,6 +1325,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "1700"
+                }
+              }
+            },
+            {
+              "nome": "Visita da Comissão de Ciência e Tecnologia (STC)",
+              "tipo": "REN",
+              "local": "Singapura",
+              "dataInicio": "06-05-2019",
+              "dataFim": "09-05-2019",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "LUÍS VALES",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "4148"
                 }
               }
             },
@@ -1473,31 +1519,6 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
-              "tipo": "REN",
-              "local": "Paris",
-              "dataInicio": "13-02-2019",
-              "dataFim": "15-02-2019",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "LUÍS PEDRO PIMENTEL",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "1733"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "VITALINO CANAS",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "1700"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
               "tipo": "REN",
               "local": "Paris e Bruxelas",
@@ -1518,6 +1539,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "193"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
+              "tipo": "REN",
+              "local": "Paris",
+              "dataInicio": "13-02-2019",
+              "dataFim": "15-02-2019",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "LUÍS PEDRO PIMENTEL",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1733"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "VITALINO CANAS",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "1700"
                   }
                 ]
               }
@@ -2244,6 +2290,22 @@
               }
             },
             {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
+              }
+            },
+            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -2266,22 +2328,6 @@
                     "id": "193"
                   }
                 ]
-              }
-            },
-            {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
               }
             },
             {
@@ -3568,7 +3614,15 @@
               "local": "Nursultan",
               "dataInicio": "06-06-2019",
               "dataFim": "10-06-2019",
-              "participantes": null
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "MIGUEL SANTOS",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "2071"
+                }
+              }
             },
             {
               "nome": "Conferência da OSCE \"Security Days\"",
@@ -5954,6 +6008,14 @@
                   }
                 ]
               }
+            },
+            {
+              "nome": "Fórum Anual das Diásporas e Reunião da Subcomissão sobre as Diásporas da Comissão de Migrações, Refugiados e Pessoas Deslocadas",
+              "tipo": "REN",
+              "local": "Istambul",
+              "dataInicio": "10-06-2019",
+              "dataFim": "10-06-2019",
+              "participantes": null
             },
             {
               "nome": "Reunião da Comissão sobre a Igualdade e Não Discriminação",
