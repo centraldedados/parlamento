@@ -10426,7 +10426,7 @@
               "sessaoLegislativa": "4",
               "assunto": "Ministro dos Negócios Estrangeiros para apreciação da política geral do Ministério, no âmbito do n.º 2 do art.º 104.º do Regimento da Assembleia da República",
               "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS;S.E. DAS COMUNIDADES;S.E. DA INTERNACIONALIZAÇÃO",
-              "data": "2019-02-12"
+              "data": "2019-03-12"
             },
             {
               "IDAudicao": "111784",
@@ -10435,7 +10435,7 @@
               "sessaoLegislativa": "4",
               "assunto": "Requerimento do Grupo Parlamentar do PSD, sobre a 40ª reunião da Comissão Bilateral Permanente entre EUA e Portuga",
               "entidades": "MIN. DOS  NEGÓCIOS ESTRANGEIROS",
-              "data": "2019-02-12"
+              "data": "2019-03-12"
             },
             {
               "IDAudicao": "111576",
@@ -16203,7 +16203,7 @@
               "sessaoLegislativa": "4",
               "assunto": "Audição dos Investigadores Precários na Universidade do Algarve, por requerimento do BE, sobre o processo de integração na carreira.",
               "entidades": "Investigadoras da Universidade do Algarve - Sandra Cristina de Jesus Bôto; Ana Margarida de Almeida Matias; Nélia Cristina da Costa Mestre e Susana Costas Otero;Membro da direção da Associação de Bolseiros de Investigação Científica: Bárbara de Carvalho Raposo.",
-              "data": "2019-05-13"
+              "data": "2019-05-14"
             },
             {
               "IDAudicao": "112443",
@@ -16212,7 +16212,7 @@
               "sessaoLegislativa": "4",
               "assunto": "Audição de Peticionários – Petição 616/XIII/4, FENPROF - Federação Nacional dos Professores – Solicitam a criação de um Grupo de Recrutamento da Intervenção Precoce",
               "entidades": "Professor - Mário Nogueira e Professora - Ana Simões.",
-              "data": "2019-05-13"
+              "data": "2019-05-14"
             },
             {
               "IDAudicao": "112369",
@@ -22893,6 +22893,16 @@
         },
         {
           "pt_gov_ar_objectos_DadosAudienciasComissaoOut": [
+            {
+              "IDAudiencia": "112573",
+              "numeroAudiencia": "158-CNECP-XIII",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "assunto": " Desenvolvimento e atuação da Cooperação Portuguesa nos países lusófonos",
+              "entidades": "Rita Leote - Diretora Executiva da Plataforma Portuguesa das ONGD;Susana Réfega - Presidente da direção da Plataforma Portuguesa das ONGD;Eduardo Elba – Diretor Executivo da Federação das ONG de São Tomé e Príncipe;João Sengele – Diretor Executivo da Fórum das ONG Angolanas;Daniel Carmo – Diretor Executivo da Federação das ONG de Timor-Leste",
+              "data": "2019-05-29",
+              "concedida": "Concedida"
+            },
             {
               "IDAudiencia": "112533",
               "numeroAudiencia": "157-CNECP-XIII",
@@ -35702,6 +35712,16 @@
         {
           "pt_gov_ar_objectos_DadosDeslocacoesComissaoOut": [
             {
+              "IDDeslocacao": "112572",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "4",
+              "dataIni": "2019-06-04",
+              "dataFim": "2019-06-04",
+              "designacao": "Sessão de Abertura do Congresso sobre a Convenção Europeia dos Direitos Humanos e os Protocolos Adicionais [em representação de S. Ex.ª o Presidente da Assembleia da República]",
+              "localEvento": "Escola do Porto da Faculdade de Direito da Universidade Católica Portuguesa",
+              "tipo": "Representação"
+            },
+            {
               "IDDeslocacao": "112423",
               "legislatura": "XIII",
               "sessaoLegislativa": "4",
@@ -36552,16 +36572,6 @@
               "tipo": "Representação"
             },
             {
-              "IDDeslocacao": "103378",
-              "legislatura": "XIII",
-              "sessaoLegislativa": "2",
-              "dataIni": "2016-11-15",
-              "dataFim": "2016-11-15",
-              "designacao": "Colóquio Comemorativo do 40.º Aniversário da Constituição da República",
-              "localEvento": "Fundação Calouste Gulbenkian (Anfiteatro 3)",
-              "tipo": "Representação"
-            },
-            {
               "IDDeslocacao": "103379",
               "legislatura": "XIII",
               "sessaoLegislativa": "2",
@@ -36569,6 +36579,16 @@
               "dataFim": "2016-11-15",
               "designacao": "Conferência \"O Provedor de Justiça e os 40 anos da Constituição\"",
               "localEvento": "Salão Nobre da Assembleia da República",
+              "tipo": "Representação"
+            },
+            {
+              "IDDeslocacao": "103378",
+              "legislatura": "XIII",
+              "sessaoLegislativa": "2",
+              "dataIni": "2016-11-15",
+              "dataFim": "2016-11-15",
+              "designacao": "Colóquio Comemorativo do 40.º Aniversário da Constituição da República",
+              "localEvento": "Fundação Calouste Gulbenkian (Anfiteatro 3)",
               "tipo": "Representação"
             },
             {
