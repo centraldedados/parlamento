@@ -9632,24 +9632,6 @@
         "participantes": null
       },
       {
-        "id": "1922",
-        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
-        "local": "Dublin",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-01-20",
-        "dataFim": "2019-01-22",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JORGE LACÃO",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "179"
-          }
-        }
-      },
-      {
         "id": "1921",
         "nome": "Reunião de Presidentes das Comissões de Assuntos Europeus",
         "local": "Bucareste",
@@ -9664,6 +9646,24 @@
             "gp": "PSD",
             "leg": "XIII",
             "id": "2106"
+          }
+        }
+      },
+      {
+        "id": "1922",
+        "nome": "Comemorações dos 100 Anos do Dáil Éireann, a Câmara Baixa do parlamento Irlandês",
+        "local": "Dublin",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-01-20",
+        "dataFim": "2019-01-22",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JORGE LACÃO",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "179"
           }
         }
       },
@@ -9940,24 +9940,6 @@
         }
       },
       {
-        "id": "1936",
-        "nome": "Reuniões Temáticas sobre a Lusofonia",
-        "local": "Paris",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-02-27",
-        "dataFim": "2019-02-28",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "JOÃO GONÇALVES PEREIRA",
-            "gp": "CDS-PP",
-            "leg": "XIII",
-            "id": "2867"
-          }
-        }
-      },
-      {
         "id": "1933",
         "nome": "Conferência do Institut du Monde Lusophone",
         "local": "Paris",
@@ -9972,6 +9954,24 @@
             "gp": "PS",
             "leg": "XIII",
             "id": "419"
+          }
+        }
+      },
+      {
+        "id": "1936",
+        "nome": "Reuniões Temáticas sobre a Lusofonia",
+        "local": "Paris",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-02-27",
+        "dataFim": "2019-02-28",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "JOÃO GONÇALVES PEREIRA",
+            "gp": "CDS-PP",
+            "leg": "XIII",
+            "id": "2867"
           }
         }
       },
@@ -10430,24 +10430,6 @@
         }
       },
       {
-        "id": "1952",
-        "nome": "Deslocação a Berlim em Trabalho Parlamentar",
-        "local": "Berlim",
-        "legislatura": "XIII",
-        "sessao": "4",
-        "dataInicio": "2019-04-15",
-        "dataFim": "2019-04-17",
-        "participantes": {
-          "Participante": {
-            "tipo": "D",
-            "nome": "PAULO TRIGO PEREIRA",
-            "gp": "PS",
-            "leg": "XIII",
-            "id": "6045"
-          }
-        }
-      },
-      {
         "id": "1958",
         "nome": "Conference of Young Parliamentarians from EU and Western Balkans countries",
         "local": "Podgorica",
@@ -10472,6 +10454,24 @@
               "id": "2867"
             }
           ]
+        }
+      },
+      {
+        "id": "1952",
+        "nome": "Deslocação a Berlim em Trabalho Parlamentar",
+        "local": "Berlim",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-04-15",
+        "dataFim": "2019-04-17",
+        "participantes": {
+          "Participante": {
+            "tipo": "D",
+            "nome": "PAULO TRIGO PEREIRA",
+            "gp": "PS",
+            "leg": "XIII",
+            "id": "6045"
+          }
         }
       },
       {
@@ -10868,6 +10868,64 @@
         "sessao": "4",
         "dataInicio": "2019-06-06",
         "dataFim": "2019-06-06",
+        "participantes": null
+      },
+      {
+        "id": "1983",
+        "nome": "Delegação do Senhor Presidente da República - Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas",
+        "local": "Cabo Verde",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-06-10",
+        "dataFim": "2019-06-12",
+        "participantes": {
+          "Participante": [
+            {
+              "tipo": "D",
+              "nome": "FELICIANO BARREIRAS DUARTE",
+              "gp": "PSD",
+              "leg": "XIII",
+              "id": "1619"
+            },
+            {
+              "tipo": "D",
+              "nome": "CARLOS PEREIRA",
+              "gp": "PS",
+              "leg": "XIII",
+              "id": "6187"
+            },
+            {
+              "tipo": "D",
+              "nome": "MARIA MANUEL ROLA",
+              "gp": "BE",
+              "leg": "XIII",
+              "id": "5952"
+            },
+            {
+              "tipo": "D",
+              "nome": "PEDRO MOTA SOARES",
+              "gp": "CDS-PP",
+              "leg": "XIII",
+              "id": "1102"
+            },
+            {
+              "tipo": "D",
+              "nome": "JOÃO DIAS",
+              "gp": "PCP",
+              "leg": "XIII",
+              "id": "5524"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1982",
+        "nome": "Participação da AR no Seminário do ECPRD \"From personal data to open data: constraints, challenges and disclosures (Parliaments on the Net 2019)\"",
+        "local": "Liubliana",
+        "legislatura": "XIII",
+        "sessao": "4",
+        "dataInicio": "2019-06-13",
+        "dataFim": "2019-06-14",
         "participantes": null
       },
       {

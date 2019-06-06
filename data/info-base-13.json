@@ -8098,7 +8098,7 @@
                 "gpId": "20000085",
                 "gpSigla": "Ninsc",
                 "gpDtInicio": "2018-12-06",
-                "gpDtFim": "2019-06-04"
+                "gpDtFim": "2019-06-05"
               },
               {
                 "gpId": "4465",
@@ -8193,8 +8193,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Suspenso(Eleito)",
+                "sioDtInicio": "2019-06-05"
+              },
+              {
                 "sioDes": "Efetivo",
-                "sioDtInicio": "2019-05-17"
+                "sioDtInicio": "2019-05-17",
+                "sioDtFim": "2019-06-05"
               },
               {
                 "sioDes": "Suspenso(Eleito)",
@@ -8711,8 +8716,13 @@
           "depSituacao": {
             "pt_ar_wsgode_objectos_DadosSituacaoDeputado": [
               {
+                "sioDes": "Efetivo Temporário",
+                "sioDtInicio": "2019-06-05"
+              },
+              {
                 "sioDes": "Suplente",
-                "sioDtInicio": "2019-05-17"
+                "sioDtInicio": "2019-05-17",
+                "sioDtFim": "2019-06-05"
               },
               {
                 "sioDes": "Efetivo Temporário",
