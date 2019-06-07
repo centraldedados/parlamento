@@ -1259,17 +1259,25 @@
         "reunioes": {
           "Reuniao": [
             {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "nome": "Visita Conjunta da Subcomissão para as Tendências Tecnológicas e a Segurança da Comissão para a Ciência e Tecnologia (STCTTS)",
               "tipo": "REN",
-              "local": "Pequim e Shangai",
-              "dataInicio": "10-06-2019",
-              "dataFim": "14-06-2019",
+              "local": "Londres e Sul de Ingaterra",
+              "dataInicio": "17-06-2019",
+              "dataFim": "20-06-2019",
               "participantes": null
             },
             {
               "nome": "Visita conjunta da ESCTER e da PCTR",
               "tipo": "REN",
               "local": "Washington e Seattle",
+              "dataInicio": "10-06-2019",
+              "dataFim": "14-06-2019",
+              "participantes": null
+            },
+            {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Pequim e Shangai",
               "dataInicio": "10-06-2019",
               "dataFim": "14-06-2019",
               "participantes": null
@@ -1527,31 +1535,6 @@
               }
             },
             {
-              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
-              "tipo": "REN",
-              "local": "Paris e Bruxelas",
-              "dataInicio": "13-02-2019",
-              "dataFim": "20-02-2019",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOSÉ DE MATOS CORREIA",
-                    "gp": "PSD",
-                    "leg": "XIII",
-                    "id": "1643"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "MIRANDA CALHA",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "193"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE",
               "tipo": "REN",
               "local": "Paris",
@@ -1572,6 +1555,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Reunião das Comissões de Economia e Segurança e Política na sede da OCDE; Reuniões de fevereiro\"",
+              "tipo": "REN",
+              "local": "Paris e Bruxelas",
+              "dataInicio": "13-02-2019",
+              "dataFim": "20-02-2019",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOSÉ DE MATOS CORREIA",
+                    "gp": "PSD",
+                    "leg": "XIII",
+                    "id": "1643"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "MIRANDA CALHA",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "193"
                   }
                 ]
               }
@@ -2004,31 +2012,6 @@
               }
             },
             {
-              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
-              "tipo": "REN",
-              "local": "Sarajevo e Belgrado",
-              "dataInicio": "16-04-2018",
-              "dataFim": "19-04-2018",
-              "participantes": {
-                "Participante": [
-                  {
-                    "tipo": "D",
-                    "nome": "JOÃO REBELO",
-                    "gp": "CDS-PP",
-                    "leg": "XIII",
-                    "id": "1654"
-                  },
-                  {
-                    "tipo": "D",
-                    "nome": "LARA MARTINHO",
-                    "gp": "PS",
-                    "leg": "XIII",
-                    "id": "6157"
-                  }
-                ]
-              }
-            },
-            {
               "nome": "Visita da Subcomissão para as Parcerias na NATO e \"Officers\" do Grupo Especial do Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Arábia Saudita",
@@ -2056,6 +2039,31 @@
                     "gp": "PS",
                     "leg": "XIII",
                     "id": "1700"
+                  }
+                ]
+              }
+            },
+            {
+              "nome": "Visita da Subcomissão para o Futuro das Capacidades de Segurança da Comissão de Defesa e Segurança",
+              "tipo": "REN",
+              "local": "Sarajevo e Belgrado",
+              "dataInicio": "16-04-2018",
+              "dataFim": "19-04-2018",
+              "participantes": {
+                "Participante": [
+                  {
+                    "tipo": "D",
+                    "nome": "JOÃO REBELO",
+                    "gp": "CDS-PP",
+                    "leg": "XIII",
+                    "id": "1654"
+                  },
+                  {
+                    "tipo": "D",
+                    "nome": "LARA MARTINHO",
+                    "gp": "PS",
+                    "leg": "XIII",
+                    "id": "6157"
                   }
                 ]
               }
@@ -2298,22 +2306,6 @@
               }
             },
             {
-              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
-              "tipo": "REN",
-              "local": "Washington e Nova Iorque",
-              "dataInicio": "11-12-2017",
-              "dataFim": "14-12-2017",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "VITALINO CANAS",
-                  "gp": "PS",
-                  "leg": "XIII",
-                  "id": "1700"
-                }
-              }
-            },
-            {
               "nome": "Fórum Parlamentar Transatlântico",
               "tipo": "REN",
               "local": "Washington",
@@ -2336,6 +2328,22 @@
                     "id": "193"
                   }
                 ]
+              }
+            },
+            {
+              "nome": "Fórum Parlamentar Transatlântico e Reunião do \"Bureau\"",
+              "tipo": "REN",
+              "local": "Washington e Nova Iorque",
+              "dataInicio": "11-12-2017",
+              "dataFim": "14-12-2017",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "VITALINO CANAS",
+                  "gp": "PS",
+                  "leg": "XIII",
+                  "id": "1700"
+                }
               }
             },
             {
@@ -3031,22 +3039,6 @@
               }
             },
             {
-              "nome": "93º Seminário Rose-Roth",
-              "tipo": "REN",
-              "local": "Pristina",
-              "dataInicio": "22-10-2016",
-              "dataFim": "24-10-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "BRUNO VITORINO",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1713"
-                }
-              }
-            },
-            {
               "nome": "93º Seminário Rose- Roth e Reunião Conjunta do Grupo Especial para o Mediterrâneo e Médio Oriente",
               "tipo": "REN",
               "local": "Pristina e Roma",
@@ -3059,6 +3051,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "193"
+                }
+              }
+            },
+            {
+              "nome": "93º Seminário Rose-Roth",
+              "tipo": "REN",
+              "local": "Pristina",
+              "dataInicio": "22-10-2016",
+              "dataFim": "24-10-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "BRUNO VITORINO",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1713"
                 }
               }
             },
@@ -3295,22 +3303,6 @@
               }
             },
             {
-              "nome": "Reunião Conjunta da Subcomissão para as Relações Transatlânticas e da Subcomissão para as Relações Económicas Transatlânticas",
-              "tipo": "REN",
-              "local": "Washington",
-              "dataInicio": "09-05-2016",
-              "dataFim": "13-05-2016",
-              "participantes": {
-                "Participante": {
-                  "tipo": "D",
-                  "nome": "JORGE MOREIRA DA SILVA",
-                  "gp": "PSD",
-                  "leg": "XIII",
-                  "id": "1012"
-                }
-              }
-            },
-            {
               "nome": "Reunião da Subcomissão para o Futuro das Capacidades de Segurança e Defesa",
               "tipo": "REN",
               "local": "Vilnius,Riga e Talin",
@@ -3323,6 +3315,22 @@
                   "gp": "PS",
                   "leg": "XIII",
                   "id": "6157"
+                }
+              }
+            },
+            {
+              "nome": "Reunião Conjunta da Subcomissão para as Relações Transatlânticas e da Subcomissão para as Relações Económicas Transatlânticas",
+              "tipo": "REN",
+              "local": "Washington",
+              "dataInicio": "09-05-2016",
+              "dataFim": "13-05-2016",
+              "participantes": {
+                "Participante": {
+                  "tipo": "D",
+                  "nome": "JORGE MOREIRA DA SILVA",
+                  "gp": "PSD",
+                  "leg": "XIII",
+                  "id": "1012"
                 }
               }
             },
